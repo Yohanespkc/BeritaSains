@@ -270,10 +270,10 @@ Penting: Output Anda HARUS berupa JSON array of objects yang valid tanpa markdow
 ]
 """
     try:
-        # Using the new google-genai client and gemini-2.0-flash
+        # Using the new google-genai client and gemini-1.5-flash
         client = genai.Client(api_key=api_key)
         response = client.models.generate_content(
-            model="gemini-2.0-flash",
+            model="gemini-1.5-flash",
             contents=prompt,
             config=types.GenerateContentConfig(
                 response_mime_type="application/json"
