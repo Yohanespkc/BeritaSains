@@ -1,5 +1,146 @@
 {
-  "last_updated": null,
-  "total_articles": 0,
-  "articles": []
+  "last_updated": "2026-07-19T15:37:48.406422+00:00",
+  "total_articles": 10,
+  "articles": [
+    {
+      "title": "Mungkinkah Kecerdasan Buatan Memiliki Kesadaran Sendiri?",
+      "original_title": "Could AI be conscious?",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE15X1VKMzVOVzRtRGlveWc3b3AtX2Y4Q21oLWd4YkVHS3JrNUVxSkRMWU5jbTJHRktyeEdOS2pjYXNZUFVzbEdwT2hqX1RKdng0QUZmeXJsRWNUMlJ3cDlQMDZDWFdGWGNmNnVUWjE4WkFMaXJMVVNKUWpOcno?oc=5",
+      "source": "The Guardian",
+      "published_date": "2026-07-19",
+      "summary": "Artikel ini mengeksplorasi perdebatan filosofis dan ilmiah yang mendalam mengenai kemungkinan sistem AI untuk mengembangkan kesadaran seperti manusia. Pertanyaan ini menjadi semakin mendesak seiring dengan model bahasa besar (LLM) yang menunjukkan kemampuan meniru emosi dan penalaran yang sangat kompleks. Pemahaman tentang kesadaran AI akan menentukan batas moral, hukum, dan etika interaksi manusia dengan mesin di masa depan.",
+      "takeaways": [
+        "Para ilmuwan dan filsuf masih belum menyepakati definisi pasti dari 'kesadaran' yang dapat diterapkan pada mesin.",
+        "Kemampuan AI dalam meniru percakapan manusia secara persuasif sering kali disalahpahami sebagai bukti adanya kesadaran subjektif.",
+        "Implikasi etis dari AI yang memiliki kesadaran sangat besar, mencakup hak-hak hukum bagi mesin dan tanggung jawab penciptanya."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Goldman Sachs Peringatkan Risiko 'Tsunami Utang' Akibat Investasi Besar-Besaran di Sektor AI",
+      "original_title": "Goldman Sachs Warns on AI’s Debt Tsunami — Is the AI Boom?",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOb3ZCa2JHdW82UjcxTVlkSGx1OGcxVmRUd3JtV0RZaWEwVlUxNWZJbkdOMWJfeW1LcEFYZlhlcmFkN1JQQmdTU2ZKdUstaUhjMXNsNDNaOWd4U1g1ZDlkX1lmRUY3bTgyVnYzNzVmQU1pQzNCM3AtalBWWUtUR2ZmM1p6MUZCT3JSdVlHOXF5SU0tOUdhM3pQeUVib2hPTUk?oc=5",
+      "source": "24/7 Wall St.",
+      "published_date": "2026-07-19",
+      "summary": "Lembaga keuangan Goldman Sachs memperingatkan adanya potensi penumpukan utang yang masif akibat belanja modal yang sangat agresif di sektor infrastruktur AI. Banyak perusahaan menggelontorkan dana miliaran dolar untuk membeli chip dan membangun pusat data tanpa kepastian pengembalian investasi yang jelas. Jika adopsi AI tidak menghasilkan lonjakan produktivitas yang diharapkan, gelembung finansial ini berisiko pecah dan mengganggu stabilitas pasar global.",
+      "takeaways": [
+        "Investasi berlebih pada infrastruktur AI memicu kekhawatiran tentang efisiensi modal dan potensi penumpukan utang korporasi.",
+        "Ada kesenjangan besar antara biaya pembangunan infrastruktur AI dan pendapatan riil yang dihasilkan dari layanannya saat ini.",
+        "Goldman Sachs menyarankan pendekatan yang lebih terukur agar industri teknologi terhindar dari krisis finansial serupa era dot-com."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Gunakan AI untuk Menentukan PHK Karyawan, Meta Menghadapi Gugatan Hukum",
+      "original_title": "Meta sued: AI helped choose whom to lay off, but missed an important detail",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQ0R5Y3VOaUppM3VwXzZMYkYxbHdNSXlQcjh3Tm9ORTdYLW1NcnVqcFJFazR0RkRQMGxCczd4enBqb0g1Y3VKOEV0ZDY5TkVRNFZsNUQ0eVZLTGs4SmZaTnVTaWhzWW4tU0Y0dHVfbTMyREhCbkU5Mm02OERkWHVBUWxpMnNjUQ?oc=5",
+      "source": "The Jerusalem Post",
+      "published_date": "2026-07-19",
+      "summary": "Meta menghadapi tuntutan hukum setelah dilaporkan menggunakan algoritma kecerdasan buatan untuk memilih karyawan yang akan terkena pemutusan hubungan kerja (PHK). Tuntutan tersebut menyoroti bagaimana AI gagal mempertimbangkan detail-detail penting manusiawi dan bias dalam proses pengambilan keputusan tersebut. Kasus ini menjadi preseden penting mengenai batasan etis penggunaan AI dalam manajemen sumber daya manusia di dunia kerja.",
+      "takeaways": [
+        "Algoritma AI yang digunakan Meta untuk melakukan seleksi PHK dinilai mengabaikan faktor performa objektif dan kontribusi jangka panjang karyawan.",
+        "Gugatan ini menegaskan pentingnya pengawasan manusia (human-in-the-loop) dalam keputusan krusial yang memengaruhi hajat hidup pekerja.",
+        "Kasus ini dapat memaksa perusahaan teknologi global untuk lebih transparan dalam menggunakan alat otomatisasi SDM."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Kecerdasan Buatan Mengubah Peta Ekonomi Kejahatan Siber Secara Drastis",
+      "original_title": "Artificial Intelligence Is Changing The Economics Of Cybercrime",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQW5qOUpnVG1uUXVXZ1M5YThQZkoxcTRTRnZndXFLelZIZzRJVmZEVjBGMldudDJUdE1ZSHcxel93Vl9JV083NkpWcllVVUNkbnFkRTEzVVg3M3NsdndIMGZGQ1Q0ZTJqc3hienZHU0hNX0RCTXlOUUJycUpMUmkzbVlLVXhQMEdSNnBDdm1BQm9qSGlneml2dW8tdVdOWkdHT1A2RlVTNnh2djd0UF_CRHRaVHBHVjJzSVYyb29icjQ?oc=5",
+      "source": "Forbes",
+      "published_date": "2026-07-19",
+      "summary": "Laporan terbaru menunjukkan bagaimana kecerdasan buatan telah menurunkan biaya operasional dan keahlian teknis yang dibutuhkan bagi pelaku kejahatan siber. Dengan AI, serangan phising yang sangat terpersonalisasi dan pembuatan malware dapat dilakukan secara massal dan otomatis dengan biaya sangat murah. Fenomena ini memaksa industri pertahanan siber untuk segera mengadopsi taktik pertahanan bertenaga AI guna mengimbangi ancaman yang kian dinamis.",
+      "takeaways": [
+        "AI mendemokratisasi kejahatan siber dengan memungkinkan peretas amatir meluncurkan serangan canggih dengan modal minim.",
+        "Metode phishing tradisional kini bertransformasi menjadi penipuan berbasis rekayasa sosial yang sangat personal berkat bantuan generator teks AI.",
+        "Organisasi keamanan wajib mengintegrasikan AI defensif untuk mendeteksi dan merespons ancaman otomatis secara waktu nyata (real-time)."
+      ],
+      "category": "Sains & Teknologi"
+    },
+    {
+      "title": "Pemain Go Legendaris Shin Jin-seo Berhasil Menembus Pertahanan AI KataGo",
+      "original_title": "Go master Shin cracks AI barrier with win over KataGo, sets up series decider",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtc2dxaTl2dUNKVUlWblBEQW0zZElIamRTeGRfOW1PRTZDRW9RSE85NG0zcjdwQzNQcGlBRW8xU3I2Zy1RRHNTTEhUeVdKdjdYQjVuY09DTE8yamlFWGl2c1BCOEM3d1NfZzhtTll0QVNkcG4xNXJYOWxCeWlmTTg?oc=5",
+      "source": "KED Global",
+      "published_date": "2026-07-19",
+      "summary": "Master permainan Go asal Korea Selatan, Shin Jin-seo, berhasil mencetak kemenangan bersejarah melawan program AI canggih KataGo, menantang dominasi absolut mesin dalam permainan papan paling kompleks di dunia. Kemenangan ini membuktikan bahwa intuisi dan kreativitas manusia masih mampu menemukan celah di dalam sistem komputasi AI yang tampak sempurna. Pertandingan penentu berikutnya akan menjadi tolok ukur baru dalam studi batas kemampuan kecerdasan manusia versus kecerdasan buatan.",
+      "takeaways": [
+        "Shin Jin-seo berhasil memanfaatkan pola permainan unik yang sulit diantisipasi oleh algoritma prediktif KataGo.",
+        "Kemenangan manusia atas AI di level tertinggi permainan Go menunjukkan bahwa mesin masih memiliki titik buta dalam mengevaluasi situasi tak biasa.",
+        "Hasil ini memberikan wawasan berharga bagi pengembang AI untuk mengevaluasi kembali ketahanan model komputasi mereka terhadap strategi non-ortodoks."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Presiden Xi Jinping Ungkap Strategi China untuk Memimpin Tatanan AI Global",
+      "original_title": "Xi Jinping unveils China's bid to lead the global AI order",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MRUZNaFZwNnZhbmk3a2xuN3hPYjBMYXlrdjJQUGtzc1Jkblp4ZFdiVjU5d2plUGV1S0RJd3dDMFRGcFpCY2YzNnJZc3pCODFCeThhaGI3V1d2VzVSSE5QWmNyZ0k4NnFt?oc=5",
+      "source": "calcalistech.com",
+      "published_date": "2026-07-19",
+      "summary": "Presiden China Xi Jinping secara resmi memaparkan ambisi negaranya untuk menjadi pemimpin utama dalam menetapkan regulasi dan standar teknologi kecerdasan buatan di tingkat internasional. Langkah ini merupakan bagian dari persaingan geopolitik ketat dengan Amerika Serikat yang juga berupaya mengamankan pengaruhnya di sektor teknologi kritis. China menekankan pentingnya tata kelola AI global yang lebih inklusif dan menolak hegemoni teknologi oleh negara-negara tertentu.",
+      "takeaways": [
+        "China berambisi menjadi perumus standar regulasi AI global untuk menandingi dominasi teknologi Barat.",
+        "Persaingan teknologi antara AS dan China kini bergeser dari sekadar produksi chip ke arah kendali regulasi dan tata kelola internasional.",
+        "Strategi ini memperkuat posisi tawar China di mata negara-negara berkembang dalam hal adopsi infrastruktur AI domestik."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Alibaba Perkenalkan Qwen3.8: Diklaim Sebagai Salah Satu Model AI Terkuat di Dunia",
+      "original_title": "Alibaba previews Qwen3.8, claiming its strength trails only Anthropic’s Fable 5",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPakRPRHUwd1M1b09VMGxEN2t6V3JfNzVsc3Zpcko1djRPaXVpdlAxYTh1eld2MkVSTUVlV1VCOXExUHkzSnFMQ2h3aXV0SHdEN2g4UXRBTlYzMm5rQnBVQmVpNzZwSWdkRG1ybU4zQ1p4dXFaWjUwTGxFQzRQM0FzVUE1TTM4UjllUDFWRjRKZS14MjdTbmhkZVYtR1BaenF2RlRydXZvTWstdmJMRFNhSGZKOA?oc=5",
+      "source": "South China Morning Post",
+      "published_date": "2026-07-19",
+      "summary": "Alibaba meluncurkan pratinjau model bahasa besar terbarunya, Qwen3.8, yang diklaim memiliki performa luar biasa dan mampu bersaing ketat dengan model-model unggulan asal Amerika Serikat. Perusahaan mengeklaim bahwa kemampuan model ini berada tepat di bawah Fable 5 milik Anthropic, sebuah lompatan besar bagi ekosistem kecerdasan buatan asal China. Peluncuran ini menegaskan bahwa kesenjangan teknologi AI antara raksasa Silicon Valley dan perusahaan teknologi Asia semakin menyempit.",
+      "takeaways": [
+        "Qwen3.8 menunjukkan lompatan performa signifikan dalam kemampuan penalaran logis dan pemrosesan bahasa multibahasa.",
+        "Model ini dirancang untuk menantang dominasi model AI tertutup buatan AS dengan mengedepankan efisiensi biaya komputasi.",
+        "Kehadiran Qwen3.8 memicu persaingan yang lebih ketat dalam ekosistem AI dunia untuk menyediakan layanan enterprise berbiaya rendah."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Mengenal Perusahaan-Perusahaan di Balik Ledakan Pembangunan Pusat Data di Amerika Serikat",
+      "original_title": "Meet the little-known companies behind America’s data center boom",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOW41TlZpTW1Lcm9yV1FyemFKbG9SaU9xSnRfUDJSYU5wY2Z0V2RFWFhIR3Q4eUQyejd0S0IwNjhtMWdDWlZEbDJfOGtWWmgtdGlpNmh5aThFOTBjZHU3ZjZkVndHLU9ScW5vV2Rwa1NmQTJ4dmcybVF1Qnh1MTlrS0xpOEFUR05MRG90bEZOUmgtSlJDN2U0OS1hRlFxN1k?oc=5",
+      "source": "NBC News",
+      "published_date": "2026-07-19",
+      "summary": "Di balik pesatnya pertumbuhan AI, terdapat jaringan perusahaan penyedia infrastruktur fisik dan energi yang jarang dikenal publik namun memegang peran krusial. Ledakan kebutuhan komputasi memaksa pembangunan pusat data (data center) skala masif di seluruh penjuru Amerika Serikat guna menopang beban kerja AI. Kelangsungan industri AI global kini sangat bergantung pada kemampuan perusahaan-perusahaan infrastruktur ini dalam menyediakan daya listrik stabil dan solusi pendinginan mutakhir.",
+      "takeaways": [
+        "Pembangunan pusat data bertenaga tinggi menjadi tulang punggung yang menentukan kecepatan inovasi teknologi AI modern.",
+        "Isu keterbatasan pasokan energi listrik dan dampak lingkungan dari pusat data mulai memicu perdebatan regulasi baru.",
+        "Perusahaan kontraktor infrastruktur dan produsen sistem pendingin mengalami lonjakan valuasi signifikan akibat tren ini."
+      ],
+      "category": "Sains & Teknologi"
+    },
+    {
+      "title": "Kekhawatiran Kehilangan Pekerjaan Akibat AI Meningkat, Keterampilan Unik Manusia Jadi Kunci",
+      "original_title": "AI job worries grow. But some human skills can’t be replaced by machines",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTkV3UjhER1IzMENoSGtrMmpLeWhxOGVuN0otcjk0WlBCc0RBUzcxQldBZmVwTm9aRm1ObGZCQ3NVZnYwUGxid0gzSWFYV2hqUF9BWXBwTnlPX2dXMkg0ZFNVcWM0U2s5Mm42UDRrN3AyXy01SFNSVDd3aXZWeTVRclFNZkpmSjFOaHdjWjJ0MlRjYjNHQ0VDZldoMHdxaXlSSXE2WV9n?oc=5",
+      "source": "The Guardian",
+      "published_date": "2026-07-19",
+      "summary": "Seiring meluasnya implementasi sistem kecerdasan buatan di berbagai sektor industri, kekhawatiran tenaga kerja manusia akan tergantikan oleh mesin terus meningkat. Namun, analisis ahli menunjukkan bahwa keterampilan interpersonal, empati emosional, dan pemikiran kritis tingkat tinggi tetap menjadi domain unik yang tidak dapat direplikasi oleh AI. Pekerja didorong untuk mengasah kemampuan 'lunak' (soft skills) ini agar tetap relevan dan kompetitif di era otomatisasi.",
+      "takeaways": [
+        "AI sangat andal dalam mengotomatisasi tugas-tugas administratif dan analisis data berulang, namun gagal dalam interaksi manusiawi yang kompleks.",
+        "Kecerdasan emosional (EQ), kepemimpinan adaptif, dan kolaborasi tim menjadi keterampilan paling berharga di masa depan.",
+        "Transisi pasar kerja menuntut kurikulum pendidikan dan pelatihan profesi berfokus pada sinergi antara keahlian manusia dan teknologi AI."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Misi Rahasia CIA Dilaporkan Mendorong Kerja Sama AI antara AS dan Uni Emirat Arab",
+      "original_title": "Secret CIA mission reportedly boosted US-UAE AI cooperation",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNVGFNbUFhOFlVMTltNlFSelRoS2JqSnhCMlBiejdRdVIzTUM2Y0R2OGMyaGJSR19BXzBsa2h0QkstT0Jsc1ptQ1lsb1UtX0o4T3B6SGN0VkpVaDhH?oc=5",
+      "source": "The Jerusalem Post",
+      "published_date": "2026-07-19",
+      "summary": "Sebuah misi rahasia yang diinisiasi oleh CIA dikabarkan berhasil mempererat kemitraan strategis di bidang kecerdasan buatan antara Amerika Serikat dan Uni Emirat Arab (UEA). Kolaborasi ini berfokus pada transfer teknologi canggih dan pengamanan rantai pasok semikonduktor dari pengaruh negara pesaing seperti China. Langkah tertutup ini menandai pentingnya diplomasi intelijen dalam memperebutkan supremasi teknologi AI di kancah global.",
+      "takeaways": [
+        "Kerja sama ini bertujuan untuk mengurangi ketergantungan Uni Emirat Arab pada infrastruktur teknologi militer dan AI buatan China.",
+        "AS berkomitmen memberikan akses teknologi komputasi awan berkinerja tinggi kepada UEA dengan syarat protokol keamanan ketat.",
+        "Teknologi AI kini telah resmi bergeser dari sekadar inovasi komersial menjadi instrumen utama dalam keamanan nasional dan geopolitik."
+      ],
+      "category": "Sains & Teknologi"
+    }
+  ]
 }
