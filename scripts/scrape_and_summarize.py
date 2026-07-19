@@ -7,7 +7,8 @@ import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 
 try:
-    import google.generativeai as genai
+    from google import genai
+    from google.genai import types
     HAS_GEMINI_SDK = True
 except ImportError:
     HAS_GEMINI_SDK = False
@@ -222,7 +223,6 @@ def get_mock_data():
 
 def summarize_with_gemini(raw_articles, api_key):
     print("Summarizing articles using Gemini API...")
-    genai.configure(api_key=api_key)
     
     # We will pass a subset of raw articles to Gemini to avoid token bloat and select the 10 best.
     # Take the first 30 articles to select from
@@ -270,12 +270,15 @@ Penting: Output Anda HARUS berupa JSON array of objects yang valid tanpa markdow
 ]
 """
     try:
-        # Using gemini-1.5-flash for speed and reliability, configuring JSON mode
-        model = genai.GenerativeModel(
-            "gemini-1.5-flash",
-            generation_config={"response_mime_type": "application/json"}
+        # Using the new google-genai client and gemini-2.0-flash
+        client = genai.Client(api_key=api_key)
+        response = client.models.generate_content(
+            model="gemini-2.0-flash",
+            contents=prompt,
+            config=types.GenerateContentConfig(
+                response_mime_type="application/json"
+            )
         )
-        response = model.generate_content(prompt)
         
         response_text = response.text.strip()
         
@@ -389,7 +392,7 @@ def main():
     gemini_key = os.environ.get("GEMINI_API_KEY")
     
     if not HAS_GEMINI_SDK:
-        print("WARNING: google-generativeai package is not installed. Using mock data.")
+        print("WARNING: google-genai package is not installed. Using mock data.")
         new_news = get_mock_data()
     elif not gemini_key:
         print("WARNING: GEMINI_API_KEY environment variable is not set. Using mock data.")
