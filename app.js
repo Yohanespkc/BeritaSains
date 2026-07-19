@@ -331,4 +331,99 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Initial load
     loadNews();
+
+    // Register Service Worker for PWA
+    if ('serviceWorker' in navigator) {
+        window.addEventListener('load', () => {
+            navigator.serviceWorker.register('/sw.js')
+                .then((registration) => {
+                    console.log('Service Worker registered with scope:', registration.scope);
+                })
+                .catch((error) => {
+                    console.error('Service Worker registration failed:', error);
+                });
+        });
+    }
+
+    // PWA Install Banner Logic
+    const pwaBanner = document.getElementById('pwa-install-banner');
+    const pwaCloseBtn = document.getElementById('pwa-close-btn');
+    const pwaBtnLater = document.getElementById('pwa-btn-later');
+    const pwaBtnInstall = document.getElementById('pwa-btn-install');
+    const pwaAndroidActions = document.getElementById('pwa-android-actions');
+    const pwaIosInstruction = document.getElementById('pwa-ios-instruction');
+
+    let deferredPrompt;
+    const isStandalone = window.matchMedia('(display-mode: standalone)').matches || window.navigator.standalone;
+    const isDismissed = localStorage.getItem('pwa-dismissed') === 'true';
+
+    // Helper to hide banner
+    function hidePwaBanner() {
+        pwaBanner.classList.remove('show');
+    }
+
+    // Handle close actions
+    [pwaCloseBtn, pwaBtnLater].forEach(btn => {
+        if (btn) {
+            btn.addEventListener('click', () => {
+                localStorage.setItem('pwa-dismissed', 'true');
+                hidePwaBanner();
+            });
+        }
+    });
+
+    if (!isStandalone && !isDismissed) {
+        // Detect iOS
+        const isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
+        
+        if (isIOS) {
+            // Show iOS instructions after 3 seconds delay
+            setTimeout(() => {
+                pwaAndroidActions.style.display = 'none';
+                pwaIosInstruction.style.display = 'flex';
+                pwaBanner.classList.add('show');
+            }, 3000);
+        } else {
+            // Listen for beforeinstallprompt event (Android / Chrome / Edge)
+            window.addEventListener('beforeinstallprompt', (e) => {
+                // Prevent mini-infobar from appearing on mobile
+                e.preventDefault();
+                // Stash the event so it can be triggered later.
+                deferredPrompt = e;
+                
+                // Show the install banner after 3 seconds delay
+                setTimeout(() => {
+                    pwaAndroidActions.style.display = 'flex';
+                    pwaIosInstruction.style.display = 'none';
+                    pwaBanner.classList.add('show');
+                }, 3000);
+            });
+        }
+    }
+
+    // Install button click handler
+    if (pwaBtnInstall) {
+        pwaBtnInstall.addEventListener('click', async () => {
+            if (!deferredPrompt) return;
+            
+            // Show the install prompt
+            deferredPrompt.prompt();
+            
+            // Wait for the user to respond to the prompt
+            const { outcome } = await deferredPrompt.userChoice;
+            console.log(`User response to the install prompt: ${outcome}`);
+            
+            // We've used the prompt, and can't use it again
+            deferredPrompt = null;
+            
+            // Hide our install banner
+            hidePwaBanner();
+        });
+    }
+
+    // Hide banner when app is installed successfully
+    window.addEventListener('appinstalled', (evt) => {
+        console.log('NeuralGen was installed successfully!');
+        hidePwaBanner();
+    });
 });

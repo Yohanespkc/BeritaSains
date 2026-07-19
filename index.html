@@ -16,6 +16,14 @@
     
     <!-- Custom CSS -->
     <link rel="stylesheet" href="style.css">
+
+    <!-- PWA Meta Tags & Manifest -->
+    <link rel="manifest" href="/manifest.json">
+    <meta name="theme-color" content="#0d0e15">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="NeuralGen">
+    <link rel="apple-touch-icon" href="/icon-512.png">
 </head>
 <body>
     <!-- Background Gradients -->
@@ -137,6 +145,30 @@
                     </a>
                 </div>
             </div>
+        </div>
+    </div>
+
+    <!-- PWA Install Banner -->
+    <div id="pwa-install-banner" class="pwa-banner">
+        <button class="pwa-close" id="pwa-close-btn" aria-label="Tutup">&times;</button>
+        <div class="pwa-header">
+            <div class="pwa-icon" style="background-image: url('/icon-512.png');"></div>
+            <div class="pwa-info">
+                <div class="pwa-title">NeuralGen App</div>
+                <div class="pwa-desc">Pasang aplikasi di layar utama HP Anda untuk akses berita sains instan harian.</div>
+            </div>
+        </div>
+        <!-- Menyesuaikan dinamis via JS apakah tombol Install (Chrome/Android) atau panduan manual (iOS/Safari) -->
+        <div id="pwa-android-actions" class="pwa-actions">
+            <button class="pwa-btn pwa-btn-dismiss" id="pwa-btn-later">Nanti Saja</button>
+            <button class="pwa-btn pwa-btn-install" id="pwa-btn-install">Pasang Aplikasi</button>
+        </div>
+        <div id="pwa-ios-instruction" class="pwa-instruction" style="display: none;">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect>
+                <path d="M12 2v9M8 5l4-4 4 4"></path>
+            </svg>
+            <span>Untuk iPhone/iPad: Ketuk tombol <strong>Bagikan (Share)</strong> lalu pilih <strong>'Tambahkan ke Layar Utama'</strong>.</span>
         </div>
     </div>
 

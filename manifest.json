@@ -1,0 +1,18 @@
+{
+  "name": "NeuralGen Portal",
+  "short_name": "NeuralGen",
+  "description": "Portal berita pintar AI & Genomik terbaru setiap hari.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d0e15",
+  "theme_color": "#0d0e15",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
