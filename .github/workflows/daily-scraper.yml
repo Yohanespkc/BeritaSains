@@ -44,6 +44,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "Tidak ada berita baru."
           else
-            git commit -m "chore: update daily science and tech news [skip ci]"
+            git commit -m "chore: update daily science and tech news"
             git push origin main
           fi
