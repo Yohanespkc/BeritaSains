@@ -221,6 +221,44 @@ def get_mock_data():
         }
     ]
 
+def select_best_model(client):
+    try:
+        models = client.models.list()
+        model_names = [m.name for m in models]
+        print(f"Available models: {model_names}")
+        
+        # Priority list of models we want to use (preferring newest active flash models)
+        priority_models = [
+            "gemini-3.5-flash",
+            "gemini-3.1-flash-lite",
+            "gemini-3.0-flash-preview",
+            "gemini-3-flash-preview",
+            "gemini-3.0-flash",
+            "gemini-3-flash",
+            "gemini-2.5-flash",
+            "gemini-2.0-flash",
+            "gemini-1.5-flash"
+        ]
+        
+        for pm in priority_models:
+            for name in model_names:
+                if pm in name or name == pm:
+                    print(f"Automatically selected model: {name}")
+                    return name
+                    
+        # If no priority model matches, return the first model containing "flash"
+        for name in model_names:
+            if "flash" in name.lower():
+                print(f"Fallback selected model containing 'flash': {name}")
+                return name
+                
+        # Default fallback if nothing matches
+        print("No flash models found in list. Defaulting to gemini-3.5-flash.")
+        return "gemini-3.5-flash"
+    except Exception as e:
+        print(f"Error listing models: {e}. Defaulting to gemini-3.5-flash.")
+        return "gemini-3.5-flash"
+
 def summarize_with_gemini(raw_articles, api_key):
     print("Summarizing articles using Gemini API...")
     
@@ -270,10 +308,11 @@ Penting: Output Anda HARUS berupa JSON array of objects yang valid tanpa markdow
 ]
 """
     try:
-        # Using the new google-genai client and gemini-3-flash
+        # Using the new google-genai client with dynamic model selection
         client = genai.Client(api_key=api_key)
+        selected_model = select_best_model(client)
         response = client.models.generate_content(
-            model="gemini-3-flash",
+            model=selected_model,
             contents=prompt,
             config=types.GenerateContentConfig(
                 response_mime_type="application/json"
