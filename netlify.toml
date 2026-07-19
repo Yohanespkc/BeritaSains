@@ -1,0 +1,5 @@
+# Konfigurasi Deployment Netlify
+# Menentukan bahwa direktori publik yang di-publish adalah root folder yang berisi index.html
+
+[build]
+  publish = "."
