@@ -1,18 +1,88 @@
 {
-  "last_updated": "2026-07-19T15:37:48.406422+00:00",
-  "total_articles": 10,
+  "last_updated": "2026-07-20T03:29:30.010690+00:00",
+  "total_articles": 18,
   "articles": [
     {
-      "title": "Mungkinkah Kecerdasan Buatan Memiliki Kesadaran Sendiri?",
+      "title": "Seberapa Besar Konsumsi Energi Pusat Data dan Kecerdasan Buatan?",
+      "original_title": "How much energy do data centers and artificial intelligence use?",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZTdJQ0Ywb3FHcmNHRHFScm9RdzlIcWNRa1NZV0ZJVW0xTVFHSFdwTFk3VEMyTDBuMTlDbEFMTWZ2WlpPTGZXakx4SnJUQzgySGlmZVVZemRXUXpnYV9UWjhQenlBazl0X21pbEtQSzdRUFlRUFVfX3RqMk1UdzhOd1FkN19OTUtYZE5fc2tvbG01Uno1?oc=5",
+      "source": "Our World in Data",
+      "published_date": "2026-07-20",
+      "summary": "Artikel ini membahas analisis mendalam mengenai kebutuhan energi yang sangat besar untuk mengoperasikan pusat data dan teknologi kecerdasan buatan (AI) di seluruh dunia. Laporan ini menyoroti dampak lingkungan dari konsumsi listrik tersebut serta tantangan keberlanjutan yang dihadapi industri teknologi saat ini. Penting bagi pembuat kebijakan untuk memahami data ini guna menyeimbangkan inovasi teknologi dengan komitmen iklim global.",
+      "takeaways": [
+        "Peningkatan kapasitas pusat data untuk AI memicu lonjakan konsumsi energi listrik global secara signifikan.",
+        "Transparansi data dari perusahaan teknologi besar sangat krusial untuk mengukur dampak karbon yang dihasilkan secara akurat.",
+        "Solusi efisiensi energi dan transisi ke sumber daya terbarukan menjadi keharusan demi keberlanjutan pengembangan AI di masa depan."
+      ],
+      "category": "Sains & Teknologi"
+    },
+    {
+      "title": "UNESCO dan LG AI Research Luncurkan Kursus Online Global tentang Etika Kecerdasan Buatan",
+      "original_title": "UNESCO and LG AI Research Launch Global MOOC on the Ethics of AI",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOS256RTBsT0lHUWR3QkxoMml2U1QyUS1SVS1mQXlZd3ZaUldGSWwyMGxhdHYxYTFycC1ET19Xc1RvaTg0X2JOV1NxVUN4QXhBNHZWY3ppQ1o5cVhBZ1FPcGQ2UXljTWFjVW9zN05DdUZPUXU3X0tkMHN2NXM0a0NJWE45bVdTbXp4U3ZLenFZNTVMNzQ?oc=5",
+      "source": "UNESCO",
+      "published_date": "2026-07-20",
+      "summary": "UNESCO bermitra dengan LG AI Research untuk meluncurkan kursus terbuka (MOOC) berskala global guna mendidik masyarakat tentang pentingnya etika dalam pengembangan AI. Inisiatif ini bertujuan membekali para profesional dan akademisi dengan pemahaman mendalam tentang regulasi serta hak asasi manusia dalam teknologi. Langkah ini diharapkan mampu meminimalkan risiko bias dan penyalahgunaan algoritma di masa mendatang.",
+      "takeaways": [
+        "Kolaborasi global antara lembaga PBB dan industri teknologi mempercepat penyebaran literasi etika AI ke seluruh dunia.",
+        "Kursus ini berfokus pada penerapan praktis prinsip-prinsip etika untuk menghindari diskriminasi algoritmik.",
+        "Edukasi publik yang inklusif merupakan pilar penting dalam membentuk ekosistem kecerdasan buatan yang aman dan bertanggung jawab."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Bahaya Deepfake: Bagaimana Penipu Menggunakan AI untuk Mencuri Jutaan Dolar",
+      "original_title": "AI scams in Georgia and South Florida: How scammers use deepfakes to steal millions",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSlpxTWl5NFlhUjFyRGI4WVR6Q05oVFU5UVd0TkdsdWRraXc0cVcxcW9nSmFDUXV3V2hZQVVoWUVZaHY4R3RFRUhIX0lRWU1rbWNQdjZjZnRKQUV6UENSZzRsbFcyc1pUOWdnZHBIbHJQS01aS2IwUFZ1TkZzZGc5N1BQV0NSbDRJdWxpN2xwMWhCdW5Gb0NadEFwb3poaXphNmtnYWtmU2x5TUFxSEQ5YmFBajNYS1Q4ZmN5Sw?oc=5",
+      "source": "CBS News",
+      "published_date": "2026-07-20",
+      "summary": "Kasus penipuan berbasis kecerdasan buatan dilaporkan melonjak tajam di Georgia dan Florida Selatan, di mana para pelaku menggunakan teknologi deepfake suara dan wajah untuk memeras korban hingga jutaan dolar. Fenomena ini menunjukkan betapa mudahnya teknologi AI generatif disalahgunakan untuk manipulasi sosial yang sangat meyakinkan. Hal ini mendesak aparat penegak hukum dan institusi keuangan untuk memperkuat sistem keamanan siber mereka.",
+      "takeaways": [
+        "Teknologi deepfake kini semakin realistis dan mudah diakses, memicu peningkatan kejahatan keuangan berbasis manipulasi identitas.",
+        "Korban penipuan sering kali tidak menyadari bahwa mereka sedang berinteraksi dengan tiruan suara atau video kerabat mereka yang dihasilkan oleh AI.",
+        "Diperlukan kerja sama lintas sektor untuk mengembangkan alat deteksi deepfake yang lebih mumpuni guna melindungi masyarakat luas."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "AI Mampu Prediksi Paparan Bahan Kimia Berbahaya yang Mengancam Kesehatan Manusia",
+      "original_title": "AI may predict harmful chemical exposures affecting human health",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLTIxX2RRcXF1bkcyMWJoZTJad05zMW80NkJzdklBY2FYWDROOVU3WjFmenE0bHI0bE1HaEhzOU1vMUFELVM0ZFRTZkRydHVLSUlwNE1BLTNlS2dPNFR1X1poOC0yX0EwMTRVcEZ1elVfTEowZlQ4cTRPX0ZUTW14WGh3YjhGTG16ZXVrQmRhOXlnV1pSMDRGWTlsaExKUUtYUUhmUHBvd2NOc0NaWWV0U0F3?oc=5",
+      "source": "News-Medical",
+      "published_date": "2026-07-20",
+      "summary": "Para peneliti mengembangkan model kecerdasan buatan yang mampu memproyeksikan efek buruk paparan ribuan zat kimia terhadap kesehatan tubuh manusia secara akurat. Teknologi ini mempercepat proses evaluasi toksisitas yang biasanya memakan waktu bertahun-tahun di laboratorium konvensional. Penemuan ini berpotensi merevolusi sistem keselamatan kerja, regulasi lingkungan hidup, dan kedokteran preventif.",
+      "takeaways": [
+        "AI memangkas waktu pengujian laboratorium tradisional dengan menyimulasikan interaksi molekuler bahan kimia berbahaya pada sel manusia.",
+        "Model prediktif ini membantu mengidentifikasi ancaman lingkungan tersembunyi sebelum gejala klinis muncul pada populasi.",
+        "Inovasi ini mendukung pengembangan standar kesehatan masyarakat yang lebih ketat berdasarkan analisis data biologis yang presisi."
+      ],
+      "category": "Genom & Biotek"
+    },
+    {
+      "title": "Studi UC Berkeley: Kemampuan AI Masih Jauh di Bawah Manusia dalam Menyelesaikan Pekerjaan Nyata",
+      "original_title": "‘Far from human level’: AI models score below 25% on real-world job tasks, UC Berkeley study finds",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdUQ1Z2Y4VW50YzRDWmthRUZGbDZQWDRibFVSSEpZY0doV2pncGZuVzFoaTZ0am5KQkZ6TFpkcGtZUFprUHJCZWNIenVyRHBMMElCYU1aaHUyM20zWm56YzRsMC1IcldZOFJIMDBjWnpOb1VCOE8tRk1qeHlrYXdyX1NEek15TG1kRy1PT1E0ajRhWDNJUHlLSGVPQkExRjBKRWpUcVNfaXJGOG04eTBLUThuN3hWTzY1VW94Z1V4Qkxhdw?oc=5",
+      "source": "The College Fix",
+      "published_date": "2026-07-20",
+      "summary": "Penelitian terbaru dari UC Berkeley mengungkapkan bahwa model-model AI tercanggih saat ini hanya mampu mencetak skor di bawah 25% ketika diuji dengan tugas-tugas pekerjaan dunia nyata. Hasil studi ini menepis kekhawatiran berlebih bahwa AI akan segera menggantikan tenaga kerja manusia secara massal dalam waktu dekat. Riset ini menegaskan bahwa keahlian manusia dalam hal pemecahan masalah yang kompleks dan pemikiran kritis masih belum tertandingi oleh mesin.",
+      "takeaways": [
+        "Evaluasi objektif menunjukkan adanya kesenjangan besar antara ekspektasi publik dan kemampuan aktual AI dalam skenario kerja profesional.",
+        "Model AI saat ini kesulitan menghadapi tugas-tugas yang membutuhkan penalaran kontekstual yang mendalam dan fleksibilitas berpikir.",
+        "Hasil riset mengarahkan fokus pengembangan AI pada alat bantu kolaboratif alih-alih pengganti penuh posisi pekerjaan manusia."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Menilik Kemungkinan Apakah Kecerdasan Buatan Bisa Memiliki Kesadaran Sendiri",
       "original_title": "Could AI be conscious?",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE15X1VKMzVOVzRtRGlveWc3b3AtX2Y4Q21oLWd4YkVHS3JrNUVxSkRMWU5jbTJHRktyeEdOS2pjYXNZUFVzbEdwT2hqX1RKdng0QUZmeXJsRWNUMlJ3cDlQMDZDWFdGWGNmNnVUWjE4WkFMaXJMVVNKUWpOcno?oc=5",
       "source": "The Guardian",
       "published_date": "2026-07-19",
-      "summary": "Artikel ini mengeksplorasi perdebatan filosofis dan ilmiah yang mendalam mengenai kemungkinan sistem AI untuk mengembangkan kesadaran seperti manusia. Pertanyaan ini menjadi semakin mendesak seiring dengan model bahasa besar (LLM) yang menunjukkan kemampuan meniru emosi dan penalaran yang sangat kompleks. Pemahaman tentang kesadaran AI akan menentukan batas moral, hukum, dan etika interaksi manusia dengan mesin di masa depan.",
+      "summary": "Artikel ini mengeksplorasi perdebatan filosofis dan neurosains mengenai peluang sistem kecerdasan buatan masa depan untuk mengembangkan kesadaran atau perasaan (sentience). Meskipun model bahasa besar mampu meniru percakapan manusia dengan sangat mulus, para ilmuwan menegaskan bahwa meniru perilaku tidak sama dengan memiliki pengalaman subjektif. Pertanyaan ini menjadi salah satu teka-teki sains dan etika terbesar di abad modern ini.",
       "takeaways": [
-        "Para ilmuwan dan filsuf masih belum menyepakati definisi pasti dari 'kesadaran' yang dapat diterapkan pada mesin.",
-        "Kemampuan AI dalam meniru percakapan manusia secara persuasif sering kali disalahpahami sebagai bukti adanya kesadaran subjektif.",
-        "Implikasi etis dari AI yang memiliki kesadaran sangat besar, mencakup hak-hak hukum bagi mesin dan tanggung jawab penciptanya."
+        "Hingga saat ini, belum ada bukti ilmiah yang menunjukkan bahwa sistem komputasi berbasis silikon mampu menghasilkan kesadaran subjektif.",
+        "Kemampuan AI untuk mengekspresikan emosi sering kali merupakan hasil pemrograman canggih, bukan refleksi dari perasaan internal yang nyata.",
+        "Menetapkan definisi ilmiah yang jelas tentang 'kesadaran' sangat penting untuk mencegah kesalahpahaman moral dalam memperlakukan teknologi canggih."
       ],
       "category": "Artificial Intelligence"
     },
@@ -59,18 +129,18 @@
       "category": "Sains & Teknologi"
     },
     {
-      "title": "Pemain Go Legendaris Shin Jin-seo Berhasil Menembus Pertahanan AI KataGo",
+      "title": "Pecahkan Rekor, Master Go Shin Jin-seo Taklukkan AI KataGo dalam Laga Bersejarah",
       "original_title": "Go master Shin cracks AI barrier with win over KataGo, sets up series decider",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtc2dxaTl2dUNKVUlWblBEQW0zZElIamRTeGRfOW1PRTZDRW9RSE85NG0zcjdwQzNQcGlBRW8xU3I2Zy1RRHNTTEhUeVdKdjdYQjVuY09DTE8yamlFWGl2c1BCOEM3d1NfZzhtTll0QVNkcG4xNXJYOWxCeWlmTTg?oc=5",
       "source": "KED Global",
       "published_date": "2026-07-19",
-      "summary": "Master permainan Go asal Korea Selatan, Shin Jin-seo, berhasil mencetak kemenangan bersejarah melawan program AI canggih KataGo, menantang dominasi absolut mesin dalam permainan papan paling kompleks di dunia. Kemenangan ini membuktikan bahwa intuisi dan kreativitas manusia masih mampu menemukan celah di dalam sistem komputasi AI yang tampak sempurna. Pertandingan penentu berikutnya akan menjadi tolok ukur baru dalam studi batas kemampuan kecerdasan manusia versus kecerdasan buatan.",
+      "summary": "Pemain legendaris asal Korea Selatan, Shin Jin-seo, berhasil mencetak kemenangan bersejarah atas program kecerdasan buatan tangguh, KataGo, dalam permainan papan Go. Kemenangan ini membuktikan bahwa strategi kreatif dan intuisi tingkat tinggi manusia masih mampu menembus analisis kalkulasi tak terbatas milik mesin pintar. Hasil ini memicu diskusi baru mengenai batasan algoritma AI dalam menyelesaikan permainan dengan kompleksitas matematis ekstrem.",
       "takeaways": [
-        "Shin Jin-seo berhasil memanfaatkan pola permainan unik yang sulit diantisipasi oleh algoritma prediktif KataGo.",
-        "Kemenangan manusia atas AI di level tertinggi permainan Go menunjukkan bahwa mesin masih memiliki titik buta dalam mengevaluasi situasi tak biasa.",
-        "Hasil ini memberikan wawasan berharga bagi pengembang AI untuk mengevaluasi kembali ketahanan model komputasi mereka terhadap strategi non-ortodoks."
+        "Kemenangan Shin Jin-seo menunjukkan bahwa kreativitas dan adaptabilitas manusia tetap menjadi keunggulan utama dalam menghadapi kalkulasi kaku AI.",
+        "Laga ini menjadi momentum penting dalam riset interaksi manusia dan mesin di bidang teori permainan (game theory) modern.",
+        "Pertandingan penentu berikutnya diprediksi akan menjadi tolok ukur baru bagi batas kemampuan kecerdasan taktis buatan."
       ],
-      "category": "Artificial Intelligence"
+      "category": "Sains & Teknologi"
     },
     {
       "title": "Presiden Xi Jinping Ungkap Strategi China untuk Memimpin Tatanan AI Global",
@@ -141,6 +211,48 @@
         "Teknologi AI kini telah resmi bergeser dari sekadar inovasi komersial menjadi instrumen utama dalam keamanan nasional dan geopolitik."
       ],
       "category": "Sains & Teknologi"
+    },
+    {
+      "title": "Skrining Kanker Kolorektal pada Sindrom Lynch: Penggunaan AI Ternyata Tidak Otomatis Lebih Baik",
+      "original_title": "AI detection not automatically better for colorectal cancer screening in Lynch syndrome, study shows",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSnJoeVFHblNycWdSTTh4a1dBZ0pNSERtT3ZxN1lSZE8zV2dhdWZjYnllc3U2V215WmRmdFFMRy04VXlkc0cwVGJMcG1qRlJJWjc1OHcwZVlHTUNtNGVhMHBHSEJGb1pYdldiNXdwclJGb216WlFYZUIzNmp0dHNrZUotVmlkcC1nZjlBVk1wWkFPZw?oc=5",
+      "source": "Medical Xpress",
+      "published_date": "2026-07-19",
+      "summary": "Sebuah studi klinis menunjukkan bahwa integrasi teknologi kecerdasan buatan dalam skrining kanker kolorektal untuk pasien Sindrom Lynch tidak selalu memberikan hasil yang lebih akurat dibandingkan metode endoskopi konvensional. Penyakit genetik herediter ini membutuhkan penanganan spesifik, di mana intuisi medis dan keahlian klinis dokter masih memegang peranan vital. Temuan ini mengingatkan dunia medis agar tidak terlalu bergantung pada teknologi tanpa validasi klinis yang ketat untuk kelompok pasien berisiko tinggi.",
+      "takeaways": [
+        "Penggunaan AI dalam kolonoskopi tidak menunjukkan peningkatan signifikan dalam mendeteksi lesi prakanker pada penderita Sindrom Lynch.",
+        "Karakteristik tumor genetik yang unik memerlukan pendekatan diagnostik yang lebih personal dan tidak bisa disamaratakan oleh algoritma standar.",
+        "Validasi berbasis bukti ilmiah tetap menjadi syarat mutlak sebelum menerapkan alat bantu kecerdasan buatan pada prosedur medis kritis."
+      ],
+      "category": "Genom & Biotek"
+    },
+    {
+      "title": "Mengapa Kecerdasan Buatan Mungkin Tidak Akan Pernah Menyamai Kecerdasan Manusia",
+      "original_title": "Why AI May Never Reach Human Intelligence",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1fVnk2aTBkbUN5WGRTdlVfSl9hQ2Z6X0d2cE9CT1kwbl9uVE4wWF9tZGFDXzZ2c0Z2d1VYUDFSV0RoaGFvSk1kb3h4amtleERGS3VuSGFMbmRoV3p6c1dzVGtnVG9MZEhJQlY1ejBERGQwdEtBc2c?oc=5",
+      "source": "SciTechDaily",
+      "published_date": "2026-07-19",
+      "summary": "Artikel ilmiah ini menganalisis batasan fundamental dari arsitektur komputasi modern yang membuat AI sulit untuk mencapai kesadaran atau kecerdasan setingkat manusia. Berbeda dengan mesin yang bergantung pada data historis, otak manusia memiliki plastisitas kognitif dan kemampuan memahami makna tanpa memerlukan input data yang masif. Kajian ini memberikan perspektif realistis mengenai batasan teknologi kecerdasan buatan generatif.",
+      "takeaways": [
+        "AI beroperasi berdasarkan pengenalan pola statistik, sedangkan kecerdasan manusia melibatkan pemahaman konseptual dan akal sehat (common sense).",
+        "Ketiadaan pengalaman sensorik dunia nyata membatasi kemampuan AI untuk benar-benar memahami konteks secara mandiri.",
+        "Fokus pengembangan teknologi sebaiknya diarahkan pada augmentasi kemampuan manusia daripada merekayasa kesadaran buatan."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Gedung Putih Pertimbangkan Pembentukan Lembaga Regulator Khusus untuk Mengawasi Model AI",
+      "original_title": "White House Weighs Regulator to Police AI Models",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZDlKWkVMMlJLd2VTclYyT1JjQ0JOcXNDZnRwRGhnYWlkQnd2YVB6NFVkWTlwS3JCYVVDdGVrQUphSk1QWDU3M0JpbmdxRTYweVVtX0R3NDAzaWJWQUN2ZnNtdkdCRUFxaGhWWkN6SVVEX0k0OG5NVFFFeE0zbDdDajhCZFBqWERrR3hudHFyMlhuMnJwVy1KYmNBaUlod0gtTzAzcFFDMjZyZw?oc=5",
+      "source": "PYMNTS.com",
+      "published_date": "2026-07-19",
+      "summary": "Pemerintah Amerika Serikat melalui Gedung Putih dikabarkan tengah mengkaji opsi pembentukan badan regulasi federal baru yang bertugas mengawasi dan menyensor model-model kecerdasan buatan skala besar. Langkah ini diambil guna memitigasi risiko keamanan nasional, pelanggaran hak cipta, dan ancaman disinformasi yang dipicu oleh perkembangan pesat AI. Kebijakan ini diprediksi akan mengubah peta persaingan industri teknologi global secara signifikan.",
+      "takeaways": [
+        "Pemerintah AS semakin memperketat kontrol terhadap rilis model AI mutakhir demi mencegah potensi penyalahgunaan strategis.",
+        "Rencana pembentukan badan pengawas ini memicu perdebatan mengenai batas inovasi teknologi dan perlindungan kepentingan publik.",
+        "Regulasi baru ini berpotensi menjadi standar global bagi negara-negara lain dalam merumuskan tata kelola kecerdasan buatan."
+      ],
+      "category": "Artificial Intelligence"
     }
   ]
 }
