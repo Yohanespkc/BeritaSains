@@ -1,7 +1,35 @@
 {
-  "last_updated": "2026-07-20T03:29:30.010690+00:00",
-  "total_articles": 18,
+  "last_updated": "2026-07-21T02:57:29.305492+00:00",
+  "total_articles": 28,
   "articles": [
+    {
+      "title": "Bagaimana Fitur Pencarian AI Google Mengancam Keberlangsungan Ekosistem Web Terbuka",
+      "original_title": "How Google’s A.I. Search Is Imperiling the Open Web",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9aUjF6UzRoT0FXakF3OTNUaktTRW96NjIxOWZhZGpVaFRtZDFMNGtQTDZyRkFwQlpRT2ppNWpvS1ZRQzhjaHlsQUttVkUxQUd4dE1qUGlQa094c1hxb0JPbHRqQUM5WUMwUmlKYmhMTHBCSzBSY2d6ZQ?oc=5",
+      "source": "The New York Times",
+      "published_date": "2026-07-21",
+      "summary": "Penerapan fitur pencarian berbasis kecerdasan buatan oleh Google dinilai mengancam kelangsungan hidup situs web independen karena mengurangi lalu lintas kunjungan secara drastis. AI langsung menyajikan jawaban di halaman pencarian tanpa mengharuskan pengguna mengeklik tautan sumber asli. Hal ini memicu kekhawatiran atas matinya jurnalisme dan kreator konten digital yang mengandalkan iklan.",
+      "takeaways": [
+        "Pencarian berbasis AI menyajikan ringkasan instan yang mengurangi insentif pengguna untuk mengunjungi situs web sumber.",
+        "Banyak penerbit dan kreator konten mandiri terancam kehilangan pendapatan iklan secara signifikan.",
+        "Perubahan ini dinilai dapat merusak struktur 'web terbuka' yang selama ini didasarkan pada pertukaran informasi timbal balik."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Organisasi Kerja Sama AI Dunia: Aliansi Baru Buatan Tiongkok untuk Memimpin Standardisasi Global",
+      "original_title": "China’s New AI Club: The World Artificial Intelligence Cooperation Organization",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWTVCOGtaNF9OeHM5cU5JRUpZb3dmUnBvODNUaXR4Ui1rSUdsUUtvZjVSWkRPTElhN0ZRTHY5WXlxV0tGdzZlWjVWdm5nUUd2cFJZTF9CSDBPZ3E3NUhGcUF6NG43QVU2cW5zLTkzWktaVnY3c1g2TmhQeGNKVlJfdG55S3dfY1ZBdkg4V0J5enNRX3Y4djloQmpBZERob3NkcHJIbkduVDB5bGQzYXZz?oc=5",
+      "source": "The Diplomat – Asia-Pacific",
+      "published_date": "2026-07-21",
+      "summary": "Tiongkok mendirikan Organisasi Kerja Sama Kecerdasan Buatan Dunia (WAICO) sebagai langkah strategis memimpin regulasi teknologi masa depan. Langkah ini dipandang sebagai upaya Tiongkok membentuk standar internasional AI yang sejalan dengan kepentingan geopolitik mereka. Inisiatif tersebut memperluas persaingan pengaruh teknologi antara Beijing dan Washington di panggung global.",
+      "takeaways": [
+        "WAICO didirikan untuk mempromosikan kolaborasi multilateral sekaligus memperkuat pengaruh regulasi AI ala Tiongkok.",
+        "Aliansi ini mencerminkan babak baru persaingan ketat dalam menentukan standar teknis dan etika AI global.",
+        "Langkah ini dapat memicu fragmentasi tata kelola teknologi jika blok Barat meluncurkan inisiatif serupa."
+      ],
+      "category": "Artificial Intelligence"
+    },
     {
       "title": "Seberapa Besar Konsumsi Energi Pusat Data dan Kecerdasan Buatan?",
       "original_title": "How much energy do data centers and artificial intelligence use?",
@@ -69,6 +97,118 @@
         "Evaluasi objektif menunjukkan adanya kesenjangan besar antara ekspektasi publik dan kemampuan aktual AI dalam skenario kerja profesional.",
         "Model AI saat ini kesulitan menghadapi tugas-tugas yang membutuhkan penalaran kontekstual yang mendalam dan fleksibilitas berpikir.",
         "Hasil riset mengarahkan fokus pengembangan AI pada alat bantu kolaboratif alih-alih pengganti penuh posisi pekerjaan manusia."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Evo 2 Dekatkan AI pada Kemampuan Membaca dan Menulis Kode Genetik Kehidupan",
+      "original_title": "Evo 2 brings artificial intelligence closer to reading and writing the language of life",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE96cTNHMmxRR2ItRVdOeTA1MDJ5ZFEwVXdVak1ZbXRDYXVxLVNmdmVRd2NrS19IeHl5SUFTZjdwRmlyNWdQYjd5QlAwYlFlTTZvdmtsWmZtaEtCOFJf?oc=5",
+      "source": "EurekAlert!",
+      "published_date": "2026-07-20",
+      "summary": "Model AI baru bernama Evo 2 telah dikembangkan untuk memahami dan merancang urutan genom serta bahasa biologis dengan presisi tinggi. Teknologi ini menjembatani kecerdasan buatan dengan biologi molekuler, membuka jalan bagi rekayasa genetika yang lebih maju. Penemuan ini berpotensi mempercepat penemuan obat baru dan solusi untuk penyakit genetik langka.",
+      "takeaways": [
+        "Evo 2 dirancang sebagai model bahasa besar (LLM) khusus untuk membaca serta menulis kode DNA dan RNA.",
+        "Inovasi ini mengintegrasikan kecerdasan buatan secara mendalam dengan genomik dan biologi sintetik.",
+        "Teknologi ini diharapkan dapat mempercepat penelitian medis dan penciptaan terapi genetik yang disesuaikan secara personal."
+      ],
+      "category": "Genom & Biotek"
+    },
+    {
+      "title": "Inilah Risiko AI Paling Mendesak Menurut Pandangan 272 Pakar Global",
+      "original_title": "These are the most urgent AI risks, according to 272 experts",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQT3FYR0hXUEFkYjM3RTUzaHFTUGdRWHZJUmtpakVjaUIyYXB4UTB5WGs1U1FMRExic0VFWnhhUll5TTU0dkVzTGNZdkxxWHRqRkNIZEMyRTJaMVN3WkhCZktMLUtneXV5RWNXNU5wb2Jqa0ZNelV3ZnpfVnZWTF93V3hkQzA1Z19uWGc3VloyNUp3Szg1ZzM5c2ExUU9OVWdIRFpj?oc=5",
+      "source": "MIT Sloan",
+      "published_date": "2026-07-20",
+      "summary": "Sebuah survei komprehensif yang melibatkan ratusan pakar kecerdasan buatan berhasil mengidentifikasi ancaman-ancaman paling krusial dari perkembangan AI saat ini. Fokus bahaya beralih dari skenario fiksi ilmiah eksistensial ke masalah nyata seperti penyebaran disinformasi secara masif dan bias algoritma. Hasil studi ini mendesak regulator global untuk segera menetapkan batasan hukum yang tegas sebelum teknologi lepas kendali.",
+      "takeaways": [
+        "Penyebaran hoaks dan misinformasi berbasis AI dinilai sebagai ancaman paling mendesak dalam jangka pendek.",
+        "Para pakar mengkhawatirkan konsentrasi kekuasaan teknologi di tangan segelintir perusahaan raksasa.",
+        "Laporan ini menekankan pentingnya regulasi internasional yang seragam untuk mengelola risiko keamanan AI."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Opini | Distribusi Gratis Model AI Canggih adalah Keniscayaan yang Mengubah Industri",
+      "original_title": "Opinion | Powerful AI models are being given away for free. It was inevitable.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNHlUS1laU3VseHk2MnRaREdWLXgzRWo1alVmTWdZZlRWWkNtUTVLcDZpaEt5RU9VUWJPVzNVSUJaeENLbEtBX3dpMHFyOGlRb0xVbHdxd1o1cmJjUlU4bXl6MVZnaVotcjNpN2stcllxVXktVm5wT0JWaXVTQVNKbllDbFFNcW44ckFpc2RLR09QSDZTMzEzVjhMUU1VazlLc0dRbQ?oc=5",
+      "source": "The Washington Post",
+      "published_date": "2026-07-20",
+      "summary": "Tren pembagian model kecerdasan buatan berskala besar secara gratis (open-source) dinilai sebagai perubahan industri yang tidak bisa dihindari. Strategi ini meruntuhkan monopoli perusahaan teknologi besar yang mencoba mengomersialisasi akses AI secara tertutup. Demokratisasi teknologi ini mempercepat inovasi global namun juga memicu debat sengit terkait pengawasan keamanannya.",
+      "takeaways": [
+        "Penyediaan model AI tangguh secara gratis mempercepat adopsi teknologi oleh pengembang independen di seluruh dunia.",
+        "Komunitas open-source kini mampu menyaingi keunggulan model berbayar milik korporasi raksasa.",
+        "Model terbuka memicu tantangan baru terkait penyalahgunaan teknologi yang sulit dilacak regulator."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Para Dokter Rumuskan Prinsip Penting demi Menjamin Keamanan AI di Sektor Kesehatan",
+      "original_title": "Doctors Develop Critical Principles for Future of AI in Healthcare",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSEZwdVotdWxaLTFfenN1RDliV29fOW9YOW5MWDZlbGNjRjV1Sl9rSGt6dkJ5OTRTMnhISjFlaVJQQVl3WjlLM2EzcXltblJaYnRUUUs5ZGgxS0U3T1ZaSDNVNEV1RTNUYm9GTENEZ3FoWkM2SEthWFRXZTlRelFwZER1ODYwVnZHTmNEc1ZSZFJqUHhHZlcyUG5lNFZpQQ?oc=5",
+      "source": "UVA Health",
+      "published_date": "2026-07-20",
+      "summary": "Komunitas medis merumuskan serangkaian prinsip panduan utama untuk mengintegrasikan kecerdasan buatan ke dalam sistem pelayanan kesehatan pasien secara aman. Langkah ini bertujuan untuk memastikan AI digunakan sebagai alat bantu diagnosis yang akurat tanpa mengabaikan pengawasan dokter manusia. Fokus utamanya adalah menjaga privasi data pasien dan meminimalkan kesalahan algoritma medis.",
+      "takeaways": [
+        "AI harus berperan sebagai pendukung keputusan klinis, bukan pengganti penilaian dokter manusia secara mutlak.",
+        "Transparansi algoritma dan perlindungan kerahasiaan data pasien menjadi prioritas utama standar baru ini.",
+        "Penerapan prinsip ini diharapkan mampu menekan risiko malpraktik akibat kesalahan teknis kecerdasan buatan."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Perkembangan AI di Tahun 2026: Model Semakin Cerdas, Pertanyaan Etis Kian Rumit",
+      "original_title": "AI in 2026: Smarter Models, Harder Questions",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQd2hGWHpTMDd3YWtGWnMzU1NvTFhMY2dIY2o5XzY3bUpac3lnT182ZGIzamVwV21IYjZWYUlseXdKQjRITDJtdW4zdms1YUd6UjRsYzA5REpHT3dqQlhVNkFERFZTb1A3TVJTbV9xa1JiMWxRSGpXVFZDQ3BIWXJ3VmJ1M1hIRklnSUJyWGJPTQ?oc=5",
+      "source": "USC Viterbi School of Engineering",
+      "published_date": "2026-07-20",
+      "summary": "Seiring dengan munculnya model kecerdasan buatan yang jauh lebih cerdas di tahun 2026, para ilmuwan dihadapkan pada dilema moral dan teknis yang belum pernah terjadi sebelumnya. Kemampuan penalaran mesin yang mendekati kecerdasan manusia memaksa kita mendefinisikan kembali konsep kesadaran buatan. Tantangannya kini bergeser dari sekadar meningkatkan performa model menjadi bagaimana menyelaraskannya dengan nilai kemanusiaan.",
+      "takeaways": [
+        "Lompatan kemampuan penalaran (reasoning) AI melahirkan tantangan pengawasan etis yang sangat kompleks.",
+        "Para peneliti fokus pada masalah penyelarasan nilai (alignment) agar AI tetap aman bagi peradaban.",
+        "Tahun 2026 menjadi titik balik krusial dalam perdebatan mengenai hak cipta intelektual dan kepemilikan data pelatihan AI."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Membangun Fondasi Kokoh Kecerdasan Buatan Melalui Pendekatan Matematika Murni",
+      "original_title": "An Artificial Intelligence Foundation Through Mathematics",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQ0Ffa096RDNXemtYRVBvUk1meFZDdUw4UU5HUE50bm9VaFRhN2VfbTVldklSVkpQN29RSGM1U0lBY2NiUUF6bDBkb2c4bGV1MTBSNFhjV2REUkxJaU51RUx3YW9TX0lpTGFsR2wtajBuZVdPcDdNZG1uYTY4bm0xZ2RsZnkyNUQ3eG56UjFnSXVqMVhrNWhKc01DUGExQmVFR1ZxZ1ZCbEl6RGRjRHdFbG1YY2NjSlhNSmlWUQ?oc=5",
+      "source": "Illinois Institute of Technology",
+      "published_date": "2026-07-20",
+      "summary": "Para peneliti di Illinois Institute of Technology berupaya memecahkan misteri di balik cara kerja internal AI menggunakan kerangka kerja matematika murni. Studi ini bertujuan membongkar fenomena 'kotak hitam' (black box) AI agar proses pengambilan keputusan mesin dapat dijelaskan secara ilmiah. Pemahaman matematis yang lebih baik akan menghasilkan sistem kecerdasan buatan yang jauh lebih andal dan dapat diprediksi perilakunya.",
+      "takeaways": [
+        "Penelitian ini berfokus pada perumusan teori matematika untuk menjelaskan sistem jaringan saraf tiruan yang rumit.",
+        "Memahami dasar matematis AI penting untuk menghilangkan sifat 'kotak hitam' yang selama ini tidak transparan.",
+        "Hasil kajian ini berpotensi meningkatkan efisiensi komputasi dan keamanan sistem AI generatif masa depan."
+      ],
+      "category": "Sains & Teknologi"
+    },
+    {
+      "title": "Menyingkap Pameran AI Tiongkok: Polisi Robot, Humanoid Menari, dan Sorotan Realitas Teknologi",
+      "original_title": "Inside China’s big AI show: Robot police, dancing humanoids and a roof collapse",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOb1huQnUzYTVKM1hrQnI2VmkyQjBIbHdlQ2htTUdVbGllU2pPS2V2dk1mZDcxU2RxMnZJSVVDTXhPdlgtWjBOc2ViaXNNRGFqX2F0ZUsycElzOUtPLVhCallWOFAwM0ZFZzZ0anZSbE5TNV9CY3RnMkxEeUdnM2FhTW0yY2hEQjdSanI0TWRZeEFUU1N4YUJ0dEJqQXI5dw?oc=5",
+      "source": "NBC News",
+      "published_date": "2026-07-20",
+      "summary": "Pameran teknologi besar di Shanghai memamerkan inovasi terdepan Tiongkok dalam bidang robotika dan kecerdasan buatan, termasuk robot polisi dan humanoid yang menari lincah. Acara ini menunjukkan betapa cepatnya integrasi teknologi AI ke dalam kehidupan sehari-hari masyarakat Tiongkok. Meskipun memukau, insiden teknis kecil di lokasi pameran menjadi pengingat bahwa infrastruktur fisik teknologi ini masih perlu disempurnakan.",
+      "takeaways": [
+        "Tiongkok memperlihatkan kesiapan tinggi dalam mengomersialkan robot humanoid untuk sektor publik dan industri.",
+        "Integrasi AI dengan perangkat fisik (robotic embodied AI) berkembang pesat di pasar Asia Timur.",
+        "Pameran ini menegaskan posisi Tiongkok sebagai pesaing terberat Amerika Serikat dalam adopsi teknologi robotika massal."
+      ],
+      "category": "Sains & Teknologi"
+    },
+    {
+      "title": "Rumah Sakit Frederick Manfaatkan AI untuk Deteksi Dini Pasien Rentan Kejang",
+      "original_title": "Frederick Health Hospital using artificial intelligence to advance medical treatment for patients vulnerable to seizures",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOdDItQkFJRndtOVhBSVZEZGFBLXFyVU9FaE1nVEotbXdqZzJabGRPNlpFV1VVOGt2UXRPZnBVR3VFdzBxVDk5QXlsU05CVnAzTWQ3R0ZtdEhPSlpYRzVUVjBfUWRIRWdzQm5WVVg3SkpUZlhHaC1PUUI2XzVnR2tibTYzNVpTUF9tVmlXV3R0VERlWnNRSm1RMHk0dlREVlRtYl90dEFoQXRjamhRVkViVXFuY084WU9XUXlweU1rS004Mno3UUN5QlgzX1BJWncxaVdjb29ZNTMyX21EV3o5cEVTbzR0dTc4ZDQwdjNQSFhWRWRwb051NzQ3eERXRG5UTlFxemhtTHBQNXVTZi1DOFZtRFFrSW9MWEZHVdIBogJBVV95cUxNaWUySkMyUW9DbmFtSDJzWnNVdmdqZ2xtcWVTUkZHdjJCc3ZFQ3MxeDVGZHkzZUwybXF2TVFscTlsdWdOZ1A3V1gwXzdGTnhPRDgteGw1SGtaRHE1OXE4OXpDWjRIMlFLbVlnVGhoUVpPRmkzZDhlamhiSlNtOWg0MF9PTk1mRkhHaVFtV2UtTEJtU0VWODFKVUZDRHFpbUtNaF9YZ3B0VTJWSk1ZaDAwZ2xJOURxdU43cUhoLXdxXzA2alZrT2xESm1HOExwRWxmT3d4QjZoR0xHdXFuMTRUUDFDMy1IekJtZlVaUnc4aWU0dmRnTzhHeUpaMXFqdnhjRFBIWTVZSlFWeHJFQXV5SEZzdEhsb25JXzFBTk1OSkVuZw?oc=5",
+      "source": "DC News Now",
+      "published_date": "2026-07-20",
+      "summary": "Rumah Sakit Frederick Health menerapkan teknologi kecerdasan buatan mutakhir untuk memantau dan mendeteksi potensi serangan kejang pada pasien yang rentan. Sistem AI ini menganalisis data klinis secara real-time untuk memberikan peringatan dini kepada staf medis sebelum gejala fisik kejang muncul. Langkah inovatif ini diharapkan dapat menyelamatkan nyawa dan mengoptimalkan penanganan darurat di rumah sakit.",
+      "takeaways": [
+        "Penerapan kecerdasan buatan secara langsung meningkatkan akurasi pemantauan pasien kritis yang rentan mengalami kejang.",
+        "Sistem analisis data real-time membantu perawat merespons bahaya medis sebelum kondisi pasien memburuk.",
+        "Inovasi ini membuktikan kontribusi nyata AI dalam meminimalkan cedera otak permanen akibat serangan kejang yang terlambat ditangani."
       ],
       "category": "Artificial Intelligence"
     },
