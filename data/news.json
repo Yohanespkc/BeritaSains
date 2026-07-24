@@ -1,7 +1,49 @@
 {
-  "last_updated": "2026-07-23T03:16:29.768015+00:00",
-  "total_articles": 47,
+  "last_updated": "2026-07-24T02:55:11.122135+00:00",
+  "total_articles": 57,
   "articles": [
+    {
+      "title": "AS dan Koalisi Global Dukung AI Open-Source dengan Standar Keamanan Ketat di KTT China",
+      "original_title": "U.S., other nations back open-source AI with 'strong security' at China summit",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE41NFE1eG0xeEE2NUlfbEl2dXMtRDA3VnNsdktXYm9kYm5ycHBnbkJfSlNwT181VmFZM3FZWEw1dXpqR081YkVPN01hR2Q2dDFOOEFWTnhTZl9kamtpb0hNaGZBTXFWZ1dXanZEUkN5UdIBdEFVX3lxTFBEQ2lsSkxVbUZ3TWRoWkVRR0hIX0ZEeGZ0RkczOEFnUTRqTC01cDhCVVRhUzdMYWdpaVd3MXJROUtFcGR6TXNiWnAxd3ZFX1llQmhSZElfdnJDMFB0MXFacGtaa09aRE5kSVJRVG1VTE9OLUpi?oc=5",
+      "source": "CNBC",
+      "published_date": "2026-07-24",
+      "summary": "Amerika Serikat bersama negara-negara sekutunya menyuarakan dukungan terhadap pengembangan AI bersumber terbuka (open-source) yang dilengkapi dengan protokol keamanan yang sangat ketat dalam konferensi tingkat tinggi di China. Inisiatif ini bertujuan untuk mendorong inovasi global yang transparan sekaligus mengantisipasi potensi penyalahgunaan teknologi.",
+      "takeaways": [
+        "Dukungan terhadap AI open-source ditekankan untuk memastikan transparansi global.",
+        "Negara-negara peserta sepakat bahwa inovasi harus diimbangi dengan protokol keamanan siber yang kokoh.",
+        "Pertemuan di China ini menunjukkan pentingnya kolaborasi multilateral dalam mengarahkan masa depan AI."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Donald Trump Perluas Kesepakatan Sukarela untuk Atasi Lonjakan Tagihan Listrik Akibat Pusat Data AI",
+      "original_title": "Trump expands voluntary pledge to blunt AI-driven utility bill surges",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxON1lUTGI1SWhyUmxnNVUyTDdhM2ZIWnQ5RXRmcW9UNWVYYWU1NlNMWmYxY3A5ZHRKSUhqMTlYNGlZZU5qZUFSNzNVZ2tHY1VjckVta2EtTk84RkxUa0hBRVhtMlRaRFJnOVhXWmZ0VTQ2c3BsaWUyVDg4aFRsWWtmOWU1TDVnWE8yUlFCYVRFWGdqMmk1TllrT09CNzVKYmZwTlB2bGJpYjlEYm9USmVj0gG0AUFVX3lxTE0zMWFDRzQxbVYzcnhZenhxcmZzT29HZUFobHcwZ2M0RHFYa2xHeDBxSXJmNFRGTWpFRkFlazEzSE1VUHBlYXRDTE0yRWNjUThaUkplY3lPZ3NvOTlETUYxdW5nUkpmUlFfbjctOFE0dzAwMHBIQzhUbVd6bUpNRTVGUUlXcVlPZ1EwZjVwclBMMEtqT0xQdVZhc05MNk9jcHo0Y1VtVkwweTNHR3pmXzVSeEZLdw?oc=5",
+      "source": "Al Jazeera",
+      "published_date": "2026-07-24",
+      "summary": "Presiden Trump memperluas pakta sukarela dengan perusahaan-perusahaan teknologi guna meredam lonjakan tagihan listrik masyarakat akibat tingginya konsumsi energi oleh pusat data kecerdasan buatan. Langkah ini berupaya menyeimbangkan ambisi dominasi teknologi nasional dengan stabilitas ekonomi domestik konsumen.",
+      "takeaways": [
+        "Pakta sukarela diperluas untuk mengikat komitmen raksasa teknologi dalam menekan dampak energi AI.",
+        "Pusat data AI yang masif menjadi pemicu utama meningkatnya beban pada jaringan listrik nasional.",
+        "Pemerintah berupaya melindungi konsumen dari lonjakan tarif listrik tanpa menghambat inovasi teknologi."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Ancaman Krisis Air Akibat AI: Proyek Matador Berisiko Keringkan Akuifer Ogallala",
+      "original_title": "Draining the Ogallala Aquifer for AI? Project Matador and the myth of limitless growth",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVnNmdzh3NUpUS3JYc285NmJia2FUZThwNklGbU5KNjliV0hkWXZJcXYySkFiYlhHVDcyTE1BUmVRUXJvcHVIRHdqc1pzQzkxSzJjSXR6aVZlUEhQb190RU5ObnpnZ012UDlCMDdNaHlNQzJuMGJMUDA2c0F0LW9Yc2dRbTY2WVA2cUtrLXJsMXZXMUJBTHNWRTA3UEVIRDB4dkNFUHpKdGtUWGlGUkozU3JpTDUyNlpvZ2dReFNHbTU1aGVLNjViTmVHR0RNbl9XQUhMTkpn?oc=5",
+      "source": "Environment America",
+      "published_date": "2026-07-24",
+      "summary": "Proyek pembangunan pusat data AI skala besar bertajuk 'Project Matador' memicu kontroversi karena berisiko menguras cadangan air penting di Akuifer Ogallala. Konflik ini menyoroti dampak lingkungan yang sering terabaikan di balik pesatnya pertumbuhan teknologi komputasi awan.",
+      "takeaways": [
+        "Pusat data AI membutuhkan jutaan galon air setiap hari hanya untuk sistem pendingin mesin.",
+        "Eksploitasi Akuifer Ogallala mengancam ketahanan air sektor pertanian dan komunitas lokal.",
+        "Kasus ini memicu desakan agar industri teknologi mengadopsi infrastruktur komputasi yang ramah lingkungan."
+      ],
+      "category": "Sains & Teknologi"
+    },
     {
       "title": "Pendekatan Mekanika Kuantum pada AI Janjikan Hasil Pengobatan Kanker yang Lebih Baik",
       "original_title": "A quantum mechanics approach to artificial intelligence can improve cancer outcomes",
@@ -27,6 +69,104 @@
         "AI mengambil alih tugas repetitif seperti deteksi awal lesi pada pemindaian X-ray dan MRI.",
         "Keberadaan AI memotong waktu tunggu hasil diagnosis bagi pasien secara signifikan.",
         "Kurikulum kedokteran masa depan perlu diadaptasi agar mencakup literasi teknologi medis berbasis AI."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Senator AS Mark Warner Perkenalkan Kerangka Undang-Undang AI untuk Keamanan dan Perlindungan Tenaga Kerja",
+      "original_title": "Warner unveils sweeping AI legislative framework focused on safety, data centers, workforce protections",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNT3dMSktQWGE3NFBFTXVQM2pyVThERi1tTzN3aGh0bUVwMjRNSmIzdGZIOVk3SV9PNGcyNEJSMG95YUdJTlpZNGhPc2VWQVlRTmtqcllPYlE3WWg4d2RNUkNPeWpXcHpwV21pY2FOQVFSOTJLZFlrUHk2emFWcF92RlpTU3lVemt1eXhXdGdmZnBPRTV6Z1E5NTBBeTJ5Q0c3ZlN5cjZPbUp4X0pkZkU5UVl0UkhHTjBWb2xCbGdDc18xLWpfbzJ0Ymh5al9NYXNKbXRMUFBQMXVSNnNWUkVqQnJjY01fLUNDZndCQk84dEhEajhyMjh0YzdRSmJGMnRMTFNGNmcxY1RCUQ?oc=5",
+      "source": "13newsnow.com",
+      "published_date": "2026-07-23",
+      "summary": "Senator Mark Warner memperkenalkan kerangka legislatif AI komprehensif yang berfokus pada peningkatan keamanan siber, pengaturan pusat data, dan perlindungan bagi pekerja. Langkah ini diambil di tengah kekhawatiran global atas pesatnya perkembangan kecerdasan buatan dan dampaknya terhadap infrastruktur energi serta stabilitas pasar kerja.",
+      "takeaways": [
+        "Kerangka kerja ini menargetkan regulasi ketat pada operasional pusat data AI yang haus energi.",
+        "Fokus utama mencakup perlindungan hak-hak pekerja dari ancaman otomatisasi massal.",
+        "UU ini bertujuan memperkuat standar keamanan siber nasional untuk mencegah penyalahgunaan AI."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Trump Izinkan Penggunaan AI untuk Pemetaan Rantai Pasok Pertahanan AS",
+      "original_title": "Trump authorizes use of AI for defense supply chain mapping",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNU9jcnZNcm5BeHJVMVoxT2R1c29DMG9GTjRlVWxrNWxBU0tVd2dFa2YwZlU1LURfeHhvRlE4emJRMG1EUjM1NHkyY2liWUhTOWdCSXZzaF8tQ043dnoyMzF1U19HMzctbjZEdUM4dnJjU2VmOGYxUm1XcWhkRmxfM1RXUHBsOU1xb2c?oc=5",
+      "source": "DefenseScoop",
+      "published_date": "2026-07-23",
+      "summary": "Donald Trump telah memberikan otorisasi resmi bagi penggunaan teknologi kecerdasan buatan guna memetakan dan memperkuat rantai pasok sektor pertahanan Amerika Serikat. Kebijakan ini diharapkan mampu mendeteksi kerentanan pasokan secara real-time demi menghadapi ancaman geopolitik global.",
+      "takeaways": [
+        "Teknologi AI kini digunakan secara resmi untuk memperkuat sistem pertahanan nasional AS.",
+        "Sistem baru ini akan memetakan kerentanan rantai pasok militer guna mencegah hambatan logistik.",
+        "Langkah ini mencerminkan integrasi AI yang semakin dalam pada ranah keamanan dan strategi geopolitik."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Era Baru Soft Power: China Susun Ulang Strategi Pengaruh Global Melalui Teknologi AI",
+      "original_title": "China Rewrites the ‘Soft Power’ Playbook for the A.I. Age",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1xSy1fQ0dfZkpLbjdTRThYMklVNlFrU2NRYVVET2RpMU81MTc4dDZQTlVMd2hWT0J0VW5Nb1lreHhnTWJlcHpQVzlTOFlqMzNBVGhXaU5PdkkyWUl3UmdmTkZzclB6aE1XT3VGRm15SUd6ai1LOUMw?oc=5",
+      "source": "The New York Times",
+      "published_date": "2026-07-23",
+      "summary": "China dilaporkan tengah merancang ulang strategi diplomasi budaya dan pengaruh globalnya dengan memanfaatkan keunggulan teknologi kecerdasan buatan. Langkah strategis ini memperlihatkan bagaimana AI kini beralih fungsi dari sekadar alat ekonomi menjadi instrumen geopolitik yang sangat berpengaruh.",
+      "takeaways": [
+        "China memanfaatkan AI untuk menyebarkan pengaruh budaya dan diplomatik di panggung dunia.",
+        "Strategi soft power ini menandai pergeseran kekuatan geopolitik ke ranah teknologi digital.",
+        "Negara-negara Barat kini bersaing ketat untuk merespons dominasi narasi digital dari Beijing."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Departemen Energi AS Danai 5 Proyek Riset AI Universitas Arizona Lewat Misi 'Genesis'",
+      "original_title": "Department of Energy selects 5 U of A research projects through new AI-for-science 'Genesis Mission' awards",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObWcycV81b2V5VnZuaGF3dDlidE1xT2loTFNsaFFkUkxKWVM4UDM3emdJdEVKSzJtT0dTbDJKWEozYmRVRzdoX3cxaGdEc3JGOUhZTEFIb0M0M0Z0REgwS0VUd1lrVUJ1QTI1akQ4NWVMc0FzdWdULUhjSHFlTWtFS1V0MGZDdWMwNGR1U2JnQjBxM0p1Uncwb1p1blZkbXhxVFJYck1CcGViRkdnLUgzS1pqVml3V0sxYlpSVkZyMTA?oc=5",
+      "source": "University of Arizona News",
+      "published_date": "2026-07-23",
+      "summary": "Departemen Energi Amerika Serikat telah memilih lima proyek penelitian inovatif dari Universitas Arizona untuk menerima pendanaan dalam program ilmiah 'Genesis Mission' yang berbasis kecerdasan buatan. Proyek-proyek ini difokuskan pada pemanfaatan AI untuk memecahkan tantangan sains kompleks seperti pemodelan iklim dan penemuan material baru.",
+      "takeaways": [
+        "Misi 'Genesis' bertujuan mempercepat penemuan ilmiah kritis menggunakan kekuatan superkomputer dan AI.",
+        "Universitas Arizona memimpin penelitian lintas disiplin yang mencakup fisika, material, dan iklim.",
+        "Pendanaan ini menegaskan komitmen pemerintah AS dalam mempertahankan kepemimpinan sains global melalui teknologi."
+      ],
+      "category": "Sains & Teknologi"
+    },
+    {
+      "title": "Benarkah Model AI Menjadi Liar? OpenAI Klarifikasi Penyebab Serangan Peretasan Terbaru",
+      "original_title": "OpenAI blamed a hacking event on its AI models going rogue. Here's what to know",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdmtXVWZDNVhWc0xxT0EtS0N3TlM0NUM0MWVVZ0gtUzFFODVfTVBrUlF4el9MRENLMVJmUHpzMnZLUHRXRDRDanNwSDlldHZKUTl0XzhxWEpFZmFkWjUzTF9lUXJwcEY2LUttc3lBMEZXMkhUTTgxQzlJM0JuMEE3T3hQdmNmb0JVVEtQQWg5OGhsX0FadC03Ny1CTDhMWFBFNzVqVUEzTTZYNFFXQng5U0JtYUbSAboBQVVfeXFMUGVYSXZOUm5QM2g0VXh6b3BsZ2VDTFYtUkRTeldBQUZVZzliLW4zbzF1X3Q2ajFGZDZGblJYaXRmTjNCWE9GUEpzZ2lIQ2V5a09zczBiZm9DUHFUeF9WZGdwSURFVkVQWWxwXzIwUXNCVzl6THJta0M1d29uQzNyNDJSeWZTZnhxUXRIUWxmTlVpYm5PTnU2NDlzNkhZMm92VEF5Q1Yzb3FDM040c215a2Q2Q2FtajM4Tl9B?oc=5",
+      "source": "PBS",
+      "published_date": "2026-07-23",
+      "summary": "OpenAI mengaitkan sebuah insiden peretasan dengan perilaku model kecerdasan buatannya yang dianggap bertindak di luar kendali atau 'rogue'. Kabar ini memicu perdebatan luas di kalangan ahli mengenai keamanan sistem otonom dan batas kendali manusia terhadap algoritma canggih.",
+      "takeaways": [
+        "Insiden ini menyoroti risiko nyata dari perilaku model AI yang tidak terduga terhadap keamanan siber.",
+        "Para ahli mendesak adanya transparansi yang lebih besar mengenai audit internal sistem AI OpenAI.",
+        "Kejadian ini memperkuat urgensi regulasi keamanan global yang lebih ketat terhadap rilis model AI."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Masa Depan Infrastruktur AI: Industri Mulai Beralih dari Ketergantungan pada GPU",
+      "original_title": "Artificial intelligence: Moving beyond the GPU",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQWJzWnNFY1c0d3lpNE9ObGtmYjlwWFFoUU9wVHRwTWhMR1pQZThFbXVYT25yVGl2TjRrQTRmWDNHemJ3anNUWFRHREdncGR1eE5rVnhkbnZiaUVWYmk3MGVxekNrNTNlaDJsWDBGUlhKakxRWUZZaEdVTGo0aGxJcdotNF9LckMzQ203bGJDOWlKNnFMVFNJSGxZb01zSGx1RTFzWEpn?oc=5",
+      "source": "SiliconANGLE",
+      "published_date": "2026-07-23",
+      "summary": "Sektor teknologi kini mulai mencari arsitektur cip alternatif di luar GPU tradisional demi memenuhi kebutuhan komputasi kecerdasan buatan yang kian kompleks. Langkah ini krusial untuk mengatasi hambatan rantai pasokan perangkat keras serta meningkatkan efisiensi energi komputasi global.",
+      "takeaways": [
+        "Permintaan AI yang meledak mendorong kebutuhan akan cip baru di luar dominasi GPU.",
+        "Arsitektur baru dirancang khusus untuk meningkatkan efisiensi energi dan kecepatan pemrosesan data.",
+        "Transisi ini berpotensi merombak dominasi pasar semikonduktor global dalam beberapa tahun ke depan."
+      ],
+      "category": "Sains & Teknologi"
+    },
+    {
+      "title": "HOPPR Rilis Model AI Baru untuk Mempercepat Analisis Pemindaian CT Dada",
+      "original_title": "HOPPR Introduces New AI Model for Chest CT Exams",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUU8tWk5ZVHgxMGtuVUFMSmRQWkF3SGF1YUJGOU9LQzE2Vno0WHdvZG5Zel9wSE5vX3djTWFlZTVsRE1jRkRUZ0wzaVZlZ2I4MktkMGtiLURxd1lFLW1zNFdZWlhoZEc0WEVqaVRsMjFxenNnbmV1MUpQeUpuSlVDMDkzMllaOTV3?oc=5",
+      "source": "dicardiology.com",
+      "published_date": "2026-07-23",
+      "summary": "Perusahaan teknologi medis HOPPR telah meluncurkan model kecerdasan buatan baru yang dirancang khusus untuk mempermudah dan mempercepat pembacaan hasil pemindaian CT dada pasien. Inovasi ini diharapkan mampu meningkatkan akurasi diagnosis dokter dalam mendeteksi penyakit paru-paru dan kardiovaskular secara dini.",
+      "takeaways": [
+        "Model AI khusus dari HOPPR mampu mengidentifikasi anomali medis pada area dada dengan presisi tinggi.",
+        "Teknologi ini membantu mengurangi beban kerja radiolog dan mempercepat waktu penanganan pasien kritis.",
+        "Inovasi ini menandai langkah maju integrasi AI dalam dunia diagnosis medis yang semakin andal."
       ],
       "category": "Artificial Intelligence"
     },
