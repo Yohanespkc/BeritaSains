@@ -1,7 +1,35 @@
 {
-  "last_updated": "2026-07-24T02:55:11.122135+00:00",
-  "total_articles": 57,
+  "last_updated": "2026-07-25T02:54:00.572461+00:00",
+  "total_articles": 67,
   "articles": [
+    {
+      "title": "Sikap Para CEO Lembah Silikon Dinilai Menguntungkan Rival AI Asal Tiongkok",
+      "original_title": "Silicon Valley CEOs take a stand that helps their Chinese rivals",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcGlQNF9QRFVZd2NBR3BUTHd3SmdVRlhzUWE4Z0hVVElHV0Q3VS13MXNzQy1LdzRvQnNIaFoxNWJGRFQwTlNUMFFjUkhpdkVUNElWVzNQS0o0TVFZRUdXSmN2M2ZvWm9yS0pfdlM4M1V7cExtWjRKWUdtWWNUQkJhUk1weG1ZYmJ6Z2ZTMC1fV0VTQ016VDEySWl3V0V2OENIZnpkOWpuS3luUkJKTjAtdGlB?oc=5",
+      "source": "The Washington Post",
+      "published_date": "2026-07-25",
+      "summary": "Keputusan strategis dari sejumlah pimpinan perusahaan teknologi terkemuka di Silicon Valley secara tidak terduga dinilai memberikan keuntungan bagi kompetitor mereka di Tiongkok dalam perlombaan teknologi AI. Langkah-langkah pembatasan kerja sama global ini memperumit dinamika geopolitik dalam perebutan dominasi kecerdasan buatan dunia. Dampak dari fenomena ini berpotensi merombak arah inovasi global serta mempengaruhi kebijakan keamanan nasional negara-negara barat.",
+      "takeaways": [
+        "Kebijakan tertentu dari para pemimpin teknologi AS dikhawatirkan memberi ruang bagi para pesaing AI di Tiongkok untuk melaju lebih cepat.",
+        "Persaingan global di sektor kecerdasan buatan kini tidak hanya dipengaruhi oleh inovasi murni tetapi juga oleh kepentingan geopolitik yang kompleks.",
+        "Perusahaan teknologi dituntut lebih berhati-hati dalam menavigasi kebijakan bisnis agar tidak merugikan daya saing mereka di kancah internasional."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Pemanfaatan Kecerdasan Buatan di Ruang Pemeriksaan Medis Mulai Diterapkan",
+      "original_title": "Artificial intelligence in the exam room",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNY0s4TTFXczZKZEtkVklhdGcwdmE3U3ViZTR3M2dOd3gxOEUyRDlHMmpQUXZqT0U2ZS1vRVdGQThRNmFxa3VZUHlfYXRTVm1uWnoyVnFfaDR0TDMyUFVzQTdPX3ZQY2lVOG04M3FjTTZMUVgzbThNckxubW9wU2dOZdIBlAFBVV95cUxOR0tlU2R2aHJZa25McTB4TkFMUnVFUnMzUUxhRlpXRHhscWliSDVTam12b09wX0pLUVVPaDA1RWx4LUZBeGlwSU1XNlVOQ2RqcHZwLXFUcTJydVJmbEFrSktVZDVYMWJraWd0QS1SeTh0cDd3eE1JbUloUjEwQ214MC1PbF9VeVpjMEtZMzhtNmxYQXBU?oc=5",
+      "source": "Dakota News Now",
+      "published_date": "2026-07-25",
+      "summary": "Teknologi kecerdasan buatan mulai diadopsi secara nyata di ruang pemeriksaan medis untuk mendampingi dokter dalam proses diagnosis dan pencatatan administratif. Implementasi AI ini terbukti mampu menghemat waktu pengerjaan tugas administratif, sehingga dokter dapat fokus memberikan perhatian penuh kepada pasien. Transformasi digital ini diharapkan mampu meningkatkan kualitas layanan kesehatan serta mengurangi risiko kesalahan penanganan medis.",
+      "takeaways": [
+        "AI kini digunakan secara langsung di ruang pemeriksaan medis guna mempercepat proses analisis rekam medis pasien.",
+        "Integrasi teknologi ini secara signifikan mengurangi beban tugas administratif dokter, yang selama ini menjadi penyebab utama kelelahan profesi.",
+        "Meskipun menawarkan efisiensi tinggi, pengawasan ketat tetap diperlukan untuk memastikan akurasi data diagnostik dan privasi pasien."
+      ],
+      "category": "Sains & Teknologi"
+    },
     {
       "title": "AS dan Koalisi Global Dukung AI Open-Source dengan Standar Keamanan Ketat di KTT China",
       "original_title": "U.S., other nations back open-source AI with 'strong security' at China summit",
@@ -43,6 +71,118 @@
         "Kasus ini memicu desakan agar industri teknologi mengadopsi infrastruktur komputasi yang ramah lingkungan."
       ],
       "category": "Sains & Teknologi"
+    },
+    {
+      "title": "Sembilan Proyek Penelitian Raih Dana Hibah dari Genomics Institute UC Santa Cruz",
+      "original_title": "Nine projects receive seed funding from the Genomics Institute - UC Santa Cruz",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KOGdpcWF4ZzlzcHBsZWZheU1JRC00RVdGVTAtUmFwTjBGcFNGODhkM195d3Z1NFZ4WmU2WHJEM0MxRWVnMjVrcExRUmFYb1RKZUtNN3lCbC1TVTh4SGVwOWlSU2NHRTZnSkZrMFBBM3hpLUMyQWc?oc=5",
+      "source": "News",
+      "published_date": "2026-07-24",
+      "summary": "Genomics Institute di UC Santa Cruz mengumumkan pemberian dana hibah awal untuk mendukung sembilan proyek penelitian genomik baru yang inovatif. Inisiatif ini bertujuan untuk mempercepat penemuan ilmiah penting yang dapat berdampak langsung pada bioteknologi dan kesehatan manusia. Pendanaan ini krusial untuk memfasilitasi riset tahap awal yang berpotensi menghasilkan terobosan medis besar di masa depan.",
+      "takeaways": [
+        "Sembilan proyek riset genomik baru berhasil mendapatkan dukungan dana awal dari Genomics Institute UC Santa Cruz.",
+        "Proyek-proyek tersebut difokuskan pada inovasi bioteknologi guna mengatasi berbagai tantangan medis dan ilmiah yang kompleks.",
+        "Dukungan dana tahap awal ini sangat penting untuk membantu peneliti memvalidasi konsep teknologi mereka sebelum naik ke skala yang lebih besar."
+      ],
+      "category": "Genom & Biotek"
+    },
+    {
+      "title": "Raksasa Teknologi Mulai dari Nvidia hingga Microsoft Bersatu Dukung Model AI Sumber Terbuka",
+      "original_title": "Nvidia, Microsoft and other tech giants back open-source AI models",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT0tzQWRTUldfRzViemRTbXpHNFlLU1l2QzNkRmE0OFZxTkh4WkRtZThGSGRQaWNHMGhzZ01oVE5jeGUyYkNkMDJTTDV3Q1Ayb3l4cjFDOU1QcmVPeFNFLXItcFVESVJtZ1U5ZE1NUkc4Mkw1RTBDR3JDZGJkNXdraEFTZ213RHhIOG5vOTNLTk9fenJPNnFDM2RFY01uUHBGVklDckhsOXJ6UG1wNC1BWDhPYjk0LVU?oc=5",
+      "source": "Reuters",
+      "published_date": "2026-07-24",
+      "summary": "Sejumlah raksasa teknologi terkemuka dunia termasuk Nvidia dan Microsoft secara resmi memberikan dukungan mereka bagi pengembangan model kecerdasan buatan berbasis sumber terbuka (open-source). Langkah strategis ini diharapkan dapat mendemokratisasi akses teknologi AI sekaligus memicu kolaborasi global yang lebih luas dan transparan. Aliansi ini menandai babak baru dalam peta persaingan teknologi, di mana model AI terbuka mulai diposisikan setara dengan model berbayar.",
+      "takeaways": [
+        "Nvidia, Microsoft, dan para pelaku industri teknologi utama bersatu mendukung ekosistem AI berbasis open-source.",
+        "Dukungan ini bertujuan untuk mempermudah akses pengembang global terhadap teknologi kecerdasan buatan canggih tanpa keterbatasan biaya lisensi.",
+        "Inisiatif ini diperkirakan akan mempercepat laju inovasi sekaligus mengubah dinamika kompetisi dengan penyedia model AI tertutup."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Alat Baru Pendeteksi Sumber Video Palsu Berhasil Dikembangkan oleh Peneliti",
+      "original_title": "New tool identifies the sources of fake videos",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWjBDNVJvQ2ViZmhUb3pGNml3aDVSalNtamNsakpwM0pvd212U1ZUQ2tVSWU4UEtfSHVoRkhhRm1xanZmcFl6VmphX3JhLWF0cDNtc1k2Xzc5bEdpRUhmMFpGM1BEd0h6c3hseFpjV2NCbXh3SWxPMF9FSXU3Wm5KQlBGMlFmYTA?oc=5",
+      "source": "University of California, Riverside",
+      "published_date": "2026-07-24",
+      "summary": "Para peneliti di University of California, Riverside telah berhasil menciptakan alat deteksi baru yang mampu mengidentifikasi sumber asli dari video palsu atau deepfake. Sistem inovatif ini bekerja dengan melacak jejak digital unik yang ditinggalkan oleh perangkat lunak AI yang digunakan untuk memanipulasi konten visual. Terobosan ini sangat krusial dalam memerangi ancaman disinformasi global dan kejahatan berbasis manipulasi gambar.",
+      "takeaways": [
+        "Peneliti dari UC Riverside meluncurkan teknologi mutakhir untuk mendeteksi asal-usul pembuatan video manipulasi AI.",
+        "Sistem ini bekerja efektif dengan menganalisis jejak digital spesifik yang umumnya tidak kasat mata secara visual.",
+        "Kehadiran alat ini menjadi benteng pertahanan baru yang krusial dalam melawan penyebaran deepfake dan misinformasi di platform digital."
+      ],
+      "category": "Sains & Teknologi"
+    },
+    {
+      "title": "Peretasan OpenAI: Apakah Ini Peringatan Nyata atau Sekadar Aksi Cari Perhatian?",
+      "original_title": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1hSnd2T2JXZE0teEVfV190R2xyMzVCZjdqaEVocXlCem1XU2R4R1hRbFozZmFpNjFCdktKdHJBWEQwUTkxcG5Nay02MVpReURzMnBraXhOTTdVZw?oc=5",
+      "source": "BBC",
+      "published_date": "2026-07-24",
+      "summary": "Kabar peretasan yang menargetkan sistem internal OpenAI memicu kekhawatiran global mengenai keamanan data dan infrastruktur kecerdasan buatan. Para ahli keamanan siber kini tengah menganalisis tingkat keseriusan insiden ini untuk mengetahui apakah data pengguna yang krusial telah bocor ataukah ini hanya sekadar aksi pamer dari sang peretas. Kasus ini menjadi peringatan keras bagi industri AI tentang mendesaknya penguatan sistem pertahanan siber.",
+      "takeaways": [
+        "Insiden peretasan sistem internal OpenAI memicu diskusi global yang mendalam mengenai kesiapan sistem pertahanan perusahaan AI terkemuka.",
+        "Para ahli keamanan masih mengevaluasi skala kerusakan serta implikasi jangka panjang dari insiden siber tersebut.",
+        "Kasus ini menegaskan bahwa seiring canggihnya teknologi AI, infrastruktur pendukungnya juga menjadi sasaran utama kejahatan siber."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Tuntutan Hukum Terhadap X.AI Terkait Kasus Pembuatan Konten Eksploitasi Anak Menggunakan AI",
+      "original_title": "Arkansas family sues X.AI, says program created child sexual abuse images of 10-year-old daughter",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNUVWNTFmOXZ0M3VaOFR6cHAtSVNYbkNmT0JsMFZRWlJwSlFFN08xYndYWnZOQzNLeHBxU2Y5emFkVVB0ZGZaeTF6OUVxYUZvYkJKV2UxNnkzU2JQTUVYRDd1blJIUnF3ODVOdUFaVXZQZXJRR2dSRXZvOFZfZHl2NmRlMkRyZFBLdWp1aGtGdGZrd3RuVkNtNGdR?oc=5",
+      "source": "The Arkansas Democrat-Gazette",
+      "published_date": "2026-07-24",
+      "summary": "Sebuah keluarga di Arkansas telah mengajukan gugatan hukum terhadap perusahaan X.AI dengan tuduhan bahwa generator gambar AI mereka digunakan untuk memproduksi materi eksploitasi seksual anak yang menyerupai putri mereka yang berumur 10 tahun. Kejadian tragis ini memicu kecaman luas serta mempertegas bahaya mengerikan dari teknologi AI generatif yang beroperasi tanpa pengawasan ketat. Kasus ini diyakini akan memaksa para pengembang teknologi untuk meningkatkan kontrol keamanan moral pada platform mereka secara drastis.",
+      "takeaways": [
+        "Gugatan hukum diajukan terhadap X.AI atas dugaan kegagalan sistem dalam membatasi pembuatan gambar eksploitatif anak.",
+        "Kasus ini menjadi bukti nyata adanya potensi bahaya sosial dan moral dari penyalahgunaan teknologi kecerdasan buatan generatif.",
+        "Tuntutan ini diperkirakan akan menjadi yurisprudensi penting yang memperketat aturan pertanggungjawaban hukum bagi pengembang AI."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Aturan yang Longgar Dinilai Membuat Pengembangan Kecerdasan Buatan Semakin Tidak Aman",
+      "original_title": "Weak AI regulations may leave artificial intelligence less safe",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOW9kbWc2emc1c1c2dnpEXzg0YnJlM1h4ZjAxcEJEYktsZW5YbjV3bWt0czBZQ1l3WGtKYm90NlE3Z3NHU0ZCdmpLMUZHSGFWejgxMENHREFlalRXNkZ0WVdBVTBZb1JVcnVGVDJ6ellOdjBEcU13Q096a0dZb1NDTVdVeXlFLTNJdHZpaE5GVTFnUDc5WkE?oc=5",
+      "source": "Earth.com",
+      "published_date": "2026-07-24",
+      "summary": "Laporan terbaru memperingatkan bahwa kurangnya regulasi yang tegas dan komprehensif dalam pengembangan AI dapat membahayakan keselamatan publik di masa mendatang. Tanpa adanya aturan main yang jelas, perusahaan teknologi berpotensi melewatkan uji coba keamanan kritis demi meluncurkan produk lebih cepat ke pasar. Para pakar menekankan perlunya kolaborasi global untuk menetapkan standar kepatuhan regulasi AI yang ketat.",
+      "takeaways": [
+        "Regulasi AI yang terlalu lemah dan longgar dinilai dapat melahirkan ancaman keamanan baru di tengah masyarakat luas.",
+        "Ada dorongan kuat agar pembuat kebijakan menyusun standar keselamatan universal yang wajib dipatuhi pengembang AI sebelum teknologi dirilis.",
+        "Mencapai keseimbangan antara mendorong inovasi dan menjaga keamanan pengguna kini menjadi prioritas utama para regulator dunia."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Distrik Sekolah Katy ISD Batasi Penggunaan Kecerdasan Buatan di Ruang Kelas Sekolah Dasar",
+      "original_title": "Katy ISD restricts the use of AI in elementary school classrooms",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNkVOalRjY1E0Zks4aURaLWFDd1g5bjYyTy1vaUJkbEV4SGpveGNyT3BtOU02N3NYeElPQWptT2swSHpxZTFkR0FkZ09IZjhrWjNSeEFQbVV2QTVZYmpQZTBuUlI0dGJ1aVVsaF9pOW9HS1J5QXk4azBCcWlCSUZtUFE1UUVWRzRncV9lM2tqc25BVFViU2s4TDBYZi1JQWxJaXpuRjh6ZVJqWTJYZ2tsR2o1TncwdVZJb2RXby1R0gG-AUFVX3lxTE02RU5qVGNjUTRmSzhpRFotYUN3WDluNjJPLW9pQmRsRXhIam94Y3JPcG05TTY3c1h4SU9Bam1PazBIenFlMWRHQWRnT0hmOGtaM1J4QVBtVXZBNVlialBlMG5SUjR0YnVpVWxoX2k5b0dLUnlBeThrMEJxaUJJRm1QUTVRRVZHNGdxX2Uza2pzbkFUVWJTazhMMFhmLUlBbElpem5GOHplUmpZMlhna2xHajVOdzB1VklvZFdvLVE?oc=5",
+      "source": "Houston Public Media",
+      "published_date": "2026-07-24",
+      "summary": "Distrik Sekolah Independen Katy (Katy ISD) resmi mengeluarkan aturan yang membatasi penggunaan alat kecerdasan buatan di kalangan siswa sekolah dasar di lingkungan kelas. Kebijakan ini diterapkan karena adanya kekhawatiran bahwa ketergantungan yang terlalu dini pada AI dapat menghambat perkembangan kemampuan berpikir kritis dasar dan keterampilan menulis manual anak-anak. Aturan ini menjadi contoh nyata dari tantangan yang dihadapi sektor pendidikan dalam menyelaraskan laju teknologi dengan perkembangan anak didik.",
+      "takeaways": [
+        "Katy ISD secara formal membatasi akses alat kecerdasan buatan bagi siswa sekolah dasar di dalam ruang kelas.",
+        "Kebijakan ini dirancang untuk menjaga kemandirian berpikir kritis serta kemampuan akademis dasar tanpa bantuan teknologi instan.",
+        "Langkah pembatasan ini menyoroti perdebatan berkelanjutan mengenai usia yang tepat bagi anak-anak untuk mulai berinteraksi dengan AI generatif."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Departemen Luar Negeri AS Rilis Buku Panduan Resmi Terkait Penggunaan AI Generatif",
+      "original_title": "State department releases playbook for generative AI",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYXpnWUR1M3hXQTRCYUEtRWt6emNIZkdsM0JOLVFfTkJYeHo5M2hLdmh0OHJJdXU4bG94M1BtSGZsdVZsX1VwUHJTc2g3aEdtZ1NiQ1B3QWJqM016Zmdvcm9hbW5oMDlLZnpZWUlhZnRzOUZnOENmY0JQR3V3Z0dZVjYwYXpJeHNoeWwxazRKSkVXX1NnVWFJWWg3WTNaZ1ktekViaUNlZWJoZm55dmh3QXd3TEdNcEVmWFZyZ2g2QTdSX3hVQTVNdThkM1VVZG45?oc=5",
+      "source": "Nextgov/FCW",
+      "published_date": "2026-07-24",
+      "summary": "Departemen Luar Negeri Amerika Serikat meluncurkan buku panduan resmi (playbook) yang mengatur tata cara pemanfaatan teknologi kecerdasan buatan generatif dalam tugas pemerintahan. Langkah ini diambil untuk memastikan agar penggunaan AI oleh para pegawai dilakukan secara aman, beretika, serta sejalan dengan protokol keamanan data negara yang ketat. Inisiatif dari instansi pemerintah ini diharapkan dapat menjadi contoh standarisasi tata kelola teknologi modern bagi lembaga negara lainnya.",
+      "takeaways": [
+        "Buku panduan resmi dirilis untuk memberikan arahan jelas mengenai penggunaan AI generatif di lingkungan kerja diplomatik.",
+        "Kebijakan ini memfokuskan pada aspek perlindungan data sensitif, transparansi, dan tanggung jawab etika dalam pemanfaatan teknologi.",
+        "Inisiatif ini menjadi bukti keseriusan institusi pemerintahan dalam mengadopsi AI secara terstruktur demi meningkatkan efisiensi kerja."
+      ],
+      "category": "Artificial Intelligence"
     },
     {
       "title": "Pendekatan Mekanika Kuantum pada AI Janjikan Hasil Pengobatan Kanker yang Lebih Baik",
