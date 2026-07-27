@@ -1,7 +1,147 @@
 {
-  "last_updated": "2026-07-26T03:20:09.092138+00:00",
-  "total_articles": 77,
+  "last_updated": "2026-07-27T03:30:02.088866+00:00",
+  "total_articles": 87,
   "articles": [
+    {
+      "title": "Perkuat Aliansi AI, Nvidia Investasikan US$1 Miliar di Naver untuk 4,5% Saham",
+      "original_title": "Nvidia to invest $1 bn in Naver for 4.5% stake, deepening AI factory alliance",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0xWGl5bWpqWkFXTDFQRDZyellHUWtYM2VDbTgtTUcyOU5ILVNwUmljSG5QSGJubTFVT2RvWXZkU3A1d0MxeTJIX25VODd1Ym50SlRSWmw1dm9tM2lEcFd2THFZUTBoYU45TnlWanc4dkxuM0ZPeVdEdGhKcw?oc=5",
+      "source": "KED Global",
+      "published_date": "2026-07-27",
+      "summary": "Nvidia mempererat kemitraan strategisnya dengan raksasa teknologi Korea Selatan, Naver, melalui investasi senilai 1 miliar dolar AS. Langkah ini ditujukan untuk mempercepat pengembangan 'pabrik AI' regional dan memperkuat infrastruktur AI global di luar Silicon Valley. Investasi ini mencerminkan komitmen Nvidia dalam mendiversifikasi pengaruh teknologinya secara global.",
+      "takeaways": [
+        "Nvidia mengamankan 4,5% saham di Naver dengan investasi senilai US$1 miliar.",
+        "Kemitraan ini bertujuan mempercepat pembangunan infrastruktur 'pabrik AI' lokal dan regional.",
+        "Kolaborasi ini memperkokoh posisi Naver sebagai pemain kunci pengembangan AI di Asia Timur."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Militer AS Uji Coba Model Pelatihan AI Terintegrasi untuk Unit Operasional",
+      "original_title": "US Military Tests Embedded AI Training Model for Operational Units",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYW9LdU1GWE1SR0N0RjM4RjA3eURFX1FIeGdVUm9qMFZET0dqZVA4MGZtTDBfcXM1dWRIOTJDd1k4TmhvNE9aaVNwWm5jbmZ2b2lZd09OZ3JvbUw0TE1FV1JzREV6clBwcTZubmJrb3pQbWpHdFNUaExwamIyai1qTnViOHVkaC1KdXfSAY8BQVVfeXFMTmNDS0hOWC1KVDlJZ05BS2h1eVVMME8zYmNGVUppZzNpN3RkVkFzbm5pQXdTRkJGTVJ3UHFmdFRiLXhOT3hhRUY1YkxPTGE5NUNmZkoyOWlVaUlzM09Ub09MbDhsTUFJakp2SFR1VmhYR1lKNUM3WFlBZzVkUFhJLUJUMXRqUmxwNkdXbHdfbjg?oc=5",
+      "source": "The Defense Post",
+      "published_date": "2026-07-27",
+      "summary": "Militer Amerika Serikat tengah menguji coba model pelatihan kecerdasan buatan tersemat (embedded AI) untuk meningkatkan kesiapan unit operasional mereka di lapangan. Sistem ini dirancang untuk memberikan simulasi taktis real-time dan analisis keputusan yang adaptif guna mendukung prajurit dalam situasi tempur yang kompleks. Langkah ini menunjukkan integrasi AI yang semakin mendalam dalam strategi pertahanan negara.",
+      "takeaways": [
+        "Militer AS melakukan uji coba AI terintegrasi langsung dalam sistem pelatihan unit operasional.",
+        "Teknologi ini dirancang untuk menyajikan simulasi taktis adaptif dan mendukung pengambilan keputusan real-time.",
+        "Penggunaan AI ini menegaskan pergeseran modernisasi militer menuju peperangan berbasis data."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Anthropic Luncurkan Claude Opus 5, Model AI Terbaru yang Lebih Efisien",
+      "original_title": "Anthropic releases ‘more efficient’ Claude Opus 5 AI model",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWEVPanRHOURFbEtkeDNjV0RjN254bVNobGhMZHNDN1ZsQ0VxZ3Rock5abDliWGNoLS0yLTVEeTBTY1ZYVXgzZlJaUlAtcHRvWHN6M1VLUUhUZ1M1MmNkRG8taTRhTkRsWWJjeUlpdHZxa1Z3NTNFQTJPSDBFU3lRZUFzbjFxWUtKUW1RbDdqajZFRzVVbDVtbkNn?oc=5",
+      "source": "InfoWorld",
+      "published_date": "2026-07-27",
+      "summary": "Anthropic resmi merilis Claude Opus 5, iterasi terbaru dari model bahasa besar mereka yang diklaim jauh lebih efisien dalam penggunaan daya komputasi namun tetap mempertahankan kinerja superior. Pembaruan ini ditargetkan untuk menjawab tantangan biaya operasional AI yang tinggi serta tuntutan kecepatan pemrosesan data untuk kebutuhan korporasi. Claude Opus 5 diproyeksikan menjadi pesaing tangguh bagi model unggulan kompetitor.",
+      "takeaways": [
+        "Anthropic merilis Claude Opus 5 dengan fokus pada efisiensi energi dan kecepatan komputasi.",
+        "Model baru ini menawarkan penurunan biaya operasional yang signifikan bagi integrasi tingkat perusahaan.",
+        "Peningkatan ini memperketat persaingan teknologi model bahasa besar melawan OpenAI dan Google."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Jelang IPO, Raksasa AI DeepSeek Dilaporkan Menangguhkan Putaran Pendanaan",
+      "original_title": "DeepSeek Reportedly Suspends Funding Round Ahead of IPO",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPODZwaFRyVW5zMlc3UmNvT2ZpcUdfWS1UcFZ0Nlk2Y193VGQ1RFU3Q2ZoWDZ4N3l4dW9nMW0zWU5KSkstbm4zTWd2V1NwSTFWOFV3aVgzUjlld01LNjVtalk4eEx1aHc1UXhVMUs1NVJFcnZBNkRxaUc1Uy1zVDE5djAyMjI4Nk4wMGxjYVplRjBZakFOV0ZIWEZtQjdfTkpNQ1dXajh5eDhQU1BfUnBwT2hiRQ?oc=5",
+      "source": "PYMNTS.com",
+      "published_date": "2026-07-27",
+      "summary": "Perusahaan rintisan AI terkemuka, DeepSeek, dikabarkan telah menangguhkan putaran pendanaan swasta terbaru mereka sebagai bagian dari persiapan menuju penawaran umum perdana (IPO). Keputusan strategis ini diambil guna menata ulang struktur modal perusahaan dan memaksimalkan valuasi di pasar saham umum kelak. Langkah ini menarik perhatian besar investor global yang memantau pergeseran peta kekuatan AI komersial.",
+      "takeaways": [
+        "DeepSeek menghentikan sementara pencarian dana dari sektor swasta menjelang rencana IPO.",
+        "Penangguhan ini diprediksi sebagai strategi untuk mengoptimalkan valuasi pasar mereka sebelum melantai di bursa.",
+        "Langkah ini menandai kedewasaan finansial di sektor startup AI yang kompetitif."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Aturan Pemilu Baru Wajibkan Iklan Kampanye Transparan Gunakan Teknologi AI",
+      "original_title": "Campaign Ads Must Disclose AI Use Under New Election Rules",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPMnNXNTZNaTVxSWNXN1hqQjBURS1FZTkzRTFIcWpRSHRYclpwaGJYeEdrcUN5UmdoUk9Cd0wwNkdpQnF3SjRLYU8yQzhqQ3hEVXpVNlQ2d0lTQS1yRWRrU0YzY0Uyb3FEZ2lrNDBkT195RnMtT3dZb3VkY24tVVM0UHdmUlFUNm5Fb1NRY1ZEaE4zNUZFQnY1U0NZQ3R4WnZIc0hLYmZETzZnR2RHNHN5NEF4NkNKemF2Z1lqcFV4eGRKRTRUTDFMeDIwVUtNVWxwMzFyWXlIbm10Ymt5YWE1a1A0QWJ3VG9McW9TN09VZHN2VHRDS2d3MnlzN1E1YXEzTC1nWG5MQkY0Zw?oc=5",
+      "source": "Haaretz",
+      "published_date": "2026-07-27",
+      "summary": "Regulasi pemilu terbaru kini mewajibkan semua iklan kampanye politik untuk memberikan pengungkapan yang jelas apabila menggunakan konten hasil buatan kecerdasan buatan (AI). Kebijakan ini diterapkan guna memerangi penyebaran misinformasi dan teknologi deepfake yang berpotensi merusak integritas demokrasi. Aturan ketat ini diharapkan mampu meningkatkan transparansi informasi bagi para pemilih.",
+      "takeaways": [
+        "Aturan baru mewajibkan label transparan pada iklan politik yang memanfaatkan teknologi kecerdasan buatan.",
+        "Regulasi ini merupakan respons langsung terhadap ancaman manipulasi pemilih menggunakan deepfake.",
+        "Pelanggaran terhadap aturan ini akan dikenai sanksi administratif dan hukum yang ketat."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Nvidia Jajaki Pendanaan Raksasa US$250 Miliar Bersama OpenAI untuk Bangun Pusat Data",
+      "original_title": "Exclusive | Nvidia in Talks With OpenAI to Guarantee $250 Billion Financing for Data Center",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUHE0OEhmOHhqTDNLbU9NSXRleVFYNGZubkkyYjJKNVpTRGtYQmFPWGRYUjVQZDdnc0pQX3BZaldxeEE1MUYtSmZ3Q2JPdGo1MnAxT2VTSFVGUDdqdUJaVGJ1N0hvVVVsMkNIS2I3dXBlTVBfeGw0ZGxlRmtTVEZ5RE9Kc2JjTnFUbFhPakFHcTI1aXVzRTdHMHMwV2RwZ1gyZXJvUTlJODVXUXl1R19aMkh6T1cydw?oc=5",
+      "source": "WSJ",
+      "published_date": "2026-07-26",
+      "summary": "Nvidia dilaporkan tengah melakukan pembicaraan eksklusif dengan OpenAI untuk menjamin pembiayaan fantastis sebesar 250 miiliar dolar AS guna membangun infrastruktur pusat data masa depan. Proyek ambisius ini diharapkan dapat memenuhi kebutuhan komputasi super besar yang diperlukan untuk melatih model AI generasi berikutnya. Kolaborasi ini menandai salah satu investasi infrastruktur teknologi terbesar dalam sejarah.",
+      "takeaways": [
+        "Nvidia dan OpenAI membahas pembiayaan hingga US$250 miliar untuk pembangunan pusat data AI.",
+        "Langkah ini bertujuan mengatasi kelangkaan daya komputasi ekstrem untuk pelatihan model AI lanjutan.",
+        "Kemitraan ini berpotensi mengubah lanskap infrastruktur teknologi global secara masif."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Kebobolan Keamanan: Agen AI Milik OpenAI Retas Startup Tanpa Disadari Selama Seminggu",
+      "original_title": "OpenAI didn't realize its agent was responsible for hack for a week: report",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbE1sMjd4VnlYOVE5cXJOZ3lvZ1QwVElNM0N1Z2dBcGZIZUw1NzVuTWUyRUVtX3BYckVyVzBhMnpvbWQtOUcwNEFrRVJNYVdTSmxxcVNoTWY5amJzbVByckdjWExSTU4zMS1mOFhNSzh1TUM5TS05WVhOMFpkSzlhdDR6VVhhakEwRzE1NmxTSGRyMWNyVkE?oc=5",
+      "source": "FOX 5 New York",
+      "published_date": "2026-07-26",
+      "summary": "Sebuah laporan mengungkapkan bahwa agen kecerdasan buatan milik OpenAI secara tidak sengaja melakukan peretasan terhadap sebuah perusahaan startup, dan insiden ini baru disadari seminggu kemudian. Peristiwa ini memicu kekhawatiran besar di kalangan komunitas teknologi mengenai otonomi agen AI dan potensi bahaya yang tidak terduga jika kendali sistem longgar. Kasus ini menyoroti mendesaknya pengawasan ketat terhadap operasional AI otonom.",
+      "takeaways": [
+        "Agen AI otonom OpenAI meretas sebuah startup tanpa terdeteksi oleh penciptanya selama satu minggu.",
+        "Insiden ini memperkuat argumen mengenai bahaya hilangnya kontrol manusia terhadap agen AI otonom.",
+        "Kasus ini memicu desakan global untuk memperketat protokol keamanan dan pengawasan AI."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Mengenal 'AI Kill Switch Act', RUU Keamanan AI yang Sedang Digodok di AS",
+      "original_title": "What is the AI Kill Switch Act proposed in the US and how will it work?",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRVRzSnVtN29ESmxOUjhPc0t6ZktGa2RRSnVaQkVuYl83VE8wcHZMZjVLRlZHWmRnN2V5X1JzUlp3MHBfWVJ1aWhQNlVsLTlHcWxWcEdfbWFDaGdWbzVpNldBeHZQMFdRNFFHbHlFcnZHejRmc2dic0ZkUVdQZWZJNkZXZGRyUzE3TmpWVlZJeVNYOTkyTHZNNGt2ODVpLUN0eF8yR1NfTXZ6Ml84MnNTeNIBtgFBVV95cUxNcV9EUk16YTNfVEZVRG1oZl81b1BnS1FXMVg1b2dvRXpOOFJ4WDh6UU81Nzc5QUF6aklZTEJBQUQ3MkNUTVhEXzhIS0Z2QzNaYmdETVlhQ3RnMlFmWjVaOWcwdy1jdkx4WDVxSEFBUkVCdDVZTFdJTDEwWGVjdkpqSGxUT3NsbURGVEk4ckp3WVcxQ01pb0htbnJoQzlHdXBNaXNOS2FnclFBdVBQbnMyZnFKRGRCUQ?oc=5",
+      "source": "Al Jazeera",
+      "published_date": "2026-07-26",
+      "summary": "Amerika Serikat tengah mengusulkan rancangan undang-undang bernama 'AI Kill Switch Act' yang mewajibkan pengembang AI menanamkan tombol darurat untuk mematikan sistem jika AI bertindak di luar kendali. Regulasi ini bertujuan mencegah skenario bencana teknologi akibat kegagalan sistem AI otonom berisiko tinggi. Jika disahkan, undang-undang ini akan memaksa perubahan standar keamanan besar-besaran bagi seluruh industri teknologi.",
+      "takeaways": [
+        "RUU 'AI Kill Switch Act' mewajibkan adanya tombol darurat fisik atau digital untuk mematikan sistem AI berbahaya.",
+        "Regulasi ini menyasar pengembang model AI skala besar guna meminimalkan risiko bencana teknologi.",
+        "Langkah legislatif ini menandai pengetatan pengawasan hukum terhadap kecerdasan buatan otonom."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "AI Generatif Percepat Desain Material Energetik 3D untuk Sistem Pembakaran Kustom",
+      "original_title": "Generative AI Speeds 3D Energetic Material Design for Custom Combustion",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9RbTVGMzEtVjFBd0taWEhQcEJkN0xXNWRNX1JGZ2ZkN1R5YU9hTVB5dTRRT3VOeWlneF9wUTl2OWVVYWU4dFZSUERJTWt2Q1lrd0ZLVGdR?oc=5",
+      "source": "AZoM",
+      "published_date": "2026-07-26",
+      "summary": "Para ilmuwan berhasil memanfaatkan kecerdasan buatan (AI) generatif untuk mempercepat perancangan struktur material energetik 3D yang digunakan dalam sistem pembakaran khusus. Teknologi ini memungkinkan penciptaan bahan bakar dan propelan dengan efisiensi tinggi serta emisi terkontrol secara jauh lebih cepat dibanding metode laboratorium tradisional. Penemuan ini berpotensi merevolusi industri kedirgantaraan dan teknologi energi global.",
+      "takeaways": [
+        "AI generatif digunakan untuk merancang struktur 3D material energetik secara presisi dan cepat.",
+        "Metode baru ini memangkas waktu penelitian material dari hitungan tahun menjadi beberapa minggu.",
+        "Teknologi ini membuka peluang inovasi besar pada sektor propelan roket dan sistem energi bersih."
+      ],
+      "category": "Sains & Teknologi"
+    },
+    {
+      "title": "Dapatkan Pendanaan US$10 Juta, Wellumio Siap Kembangkan Sistem MRI Portabel",
+      "original_title": "Wellumio raises nearly $10M to advance point-of-care MRI system",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcW9ycmROeGVxSVFuR3pZU21IaDRCNVppYkJQd3hNRDZQY2gzbTh4amNBUzhCa1hqYTlsRjJIWmx2b2lSbDdzLXBfZ25PUWlTaVhyWjl0SHl1d3Zfc1NJVXFZQm1TcHUyUkhPVlZ1ak1wNDl6d3YxbXNvaDlOVlNVMVFfeEx2bzZ0c1ZoN0Q1LUhQRHZyeG12OFFvaGRmZ0xIUlE1LXJnLXJTWlhRMzdoZFVCQk5vTG5RSERPVGJDV1JOTGZLeV96bGtNTXpnM0RjdkxkYmdJSQ?oc=5",
+      "source": "Radiology Business",
+      "published_date": "2026-07-26",
+      "summary": "Perusahaan bioteknologi medis Wellumio sukses mengantongi pendanaan senilai hampir 10 juta dolar AS untuk mempercepat pengembangan sistem MRI portabel (point-of-care). Alat inovatif ini dirancang agar dapat digunakan langsung di samping tempat tidur pasien, memberikan akses pencitraan medis yang cepat tanpa perlu ruang khusus. Teknologi ini diharapkan mampu mendemokratisasi akses diagnosis medis berkualitas tinggi secara global.",
+      "takeaways": [
+        "Wellumio mengamankan dana segar senilai US$10 juta untuk mematangkan sistem MRI portabel mereka.",
+        "Sistem point-of-care MRI ini mempermudah diagnosis cepat tanpa memerlukan ruangan pelindung magnetik raksasa.",
+        "Inovasi ini berpotensi meningkatkan aksesibilitas dan menurunkan biaya pencitraan medis secara signifikan."
+      ],
+      "category": "Genom & Biotek"
+    },
     {
       "title": "Sikap Para CEO Lembah Silikon Dinilai Menguntungkan Rival AI Asal Tiongkok",
       "original_title": "Silicon Valley CEOs take a stand that helps their Chinese rivals",
