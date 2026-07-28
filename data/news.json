@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-07-27T03:30:02.088866+00:00",
-  "total_articles": 87,
+  "last_updated": "2026-07-28T02:46:26.578552+00:00",
+  "total_articles": 96,
   "articles": [
+    {
+      "title": "Implementasi AI di Duke Health Diiringi Pengawasan Ketat Demi Menjamin Etika Medis",
+      "original_title": "As Duke Health implements AI, oversight initiatives try to ensure ethical practices",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNQ2ZOSVJSOU5ha05UaUowNEFyYndlSHJfMHFMcXZ4d2lQUHVwWDJMb2NrcWpRSElPTzhGaHZhTUlIVXkxTF9PV083aXFNbEF6SVdNU2NvUmFiWEk1YTN3clpGMnVTNDZaLWd5RkNrakVhem5NUmZkMkxpd0psUHV2NzFkM21IaldhYTBUYnZKc0RsVlY4eGUzckdPMzFkVERJUGMyT3Z5VWxMcDd3b2hkTjZDc1YwdFZfX284NlN4ekJXMG9nSWRMbElMekRIRmtxdnIxMGNObk1NQ0VNamRNTEY2R1VqR2NpWW00cjBGUFY3LXlvTnhkNzVEcWltUFI2QVpPTE5kLWJydEdkMTdIS2psQVdyZHVVOVE?oc=5",
+      "source": "The Duke Chronicle",
+      "published_date": "2026-07-28",
+      "summary": "Duke Health secara aktif mengadopsi teknologi kecerdasan buatan dalam layanan kesehatannya, sembari menerapkan inisiatif pengawasan ketat untuk memastikan kepatuhan etika. Program ini dirancang untuk mencegah bias algoritma, melindungi privasi data pasien, dan mempertahankan kualitas perawatan yang adil. Langkah ini sangat penting sebagai cetak biru bagi institusi medis lain dalam menyeimbangkan inovasi teknologi dengan tanggung jawab kemanusiaan.",
+      "takeaways": [
+        "Duke Health menerapkan sistem tata kelola berlapis guna mengawasi implementasi AI dalam operasional klinis mereka.",
+        "Perlindungan data pasien dan mitigasi bias algoritma menjadi fokus utama dalam menjaga standar etika medis.",
+        "Langkah ini membuktikan bahwa adopsi teknologi mutakhir di sektor kesehatan harus berjalan selaras dengan prinsip moral kemanusiaan."
+      ],
+      "category": "Artificial Intelligence"
+    },
     {
       "title": "Perkuat Aliansi AI, Nvidia Investasikan US$1 Miliar di Naver untuk 4,5% Saham",
       "original_title": "Nvidia to invest $1 bn in Naver for 4.5% stake, deepening AI factory alliance",
@@ -71,6 +85,132 @@
         "Pelanggaran terhadap aturan ini akan dikenai sanksi administratif dan hukum yang ketat."
       ],
       "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Departemen Energi AS Pilih 5 Proyek Penelitian Universitas Arizona untuk Program AI Sains 'Genesis Mission'",
+      "original_title": "Department of Energy selects 5 U of A research projects through new AI-for-science 'Genesis Mission' awards",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObWcycV81b2V5VnZuaGF3dDlidE1xT2loTFNsaFFkUkxKWVM4UDM3emdJdEVKSzJtT0dTbDJKWEozYmRVRzdoX3cxaGdEc3JGOUhZTEFIb0M0M0Z0REgwS0VUd1lrVUJ1QTI1akQ4NWVMc0FzdWdULUhjSHFlTWtFS1V0MGZDdWMwNGR1U2JnQjBxM0p1Uncwb1p1blZkbXhxVFJYck1CcGViRkdnLUgzS1pqVml3V0sxYlpSVkZyMTA?oc=5",
+      "source": "University of Arizona News",
+      "published_date": "2026-07-27",
+      "summary": "Departemen Energi Amerika Serikat telah memilih lima proyek riset dari Universitas Arizona untuk didanai melalui penghargaan program 'Genesis Mission'. Inisiatif ini berfokus pada pemanfaatan kecerdasan buatan guna mempercepat penemuan ilmiah di berbagai bidang kompleks, mulai dari ilmu material hingga energi terbarukan. Kolaborasi ini menandai langkah maju krusial dalam mempercepat inovasi teknologi melalui komputasi tingkat tinggi berbasis kecerdasan buatan.",
+      "takeaways": [
+        "Program 'Genesis Mission' bertujuan mengintegrasikan AI mutakhir untuk memecahkan tantangan sains dan energi terbesar saat ini.",
+        "Lima proyek riset Universitas Arizona berpotensi mempercepat inovasi dalam material maju dan mitigasi perubahan iklim.",
+        "Pendanaan ini menunjukkan pentingnya sinergi antara pemerintah dan akademisi untuk memimpin revolusi sains berbasis AI."
+      ],
+      "category": "Sains & Teknologi"
+    },
+    {
+      "title": "CEO OpenAI Sam Altman Klaim Singularitas AI Telah Tiba",
+      "original_title": "OpenAI CEO Sam Altman claims AI singularity has arrived - ABC News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPelU4cDRWSmdDVFdIYXJXSjItVkZtcTRjLXhmSDB5YlI3LVM2cTUtLWtETG9VV3ZiYkJMR2M3VEZid0NZY1lSUFBDS3M1YkJZYjJkYi1uR2NuT0JJZHB4R2I0OXpEQmtsOEFMZFpBSE1OaHBlTFFwR0F6c2tGb2dNN0syQjFyUFdsNGpBR19TTkdWc1pxWFRHVG4wdGJfQXFy0gGmAUFVX3lxTE1DMTlTbUJYTUhfeUZLVlVTLTYyeDltS2IzQ1d2dVNjN2JGdnFHYTZWaUdOOXNNUzloMEhZdXFBNnpIS3dWcXlaLTNaa1VONHg0TDJNR1djTng3LWd6T2hSbnB6aEluX2d6YnhKd3BZRHlpTk03WDdaSnEtM3lraUdzS1RZaDh5dTc3VXpOeVZTN2QyMFdEMmRGaHFKdXRaWndLdWZyZHc?oc=5",
+      "source": "Breaking News, Latest News and Videos",
+      "published_date": "2026-07-27",
+      "summary": "CEO OpenAI Sam Altman menyatakan bahwa era singularitas kecerdasan buatan (AI) di mana kemampuan mesin melampaui kecerdasan manusia telah dimulai. Pernyataan ini memicu perdebatan global yang sengit mengenai kesiapan regulasi, keamanan teknologi, serta masa depan pekerjaan manusia. Dampaknya dinilai akan sangat masif terhadap semua sektor kehidupan karena transisi teknologi ini berlangsung lebih cepat dari perkiraan sebelumnya.",
+      "takeaways": [
+        "Klaim singularitas AI oleh Sam Altman memicu babak baru dalam diskusi etika dan keselamatan AI global.",
+        "Kecepatan perkembangan teknologi ini menuntut percepatan regulasi agar tidak menimbulkan disrupsi sosial yang tidak terkendali.",
+        "Transisi ini menandai pergeseran dari AI asisten menjadi sistem otonom dengan kapasitas intelektual super."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Risiko dan Tantangan Saat Chatbot AI Menangani Krisis Kesehatan Mental",
+      "original_title": "What happens when AI chatbots handle a mental health crisis?",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVnNxSWxHZmxfM1dmLTE0eV9NMGd6TUxxbEw2Tm1lUkhXbFlxbFNwTTFXSUVEUlNxSk1qVmJvdFdUamp2MDVBWWFKNnpLNFRwa3lna0VrOEtka1VkRVhPR2RRLTBoUk54djBpSUU3b0t4UTQ4RjlvLXNXdzJLNHR6S2NodTF2NWRNRnBLRWtET2E1RElSOUFMU0hPR19wLWl4SFN2c19qRQ?oc=5",
+      "source": "NPR",
+      "published_date": "2026-07-27",
+      "summary": "Penggunaan chatbot bertenaga kecerdasan buatan kini mulai merambah layanan penanganan krisis kesehatan mental darurat. Meskipun menawarkan aksesibilitas tanpa batas, ketergantungan pada AI dalam situasi kritis ini menimbulkan risiko kesalahan diagnosis atau respons emosional yang tidak memadai. Hal ini memicu kekhawatiran tentang batas etika dan keselamatan pasien yang membutuhkan empati manusia secara langsung.",
+      "takeaways": [
+        "Chatbot AI menawarkan solusi cepat untuk krisis kesehatan mental, namun tidak dapat menggantikan peran empati psikolog manusia.",
+        "Respons AI yang tidak tepat atau salah dalam situasi kritis berpotensi memperburuk kondisi psikologis pasien.",
+        "Diperlukan standar regulasi yang ketat sebelum mengintegrasikan AI ke dalam sistem darurat medis dan psikologis."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Studi Mengungkap Mengapa Saran AI yang Salah Justru Membuat Pengguna Semakin Yakin",
+      "original_title": "Why wrong AI advice makes people more certain",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNemthTFMxazd2YkIwcGpBWlBkbnR5Y3F1OG9xQl8tVElSMUdjUl9qblQxVnozSDBHdGRRV2M1UHVpRHNURWZlS1lhSFdRR0dmN3Q1ak1GbEhHdThDUmhCR3Y0dlZvSkIyZ1ZBX1d0NE83VVNLRjRqdGJBZEg4SnB3NDh3?oc=5",
+      "source": "IBM",
+      "published_date": "2026-07-27",
+      "summary": "Sebuah penelitian terbaru menunjukkan fenomena psikologis unik di mana orang cenderung menjadi lebih percaya diri setelah menerima saran dari AI, bahkan ketika saran tersebut salah. Fenomena ini disebabkan oleh bias kepercayaan terhadap mesin (machine bias) yang membuat manusia kurang kritis dalam menyaring informasi. Dampaknya, penyebaran misinformasi dan kesalahan pengambilan keputusan berbasis data bisa meningkat jika pengguna tidak dibekali literasi AI yang memadai.",
+      "takeaways": [
+        "Pengguna sering kali menunjukkan kepercayaan berlebih terhadap rekomendasi yang dihasilkan oleh kecerdasan buatan.",
+        "Kurangnya verifikasi manual terhadap output AI meningkatkan risiko kesalahan fatal dalam lingkungan profesional.",
+        "Literasi digital dan pendekatan skeptis yang sehat sangat krusial dalam interaksi manusia dengan kecerdasan buatan."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Dilema Medis: Ketika Pasien Lebih Memercayai Diagnosis AI Dibandingkan Dokter",
+      "original_title": "What Happens When Patients Trust AI Over Their Doctor?",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5EUFdESzY5VElUYlU0VTYySmpyN2dDMXhFc1diRzMwandQOTgyVkpGb0o5ZWVCM3dXR1Bhb29MSFNETHFLb3pJVExLc2RKWFVhZnpIeDJCeE5RN2FDQzFwUHRDbFhORmxDb0E?oc=5",
+      "source": "MedCity News",
+      "published_date": "2026-07-27",
+      "summary": "Semakin banyak pasien yang beralih ke alat diagnosis berbasis kecerdasan buatan untuk menganalisis gejala medis mereka dan mengabaikan saran dokter asli. Tren ini menciptakan tantangan baru bagi dunia medis, mulai dari potensi misdiagnosis hingga rusaknya hubungan kepercayaan antara dokter dan pasien. Integrasi teknologi ini harus dibarengi dengan edukasi bahwa AI bersifat mendukung, bukan menggantikan keahlian klinis manusia.",
+      "takeaways": [
+        "Kecenderungan pasien mendiagnosis diri menggunakan AI meningkatkan risiko pengobatan mandiri yang berbahaya.",
+        "Komunikasi dokter-pasien perlu beradaptasi untuk mengatasi bias informasi medis yang bersumber dari teknologi AI.",
+        "AI medis harus diposisikan sebagai alat bantu konsultasi sekunder, bukan sebagai penentu keputusan klinis mutlak."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Survei Menemukan Adopsi AI di Bidang Epidemiologi Melampaui Kecepatan Pelatihan Praktisi",
+      "original_title": "Adoption of artificial intelligence outpaces training in field epidemiology programs, new survey finds",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZjVZV2pYRTVSWHhDMUNjMWdxdHI3cGZwVTB1bl9UYlhyLUZ3WHM3UUhKekkwckhLY3BPSzFPZmNpc081SkZ1aEpZdFhDRi1pZVJaQzFNVFVqUUJKRUc1Z1RfaTBsMU5Gbjdpcm02cDBBaXQ1YjhMNk1NSVM2R1lrMFgwdDVJeExYaWd6a3JPZzhZSzdnVC00NmhtX1VjcElMUkNBN0tSSUIzMjdudG0tTlQ1Q0UxTGRtRUFtSE1Wdi1GQVdO?oc=5",
+      "source": "CIDRAP",
+      "published_date": "2026-07-27",
+      "summary": "Sebuah survei global baru mengungkapkan bahwa adopsi kecerdasan buatan dalam program epidemiologi lapangan berkembang jauh lebih cepat daripada pelatihan formal bagi para praktisinya. Kesenjangan kompetensi ini menimbulkan kekhawatiran akan adanya kesalahan analisis data dalam pelacakan wabah penyakit. Hal ini menunjukkan urgensi mendesak untuk memperbarui kurikulum pendidikan kesehatan masyarakat agar mencakup literasi teknologi AI.",
+      "takeaways": [
+        "Penggunaan AI untuk melacak penyakit menular berkembang pesat, namun tidak diimbangi dengan kesiapan keterampilan sumber daya manusia.",
+        "Ketidakmampuan praktisi dalam mengoperasikan alat AI secara benar dapat memicu kesalahan interpretasi data epidemiologis.",
+        "Diperlukan investasi besar dalam program pelatihan AI guna memperkuat sistem respons kesehatan global terhadap pandemi masa depan."
+      ],
+      "category": "Sains & Teknologi"
+    },
+    {
+      "title": "Laboratorium AI Universitas St. John Raih Hibah untuk Penelitian Pengalihan Fungsi Obat Berbasis AI",
+      "original_title": "St. John’s AI Lab Awarded Grant to Study Drug Repurposing",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQkVDVGxWelpSZ3dqODhBbkhQd1J5T1NwWVBXa0FSVUpWWGJ3Y0N3RTVYc3RMMDI3SWxKcFBDU0tnYW1zb3VMU2kzYWEzckVZdnBjM0tIVS1jcG15OVFaeDdwM0hRY192bDJsWl9pcHZXd0EwRW0yXzdDN0hvLXhEbTRFQkh5V3F0QXVqUHBnakNWRS1zYV84TGphYjJvTjd4d1R3OWVR?oc=5",
+      "source": "St. John's University",
+      "published_date": "2026-07-27",
+      "summary": "Laboratorium Kecerdasan Buatan di Universitas St. John berhasil mendapatkan dana hibah penelitian untuk mengeksplorasi pengalihan fungsi obat (drug repurposing) dengan bantuan kecerdasan buatan. Metode ini menggunakan algoritma AI untuk mengidentifikasi obat-obatan yang sudah ada guna mengobati penyakit baru secara lebih cepat dan hemat biaya. Terobosan ini sangat penting dalam memangkas waktu pengembangan obat tradisional yang biasanya memakan waktu bertahun-tahun.",
+      "takeaways": [
+        "AI digunakan untuk menganalisis molekul obat yang ada dan mencocokkannya dengan target penyakit baru secara efisien.",
+        "Metode pengalihan fungsi obat berbantuan AI dapat memangkas biaya riset farmasi hingga miliaran dolar.",
+        "Keberhasilan proyek ini dapat mempercepat ketersediaan terapi penyelamat jiwa bagi pasien penyakit langka."
+      ],
+      "category": "Sains & Teknologi"
+    },
+    {
+      "title": "AI Agen Mandiri Memerlukan Sistem Memori Bersama untuk Optimalisasi Kinerja",
+      "original_title": "agentic artificial intelligence needs shared memory",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcDN4SkJ4RF9nQm0xY1p5WlpKYl9WanlVOE9kVTRibzV2QkNGejlhdUt5MnM4Tk5UWEVobUZMeTlCMFNia3ZfQ0xRa0g3ajV0bk5BcmFNdklrU0s1MFlYRDU0VWUza1lHc1dGbXRneVhrWnYzZHR2dS10SE40SlRSTmJjWHE4SXVEc183Y2l4cm1OWWJDZHU0WHFDVnRmWVU?oc=5",
+      "source": "SiliconANGLE",
+      "published_date": "2026-07-27",
+      "summary": "Konsep kecerdasan buatan agen mandiri (agentic AI) kini membutuhkan teknologi memori bersama (shared memory) untuk meningkatkan kolaborasi antarsistem. Tanpa memori terintegrasi, agen-agen AI akan kesulitan berbagi konteks secara real-time, yang dapat membatasi efektivitasnya dalam menyelesaikan tugas-tugas kompleks. Pengembangan arsitektur memori ini menjadi kunci penting untuk merealisasikan potensi penuh sistem AI yang benar-benar otonom dan kolaboratif.",
+      "takeaways": [
+        "Agentic AI memerlukan memori bersama agar beberapa agen kecerdasan buatan dapat bekerja sama secara harmonis.",
+        "Teknologi memori terintegrasi memungkinkan transfer konteks informasi yang lebih lancar tanpa kehilangan data penting.",
+        "Inovasi arsitektur ini akan membuka jalan bagi otomatisasi industri yang lebih cerdas dan adaptif di masa depan."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Kecerdasan Buatan Mulai Memperkuat Sektor Pertanian Modern",
+      "original_title": "Artificial intelligence gaining ground in ag",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcUNZN0lZdWZGU0p1di1LdW1IdzQ3NXNIUHk0UEpVcmprUkRxLU9IcnRUZmo2WUE4T3NjLUYtenI0TnIzV0FvU3Y4S0ZsekNSc253OTRZczVPb2JVTHdRTENzb01XZ1lfeVExWDhMMG5JTXd4UmNsYVROcDM5ZXJlN2hxNkFKZFBaOVFr?oc=5",
+      "source": "iowafarmbureau.com",
+      "published_date": "2026-07-27",
+      "summary": "Teknologi kecerdasan buatan kini semakin gencar diterapkan di sektor pertanian untuk membantu petani memprediksi cuaca, mendeteksi hama, dan mengoptimalkan hasil panen. Adopsi ini membantu meningkatkan efisiensi operasional dan mengurangi pemborosan sumber daya di tengah tekanan perubahan iklim global. Dengan alat AI, pertanian presisi dapat diwujudkan secara lebih terukur demi mendukung ketahanan pangan dunia.",
+      "takeaways": [
+        "AI membantu petani beralih ke metode pertanian presisi untuk meminimalkan penggunaan air dan pestisida.",
+        "Analisis data cuaca dan prediksi tanah berbasis AI secara signifikan meningkatkan ketahanan pangan terhadap perubahan iklim.",
+        "Integrasi teknologi ini menjadi solusi krusial dalam mengatasi kekurangan tenaga kerja di sektor pertanian global."
+      ],
+      "category": "Sains & Teknologi"
     },
     {
       "title": "Nvidia Jajaki Pendanaan Raksasa US$250 Miliar Bersama OpenAI untuk Bangun Pusat Data",
@@ -533,20 +673,6 @@
         "Negara-negara Barat kini bersaing ketat untuk merespons dominasi narasi digital dari Beijing."
       ],
       "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Departemen Energi AS Danai 5 Proyek Riset AI Universitas Arizona Lewat Misi 'Genesis'",
-      "original_title": "Department of Energy selects 5 U of A research projects through new AI-for-science 'Genesis Mission' awards",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObWcycV81b2V5VnZuaGF3dDlidE1xT2loTFNsaFFkUkxKWVM4UDM3emdJdEVKSzJtT0dTbDJKWEozYmRVRzdoX3cxaGdEc3JGOUhZTEFIb0M0M0Z0REgwS0VUd1lrVUJ1QTI1akQ4NWVMc0FzdWdULUhjSHFlTWtFS1V0MGZDdWMwNGR1U2JnQjBxM0p1Uncwb1p1blZkbXhxVFJYck1CcGViRkdnLUgzS1pqVml3V0sxYlpSVkZyMTA?oc=5",
-      "source": "University of Arizona News",
-      "published_date": "2026-07-23",
-      "summary": "Departemen Energi Amerika Serikat telah memilih lima proyek penelitian inovatif dari Universitas Arizona untuk menerima pendanaan dalam program ilmiah 'Genesis Mission' yang berbasis kecerdasan buatan. Proyek-proyek ini difokuskan pada pemanfaatan AI untuk memecahkan tantangan sains kompleks seperti pemodelan iklim dan penemuan material baru.",
-      "takeaways": [
-        "Misi 'Genesis' bertujuan mempercepat penemuan ilmiah kritis menggunakan kekuatan superkomputer dan AI.",
-        "Universitas Arizona memimpin penelitian lintas disiplin yang mencakup fisika, material, dan iklim.",
-        "Pendanaan ini menegaskan komitmen pemerintah AS dalam mempertahankan kepemimpinan sains global melalui teknologi."
-      ],
-      "category": "Sains & Teknologi"
     },
     {
       "title": "Benarkah Model AI Menjadi Liar? OpenAI Klarifikasi Penyebab Serangan Peretasan Terbaru",
