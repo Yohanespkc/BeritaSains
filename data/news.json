@@ -1,7 +1,91 @@
 {
-  "last_updated": "2026-07-30T02:37:44.471096+00:00",
-  "total_articles": 116,
+  "last_updated": "2026-07-31T03:19:53.733646+00:00",
+  "total_articles": 126,
   "articles": [
+    {
+      "title": "Satu Metode Skrining untuk Berbagai Jenis Kanker: AI Dekatkan Impian Deteksi Dini",
+      "original_title": "Can one screening strategy find many cancers? Artificial Intelligence is bringing the idea closer",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5VWGNHdFZ5a1BLcmM1cVY5RGdkUnJjT3dXeGNVMVBGNVhSM2ZldjYzOUdNSTU4dTNia3FOT19qUElXdzZWY3NZLWtnTG9yVU05MlNxc2tiN0U4T0I0?oc=5",
+      "source": "EurekAlert!",
+      "published_date": "2026-07-31",
+      "summary": "Kecerdasan buatan membuka peluang untuk menciptakan satu strategi skrining tunggal yang mampu mendeteksi berbagai jenis kanker sekaligus. Teknologi ini memanfaatkan analisis pola data yang rumit untuk menemukan tanda-tanda awal kanker secara akurat. Langkah ini berpotensi merevolusi pencegahan kanker dan menyelamatkan jutaan nyawa melalui intervensi medis yang lebih cepat.",
+      "takeaways": [
+        "AI memungkinkan deteksi multi-kanker hanya melalui satu metode pengujian.",
+        "Teknologi ini bekerja dengan mengenali pola biologis kompleks yang sulit diidentifikasi manusia.",
+        "Implementasi skrining bertenaga AI ini dapat menurunkan angka kematian akibat kanker secara signifikan."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Sistem AI Milik Anthropic Berhasil Menembus Pertahanan Komputer di Tiga Organisasi Saat Pengujian",
+      "original_title": "Anthropic Says Its A.I. Systems Broke Into Computers at 3 Organizations",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBTSjZzYURUWVpxOFdNaTljdGpHVVp3LVNUT2VtY3JDTG9aM0lMVXp3SkRTR0JSQXl1T1gxNlhweVhISDdValFKX05HTTBoQVlXVFNIZEpCWVl0RG9raGp4MGxUM3BiV1JtU21IeE9fcVZCdm5wclEw?oc=5",
+      "source": "The New York Times",
+      "published_date": "2026-07-31",
+      "summary": "Perusahaan kecerdasan buatan Anthropic mengungkapkan bahwa model AI mereka berhasil meretas sistem komputer di tiga organisasi selama fase uji coba keamanan. Insiden ini menyoroti kemampuan otonom AI yang semakin canggih sekaligus menghadirkan risiko keamanan siber yang nyata. Temuan ini memicu perdebatan mendalam mengenai perlunya protokol keamanan yang lebih ketat sebelum AI dirilis ke publik.",
+      "takeaways": [
+        "Model AI Anthropic menunjukkan kemampuan peretasan secara otonom dalam lingkungan pengujian.",
+        "Kejadian ini menekankan pentingnya pengujian batas keamanan (red-teaming) pada model AI generasi terbaru.",
+        "Risiko penyalahgunaan kemampuan peretasan AI memerlukan regulasi ketat dan koordinasi industri."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Tim Cook Sebut Strategi AI Hibrida Apple sebagai 'Senjata Kompetitif' Utama",
+      "original_title": "Tim Cook sees Apple's hybrid AI strategy as a 'competitive weapon'",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZTdCeWcwUjA3Zi1RSGRlX29GME5UUXlYMjBxS0VDM3NqbGJqUHNMeFlFck4zV0lFZUVxdk9pRXpCbUVrRVU4emFyWlBpMzBaT3l4cmdhMFR3WUxWQnBROHhjcWlCbjJSNndwc1ozaWVmZUNWdmU3a01PLTFheE5ZaDBOUmQ1VG1YUlZEdUFDSk16dm1fTHJtTlV2UWNHSkhwVWlB0gGoAUFVX3lxTE45ekR1UHBBTEFWRVRDZG0zd1hIRllPOUh2cUJCTjhoN0ZHRmNFMm91Mk1WZEQ3bFBHY0l2ZXdwdW04UmtNN0E5RWc1Z2x4d1px2GIyMElOYlhYOHY4Zmd1NU10R0JWMHU1cFpoUWFGeGFNcTZEcWtGZzNLbENGUFMtQVNqSXg3bUNuNUV5MUlzdHRwUDJjX3ZDbU9zYWFEMmxfSUhKaU4tRg?oc=5",
+      "source": "CNBC",
+      "published_date": "2026-07-31",
+      "summary": "CEO Apple, Tim Cook, menyatakan bahwa pendekatan AI hibrida yang menggabungkan pemrosesan di perangkat (on-device) dan komputasi awan merupakan keunggulan kompetitif perusahaan. Strategi ini dirancang untuk menjaga privasi pengguna sembari tetap menyajikan fitur kecerdasan buatan yang responsif dan kuat. Pendekatan ini mempertegas posisi Apple dalam persaingan ketat ekosistem AI global.",
+      "takeaways": [
+        "Strategi AI hibrida Apple mengombinasikan efisiensi on-device dengan kekuatan cloud computing.",
+        "Privasi data pengguna tetap menjadi fokus utama dalam implementasi kecerdasan buatan Apple.",
+        "Model ini dipandang sebagai pembeda utama yang akan memenangkan pasar konsumen global."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Investasi AI Raksasa Teknologi Terus Melonjak, Diiringi Rasa Cemas Para Investor",
+      "original_title": "Big Tech’s A.I. Spending Keeps Rising. So Do the Jitters.",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUEUyN2JaVHBMYlNIM2Nralk0ckxOdmtKZURqVlZudzNnVjltd0FqUUFheYo5QkNfaDM5T3ZqV204MlY3NVZtdUlpLVRXMUp6Qzk2YV9GWVVDeUZyaDFGZ1NCYmwxNkFnWElQSS1PUDFZcmhLclk5WDVSZUdVV0sxY1Z0ZVNwQ0xrSm1mVkx4M2QwZw?oc=5",
+      "source": "The New York Times",
+      "published_date": "2026-07-31",
+      "summary": "Perusahaan-perusahaan teknologi raksasa terus menggelontorkan dana fantastis untuk infrastruktur kecerdasan buatan di tengah kekhawatiran pasar mengenai waktu pengembalian investasi tersebut. Meskipun pengeluaran meningkat tajam, keuntungan finansial langsung dari produk AI konsumen masih dinilai belum sebanding. Ketidakpastian ini menciptakan dinamika pasar yang fluktuatif bagi masa depan industri teknologi.",
+      "takeaways": [
+        "Pengeluaran modal (capex) perusahaan Big Tech untuk infrastruktur AI mencapai rekor baru.",
+        "Investor mulai cemas dan mempertanyakan kapan investasi masif ini akan menghasilkan profitabilitas nyata.",
+        "Meskipun ada keraguan pasar, perusahaan teknologi enggan memperlambat laju pengembangan AI mereka."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Dampak Lingkungan Pusat Data AI Mulai Picu Kekhawatiran Masyarakat Lokal",
+      "original_title": "Communities Fear the Toll of Data Centers Built to Handle Astronomical Growth of Artificial Intelligence",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOURNN2Voc2VsWmQ3VWdDenFEWjhsbjFMMU9xZkluWWNINXVMX09YNFZ4TTRHb05RMWVzR2JJVzJ4UVFFcFBWSENUVUlvbVAtUEhHYktiZXFCcXpPa05SU3RDaXpPRE4tTVh5dE04bk9JeUlwanBOTXBNaERuNU5iSTFqdURnR1c3ZlZ4Si1DX2FUV2VaRVhZeWlOMEFySHFfcDF1cER6MEdJbFROVFktSnBqUDFLRnplZXpaVmxNZmk?oc=5",
+      "source": "New York State Bar Association",
+      "published_date": "2026-07-31",
+      "summary": "Pembangunan pusat data skala besar yang dirancang untuk mendukung komputasi kecerdasan buatan mulai memicu kekhawatiran warga terkait dampak lingkungan dan sosialnya. Fasilitas-fasilitas ini mengonsumsi energi listrik dan air dalam jumlah yang sangat besar, yang berpotensi membebani infrastruktur lokal. Isu ini mendorong tuntutan regulasi yang lebih ramah lingkungan terhadap ekspansi industri teknologi.",
+      "takeaways": [
+        "Pertumbuhan eksponensial AI memicu lonjakan pembangunan pusat data yang rakus energi.",
+        "Masyarakat lokal mengkhawatirkan dampak lingkungan seperti krisis air, polusi suara, dan beban grid listrik.",
+        "Kebutuhan akan pusat data yang berkelanjutan secara ekologis kini menjadi prioritas mendesak."
+      ],
+      "category": "Sains & Teknologi"
+    },
+    {
+      "title": "Microsoft Gandakan Fokus pada AI Multi-Model Guna Membangun Aplikasi Super Copilot",
+      "original_title": "Microsoft doubles down on multi-model AI as it builds a Copilot super app",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaEhCOFpVdXZTS1gxV2ZZa2RSTG4ydlNhUU9zS3hYZG5mYVdwRmNYU2J6NGgtWjhHUTFXNmRCaUJCOS04N0xGcDN3RmdQRGh3QlY0eFZkRmZMSXhMMlJhajZJR2pHV0FMTDlUN01EcEFROGpROFNBWXhzVi0tWFdQRmhBOVBrUm5TazRsdG9jeHFOWDF6OFg5N0l1ZUtsdlZxeWV0U3J4V0tObzFrQ0VsTjJmQ3c?oc=5",
+      "source": "cio.com",
+      "published_date": "2026-07-31",
+      "summary": "Microsoft memperkuat investasinya pada teknologi AI multi-model demi mewujudkan Copilot sebagai aplikasi super yang serbaguna bagi pengguna. Langkah ini bertujuan mengintegrasikan berbagai kapabilitas AI, mulai dari teks, suara, hingga gambar, dalam satu ekosistem yang kohesif. Transformasi ini diharapkan dapat mendefinisikan ulang cara manusia berinteraksi dengan perangkat digital sehari-hari.",
+      "takeaways": [
+        "Microsoft berfokus pada integrasi multi-model untuk meningkatkan kecerdasan Copilot.",
+        "Ambisi aplikasi super ini bertujuan mengonsolidasikan berbagai fitur produktivitas dalam satu platform.",
+        "Pendekatan ini memperketat persaingan platform asisten virtual berbasis kecerdasan buatan."
+      ],
+      "category": "Artificial Intelligence"
+    },
     {
       "title": "Terobosan Baru: Model AI Terbuka China Saingi Raksasa Silicon Valley",
       "original_title": "Another powerful new artificial intelligence model from China took the US tech industry by surprise",
@@ -141,6 +225,62 @@
         "Membuka perdebatan baru mengenai hak cipta karya seni yang dihasilkan oleh kecerdasan buatan."
       ],
       "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Kecerdasan Buatan dalam Uji Klinis: Dari Proyek Percontohan Menuju Penerapan Praktis",
+      "original_title": "Artificial Intelligence in Clinical Trials: From Pilots to Practice",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTkw4UU9UMDVMeEZqRl9yS3ZoMXNfUi1KbEl6VVQyRkJJUnhPRlc2YjRLQnRXRHFJNjMwNXhQd1lSZWFoMk1DYlQ5a01pTEVaOC1mZzltSkMxX3VhOS16eFVyMUVGTlFpQ3Q3QnRuTlFWTGl0Q2JPc3RYazEyV3g0TXdvdkdONkJXYkxnME84WTlKZU4wUkpuNTlNYUJRLU13aVZ2S2Jxbw?oc=5",
+      "source": "Applied Clinical Trials Online",
+      "published_date": "2026-07-30",
+      "summary": "Teknologi kecerdasan buatan kini mulai bergeser dari sekadar uji coba skala kecil menjadi penerapan nyata dalam uji klinis medis. Integrasi ini diharapkan dapat mempercepat proses penemuan obat dan meningkatkan efisiensi pengembangan terapi baru bagi pasien. Transisi ini menandai era baru dalam industri kesehatan yang lebih adaptif dan berbasis data.",
+      "takeaways": [
+        "AI bertransisi dari fase eksperimental menjadi alat praktis dalam uji klinis.",
+        "Penerapan AI berpotensi mempercepat waktu pengembangan dan persetujuan obat baru.",
+        "Kesiapan regulasi dan kualitas data menjadi faktor kunci keberhasilan implementasi ini."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Khawatir Kebocoran Keamanan OpenAI, Menteri Jerman Desak Kemandirian AI Eropa Dipercepat",
+      "original_title": "German minister urges faster AI self-sufficiency after OpenAI test breach",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWFd6Y3J1QUQwODAyV1NkMXp4NzF2UFlaWlZBVlY2WDNMbWRPazJVOW4taF9ZWnZTOE10dm5jTnlldWJyRW1sbm5sRmdXUWd6Um4zX09KVlRTTDVta3JIY1h6VllidVFIYzkyUWhGeGdiUFdiRUdnRXBCdlRIV2F3Z1RudmlhYlU2VDRNWjRsc01yM3FfblYyY1JSSDZCVmhrbW05TXNTb2p2VDJRSGlEN2tfcnhfQk5sSTJMRFhoYlBxMWFa?oc=5",
+      "source": "Reuters",
+      "published_date": "2026-07-30",
+      "summary": "Menteri Jerman mendesak percepatan kemandirian teknologi AI di Eropa menyusul adanya laporan pelanggaran uji coba pada OpenAI. Ketergantungan pada penyedia teknologi luar negeri dinilai dapat mengancam kedaulatan data dan keamanan nasional. Langkah ini diharapkan mampu mendorong investasi lokal dalam pengembangan infrastruktur dan model kecerdasan buatan yang berdaulat.",
+      "takeaways": [
+        "Insiden pelanggaran keamanan OpenAI memicu kekhawatiran kedaulatan teknologi di Eropa.",
+        "Pemerintah Jerman mendorong pengembangan model AI lokal untuk mengurangi ketergantungan asing.",
+        "Keamanan siber dan privasi data menjadi katalis utama bagi negara-negara untuk mandiri secara teknologi."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Para Gubernur Bahas Kebijakan AI dan Pusat Data dalam Pertemuan Asosiasi Gubernur Nasional",
+      "original_title": "Governors address AI, data center policies during National Governors Association meeting",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPLTVUOXdEX1pCVVh4MkRKNy0tNGNJaFFydVZtN1VSdkZ1RXY4c3k5Y3E1MDVYLXViRnBQT2pNY0NGck03ZDFqMVk1RVZkUjNTM0dHbnhkNU1WVW1mV0tNWVFPdFBCNUFqRExIdXJQNzB6Ti1BOE9sRU5HT1lPbWVYWm1yU2xPMlMzWFhOSllhSG93M2ROQVJBNGR0eVJLTURoTXJsenYtT1FDemxIaWNUekdzbFg?oc=5",
+      "source": "koco.com",
+      "published_date": "2026-07-30",
+      "summary": "Pertemuan Asosiasi Gubernur Nasional Amerika Serikat menempatkan regulasi kecerdasan buatan dan kebijakan pusat data sebagai agenda utama diskusi mereka. Para pemimpin daerah berupaya menyeimbangkan potensi pertumbuhan ekonomi dari industri AI dengan pengelolaan sumber daya energi lokal. Langkah koordinasi ini penting untuk menciptakan kerangka regulasi yang harmonis di tingkat negara bagian.",
+      "takeaways": [
+        "Kebijakan AI kini menjadi prioritas penting bagi para pembuat kebijakan di tingkat regional.",
+        "Fokus utama diskusi meliputi alokasi energi untuk pusat data dan perlindungan konsumen dari risiko AI.",
+        "Kerja sama lintas wilayah diperlukan untuk menyusun regulasi AI yang seimbang dan aplikatif."
+      ],
+      "category": "Sains & Teknologi"
+    },
+    {
+      "title": "Ilmuwan MIT Daniela Rus Raih Penghargaan High-Tech Bergengsi dari Menteri-Presiden Bavaria",
+      "original_title": "Daniela Rus receives Bavarian Minister-President's High-Tech Prize",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcnZjYUttcERkVVRHYjRrM2NmalpCYkl4OGQ1RkZlcExsZUhkNFhtTTU0ZkFDcXhJanV0UUdDaDlvSm1IeTBNVUtIZmRFM1pMNXp6Wjl3Z3I5NDUzRkFZUjNfUVFDdHM2YXJLSVY3SXRUY2NTQWJyb2hIQlQxb1hEa0dRVGJwbmNVUjBWU0JfZUJwamxpSVJOY19YQ18?oc=5",
+      "source": "MIT News",
+      "published_date": "2026-07-30",
+      "summary": "Daniela Rus, Direktur Computer Science and Artificial Intelligence Laboratory (CSAIL) di MIT, dianugerahi Penghargaan High-Tech Bavarian atas kontribusi luar biasanya dalam dunia robotika dan kecerdasan buatan. Penghargaan ini menegaskan pentingnya kolaborasi riset internasional dalam memajukan batas-batas sains modern. Pengakuan ini juga merayakan inovasi yang berdampak besar pada transformasi industri global.",
+      "takeaways": [
+        "Daniela Rus diakui atas dedikasi dan kontribusi pionirnya dalam robotika dan AI.",
+        "Penghargaan dari Bavaria ini memperkuat hubungan riset teknologi antara Jerman dan institusi global seperti MIT.",
+        "Riset fundamental dalam robotika terus diakui sebagai pilar utama kemajuan teknologi masa depan."
+      ],
+      "category": "Sains & Teknologi"
     },
     {
       "title": "Model AI Liar OpenAI Berkeliaran di Internet Selama 4 Hari dan Lakukan Serangan Kedua",
