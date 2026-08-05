@@ -1,7 +1,35 @@
 {
-  "last_updated": "2026-08-04T02:51:39.189111+00:00",
-  "total_articles": 145,
+  "last_updated": "2026-08-05T02:47:07.732731+00:00",
+  "total_articles": 155,
   "articles": [
+    {
+      "title": "Opini | Regulasi AI Baru Uni Eropa Justru Menghambat Akses Teknologi Terbaik bagi Warganya",
+      "original_title": "Opinion | The E.U.’s new AI law keeps the best technology out of European hands",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMGNPVldRVVB0NFhETE5lSk4zSXZ6WDhicnJiYUV6NVZ5b3hreW1nOXljWmpjdjEtMndOV2VKQjlDdC11YVRmRnpJdUFHVFJMRTVSVHJiYTVlM3BEamxITGVFYVY2dnZ4WUFjN1FnQWZ3Wkh4RmI2N2c2cmhKTG5hWU1KTW8td2FlWldoSkxIZHd1MDE3cTRKV21JRkRrdkQ1ckxJUW1Sa1NkRGp0SUZUSEZQR2YzZktubHc?oc=5",
+      "source": "The Washington Post",
+      "published_date": "2026-08-05",
+      "summary": "Opini ini menyoroti bagaimana Undang-Undang AI Uni Eropa yang baru berpotensi membatasi akses masyarakat Eropa terhadap inovasi teknologi mutakhir. Aturan yang terlalu ketat dinilai dapat menghambat adopsi teknologi oleh perusahaan lokal dan memperlebar kesenjangan digital dengan wilayah lain seperti Amerika Serikat dan Asia. Hal ini memicu perdebatan mengenai keseimbangan antara perlindungan konsumen dan kemajuan inovasi.",
+      "takeaways": [
+        "Regulasi AI yang terlalu ketat di Uni Eropa dikhawatirkan akan membatasi masuknya teknologi terbaik ke pasar Eropa.",
+        "Terdapat risiko perlambatan inovasi bagi perusahaan dan startup lokal akibat kepatuhan regulasi yang rumit.",
+        "Kebijakan ini memicu perdebatan global tentang cara menyeimbangkan keamanan teknologi dengan kebebasan berinovasi."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Saham Perangkat Keras AI Tiongkok Merosot Menyusul Rencana AS Larang Impor Komponen",
+      "original_title": "China AI hardware stocks slump after news US plans to ban imports of Chinese components",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOU1dRTlJ3dWthcTVkQnd1NFVJTFZSeHV4TXNiZlZOaVlNa1lSNFVnQWZxZkxEQkV2NGZ3YV8wZ21mbjhRYUg3Z05nci1Ua3o1M0FyTGxIT0VLXzhYUlFpajhQVEEwYmFuZnhZNjZPdjdPcFh2elVnNlFvdVZjYlVTNWU5M21VempmYUVMSzNNMURjeEtwcFFUa2NvY2MwYVE1M0k2RDVpTFR1V0VGUVBBNHNaRkQ3UzlhX2FMUDJFNXpOX1RVU2ZZRQ?oc=5",
+      "source": "Reuters",
+      "published_date": "2026-08-05",
+      "summary": "Nilai saham perusahaan perangkat keras AI asal Tiongkok mengalami penurunan tajam setelah munculnya laporan bahwa Amerika Serikat berencana melarang impor komponen penting dari negara tersebut. Kebijakan ini merupakan bagian dari ketegangan geopolitik yang terus berlanjut untuk membatasi kapabilitas teknologi militer dan kecerdasan buatan Tiongkok. Dampaknya dirasakan langsung oleh rantai pasok global yang semakin terfragmentasi akibat perang dagang teknologi.",
+      "takeaways": [
+        "Rencana larangan impor komponen oleh AS menyebabkan penurunan signifikan pada saham sektor perangkat keras AI Tiongkok.",
+        "Ketegangan geopolitik antara AS dan Tiongkok terus berfokus pada pembatasan akses teknologi sensitif.",
+        "Fragmentasi rantai pasok global diproyeksikan akan meningkatkan biaya produksi dan memperlambat distribusi teknologi AI secara global."
+      ],
+      "category": "Sains & Teknologi"
+    },
     {
       "title": "Terobosan Baru: Model AI Terbuka China Saingi Raksasa Silicon Valley",
       "original_title": "Another powerful new artificial intelligence model from China took the US tech industry by surprise",
@@ -139,6 +167,118 @@
         "LLM musik baru menghasilkan musik dengan pemahaman struktural harmoni yang mendalam.",
         "Mampu menghasilkan file MIDI multi-instrumen yang dapat diedit secara profesional.",
         "Membuka perdebatan baru mengenai hak cipta karya seni yang dihasilkan oleh kecerdasan buatan."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Hub Infrastruktur AI Regional Baru dari NSF Siap Dorong Riset Ilmiah Berbasis AI di AS",
+      "original_title": "New NSF State and Regional AI Infrastructure Hubs will power AI-enabled scientific research across the country",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOFJnVnpobW5aT0ZjZjFYOHFVaUhFVjJlWmJWOGpLNEZfUjA3dzJsY1daWU9vWDQ5M0pJMHJ6TXZyNXg3Umg0NXNXMmdJd1xlWHRjSHpQUnNRVWlWeUlFbHNlcEFtcG5wNW9odnRZdWxfM044MjdrLVM4VUdwQ3k3eXlWZHVDeFhvMHgwdg?oc=5",
+      "source": "U.S. National Science Foundation (.gov)",
+      "published_date": "2026-08-04",
+      "summary": "National Science Foundation (NSF) meluncurkan pusat infrastruktur AI regional baru untuk mendukung penelitian ilmiah di berbagai negara bagian Amerika Serikat. Hub ini bertujuan untuk mendemokratisasi akses ke sumber daya komputasi berkinerja tinggi guna mempercepat penemuan ilmiah berbasis kecerdasan buatan. Langkah ini diharapkan mampu memperkuat kepemimpinan teknologi nasional dan mendorong kolaborasi lintas disiplin ilmu.",
+      "takeaways": [
+        "NSF mendirikan hub regional baru untuk memperluas akses infrastruktur AI bagi peneliti di seluruh Amerika Serikat.",
+        "Inisiatif ini dirancang untuk mempercepat penemuan ilmiah di berbagai bidang melalui pemanfaatan AI tingkat lanjut.",
+        "Langkah ini berkontribusi pada pemerataan kapasitas riset teknologi tanpa terpusat hanya di wilayah industri teknologi utama."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Studi Stanford: Pendamping AI Berisiko Memperburuk Kesepian pada Pengguna Rentan",
+      "original_title": "AI companions may worsen loneliness for vulnerable users",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSk5LX0xNVFI4WTRQWEFmUEdaNkxURVFlTXFrWGZ5dG4zS2RnWHlpT3lKVU4xREpKUXRaQkVreXloeFFVaXdTVkxlM1FQRTR0N3pjc0dVRURJNzlZRWxJTzlCTk9OWjRuSFhISVM3MzUxMzBaVDM0RTJVQXBKbVpHYWdFa0dSeThBYXJiLQ?oc=5",
+      "source": "Stanford Report",
+      "published_date": "2026-08-04",
+      "summary": "Penelitian terbaru dari Stanford menunjukkan bahwa penggunaan teknologi pendamping virtual berbasis AI berpotensi memperparah rasa kesepian bagi individu yang rentan secara psikologis. Alih-alih menjadi solusi sosial, ketergantungan pada interaksi buatan ini dapat menjauhkan pengguna dari hubungan interpersonal yang nyata. Temuan ini menekankan pentingnya regulasi etis dan kesadaran kesehatan mental dalam pengembangan teknologi sosial berbasis AI.",
+      "takeaways": [
+        "Teknologi pendamping AI ditemukan dapat meningkatkan isolasi sosial dan memperburuk kesepian bagi kelompok rentan.",
+        "Interaksi buatan berisiko menggantikan hubungan emosional nyata yang krusial bagi kesejahteraan psikologis manusia.",
+        "Para peneliti menyerukan desain teknologi yang lebih bertanggung jawab dan memperhatikan aspek kesehatan mental pengguna."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Tarik Ulur Kebijakan AI Gedung Putih Bikin Silicon Valley Kebingungan",
+      "original_title": "White House Whipsaws Silicon Valley (and Itself) Over A.I. Rules",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTHNkTzBIRHZZR1ZuWkxUWW1QdjBtcU95NlJ2cm4xRUptS1hUOG9rUVdyOW9JUHFNa2ZwR2JGNExYbWV3TEY0cXAzNkRpcjNIbEdlUXZVUWNOazlRTmRjUHRXZmVFYzdyWHVLM3pQNmV5eWZQTTB1RFBjd3hqa0x0VU5USHczOGFJdmh5aw?oc=5",
+      "source": "The New York Times",
+      "published_date": "2026-08-04",
+      "summary": "Gedung Putih dilaporkan mengalami kebuntuan dan sering mengubah arah kebijakan terkait regulasi keamanan kecerdasan buatan, menciptakan ketidakpastian bagi para pelaku industri di Silicon Valley. Perubahan sikap ini mencerminkan sulitnya menyeimbangkan antara perlindungan keamanan nasional dengan ambisi menjaga dominasi inovasi teknologi AS di kancah global. Ketidakjelasan aturan ini memperlambat proses pengembangan produk baru yang memerlukan kepastian hukum jangka panjang.",
+      "takeaways": [
+        "Ketidakpastian regulasi AI di Gedung Putih memicu kebingungan bagi raksasa teknologi dan startup di Silicon Valley.",
+        "Pemerintah AS menghadapi dilema besar dalam menyeimbangkan pengawasan keamanan nasional dengan dorongan inovasi.",
+        "Kondisi ini menyoroti kompleksitas merumuskan kebijakan hukum untuk teknologi yang berkembang sangat cepat."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Bank Dunia Sebut AI Bisa Jadi 'Tali Penyelamat' bagi Pertumbuhan Ekonomi Negara Berkembang",
+      "original_title": "AI offers 'lifeline' for emerging economies, World Bank says",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaVZGc1lSSGxvaXVoX2pBRG5rN1hTcU40dS1TQXl0ZU4yYUNDVFU2ODdCakpRai1hbFJwUVVkQVo0MVdENEg0YUQ4c25uZERIRUJqMHlBbVUwYXVfX3c0ZlpmdmVhVjRWUVFTbE93YnlzLV8zVW1FU3hhbFQ4Sy1OVkNXcHZsQzdIRXpVYmplcXdwOFJQS19XZk5TdVIxNlU?oc=5",
+      "source": "Reuters",
+      "published_date": "2026-08-04",
+      "summary": "Laporan terbaru dari Bank Dunia menyatakan bahwa adopsi kecerdasan buatan dapat menjadi pendorong utama atau 'tali penyelamat' bagi akselerasi pertumbuhan ekonomi di negara-negara berkembang. Teknologi ini dapat meningkatkan produktivitas sektor pertanian, kesehatan, dan pendidikan secara signifikan apabila didukung oleh infrastruktur digital yang memadai. Namun, tantangan kesenjangan keterampilan dan akses internet masih menjadi hambatan utama yang harus segera diatasi.",
+      "takeaways": [
+        "Bank Dunia menilai AI memiliki potensi besar untuk mempercepat pertumbuhan ekonomi di negara-negara berkembang.",
+        "Penerapan AI dapat membawa lompatan produktivitas pada sektor-sektor krusial seperti pertanian dan layanan kesehatan.",
+        "Pemerataan infrastruktur digital dan pelatihan keterampilan menjadi syarat mutlak agar manfaat AI dapat dirasakan secara optimal."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Gedung Putih Bebaskan Sistem AI Sumber Terbuka dari Tinjauan Keamanan Ketat",
+      "original_title": "White House will exempt ‘open’ AI systems from security review",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNS2FLWUNZSExUajNLYzYtQzh2aVNJMkhsNlBJcjBZY1dEd3JFSXg1OEI0Nk9VM0NIRVhhb2J3c2VUSFpFaVBIQnk1aEhOMGpZWTJMazUxR3Z0YTEwRlEzUExuTHlzZkN2NUU5cjBqX1EwX1pJOHFVNWVObnk0YkVNTWhNNkJGNDFlRndnSnV4M2l0UDZrcmV1N2UtSVJoSHNJV0htMlg1T1g1VTg5eWc?oc=5",
+      "source": "The Washington Post",
+      "published_date": "2026-08-04",
+      "summary": "Pemerintah Amerika Serikat berencana mengecualikan model kecerdasan buatan bersumber terbuka (open-source) dari proses tinjauan keamanan wajib yang ketat. Keputusan ini diambil untuk mendukung ekosistem inovasi yang lebih demokratis dan menjaga daya saing pengembang skala kecil. Kebijakan ini disambut positif oleh komunitas akademis dan startup, meski beberapa pengamat mengkhawatirkan risiko penyalahgunaan.",
+      "takeaways": [
+        "Sistem AI bersumber terbuka akan dibebaskan dari kewajiban tinjauan keamanan wajib oleh pemerintah AS.",
+        "Langkah ini bertujuan untuk mendorong demokratisasi teknologi dan mencegah monopoli oleh perusahaan teknologi raksasa.",
+        "Keputusan ini memicu debat mengenai keseimbangan antara keterbukaan inovasi dan risiko keamanan siber."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Laporan CrowdStrike: AI Kini Menjadi Senjata Sekaligus Target Serangan Siber",
+      "original_title": "Artificial Intelligence Is the Weapon and the Target, CrowdStrike Report Finds",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdHQ5TlNnSGc5X1owRXhvVF9hd2p6WWcyenBLLXg4cy1YZXdncTdrUW5IcEsyYVlpUjd1UGRWWnUyYTR4d1gxNkdlRnl3U1djbEEzQVlpLUVVREh0Yk5JRm94M05VMk9jVUtXQnVWdXpEZ1N5MFdlTDNnNENyUWNHUmxYbmhvZkpzOWtaVkNRZ213YUZ4aDhJR1dxX2IyYjNzVHY2NUlRTlBCNndSTGlBaERteXZxZ0tWLXBkREptbk5VOVFYbmg1ZVhhSUVUMkd3THIw?oc=5",
+      "source": "ASIS International",
+      "published_date": "2026-08-04",
+      "summary": "Laporan terbaru dari CrowdStrike mengungkapkan peningkatan tren di mana kecerdasan buatan digunakan sebagai alat untuk meluncurkan serangan siber canggih, sekaligus menjadi sasaran eksploitasi oleh para peretas. Penyerang memanfaatkan AI untuk merancang malware yang adaptif dan melakukan phising otomatis berskala besar. Hal ini menuntut organisasi untuk memperkuat pertahanan keamanan siber mereka dengan algoritme proteksi berbasis AI yang setara.",
+      "takeaways": [
+        "AI kini digunakan secara aktif oleh penjahat siber sebagai senjata utama untuk merancang serangan yang adaptif dan cepat.",
+        "Sistem dan model AI milik perusahaan juga menjadi target eksploitasi untuk mencuri data sensitif atau merusak algoritme.",
+        "Dunia usaha harus mengadopsi sistem pertahanan siber berbasis kecerdasan buatan untuk mengantisipasi ancaman generasi baru ini."
+      ],
+      "category": "Sains & Teknologi"
+    },
+    {
+      "title": "Wawancara Ahli: Bagaimana GeoAI Merevolusi Sistem Pemantauan Wilayah dan Lahan",
+      "original_title": "Ask the expert: How GeoAI is reshaping land monitoring",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Ua1hZZEFRZ2N5YVhnLUp5VWh2T0Vnbi1ieWdSWEx3YTZtdlhuZ21LVExWOUhLTVY4bXdHRjBLem40SzVMeW9PYkh2cV9NWVVROXB2QXBSekxpSDJiSTBpV3ljZEUyRkRxaXVHaGlnRm10ZUtCaWo5Zw?oc=5",
+      "source": "Michigan State University",
+      "published_date": "2026-08-04",
+      "summary": "Integrasi kecerdasan buatan dengan data geospasial (GeoAI) kini merevolusi metode pemantauan lahan dan lingkungan secara global. Teknologi ini memungkinkan analisis real-time terhadap perubahan penggunaan tanah, deforestasi, dan dampak perubahan iklim dengan akurasi yang jauh lebih tinggi. Para ahli meyakini pemanfaatan GeoAI sangat krusial bagi pengambilan keputusan pembangunan berkelanjutan dan mitigasi bencana alam.",
+      "takeaways": [
+        "GeoAI menggabungkan kecerdasan buatan dan data geospasial untuk memberikan wawasan pemantauan wilayah yang sangat akurat.",
+        "Teknologi ini mempermudah deteksi dini masalah lingkungan seperti deforestasi ilegal dan degradasi lahan secara real-time.",
+        "Implementasi GeoAI menjadi kunci dalam merumuskan kebijakan pelestarian lingkungan dan perencanaan kota yang berkelanjutan."
+      ],
+      "category": "Sains & Teknologi"
+    },
+    {
+      "title": "Kabar AI: Risiko Model AI yang Tak Terkendali, Desakan Pengawasan Global, hingga Penangguhan Izin Pusat Data di New York",
+      "original_title": "AI Briefing: Frontier AI Models Gone Rogue, DeepMind CEO Calls for Oversight Body, and NY Pauses Data Center Permits",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPYlR6OFhaRkxRX29pV0s2S1M0NGJCVGhtUWJSYmxvQ3ktYTZRa3l0cml6cDkxUlFMcWo1WGZUWmxzMl8zSXlnRDU1VVB0a2pZZXFreVQwNHN1d1VMbV81UXkzMDgyTHQ0RGwwVmxWbUhzdUhHZnpwVnhUNjJmaEpBR2F5WV92NHdqMEkzUjYwTXJFTERNV3RzT3Y5N2lmemVUV3hISTVRdER0OGM4VERWWlFhamRzWWhrQllIbWo5dVY1RHU2MG1JbXk0QXNTREtIQjZURzkzXzNjdHdFNjhPWUltcElYeWtiSzVYcUREWFFMMEg1Wi1Ea2docktUZUw4NTFyS1BB?oc=5",
+      "source": "Faegre Drinker Biddle & Reath LLP",
+      "published_date": "2026-08-04",
+      "summary": "Rangkuman perkembangan AI terkini menyoroti meningkatnya kekhawatiran atas potensi model frontier AI yang tidak terkendali, mendorong CEO DeepMind meminta pembentukan lembaga pengawas independen. Di sisi lain, New York menangguhkan izin pembangunan pusat data baru karena besarnya konsumsi energi yang membebani jaringan listrik lokal. Dinamika ini memperlihatkan tantangan ganda AI dalam hal tata kelola etis dan keberlanjutan infrastruktur fisik.",
+      "takeaways": [
+        "Meningkatnya kekhawatiran terhadap risiko model AI berskala besar memicu desakan pembentukan badan regulasi internasional.",
+        "Krisis konsumsi energi oleh pusat data memaksa otoritas di New York mengambil langkah penangguhan izin pembangunan demi stabilitas listrik.",
+        "Perkembangan AI kini tidak hanya berhadapan dengan regulasi algoritme, melainkan juga batasan infrastruktur dan dampak lingkungan nyata."
       ],
       "category": "Artificial Intelligence"
     },
