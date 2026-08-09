@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-08-08T01:50:53.943697+00:00",
-  "total_articles": 155,
+  "last_updated": "2026-08-09T01:58:15.474937+00:00",
+  "total_articles": 165,
   "articles": [
+    {
+      "title": "Siasat Peritel Memanfaatkan AI untuk Terapkan Strategi Harga Lebih Mahal",
+      "original_title": "How retailers are weaponising AI to charge higher prices",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPN1RIbkItOTgyM2x0dUFQT0Zyd04tT3doZDNYV0FZQTRWN2tIUjB0NlYxT3l0eC1NMmNCYUhzRXl5aEs5d3h4UGgtTVdSOWIxWlNXRXkzdHhMalJySjZ2LW83LTZ1ODJFUDlNZVRIbWZ6c2N2eEczSXRILVVDUE5xOS1aclpDTjBpRTJWTjNVdy1SREpaUmZ3YzlvZ0UzcHM4SDI4aVJ2U25Za3BFR2xLMGN3?oc=5",
+      "source": "AFR",
+      "published_date": "2026-08-09",
+      "summary": "Sektor ritel kini mulai memanfaatkan algoritma kecerdasan buatan untuk menerapkan strategi penentuan harga dinamis (dynamic pricing) yang dirancang guna memaksimalkan profit. Dengan menganalisis data perilaku konsumen secara real-time, AI dapat menaikkan harga produk bagi konsumen tertentu yang dinilai memiliki daya beli tinggi atau urgensi belanja yang mendesak. Praktik ini memicu perdebatan sengit mengenai etika bisnis, perlindungan konsumen, dan transparansi harga di era digital.",
+      "takeaways": [
+        "Peritel menggunakan AI untuk menganalisis riwayat belanja dan lokasi guna menetapkan harga yang berbeda bagi tiap konsumen.",
+        "Strategi harga dinamis berbasis AI ini dinilai merugikan konsumen karena kurangnya transparansi dan keadilan harga.",
+        "Para pengamat mendesak adanya regulasi perlindungan konsumen baru untuk membatasi penyalahgunaan algoritma penetapan harga ini."
+      ],
+      "category": "Sains & Teknologi"
+    },
     {
       "title": "Terobosan Baru: Model AI Terbuka China Saingi Raksasa Silicon Valley",
       "original_title": "Another powerful new artificial intelligence model from China took the US tech industry by surprise",
@@ -139,6 +153,132 @@
         "LLM musik baru menghasilkan musik dengan pemahaman struktural harmoni yang mendalam.",
         "Mampu menghasilkan file MIDI multi-instrumen yang dapat diedit secara profesional.",
         "Membuka perdebatan baru mengenai hak cipta karya seni yang dihasilkan oleh kecerdasan buatan."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Ilmuwan Manfaatkan Kecerdasan Buatan untuk Ciptakan Virus Sintetis",
+      "original_title": "Scientists used Artificial Intelligence to create synthetic virus",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5xcnpUR1RhYmM5MXk1cFJ3bHk4cERvaE1lVFYxSURkNUwwUTY3aHRRa1hFR0F2eC04Z1ZEY1M0NFk3RXFrNE5ZSTNLSXRZbzBTYzJZYklLSzlaV1FOYWpWTTJiM1NReHY3NEx1YzYya2dJY2hGVmJaONIBfkFVX3lxTE1NSDhWR0ZEbUJia19UbUV4SThQYTRROURpTGotLXFocG5VeFBwTEE1M3o2TWFVeVZJRGJMUFNpV3psQ0pFcWpTak1aMTc3RGJpSElSU1RXM1lUMUI5ZDJMT2xnTThLLU8wX2NaUGJqOWRyalRhQ0kxRXRNR1Rzdw?oc=5",
+      "source": "WBTW",
+      "published_date": "2026-08-08",
+      "summary": "Para peneliti telah berhasil menggunakan teknologi kecerdasan buatan (AI) untuk merancang virus sintetis secara mandiri. Meskipun pencapaian ini menunjukkan kemajuan besar dalam bidang biologi komputasi, hal ini juga memicu kekhawatiran serius terkait potensi risiko biosekuriti dan penyalahgunaan teknologi. Dampaknya, regulasi ketat terhadap penggunaan AI dalam sintesis patogen kini mendesak untuk segera dirumuskan.",
+      "takeaways": [
+        "AI kini mampu merancang genom virus sintetis dari awal tanpa memerlukan cetak biru alami.",
+        "Kemajuan ini mempercepat riset virologi dan pengembangan vaksin, tetapi juga membuka celah ancaman biosekuriti yang besar.",
+        "Para ahli menyerukan perlunya pengawasan global dan pembatasan akses terhadap alat AI bio-desain."
+      ],
+      "category": "Genom & Biotek"
+    },
+    {
+      "title": "Keamanan Terancam, OpenAI Tunda Pengembangan Model AI 'Astra'",
+      "original_title": "OpenAI to pause some work on AI model Astra due to security concerns | AI (artificial intelligence)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY1dJNXVXYnpmS0U2OFQtSDhFcURicFNyMGFMVGVjdTAtQWJmc21hcUU3dGBaNnBMeVMySHVhTGZmRF9xUko1c2JJS3haRjlTaWtVV3QtelExODdVTGtfNThUb0RrS2JFN3pqWEJoUkkwSHpoSWJaemNFam1zbXFwUkJnbFRjRFZV?oc=5",
+      "source": "The Guardian",
+      "published_date": "2026-08-08",
+      "summary": "OpenAI memutuskan untuk menghentikan sementara sebagian proyek pengembangan model AI mutakhir mereka, Astra, akibat adanya kekhawatiran terkait celah keamanan. Langkah ini diambil di tengah meningkatnya tekanan publik dan regulator agar perusahaan teknologi memprioritaskan keselamatan di atas kecepatan perilisan produk. Keputusan ini menunjukkan bahwa aspek keamanan kini menjadi hambatan utama dalam persaingan ketat pengembangan AI generatif.",
+      "takeaways": [
+        "OpenAI memprioritaskan mitigasi risiko keamanan dengan menangguhkan sebagian pengembangan model AI Astra.",
+        "Langkah ini mencerminkan transisi industri ke arah kepatuhan regulasi keselamatan yang lebih ketat.",
+        "Penundaan ini dapat memengaruhi jadwal peluncuran fitur asisten suara interaktif generasi berikutnya."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Ultrasonografi Janin Berbasis AI: Solusi Layanan Kesehatan Ibu dan Anak di Daerah Minim Fasilitas",
+      "original_title": "Artificial Intelligence-Assisted Fetal Ultrasound in Low-Resource Settings: Opportunities, Challenges, and Future Directions",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNWk4yOFBnMnZsNUNtRGdQbGxaUjBoY3JsR1VIS3Y3NFhYY3JFZkw4a0UtWGRTVDVfaHRndWZtdnp4MG9zUTJSM2xONEtQRzhhNW5wVlVFZTUtSjY4enFuN3otTmM5R0tMWmsyd2RWZzFyTkJPMlI0eXVMcUpyOE5uQVJXeGFaYTBnWEwxWGp4eEYwMmN0UHg2WUJvU2xJQ0ZnRERwSmlvTXJQcjhOUzRwTEgwLWpsc0ItMS1QWlZFaHpHRUNkRU5Fc2dzR1dOblFDSm43aDF3MGF3aFRZVlI1REFnNXN1YWRELXRJRnFqWmZmUQ?oc=5",
+      "source": "Cureus",
+      "published_date": "2026-08-08",
+      "summary": "Studi ini menyoroti potensi besar integrasi kecerdasan buatan dalam alat ultrasonografi (USG) janin untuk membantu deteksi dini komplikasi kehamilan di wilayah terpencil dengan keterbatasan tenaga medis spesialis. Meskipun menawarkan efisiensi tinggi, adopsi teknologi ini masih menghadapi tantangan besar seperti infrastruktur internet yang minim, biaya perangkat, dan perlunya pelatihan bagi tenaga kesehatan lokal. Keberhasilan implementasi AI ini diharapkan mampu menekan angka kematian ibu dan bayi di negara-negara berkembang.",
+      "takeaways": [
+        "AI pada alat USG dapat memandu tenaga medis non-spesialis di daerah terpencil untuk mendeteksi kelainan janin secara akurat.",
+        "Tantangan utama penerapan teknologi ini mencakup konektivitas internet yang buruk, biaya, dan integrasi dengan sistem kesehatan lokal.",
+        "Penerapan teknologi ini secara luas memerlukan kolaborasi global untuk menyediakan perangkat medis AI yang terjangkau."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Tantangan Kepercayaan Publik terhadap Penggunaan Kecerdasan Buatan dalam Layanan Kesehatan",
+      "original_title": "It’s 2026. Do you know where healthcare AI’s ‘social license’ is?",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNajY5U3ZtYktEd3JOWVh3SzJyWHJXS1lSZTJfYnJVWW9IcXdBeXh2LUlIVXJBQTROVTRvZWVJblFmVEluNGdiV2xnSFBGRWE2cEVMR0pmOG41RGxoTklrZVloWTBxWEJDQlFiNXBpQ1lRUWtmZjFUQU1aU1ZIempqenlVdUcydzhabGdsclJrN3lLZU5XM3gwSkFDanNjRU9yXzNWdGs3cVYybHM5UUlR?oc=5",
+      "source": "HealthExec",
+      "published_date": "2026-08-08",
+      "summary": "Implementasi AI di sektor kesehatan terus berkembang pesat, namun tantangan terbesar saat ini adalah mendapatkan 'lisensi sosial' berupa kepercayaan penuh dari pasien dan dokter. Isu privasi data, bias algoritma, dan transparansi keputusan medis berbasis AI masih menjadi keraguan utama di kalangan masyarakat. Keberhasilan integrasi AI di rumah sakit sangat bergantung pada bagaimana pengembang dapat membuktikan keandalan dan etika teknologi mereka secara terbuka.",
+      "takeaways": [
+        "Akurasi teknis AI saja tidak cukup; adopsi massal di sektor medis memerlukan kepercayaan etis dan sosial dari masyarakat.",
+        "Kekhawatiran utama meliputi potensi bias dalam data klinis dan risiko kebocoran data medis pasien yang sensitif.",
+        "Transparansi algoritma dan keterlibatan aktif pasien dalam proses adopsi teknologi menjadi kunci utama mendapatkan lisensi sosial ini."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Dampak Lingkungan di Balik Penggunaan AI dan Cara Meminimalkannya",
+      "original_title": "Using AI has an environmental impact — here are 4 ways you can minimize it",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMVU4ZnZNakpmNG1sVmRKWUJ0ZE1tUzcyWjBuRGt6MXNOQ3VNS29ndGg2NUthN0pJeTFTQy1oaVJfdU82R19pRkY0RlE1N2xMV2ROOHZjdFFkRWFFNFdvdWdQdVpQS1pGaUE1ZE4ta0tjb3JYbURqRDZ3Y2phRGVaanh3SHRLR3NHMTFnN2VlaDlob01fSmlJX0g4aExzYjA2V3QwckhBWGhpbmtENFN2OGhfYWhIYWhVdkxKaVI3cUZxdnZ2cVlDQzhBS3d6ZllE?oc=5",
+      "source": "Live Science",
+      "published_date": "2026-08-08",
+      "summary": "Di balik kecanggihannya, operasional pusat data yang menjalankan model kecerdasan buatan membutuhkan energi listrik dan air pendingin dalam jumlah yang sangat masif, sehingga berkontribusi pada emisi karbon global. Artikel ini mengulas empat langkah praktis yang dapat diambil oleh pengguna maupun pengembang untuk menekan jejak lingkungan tersebut, mulai dari efisiensi kueri hingga memilih penyedia cloud ramah lingkungan. Kesadaran akan aspek keberlanjutan ini sangat krusial agar kemajuan AI tidak memperburuk krisis iklim.",
+      "takeaways": [
+        "Pusat data AI mengonsumsi energi dan air dalam jumlah yang sangat besar, memicu kekhawatiran dampak lingkungan.",
+        "Pengguna dapat mengurangi dampak emisi dengan meminimalkan kueri AI yang tidak perlu dan memilih model yang lebih kecil serta efisien.",
+        "Industri teknologi didorong untuk beralih ke sumber energi terbarukan guna mendukung operasional infrastruktur AI mereka."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Apple Izinkan Pengguna Mac di China Hubungkan Layanan AI Qwen Milik Alibaba",
+      "original_title": "Apple says Mac users in China can connect to Alibaba's Qwen AI service",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbXVFWnRmd080YXVJQl95andMTEs4bzBySU9OUzFROUdVcVU5UUtjMFF1LVY3WWNEMTZ3di1hM203OUhjQ2d6MFF0NlNWcUdJUndQZXlBWmRXZVhXc2RnSVdORFdmVEZFTWFkNnVVSjVOZFV4NDFkcVo3Z1VramQ5NUZPSkhJclk4R2tuVEtVRzJRNkVmYXhSeTk5NmJ5d0JIRkdSQ1RVR1NnOG5hdmJON0Zlb2t4QV82SWhvZkhWbS1PZw?oc=5",
+      "source": "Reuters",
+      "published_date": "2026-08-08",
+      "summary": "Apple mengumumkan bahwa pengguna perangkat Mac di pasar China kini dapat mengintegrasikan dan menggunakan Qwen, model kecerdasan buatan buatan Alibaba. Langkah strategis ini diambil guna mematuhi regulasi ketat pemerintah China terkait penayangan layanan AI asing sekaligus mempertahankan pangsa pasar Apple di negara tersebut. Kemitraan ini menunjukkan dinamika lokalisasi teknologi yang harus dihadapi oleh raksasa teknologi global di tengah ketegangan geopolitik.",
+      "takeaways": [
+        "Apple bermitra dengan Alibaba untuk menghadirkan fitur AI lokal di China demi mematuhi regulasi sensor dan data setempat.",
+        "Integrasi model Qwen milik Alibaba memungkinkan pengguna Mac di China menikmati fitur asisten pintar yang relevan dengan ekosistem lokal.",
+        "Kolaborasi ini mempertegas pentingnya lokalisasi teknologi bagi raksasa global agar tetap kompetitif di pasar Tiongkok."
+      ],
+      "category": "Sains & Teknologi"
+    },
+    {
+      "title": "Adopsi Ilmu Kognitif pada Kerangka Kerja AI Tingkatkan Efisiensi Penyelesaian Tugas",
+      "original_title": "AI framework rooted in cognitive science could complete tasks more efficiently",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUy10X2ZfejNJVHE2MDIzM3dma19MQkpGMmVNd3QwZFgxSVNwMUJ0WjgyZ3RqVnY5WWVHRFR0NVlkN0VXa3QwaXBBR242OEh2TFBLZjFGMnVCVy10Q0lIUkNvUXUtU2V3WURLcmEyNmpQcXF3UHhkX1hFQkFkUEJGVVByNGU?oc=5",
+      "source": "Tech Xplore",
+      "published_date": "2026-08-08",
+      "summary": "Para peneliti mengembangkan kerangka kerja kecerdasan buatan baru yang dirancang meniru cara kerja proses kognitif otak manusia dalam menyelesaikan masalah. Model berbasis ilmu kognitif ini terbukti mampu menyelesaikan tugas-tugas kompleks dengan konsumsi daya komputasi yang jauh lebih rendah dibanding sistem AI konvensional. Inovasi ini membuka jalan bagi pengembangan kecerdasan buatan yang lebih cerdas, adaptif, dan ramah energi di masa depan.",
+      "takeaways": [
+        "Pendekatan ilmu kognitif membantu AI memahami prioritas tugas layaknya cara berpikir dan fokus manusia.",
+        "Kerangka kerja baru ini berhasil memangkas kebutuhan daya komputasi yang biasanya sangat tinggi pada model AI tradisional.",
+        "Inovasi ini berpotensi diterapkan pada sistem otonom dan robotika yang membutuhkan respons cepat dan hemat energi."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Elon Musk Sebut Kelangkaan Memori Bakal Dongkrak Biaya Infrastruktur AI",
+      "original_title": "Forget the Artificial Intelligence (AI) Capex Bubble: SpaceX CEO Elon Musk Says the Memory Shortage Will Drive Costs Even Higher",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWEhMSjJYNWVZbTUtSVVydnRxMGlKNVZDdmNEWWlUWjNhTERUMDduZ0FTZXRWUk5idF9yODBZYVF2M29CNEdFUVZwTUdGZmNZZHN6NFBFcWNnVU9qWjg3cy1BbW5vLWZCWlVPNW9MU2lrX3lCdXotMnVSMXFBaGd3SVlCLTh6QVZrVnBsczVMYUZKMWJXVEZudw?oc=5",
+      "source": "The Motley Fool",
+      "published_date": "2026-08-08",
+      "summary": "CEO SpaceX dan xAI, Elon Musk, menyatakan bahwa tantangan terbesar industri AI saat ini bukanlah gelembung investasi modal (capex bubble), melainkan kelangkaan komponen memori berkecepatan tinggi yang krusial bagi superkomputer AI. Kelangkaan rantai pasok ini diprediksi akan mendongkrak biaya pengembangan infrastruktur kecerdasan buatan menjadi jauh lebih mahal. Pandangan ini menggeser fokus kekhawatiran pasar dari isu finansial murni ke hambatan fisik ketersediaan perangkat keras global.",
+      "takeaways": [
+        "Keterbatasan pasokan cip memori berkinerja tinggi kini menjadi hambatan utama dalam pengembangan infrastruktur AI skala besar.",
+        "Elon Musk memperkirakan biaya operasional dan pembangunan pusat data AI akan terus melambung akibat krisis rantai pasok ini.",
+        "Kelangkaan ini memaksa para produsen perangkat keras untuk mempercepat inovasi teknologi penyimpanan data generasi terbaru."
+      ],
+      "category": "Sains & Teknologi"
+    },
+    {
+      "title": "Dilema Akademis di Colorado: Mahasiswa Tolak Integrasi AI yang Dianggap sebagai 'Mesin Plagiarisme'",
+      "original_title": "As Colorado universities align with AI, students take a stand against ‘plagiarism machine’",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQmNSaFdTZ29HN3ZZV0tZVk5pb09GUTFWOEVkUHJKMVpkbERITHQ4MUtqQUg1dG1MdGRVUDl5aXliVVl1ZFpRamo3bVl1NjJNV0t0eWctNGdXeUktVWZYMExRLTdyTmNCMHZWX0hfRVdENHd6Sk9oM1NhSlZjSTNGVkh0Sm1kbmlNdkhiZUFPTV93MEttazJ0MGxlZ05GS1drSnhGeFVPU1FwMU4yblFyQjc1SG1TWE9HUVpBLVJNRXUwRlF3UElkeQ?oc=5",
+      "source": "The Detroit News",
+      "published_date": "2026-08-08",
+      "summary": "Sejumlah universitas di Colorado mulai mengintegrasikan teknologi kecerdasan buatan ke dalam kurikulum pembelajaran, namun kebijakan ini mendapat penolakan keras dari kalangan mahasiswa. Mereka berargumen bahwa alat AI generatif sering kali bertindak sebagai 'mesin plagiarisme' yang merusak integritas akademik dan mengurangi orisinalitas karya ilmiah siswa. Konflik ini merefleksikan ketegangan global antara adopsi teknologi modern dan pelestarian etika pendidikan tradisional.",
+      "takeaways": [
+        "Mahasiswa menyuarakan kekhawatiran bahwa penggunaan AI generatif di kampus dapat merendahkan nilai orisinalitas akademis.",
+        "Pihak universitas berupaya meredam kritik dengan merumuskan panduan penggunaan AI yang etis dan bertanggung jawab dalam kelas.",
+        "Debat ini menuntut adanya sistem deteksi AI yang lebih akurat guna menjaga keadilan iklim akademis di perguruan tinggi."
       ],
       "category": "Artificial Intelligence"
     },
