@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-11T01:57:27.803825+00:00",
-  "total_articles": 175,
+  "last_updated": "2026-08-12T02:10:54.460017+00:00",
+  "total_articles": 185,
   "articles": [
     {
       "title": "Terobosan Baru: Model AI Terbuka China Saingi Raksasa Silicon Valley",
@@ -139,6 +139,146 @@
         "LLM musik baru menghasilkan musik dengan pemahaman struktural harmoni yang mendalam.",
         "Mampu menghasilkan file MIDI multi-instrumen yang dapat diedit secara profesional.",
         "Membuka perdebatan baru mengenai hak cipta karya seni yang dihasilkan oleh kecerdasan buatan."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Mengapa Banyak Perusahaan Kesulitan Menentukan Tarif untuk Layanan Kecerdasan Buatan",
+      "original_title": "Artificial intelligence: Why firms are struggling to set prices",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tQzBPOW4tVDhjVUJpSmxEQVdJcHVnMlVHODVZRXpnckFpMmdyNXdCNHR3ZW5VWXJlOS1hMVpqQTluTzc5bXo2c2hNMlB5QS03WWRGbm5mOVFJUQ?oc=5",
+      "source": "BBC",
+      "published_date": "2026-08-11",
+      "summary": "Artikel ini menyoroti tantangan finansial yang dihadapi perusahaan dalam menentukan harga produk berbasis kecerdasan buatan (AI) karena biaya komputasi yang tinggi dan fluktuatif. Ketidakpastian model bisnis ini memaksa para pelaku industri mencari formula monetisasi yang berkelanjutan demi menjaga profitabilitas. Memahami dinamika ini penting karena akan menentukan bagaimana produk teknologi di masa depan dihargai dan diakses oleh konsumen luas.",
+      "takeaways": [
+        "Tingginya biaya operasional komputasi awan menyulitkan penetapan harga tetap untuk produk AI.",
+        "Perusahaan dituntut untuk mengadopsi model harga dinamis berbasis konsumsi riil pengguna.",
+        "Formula monetisasi yang salah berpotensi merugikan startup teknologi di tengah ketatnya persaingan pasar."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Menakar Kebutuhan Energi Pusat Data AI: Kerangka Baru untuk Menilai Kelayakan Lokasi",
+      "original_title": "Assessing the Energy Potential of Artificial Intelligence Data Center Sites: A Framework for Comparing Site Suitability",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpMTloNTdnTzdEQ3hrYkhYcU52cVN4dmJoZmlidTBoenVVMkg5SHVGazBLX1ptaDFYOFZwR3EybWFyckFQMEFlcm9kTnRpcDBWeXFnU1VwWGxQLU1FazdWeHpHbHgxY3c?oc=5",
+      "source": "RAND Corporation",
+      "published_date": "2026-08-11",
+      "summary": "Lembaga riset RAND Corporation memperkenalkan kerangka kerja baru untuk membandingkan kesesuaian lokasi pusat data kecerdasan buatan berdasarkan potensi pasokan energinya. Perkembangan AI yang masif membutuhkan daya listrik luar biasa, sehingga analisis infrastruktur energi menjadi sangat krusial. Studi ini membantu para pembuat kebijakan dan penyedia layanan teknologi merencanakan ekspansi pusat data yang ramah lingkungan dan andal.",
+      "takeaways": [
+        "RAND mengembangkan metode terukur untuk mengevaluasi ketersediaan dan stabilitas energi bagi pusat data AI.",
+        "Kapasitas jaringan listrik yang terbatas menjadi tantangan utama dalam ekspansi infrastruktur komputasi masa kini.",
+        "Penilaian lokasi yang tepat dapat mengurangi dampak lingkungan dan mengoptimalkan biaya operasional jangka panjang."
+      ],
+      "category": "Sains & Teknologi"
+    },
+    {
+      "title": "Kendali Otomatis Senjata Nuklir: Bagaimana AI Meningkatkan Efektivitas Ancaman Militer",
+      "original_title": "Putting Armageddon on Autopilot: How Artificial Intelligence Could Make Nuclear Threats More Effective",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeFBfazhlWmVoZ1xlakFUWmRrVE1DWEtjZGtScmR4Qy1KWlRHY3ZhZUNkWnJJNndiT1N3NHpUamJxRldVXzdOMzlJc3FxUWhNdlRCM1hLcDRIenVMeHIzVTVDaTJsSWhGb1hZTXdMa3ppaTFXWlFKeDdOMGlFRHBzZkZEcmNKVnJtWU5yd3l4anZ0b2c1eVZ3a3dTR1BWR1VCek1fMWJBRTdlMFdLWU1fZF8wSEpNMEdoczVKZEhoSFVuN1pnTklF?oc=5",
+      "source": "War on the Rocks",
+      "published_date": "2026-08-11",
+      "summary": "Analisis ini mengeksplorasi potensi bahaya pengintegrasian kecerdasan buatan ke dalam sistem komando pertahanan nuklir. Kecepatan reaksi AI dinilai dapat membuat ancaman penangkalan nuklir menjadi lebih kredibel sekaligus meningkatkan risiko eskalasi yang tidak disengaja. Isu ini sangat penting dibahas demi merumuskan regulasi internasional terkait pembatasan otonomi mesin dalam keputusan perang hidup dan mati.",
+      "takeaways": [
+        "Integrasi AI dalam sistem militer dapat mempercepat proses pengambilan keputusan taktis secara dramatis.",
+        "Otomatisasi pertahanan meningkatkan kekhawatiran global akan terjadinya perang nuklir akibat kesalahan teknis atau algoritma.",
+        "Dibutuhkan konsensus global untuk tetap mempertahankan kontrol manusia di setiap jenjang rantai keputusan senjata nuklir."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Persaingan Global Memanas: KTT Musim Panas Tunjukkan Jurang Pemisah AI antara AS dan China",
+      "original_title": "A summer of AI summits reveals a widening US-China divide",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMkFvRFhOR3pIalEwM2xSZ1FBajRYTkpqcUJYRjEweF9LRFE4Q3R6TklaN1phUmxJVE5wNlZmc0ZRdDU3RWJ2bHhrXzY3a3hvUExBYldpaWVDWWVyT3JIc0J4RlFmSnJlRzNEd1ZhQWN4UnZ0XzY3ZXRfQWxwYnItMFB0RkdROGMtNl9SMXBhdmQ4RllfdkZnbg?oc=5",
+      "source": "Brookings",
+      "published_date": "2026-08-11",
+      "summary": "Rangkaian pertemuan puncak mengenai teknologi kecerdasan buatan baru-baru ini memperjelas polarisasi geopolitik yang semakin dalam antara Amerika Serikat dan China. Kedua negara adidaya tersebut menunjukkan pendekatan regulasi dan standar etika yang berbeda demi memperebutkan dominasi teknologi global. Ketegangan ini berdampak pada rantai pasok semikonduktor serta kerja sama riset sains internasional di masa depan.",
+      "takeaways": [
+        "AS dan China semakin terpolarisasi dalam merumuskan regulasi, standar keamanan, dan tata kelola teknologi AI.",
+        "Persaingan ini memicu fragmentasi ekosistem riset global dan membatasi kolaborasi ilmiah lintas negara.",
+        "Perebutan pengaruh teknologi kini merambah ke aspek diplomasi internasional dan kontrol rantai pasok perangkat keras."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Gunakan Prinsip Dasar Fisika, AI Berhasil Petakan Kristalisasi Cairan Hall Kuantum Fraksional",
+      "original_title": "First-Principles AI Finds Crystallization of Fractional Quantum Hall Liquids",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE02aWVVQ0NLRWFGWGp4VkV6WGtJeTJZRkVUSU01LTc0Qk5FQm1ZLS00TDMtV09DWEdqb2Rlc2Q4U1pwQUJhd29hcTBGWUdEWEJPZVZYNmt1V0xVS3NsRjZZQktCeWJNbERuNGdMTE5lRFV1MTNKM2c?oc=5",
+      "source": "APS Journals",
+      "published_date": "2026-08-11",
+      "summary": "Para ilmuwan berhasil memanfaatkan teknologi AI berbasis prinsip-prinsip dasar fisika untuk memodelkan fenomena rumit kristalisasi cairan Hall kuantum fraksional. Penemuan ini membuktikan bahwa machine learning mampu menyelesaikan persamaan mekanika kuantum kompleks yang sebelumnya sangat sulit dipecahkan secara komputasi tradisional. Keberhasilan ini membuka jalan bagi lompatan besar dalam pemahaman material kuantum baru dan pengembangan superkonduktor.",
+      "takeaways": [
+        "Model AI dapat memprediksi perilaku fase kuantum material eksotis dengan akurasi yang sangat tinggi.",
+        "Pendekatan ini menjembatani keterbatasan metode komputasi fisika konvensional dalam menganalisis interaksi banyak-partikel.",
+        "Temuan ini berpotensi mempercepat inovasi material maju untuk kebutuhan komputasi kuantum masa depan."
+      ],
+      "category": "Sains & Teknologi"
+    },
+    {
+      "title": "Revolusi Medis: Ilmuwan USC Manfaatkan Komputasi Kuantum untuk Deteksi Kanker Lebih Akurat",
+      "original_title": "USC Scientists Are Using Quantum Computing to Rethink Cancer Detection",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdGVpQTVpWXhhbUNLSUgyOVd4bXNlVlZuV3JjSGlRZkJWMWVGbXRXMDZQdHZ4NEVOR3EtN0FIVElUSXJDX1hTdUNqdkhaRUVQTjB5bUcwTmQ0Y2Ffb1lOaWtqbU9HcFkwSFVnVFZWYU9OUU0xSXIyR2RZMXhJc1B2MmtpVzZfTFNzU1RodGZNbXhueUNtUDh5djhVWFRnaDl2N3pNVXFoOFg0MFJZQVZfQW9Wa2o?oc=5",
+      "source": "USC Viterbi School of Engineering",
+      "published_date": "2026-08-11",
+      "summary": "Peneliti di University of Southern California (USC) mulai mengeksplorasi kemampuan komputasi kuantum untuk meningkatkan akurasi dan kecepatan deteksi dini penyakit kanker. Teknologi ini memungkinkan analisis data genetik dan pencitraan medis yang jauh lebih kompleks dibandingkan dengan komputer klasik biasa. Langkah inovatif ini diharapkan dapat mendefinisikan ulang cara diagnosis klinis dilakukan demi meningkatkan peluang kesembuhan pasien.",
+      "takeaways": [
+        "Komputasi kuantum menawarkan pemrosesan data genomik yang sangat cepat untuk mendeteksi mutasi sel kanker terkecil.",
+        "Metode baru ini berpotensi meminimalkan kesalahan diagnosis dan mempercepat proses screening klinis.",
+        "Sinergi antara fisika kuantum dan bioteknologi membuka era baru dalam pengobatan presisi yang disesuaikan untuk tiap pasien."
+      ],
+      "category": "Genom & Biotek"
+    },
+    {
+      "title": "AI vs Metode Tradisional: Studi Banding Retensi Memori Mahasiswa Kedokteran Berbasis Teknologi Kecerdasan Buatan",
+      "original_title": "Artificial Intelligence-Assisted Versus Traditional Learning and Long-Term Knowledge Retention Among Undergraduate Medical Students: A Sequential, Explanatory Mixed-Methods Study",
+      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQSGZzZkFUR1Fib0RCT1FxRFhTdHhWZU9PTkUwbzJNV0xrSjRCWnRnaDZ4RjdCRTlVeVI1bDlHT1NpQlFXaGdhNVFZN1l5N2ZFTVl5QUZLLWN0MG4xTmQ2blI2RnNPcVlfSndxaHFjRUlxVmtfbVhCamowaVBPM05kQTAtcUp2UENRUlpGLUtGN2poYlUyemRhYV9CT2lydjVrSF9QNGo0bEozUVBxY3BqQUFTbVBsek5DYUZvSFVvOHNLbDZRVGlyeF9DdnVpXzktSTBic0R4RVVUN0hOVFVRNW1tTm9OUkVndFlEMnVicnZXM0NWYnRQcmxfOExXV3pOb3lYSDJQdktmRG11bVRZUE11M0p5VG40Nzl5YzRySlU5Y0tRTjc2SHlYxSbbEZ3QXlfdzY0dU8ySWs?oc=5",
+      "source": "Cureus",
+      "published_date": "2026-08-11",
+      "summary": "Sebuah penelitian membandingkan efektivitas pembelajaran berbantuan kecerdasan buatan dengan metode tradisional terhadap retensi pengetahuan jangka panjang mahasiswa kedokteran. Hasil studi menunjukkan bahwa visualisasi adaptif dan umpan balik instan dari AI membantu memperkuat pemahaman konsep medis yang rumit secara signifikan. Penemuan ini sangat penting untuk merancang kurikulum pendidikan kedokteran masa depan yang lebih efisien dan interaktif.",
+      "takeaways": [
+        "Platform AI interaktif mampu meningkatkan daya ingat jangka panjang mahasiswa terhadap materi anatomi dan klinis yang rumit.",
+        "Pembelajaran personal berbasis AI menawarkan pendekatan yang lebih adaptif dibandingkan metode ceramah satu arah tradisional.",
+        "Integrasi teknologi dalam pendidikan medis penting untuk melahirkan generasi tenaga kesehatan yang tanggap teknologi."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Batas Kemampuan AI: Hanya Bisa Meniru, Namun Belum Mampu Merancang dan Berinovasi Secara Mandiri",
+      "original_title": "Commentary: Artificial intelligence can imitate us, but it cannot truly design or invent",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZDhwa3k1M1BJN1NDeVdRYW1XeE1DR2RCX1RaSEdzXzZXWmFjenp1U09vbW9Wd3NxZ0E4RU8xWEk2VkV5TVlUTTQ3VWJmaDBSM1I1WGpka3JpQUVrdDRrWjBWX0FlMG1OdjVJV0I3ZS1SMzhOUjZqRzhqSkZVVW1oc1ZDS05YRWlSOEplakgwcDE4VklkdDlraHhHYnhMb2tCdUZCbXdXT2tHS0V5d3I0ZmV3MUZXYk1GcE1r?oc=5",
+      "source": "Itemlive",
+      "published_date": "2026-08-11",
+      "summary": "Opini ini mengulas batasan fundamental dari kecerdasan buatan yang meskipun piawai dalam meregenerasi data, sejatinya belum memiliki kreativitas murni untuk merancang atau menemukan hal baru secara mandiri. AI bekerja berdasarkan pola masa lalu sehingga hasil karyanya merupakan kombinasi canggih dari data latihan, bukan hasil orisinalitas berpikir. Hal ini menekankan bahwa peran manusia sebagai inovator utama tetap tidak tergantikan di era otomasi ini.",
+      "takeaways": [
+        "Sistem AI generatif bekerja dengan memetakan probabilitas data lama, bukan melalui kesadaran kreatif atau intuisi nyata.",
+        "Kreativitas manusia, empati, dan kemampuan memahami konteks emosional tetap menjadi keunggulan mutlak yang tidak dimiliki mesin.",
+        "Otomasi AI sebaiknya diposisikan sebagai alat bantu akselerasi, bukan sebagai pengganti desainer atau penemu utama."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Gugatan Hukum Terkait Penggunaan AI oleh Angkatan Darat AS Tuntut Transparansi dalam Evaluasi Proposal",
+      "original_title": "Lawsuit over Army’s use of AI in contract award could increase transparency around proposal evaluations",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxObGdoSFd5UGhFYVZmRVIxdUlkbHl1eWhlZlBFRXBTNk1kQTBCX2hjZVptdkZ2NnFQRm1ReVg4VXlpc2trS2VndVg1SXlHRC13LUVJQ002QzJXa1FfOEd6SU44THg5Zy1RSW93TjNGNEpTN3M3VG1aOGJySF9HWDhYZ0hVRzNremVGeXg3WHJEQUtkc0ZyQlRRRTZPVnB1VUFYUnlqTldqbV9GWWdFSXZ2MVN4VklySTU1UTBKYVlFbTFoOUNzX0dLWjRaM1V6OXQ1OVphVUFmNnhpYkpUeGpmZWpXeVdNcGpVNkE?oc=5",
+      "source": "federalnewsnetwork.com",
+      "published_date": "2026-08-11",
+      "summary": "Sebuah gugatan hukum terhadap Angkatan Darat Amerika Serikat terkait penggunaan AI dalam proses seleksi kontrak militer berpotensi memaksa pemerintah meningkatkan transparansi algoritma evaluasi mereka. Banyak pihak khawatir bias tersembunyi dalam kode biner kecerdasan buatan dapat merugikan peserta lelang yang berhak. Kasus ini menjadi preseden penting mengenai akuntabilitas penggunaan kecerdasan buatan dalam sektor pengadaan publik dan pemerintahan.",
+      "takeaways": [
+        "Penggunaan AI dalam proses pengadaan militer digugat karena minimnya transparansi terkait cara algoritma mengambil keputusan penilai.",
+        "Kasus hukum ini mendesak pemerintah untuk membuka metodologi evaluasi berbasis sistem cerdas kepada publik demi keadilan.",
+        "Transparansi algoritma menjadi kunci penting untuk menghindari tuduhan bias dan kecurangan dalam sistem pengadaan otomatis."
+      ],
+      "category": "Sains & Teknologi"
+    },
+    {
+      "title": "Maraknya Iklan Kampanye Deepfake AI Memicu Desakan Regulasi Keamanan Politik di AS",
+      "original_title": "After AI deepfake campaign ad, St Charles Co Exec wants guardrails passed",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcTcxN3YzaThoNFpGNzFZU2diYVE4WXdNdGlMVjVJZlcyNXk2dE9VY2ZlM2x6ekMtZEtVRnFPZks0aGdGcXBtSWJUT19YTnpVcmMzbFRmb3hGbjRnSV9ydV9SVURSeVVfdlhHTTNwejlWazU4cHl6Y2ZncWhMaWw0WW9pa0lpd1JIekZ2dmVCOC1JQTlXVjZTeVRWSGJWTlQxSnktRGVLYlRuNjBVSVlhWWNn0gHGAUFVX3lxTE5FX045S1VkZkY2NEk4aF9IOG5aRUdBVXpGZm1fWTFtenoyNklVUEJBU1oxeDVHVkNzN0thT0VqMXVwUTF0TFpTeDVEZDFXWF9MejYxYVRicUVXTFFNU09WcWhBb0QzdWZKam9wSE1rVmYydEFoUGU2Q2FQS1lrVjlzTTZtcDNPMTB4blpmMmFWV3B3NEpwdktwZU85WVpxY1k3NmVfclVOaVdCLWJGWF9VdVBZMHRnWTBDV1VaT0h3MGhaUHpXUQ?oc=5",
+      "source": "First Alert 4",
+      "published_date": "2026-08-11",
+      "summary": "Munculnya iklan kampanye politik yang menggunakan teknologi deepfake berbasis kecerdasan buatan mendorong pejabat wilayah St. Charles mendesak pembuatan aturan hukum yang tegas demi membatasi manipulasi digital tersebut. Penyebaran video palsu yang sangat mirip aslinya dinilai dapat merusak integritas pemilihan umum dan membingungkan para pemilih. Langkah legislatif ini menjadi contoh nyata bagaimana hukum harus beradaptasi cepat demi menangkal ancaman disinformasi berteknologi tinggi.",
+      "takeaways": [
+        "Iklan politik hasil manipulasi AI berpotensi memicu gelombang disinformasi massal menjelang pemilu.",
+        "Pejabat lokal mendesak adanya undang-undang perlindungan konsumen untuk memberikan sanksi tegas atas penyebaran konten deepfake tanpa izin.",
+        "Teknologi deteksi konten manipulatif harus dikembangkan sejalan dengan pembuatan regulasi untuk memulihkan kepercayaan publik."
       ],
       "category": "Artificial Intelligence"
     },
