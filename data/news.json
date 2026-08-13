@@ -1,7 +1,147 @@
 {
-  "last_updated": "2026-08-12T02:10:54.460017+00:00",
-  "total_articles": 185,
+  "last_updated": "2026-08-13T02:12:36.670586+00:00",
+  "total_articles": 195,
   "articles": [
+    {
+      "title": "Dorong Literasi Digital, Dewan Sekolah Setujui Standar Pembelajaran AI untuk Tingkat K-12",
+      "original_title": "State Board roundup, 8.12.26: Board approves AI standards for K-12 schools",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPekpuU2FGSTJneWhMa0xOcm9NVVJuUVRTaG42OExsUk1hMjE4bGI3c3ZlVGJaaGlNRUlKMVlLcmRCSTJfSTA5Yjd3eV9YNXJyN2d6NFdEZ1AtUm5vajdSYmUteHlJd1k5c215X1BSSk1hVmVBX3JOVjNXRlBFejk1QmdCVEpkd28yczNxeVpRWWM5NEdkeXFTQlc1M0x3V1B6elpxa0c5b0dRUQ?oc=5",
+      "source": "Idaho Education News",
+      "published_date": "2026-08-13",
+      "summary": "Dewan Pendidikan Negara Bagian Idaho telah menyetujui standar pengajaran kecerdasan buatan yang baru untuk sekolah-sekolah dari tingkat TK hingga SMA (K-12). Langkah ini dirancang untuk membekali siswa dengan pemahaman dasar tentang cara kerja AI, pemanfaatan etisnya, serta keterampilan teknologi yang dibutuhkan di dunia kerja modern. Kebijakan ini mencerminkan transisi penting dalam sistem pendidikan formal dalam merespons kehadiran teknologi generatif yang kian masif.",
+      "takeaways": [
+        "Sekolah K-12 di Idaho kini akan memiliki kurikulum resmi untuk mengajarkan konsep dasar dan etika AI kepada siswa.",
+        "Standar baru ini bertujuan mempersiapkan generasi muda menghadapi dunia kerja yang didominasi oleh teknologi AI.",
+        "Langkah ini menjadi preseden penting bagi integrasi pendidikan kecerdasan buatan ke dalam sistem sekolah umum secara nasional."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Pemanfaatan Kecerdasan Buatan untuk Meningkatkan Keamanan Obat Diabetes Pasca-Perawatan Rumah Sakit",
+      "original_title": "Using Artificial Intelligence to Improve Diabetes Medication Safety After Hospital Discharge",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWEdHdVE0bWRCWVJXUUF3OU54UHdvajgwX2tiNVJrQUJjanRZdDVmeElpU2o1UF9JaHQybEprVlgtN1dtemNPUEJsTzRtb0hGVlVmb1J2YlI2YzE2Ymp1WDRxbjhfWHAyRWMybVRpYkdXRzdVdHE2VFUtQXdnaE5hY2N6TURoVHdmVVdxLS1pcUZlQUVGY2tZakZVODlKdw?oc=5",
+      "source": "UMass Chan Medical School",
+      "published_date": "2026-08-12",
+      "summary": "Penelitian baru menunjukkan bagaimana AI dapat digunakan untuk memantau dan mengoptimalkan penggunaan obat diabetes bagi pasien yang baru saja keluar dari rumah sakit. Teknologi ini bertujuan untuk mengurangi risiko kesalahan dosis dan komplikasi berbahaya selama masa transisi kritis perawatan mandiri di rumah. Melalui otomatisasi ini, keselamatan pasien dapat ditingkatkan secara signifikan sekaligus mengurangi beban kerja tenaga medis.",
+      "takeaways": [
+        "AI membantu mengidentifikasi potensi kesalahan pemberian obat setelah pasien diabetes dipulangkan.",
+        "Sistem ini mengoptimalkan masa transisi kritis dari perawatan rumah sakit ke perawatan mandiri di rumah.",
+        "Teknologi ini berpotensi menurunkan angka rawat inap ulang akibat komplikasi obat."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Prediksi AI Merebut Lapangan Kerja Belum Terbukti: Di Mana Dampak Buruknya?",
+      "original_title": "AI was supposed to destroy jobs. Where’s the carnage?",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE85RVJfLU9XbWFoYlEzQ0hqdWxJVlJBZUxIcnk1VnZkR0JiVHNvSDVEelVmbDU4Ung2M3FJQUtncTNDUDR2NDJ0RkgxUWJEZEd4VzY5WUlJTGhGenVqOTZRcEYzcFNPc29xT2pYRUdFcF9kZFpEa2VXZQ?oc=5",
+      "source": "The Guardian",
+      "published_date": "2026-08-12",
+      "summary": "Meskipun ada kekhawatiran besar bahwa kecerdasan buatan akan memicu PHK massal secara global, data pasar kerja saat ini justru menunjukkan kondisi yang relatif stabil. Laporan ini mengeksplorasi mengapa disrupsi pekerjaan akibat AI tidak terjadi secepat yang dikhawatirkan dan bagaimana teknologi ini justru melengkapi pekerja manusia. Pemahaman ini penting untuk merumuskan kebijakan ketenagakerjaan masa depan yang lebih realistis.",
+      "takeaways": [
+        "Kekhawatiran akan hilangnya pekerjaan massal akibat AI belum terlihat secara signifikan di pasar kerja global.",
+        "AI saat ini lebih banyak berfungsi sebagai alat bantu produktivitas pekerja daripada pengganti peran manusia secara utuh.",
+        "Sifat adopsi teknologi yang bertahap memberi waktu bagi pasar tenaga kerja untuk beradaptasi."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Pejabat Intelijen Peringatkan Agen AI Otonom Mulai Mengubah Peta Ancaman Siber",
+      "original_title": "Intelligence Community CIOs Warn Autonomous AI Agents Are Reshaping Cyber Threat Landscape",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQT1FLd2hJQWJubUNZel9HZFJvN2ZaeXZBYTJNdnRFWGlGbDY1NnFaV3lSeVhhSkJwdlpsZWdWcFl3bGtJazhLZmVJblNCYVpOUjZmLWFUdUZzSVJRVDRDcjlxVzhvbm5HeUIycVpQRWxKdmt5UXgzdlpieUV6dXJvQzlTQ1FfNDFQV3VfWjF0Vk8?oc=5",
+      "source": "ExecutiveGov",
+      "published_date": "2026-08-12",
+      "summary": "Para pemimpin teknologi dari komunitas intelijen memperingatkan bahwa agen AI yang mampu beroperasi secara mandiri kini mendefinisikan ulang lanskap keamanan siber. Agen-agen AI otonom ini dapat meluncurkan serangan siber yang lebih cepat, adaptif, dan sulit dideteksi oleh sistem pertahanan konvensional. Hal ini menuntut militer dan lembaga pertahanan untuk segera memperbarui strategi pertahanan digital mereka menggunakan teknologi tandingan berbasis AI.",
+      "takeaways": [
+        "Agen AI otonom kini menjadi ancaman nyata yang mampu memodifikasi taktik serangan siber secara mandiri.",
+        "Sistem pertahanan keamanan siber tradisional dinilai tidak lagi cukup mumpuni untuk menghadapi ancaman AI yang dinamis.",
+        "Komunitas intelijen mendesak pengembangan AI defensif yang setara untuk menangkal serangan otomatis ini."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Kepala Intelijen AS Desak Penerapan Identitas Digital Khusus untuk Agen AI",
+      "original_title": "US Intelligence Chief Calls for Digital IDs for AI Agents",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZ2dEelQ1MWU2Z3QxRGZkMFlHZVIwYUp4Tk85cUFuRUljcUREbUg5WGpvaTBiNmUza1NkWlBSUVJUbmdXOFhFMUk0UG5sTEk5ODJ2SVVwTVMzRWFxYXA0M1VaenpMVlJIVndPZlREQVVYQlNxTkRsT185bXZvQ3ZXMEdGbldoMmZNU0s1Y2NObnBwRFJMRjB5RV8tZW52TkNrdWtNLUg5bW8zWGxBS3FyTmkyWmUtaUtkSVFQR0Rjb3c?oc=5",
+      "source": "pymnts.com",
+      "published_date": "2026-08-12",
+      "summary": "Kepala badan intelijen Amerika Serikat menyerukan urgensi pembuatan sistem identitas terverifikasi atau semacam tanda pengenal khusus untuk agen-agen kecerdasan buatan yang beroperasi di internet. Langkah ini dinilai krusial untuk membedakan aktivitas bot atau AI otonom dengan tindakan yang dilakukan oleh manusia sungguhan demi menjaga keamanan nasional. Regulasi ini diharapkan dapat menekan penyebaran disinformasi dan mempermudah pelacakan jika terjadi serangan siber berbasis AI.",
+      "takeaways": [
+        "Pemerintah AS mengusulkan identitas digital wajib bagi agen AI guna mempermudah pengawasan aktivitas digital.",
+        "Kebijakan ini bertujuan mengurangi risiko manipulasi informasi dan serangan siber yang memanfaatkan anonimitas AI.",
+        "Penerapan identitas digital ini menandai babak baru dalam tata kelola dan akuntabilitas sistem kecerdasan buatan global."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Ambisi Meta Hadirkan Kecerdasan Buatan Super Pintar Langsung di Perangkat Pengguna",
+      "original_title": "Inside Meta’s push to put open superintelligent AI on your devices",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPV0FITXNRd0VONHgzd3FsUWNyOURnSWNUR0hUaEUwa1FOMlFiTngzZ3p4VmdyR1hHcktsa1l4c21Cc3FzUnNyRWtucHBXWnQ3bGU2V3BOVHpNSUF5MVdGU19jQmtPX1lYR2RDT09pVHpNQVVfYjA4MWp6ajlUQWhvdU5ZbktZbE0xblRkSnc4OGE4WWREME4xeU9MQktkTDhk?oc=5",
+      "source": "Los Angeles Times",
+      "published_date": "2026-08-12",
+      "summary": "Meta kini tengah gencar mengembangkan teknologi untuk menjalankan model AI tingkat lanjut secara langsung (on-device) di ponsel pintar dan perangkat konsumen lainnya tanpa perlu bergantung pada server cloud eksternal. Pendekatan open-source yang mereka usung bertujuan mendemokrasikan akses AI pintar sekaligus meningkatkan privasi data pengguna secara signifikan. Jika berhasil, teknologi ini akan merevolusi interaksi sehari-hari manusia dengan kecerdasan buatan yang lebih instan dan aman.",
+      "takeaways": [
+        "Meta berfokus pada pengembangan model AI super pintar yang berjalan secara lokal di perangkat keras pengguna.",
+        "Model open-source dipilih untuk mempercepat inovasi dan memperluas adopsi pengembang pihak ketiga.",
+        "Pendekatan on-device AI menawarkan pemrosesan data yang lebih cepat dan tingkat privasi yang jauh lebih tinggi."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Tyler Cowen: Revolusi Kecerdasan Buatan Tidak Akan Bisa Dihentikan",
+      "original_title": "Tyler Cowen: Nothing Can Stop the AI Revolution",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4enBLNVZRU3pOa2tOSEVocmZndGJtV09TMWFLYkNvY2lscjlZczBMU0l3N3pfM2RCSDFreFVTU2xKNVpfbWNpWUY2aGd4RjAyNWFRZktiZ1VjLUN5ZEcyOFFmd2xMU3M?oc=5",
+      "source": "The Free Press",
+      "published_date": "2026-08-12",
+      "summary": "Ekonom Tyler Cowen menegaskan bahwa laju perkembangan dan adopsi kecerdasan buatan saat ini telah mencapai titik di mana tidak ada kekuatan regulasi atau oposisi sosial yang mampu membendungnya. Menurutnya, dorongan ekonomi global dan persaingan geopolitik akan terus memaksa negara-negara untuk terus berinovasi dalam AI meskipun menghadapi berbagai risiko etis. Pandangan ini menyoroti perlunya adaptasi cepat dibanding mencoba membatasi perkembangan teknologi tersebut.",
+      "takeaways": [
+        "Kekuatan ekonomi dan persaingan antarnegara membuat regulasi ketat sulit untuk menghentikan laju inovasi AI.",
+        "Revolusi AI dinilai akan terus melaju karena manfaat efisiensinya yang sangat masif di berbagai sektor industri.",
+        "Fokus kebijakan sebaiknya dialihkan dari upaya pembatasan menuju mitigasi risiko dan adaptasi cepat masyarakat."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Hasil Audit Temukan Cacat pada Dataset AI Publik Korea Selatan Senilai Rp 18 Triliun",
+      "original_title": "Audit finds flaws in South Korea's $1.13 billion public AI datasets",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOd3RzS0NJalZkMW1Gd09DSWtEM0piMjhKUDMyMjhRX1V3aEkxZDJiU19US2NPd09TWUNYTkV4UWJlVmNZZG51Zmw5bnZQN3FRMnVIQkhSWjRYWTNEa3NVUzh2M3U3OFQxaVlFS3M5NjlYcVhBLURkZ3BBRE0zZEhzMFpSMVRBVE5kSG5BT05Zc1h1dXBoa2h6N0NEcndoQkE4dXfSAaIBQVVfeXFMTnd0c0tDSWpWZDFtRndPQ0lrRDNKYjI4SlAzMjI4UV9Vd2hJMWQyYlNfVEtjT3dPU1lDWE5FeFFiZVZjWWRudWZsOW52UDdxUTJ1SEJIUlo0WFkzRGtzVVM4djN1NzhUMWlZRUtzOTY5WHFYQS1EZGdwQURNM2RIczBaUjFUQVROZEhuQU9OWXNYdXVwaGtoejdDRHJ3aEJBOHV3?oc=5",
+      "source": "upi.com",
+      "published_date": "2026-08-12",
+      "summary": "Sebuah audit resmi di Korea Selatan mengungkapkan adanya cacat kualitas yang serius pada dataset publik yang didanai pemerintah senilai lebih dari 1 miliar dolar AS untuk melatih model AI nasional. Kegagalan kontrol kualitas ini mengancam efektivitas proyek-proyek teknologi masa depan dan menimbulkan kekhawatiran terkait pemborosan anggaran negara. Kasus ini menjadi peringatan keras bagi negara-negara lain mengenai pentingnya kurasi data yang ketat dalam pembangunan infrastruktur AI nasional.",
+      "takeaways": [
+        "Audit menemukan masalah kualitas signifikan pada proyek dataset AI publik Korsel senilai 1,13 miliar dolar AS.",
+        "Data yang tidak akurat berpotensi menghasilkan model AI yang bias atau tidak dapat diandalkan oleh sektor publik dan swasta.",
+        "Kasus ini menyoroti pentingnya pengawasan ketat dalam pengelolaan proyek teknologi skala besar milik pemerintah."
+      ],
+      "category": "Sains & Teknologi"
+    },
+    {
+      "title": "Transparansi dan Keamanan Jadi Fokus Utama Rangkaian Undang-Undang AI Baru di Illinois",
+      "original_title": "Transparency, Safety Are Focuses for Illinois AI Laws",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONTlDNHFqVmxXVUdlWHJ6WEl1c2hHdGlzblFFTTZ6RDFmYjg0YU1DbEhXWjNSbTBYY3h1UHFVWWktRmNjQktXTFRJTXFGdzJ3ZzFrQ182bW1qbDJsazRESTFJdmtWZkppXzdISjJDY1JSY3NzWG1Vczlkb0xrVEQ2WldYUW9JV3VDVGxIV2YyVlBsRjNVNmE1UkpxcmJhZ1QwZGc?oc=5",
+      "source": "GovTech",
+      "published_date": "2026-08-12",
+      "summary": "Negara bagian Illinois sedang menggodok regulasi baru yang berfokus penuh pada transparansi penggunaan algoritma serta perlindungan keamanan data pribadi warga dalam sistem AI. Undang-undang ini bertujuan mencegah diskriminasi otomatis yang dihasilkan oleh AI dalam rekrutmen kerja dan evaluasi kredit, serta memberikan hak bagi publik untuk mengetahui kapan keputusan penting diambil oleh mesin. Regulasi ketat ini diharapkan dapat menciptakan ekosistem AI yang lebih etis dan bertanggung jawab bagi masyarakat.",
+      "takeaways": [
+        "Undang-undang baru di Illinois menekankan hak publik untuk mengetahui penggunaan AI dalam keputusan penting.",
+        "Regulasi difokuskan pada mitigasi risiko diskriminasi algoritma dan perlindungan data sensitif pengguna.",
+        "Langkah legislatif ini dapat menjadi cetak biru bagi negara bagian lain dalam menyusun hukum tata kelola AI."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Survei Reuters: Mayoritas Perusahaan di Jepang Masih Ragu Adopsi AI Secara Penuh",
+      "original_title": "Strong majority of Japanese firms have yet to fully embrace AI: Reuters poll",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNekllTVFtYmFKdy1HY1ZRWllGSmZLTDUtN3M1cVFOd0taZEZVNF9pcHhIX3czN1JXS0Jzb0RqTl9NWURjWlVFOUo2RDFEQUVtU1phN1pUc2p1ekdmLXYwUVo3RDYtX1NFZnNOa0s4ZE1wQnNZcFE2N2tmRjZWaUYzUGZseFo3OUV2bWJ6OGFGXzdaa3M4UUZhSEpsUjVreEFfWlRlSXNNRzd0OUZDTUo3Zw?oc=5",
+      "source": "Reuters",
+      "published_date": "2026-08-12",
+      "summary": "Jajak pendapat terbaru dari Reuters menunjukkan bahwa sebagian besar korporasi di Jepang masih belum sepenuhnya mengadopsi teknologi kecerdasan buatan dalam operasional bisnis mereka. Hambatan utama yang dilaporkan meliputi kekhawatiran akan keamanan data, kurangnya talenta digital lokal yang mumpuni, serta ketidakpastian mengenai pengembalian investasi (ROI). Fenomena ini menyoroti adanya kesenjangan adopsi AI di negara maju meskipun hype global seputar teknologi ini sangat tinggi.",
+      "takeaways": [
+        "Hanya sebagian kecil perusahaan Jepang yang telah mengintegrasikan AI secara penuh ke dalam proses bisnis utama mereka.",
+        "Kekhawatiran keamanan informasi dan keterbatasan keahlian SDM lokal menjadi kendala utama adopsi teknologi.",
+        "Hasil survei menunjukkan perlunya strategi edukasi dan penguatan infrastruktur digital sebelum korporasi beralih ke AI."
+      ],
+      "category": "Sains & Teknologi"
+    },
     {
       "title": "Terobosan Baru: Model AI Terbuka China Saingi Raksasa Silicon Valley",
       "original_title": "Another powerful new artificial intelligence model from China took the US tech industry by surprise",
