@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-13T02:12:36.670586+00:00",
-  "total_articles": 195,
+  "last_updated": "2026-08-14T02:11:28.696174+00:00",
+  "total_articles": 205,
   "articles": [
     {
       "title": "Dorong Literasi Digital, Dewan Sekolah Setujui Standar Pembelajaran AI untuk Tingkat K-12",
@@ -13,6 +13,146 @@
         "Sekolah K-12 di Idaho kini akan memiliki kurikulum resmi untuk mengajarkan konsep dasar dan etika AI kepada siswa.",
         "Standar baru ini bertujuan mempersiapkan generasi muda menghadapi dunia kerja yang didominasi oleh teknologi AI.",
         "Langkah ini menjadi preseden penting bagi integrasi pendidikan kecerdasan buatan ke dalam sistem sekolah umum secara nasional."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Menakar Nilai Finansial Agen AI dalam Mempercepat Pengembangan Obat Baru",
+      "original_title": "Financial Value of AI Agents in Drug Development",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUmZsYVdIem1UYXRpMWpvcTFGUDlNdnd6UXB6NmtqVWR5aGlOaFh6cFlBbkxkQldORkdnblhLRFQxbGxOX0swQ2c1OF9sQnNmUjNlZGRGQmFyTDllNnQwQk9uVVNHenJMS1ZReUFLRFF5VFZpaG1TSzNCVnZOelRtMDBfMXh1T3REaEk6SXB3alJ0SHpFLVdqUUZkUlNYaHFYTENOZEd0OG4ycE0?oc=5",
+      "source": "Genetic Engineering and Biotechnology News",
+      "published_date": "2026-08-13",
+      "summary": "Penggunaan agen kecerdasan buatan (AI) dalam industri farmasi kini mulai menunjukkan dampak finansial yang signifikan melalui efisiensi proses penemuan obat. Teknologi ini mampu memangkas waktu penelitian laboratorium dan meminimalkan kegagalan dalam uji klinis. Keberhasilan ini berpotensi menurunkan harga obat-obatan di masa depan serta meningkatkan investasi di sektor bioteknologi.",
+      "takeaways": [
+        "Agen AI mempercepat identifikasi target penyakit dan desain molekul obat secara signifikan.",
+        "Efisiensi yang dihasilkan membantu menekan biaya riset klinis yang biasanya memakan waktu bertahun-tahun.",
+        "Keberhasilan finansial ini mendorong kolaborasi yang lebih erat antara raksasa teknologi dan perusahaan farmasi."
+      ],
+      "category": "Genom & Biotek"
+    },
+    {
+      "title": "Perspektif Peraih Fields Medal Terence Tao tentang Peran AI dalam Masa Depan Matematika",
+      "original_title": "Watch: Fields Medalist Terence Tao on Artificial Intelligence and Why We Do Math",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQmEzZExWQmxsZmtBNUxvM2V4RVN1aWgxZzdTanpiN3ZDV2ZmWjZjLTgtU1NhNnJBTFp0empSaFZnc0kwMnlqNU8xcnUzSkFEN25WTzlkbE9zM25vYW5XY0diQ20tWkNHelZYUnR2UllwSTI0X0lJZVJNcE9JU293bi1ZWEdSOHZlSEZERkd4aXM5dDdFUjE0YjFBeXA0TVY4LTVmdy1jajVmbmJ5TExEbUFUdTRTb2wtQWc?oc=5",
+      "source": "Simons Foundation",
+      "published_date": "2026-08-13",
+      "summary": "Matematikawan terkemuka Terence Tao membagikan pandangannya mengenai bagaimana kecerdasan buatan dapat mengubah cara manusia memecahkan masalah matematika yang kompleks. Ia menekankan bahwa meskipun AI sangat cepat dalam menghitung, esensi pemahaman matematika tetap berada pada kreativitas manusia. Diskusi ini menyoroti kolaborasi harmonis antara kecerdasan mesin dan pemikiran logis manusia.",
+      "takeaways": [
+        "AI berfungsi sebagai asisten supercepat untuk memverifikasi teori dan mengeksplorasi rumus matematika.",
+        "Peran utama matematikawan bergeser dari sekadar berhitung ke arah merumuskan konsep dan pemikiran abstrak.",
+        "Sinergi antara manusia dan kecerdasan buatan akan mempercepat penemuan ilmiah baru."
+      ],
+      "category": "Sains & Teknologi"
+    },
+    {
+      "title": "Anggota Kongres AS Sambangi Vatikan untuk Diskusikan Etika AI Bersama Paus Fransiskus",
+      "original_title": "House lawmakers visit Vatican to discuss AI — and meet the pope",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWDZNbzRMSjE3MkxqRlBaeGc5cnloVmphWXp0aWVBZWlrNV9VbnZ5YS1WMm96SVJBVG9RVVlfNHpJMlZ0QTctRUk0QWNCZXVmRDR6MkRfRVFOUHFZWV9TU0YycUxZaXdRZUtmenpzZkZpdzFkbnN0TE1fWGM2NFdUbFZB?oc=5",
+      "source": "Politico",
+      "published_date": "2026-08-13",
+      "summary": "Delegasi anggota parlemen Amerika Serikat melakukan kunjungan ke Vatikan guna membahas implikasi etis dari perkembangan kecerdasan buatan yang pesat. Pertemuan ini menyoroti pentingnya menjaga nilai kemanusiaan dan mencegah bias serta ketidakadilan sosial yang mungkin ditimbulkan oleh teknologi AI. Vatikan terus mendorong dialog global agar pengembangan teknologi selalu memprioritaskan kesejahteraan umat manusia.",
+      "takeaways": [
+        "Kunjungan ini menekankan perlunya regulasi AI yang berlandaskan pada nilai-nilai kemanusiaan dan etika moral.",
+        "Paus Fransiskus secara aktif menyerukan agar AI tidak memperlebar jurang kesenjangan sosial global.",
+        "Kolaborasi lintas sektor antara pembuat kebijakan dan institusi keagamaan penting untuk mengawal perkembangan AI secara bijak."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Pengadilan Tiongkok Bela Pekerja yang Tergeser AI, Keresahan Lapangan Kerja Tetap Membayangi",
+      "original_title": "China's courts side with AI-displaced workers but job anxiety persists",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMEpya2lKYjF1N1FETDBQT3ZVTVpOdmpjRWRiMzNBaW9WMXZhVUVzWkNWSjJCOE5NLTZtUDgwZnNBYm9LaC02OUJGNUx1ZUcyaTEtWlpkNU83cG5SSUFCQnBZNXlvRHczMGdUS25IRnlIU2tyUm0wc3ROb2dlNEhHY3g1TDhZdE40QTh2YWRSWUs2S3NDUm9qcTM2cnZYTk5wbWpiY0dlNkotc1RPSTRfS2ZEMmI?oc=5",
+      "source": "NPR",
+      "published_date": "2026-08-13",
+      "summary": "Sejumlah pengadilan di Tiongkok mulai mengeluarkan putusan yang memihak para pekerja yang kehilangan pekerjaan akibat otomatisasi kecerdasan buatan. Meskipun hukum memberikan perlindungan, kecemasan publik mengenai masa depan lapangan kerja di era AI tetap tinggi. Fenomena ini memicu perdebatan mengenai perlunya jaring pengaman sosial yang lebih kuat bagi tenaga kerja manusia.",
+      "takeaways": [
+        "Lembaga hukum di Tiongkok mulai menuntut kompensasi yang adil bagi pekerja yang digantikan oleh sistem AI.",
+        "Otomatisasi memicu kecemasan sistemik terkait hilangnya mata pencaharian di sektor-sektor tradisional.",
+        "Kebijakan ini memaksa perusahaan untuk lebih berhati-hati dalam menerapkan transisi ke teknologi otomatis."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Penyelidikan Mengungkap FBI Gunakan Teknologi AI Jauh Lebih Masif dari yang Dilaporkan",
+      "original_title": "FBI is using much more AI than what it previously disclosed",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBPbTVIUDh2VFBybTY3ZDl6VW9CdjZDQnVQUXRqMmd4S3c2OUYxTHZfUWFVVHdtbzRDUVplRDVSQld2Y2RDTjdVd0p0cUI5MlhTZjV3dUd3dDNyWmJMLVVsQ01qaGNyZElFQ0NlZFByNGN5YXc?oc=5",
+      "source": "FedScoop",
+      "published_date": "2026-08-13",
+      "summary": "FBI dilaporkan menggunakan teknologi kecerdasan buatan dalam skala yang jauh lebih luas daripada informasi yang dibuka kepada publik selama ini. Penggunaan ini mencakup analisis data massal dan pengawasan, yang memicu kekhawatiran serius terkait privasi warga sipil. Temuan ini mendorong desakan agar ada transparansi dan pengawasan hukum yang lebih ketat terhadap lembaga penegak hukum.",
+      "takeaways": [
+        "Laporan internal menunjukkan integrasi AI yang mendalam pada berbagai alat investigasi FBI.",
+        "Aktivis hak digital khawatir penggunaan AI tanpa transparansi dapat melanggar hak privasi masyarakat sipil.",
+        "Ada tuntutan kuat untuk reformasi kebijakan guna memperjelas batasan penggunaan AI dalam penegakan hukum."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Dilema Keamanan vs Privasi: Warga Brasil Timbang Keuntungan dan Dampak Pengenalan Wajah AI",
+      "original_title": "Brazilians weigh the benefits of AI facial recognition against the costs",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMTREUWFfQzVUaE9yRnB5NjZjcGpjMVRIR0FoZ2RaVkV4NXQzVVJuYThhRjBMaGFZUmQxSkc4ejVrV2pXOFU3M1VMOFFPYXVZSDU0VXE1MUxqOHdFc0c4N0luejdnMkplT0lUdnZuZFpkc3ZTUTNZSlR4SXdVT2NBWlBycTZZOEdkOXdhQ1JGeXpEQVUzRlBiaURSMUVpQ25vWHfSAbsBQVVfeXFMT095SkN4Si10d0FKQ3FwcmRBZWJkaFFrUzhHSXE1N0pLdEVLR3c1SGdPUlVaU285VHI0eVAydTg0NnRZUmNxQXdTWnVqOGVSa1pFUnBpWGIzdHh5UlpVU0FZbkhJRk5BTVFTU0lxdlF0ZjhBd1hQQXQ4MmVBaGIwT0k1QjNobjNZSzkxRURGcjJlLWNNZFJHUjFsejkydHNuZ3RPNnFRcU5mV0Z0TWdXRHp2ak1KTkZ4eHBYdw?oc=5",
+      "source": "The Christian Science Monitor",
+      "published_date": "2026-08-13",
+      "summary": "Masyarakat Brasil kini tengah memperdebatkan efektivitas teknologi pengenalan wajah bertenaga AI yang kian marak digunakan di ruang publik. Di satu sisi, teknologi ini dinilai membantu menekan angka kriminalitas dan mempermudah pengawasan keamanan. Namun di sisi lain, kekhawatiran akan bias rasial, kesalahan identifikasi, dan hilangnya privasi terus membayangi implementasinya.",
+      "takeaways": [
+        "Pemerintah Brasil memperluas sistem pengenalan wajah untuk memperkuat keamanan kota.",
+        "Para kritikus menyoroti risiko bias algoritma yang dapat merugikan kelompok minoritas secara tidak adil.",
+        "Masyarakat menuntut adanya aturan hukum yang seimbang untuk melindungi data pribadi di ruang siber."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Menjelajahi Batasan Kognitif: Peneliti Carnegie Mellon Bedah Makna Istilah AI 'Berpikir'",
+      "original_title": "Researchers Explore What It Means To Say AI 'Thinks'",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWGdmZG1vSnhuelZnN2dxQTZSY3J2LTlFLXExTzlQOXl5Qzd1RTNFcVQzTDFibXN1VWdjRFlSc1VsTVlHVF9zVDBJSWNSVmo2dHhleFhrN1pwazdveDhMeExUWFptVDJ1ZWlMQ19YOVVZek5DMEgzWmE5U1dXYjJIZWZQTnlmQ3dSX1I4c2VETGRRNmk1THhEajJZNXBaRE5vNnU0SjlyQQ?oc=5",
+      "source": "Carnegie Mellon University",
+      "published_date": "2026-08-13",
+      "summary": "Para peneliti di Carnegie Mellon University mencoba mendefinisikan ulang klaim bahwa kecerdasan buatan dapat 'berpikir' layaknya manusia. Melalui studi interdisipliner, mereka membandingkan pemrosesan informasi kognitif manusia dengan kalkulasi algoritma saraf tiruan. Penelitian ini penting untuk memahami batasan sebenarnya dari kesadaran buatan dan menghindari atribusi sifat manusia pada mesin secara berlebihan.",
+      "takeaways": [
+        "AI saat ini hanya meniru pola bahasa dan data tanpa memiliki kesadaran atau pemahaman sejati.",
+        "Istilah AI 'berpikir' sering kali merupakan antropomorfisme yang menyederhanakan proses komputasi yang rumit.",
+        "Pemahaman batasan ini membantu dalam merancang interaksi manusia-komputer yang lebih aman dan realistis."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Dampak Krisis Energi AI: Oregon Tinjau Ulang Kebijakan Pembangunan Pusat Data",
+      "original_title": "Oregon welcomed data centers for years. AI is changing the debate",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNS0hxUmZtZjRnQXlfRlI5amJnQ0JJWDFlVWlPakVnWndxRVkySkNudXAyaVN3ZVV0N0tNWHJLUy1hdWZ6RUNsNjVWUE54QlplYzk4czNoZXZiVVZyLXE4MWRleXNJSEtmbEY4cFEycHNYvlVuS3cyZlhhS2dSWjFyLVE0c3ZGUmZKM29nMGNnMElGUE9CcUhoa3c4UzNLZ1VOT2xESVI3cjNENVpWMmRLS3RtOA?oc=5",
+      "source": "Jefferson Public Radio",
+      "published_date": "2026-08-13",
+      "summary": "Selama bertahun-tahun Oregon menyambut baik investasi pusat data, namun lonjakan kebutuhan komputasi akibat AI kini memicu perdebatan baru terkait konsumsi energi dan air yang masif. Kebutuhan daya yang luar biasa dari model AI generasi baru dinilai membebani infrastruktur lokal dan mengancam target iklim daerah. Konflik ini memicu pergeseran kebijakan menuju regulasi lingkungan yang lebih ketat bagi industri teknologi.",
+      "takeaways": [
+        "Komputasi AI memerlukan daya listrik dan sistem pendingin air berkali-kali lipat dibanding pusat data tradisional.",
+        "Masyarakat lokal mulai khawatir akan berkurangnya pasokan energi ramah lingkungan bagi pemukiman.",
+        "Pemerintah daerah didesak untuk memperketat izin guna mengimbangi dampak ekologis dari ekspansi AI."
+      ],
+      "category": "Sains & Teknologi"
+    },
+    {
+      "title": "Ketika Kecerdasan Menjadi Komoditas: Pengambilan Keputusan Terbaik Jadi Kunci Kompetitif Baru",
+      "original_title": "SAP Chief Quantum Officer: AI is about to commoditize intelligence. Better decisions will be the next competitive advantage",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVXNaeUhIenlmcF9NLVVvYWVXSGx1Q0FjTHFsMXg4endYWE1uaDcwTjBSVTEyWGd0c0I1eHozNVVNUUFzaHAtaTNybk9SNWFKQkI1bi00WFp2d180UmNVbmJuRW9LNlRwRFJ2UnNPQ3U1WC1FLVFwcnNPSUQ1NTJZX2Rtdw?oc=5",
+      "source": "Fortune",
+      "published_date": "2026-08-13",
+      "summary": "Chief Quantum Officer dari SAP memproyeksikan bahwa kehadiran AI akan membuat akses terhadap kecerdasan menjadi hal yang lumrah dan murah bagi semua organisasi. Di masa depan, keunggulan kompetitif perusahaan tidak lagi ditentukan oleh kepemilikan data atau kecerdasan mentah, melainkan kemampuan dalam mengambil keputusan strategis yang tepat berdasarkan rekomendasi AI. Hal ini menuntut para pemimpin bisnis untuk memikirkan kembali struktur operasional mereka.",
+      "takeaways": [
+        "AI akan mendemokrasikan dan mengkomoditaskan kemampuan analitis dasar di seluruh industri.",
+        "Nilai tambah utama di masa depan terletak pada penilaian manusia yang etis dan keputusan bisnis yang visioner.",
+        "Perusahaan harus beradaptasi dengan mengintegrasikan AI ke dalam alur kerja strategis guna mempertahankan daya saing."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Lembaga Intelijen AS Terapkan Pendekatan Hati-hati dalam Adopsi Agentic AI",
+      "original_title": "Intel agencies take deliberate approach to agentic AI adoption",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaGFqejNNaERVdkYwZW1ZVmxNaS1qV1BwQnlPX1dZMl9rM0RObVpIUDVoTjF5amV3WERaSVdnR0pHTHJjaHdIUEdNN1ZueVVQb2twMXhqaG1XWUptMGVuZnJsOFVHVW5hZUc3SzB5WGRjWGNVOTFVc3dNZUlUSFFfV3FMSEdabHNCUVk3Vk9SRDJuVmFnd2VNMU5FdHVyZDZ6RW1Rd295dHJIWjBFb2dRU216aC1LOGhRX2dYZUlfZGpuXzJD?oc=5",
+      "source": "federalnewsnetwork.com",
+      "published_date": "2026-08-13",
+      "summary": "Berbagai badan intelijen kini mulai menjajaki penggunaan 'agentic AI'—sistem kecerdasan buatan yang mampu beroperasi dan mengambil tindakan secara mandiri. Meskipun menawarkan efisiensi tinggi dalam analisis intelijen, para pejabat menerapkan pendekatan yang sangat berhati-hati guna meminimalkan risiko kesalahan fatal dan hilangnya kendali manusia. Penerapan teknologi ini tetap mengedepankan pengawasan manusia yang ketat dalam setiap rantai pengambilan keputusan.",
+      "takeaways": [
+        "Agentic AI mampu mengotomatisasi tugas-tugas intelijen yang kompleks dengan koordinasi mandiri.",
+        "Lembaga keamanan memprioritaskan protokol keamanan ketat untuk mencegah penyalahgunaan atau kegagalan sistem.",
+        "Pengawasan manusia tetap menjadi pilar utama guna memastikan akurasi dan kepatuhan hukum."
       ],
       "category": "Artificial Intelligence"
     },
