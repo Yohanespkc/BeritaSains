@@ -1,7 +1,147 @@
 {
-  "last_updated": "2026-08-16T01:33:51.011759+00:00",
-  "total_articles": 215,
+  "last_updated": "2026-08-17T01:26:20.555302+00:00",
+  "total_articles": 225,
   "articles": [
+    {
+      "title": "Penulis Sambut Baik Kesepakatan Buku Berbasis AI Senilai $2,4 Juta yang Mengguncang Industri Kreatif",
+      "original_title": "I’m a novelist — cheering the $2.4M AI book deal that should open everyone’s eyes",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOFlhRjd1UkJTMmZvQ2FNLXA3UDI1VG1fQUZlSFU5OTBFNFRGZS1XWVgzaVdyOHpyWnRoR3NwYzBTcmMxbmxmYjAzVUhieV93OF9kNUdraTU4WjZ5WmIzdkVQelRoN1RSYWVnam9UaFdrb0Fmbjd6MmpqWmVueGJDOTgtdTdPMmN6M2o2TjMxa1ZLRXhYRmdJRHI4NkYyUGVQakRFR3g3eE4zUVVPMXFoYTc1amF6UQ?oc=5",
+      "source": "New York Post",
+      "published_date": "2026-08-17",
+      "summary": "Industri penerbitan dihebohkan oleh kesepakatan hak cipta penulisan buku menggunakan kecerdasan buatan yang bernilai fantastis sebesar $2,4 juta. Sementara banyak seniman merasa terancam, beberapa novelis justru menyambut baik langkah ini sebagai bentuk kolaborasi baru yang tak terhindarkan antara kreativitas manusia dan efisiensi algoritma mesin. Kejadian ini menandai pergeseran paradigma tentang bagaimana karya sastra masa depan akan diproduksi dan dihargai secara komersial.",
+      "takeaways": [
+        "Kesepakatan lisensi buku AI senilai $2,4 juta membuktikan adanya nilai pasar riil pada karya kolaboratif manusia-AI.",
+        "Peristiwa ini mempercepat polarisasi di industri seni antara penolak keras kecerdasan buatan dan mereka yang mulai merangkulnya.",
+        "Aturan hak kekayaan intelektual (HAKI) perlu segera direformasi guna memfasilitasi model kerja sama kreatif baru ini."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Stripe Akuisisi Perusahaan AI OpenRouter Senilai Lebih dari $7 Miliar",
+      "original_title": "Stripe Clinches Over $7 Billion Deal to Buy AI Firm OpenRouter",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT2VMMXR1X3Jzd1hQZ0pobFMxT0gzQWFFNjFnekt4dlR1ak9lS2NUc3V2RjVodU5BemxCSmFqVDFBUUJRbHJuUEQxb1dyT3JXWk1YSi0zRDI1NU0yNTJuMnNIZkRMVHB2TTEtc0dPbjNMSnJpTm1CUlVpbmg5Q2x4X0VQZXNiZTRJcFpTdDljbHRwVVM1eE51dmt2XzNFemRqTnZMRUJFZ3ZPMDJuX0ZjZndiWQ?oc=5",
+      "source": "Bloomberg.com",
+      "published_date": "2026-08-16",
+      "summary": "Perusahaan pembayaran raksasa Stripe telah menyepakati kesepakatan senilai lebih dari $7 miliar untuk mengakuisisi OpenRouter, sebuah platform router model AI terkemuka. Akuisisi ini menandai salah satu konsolidasi terbesar di sektor teknologi finansial dan AI, yang menunjukkan ambisi Stripe untuk mengintegrasikan kapabilitas kecerdasan buatan langsung ke dalam infrastruktur pembayaran mereka. Langkah ini diperkirakan akan mempercepat adopsi agen AI transaksional di masa depan.",
+      "takeaways": [
+        "Stripe memperkuat posisinya di ekosistem AI dengan akuisisi bernilai fantastis.",
+        "OpenRouter memungkinkan pengembang untuk dengan mudah merutekan permintaan ke berbagai model AI dalam satu integrasi.",
+        "Akuisisi ini menandakan babak baru integrasi mendalam antara teknologi keuangan (FinTech) dan kecerdasan buatan."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Alibaba Lampaui Google dan Meta dengan 3 Miliar Unduhan Model AI",
+      "original_title": "Alibaba Overtakes Google and Meta With 3 Billion AI Model Downloads",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNnBoUUtCUy1kYy1JS18wSG9XcU1pM0daWFpJRWxMajJsNGsyZFJ0TEJvakFBQm1LSVAzR2h1VGk2OHdOS2dtQVdWdmdDYXFKVHdSbDRUTElHVmt6TjdsR0lYM1BxaU1DX3h4T1hucmZuemU3V2dOd1BlOHBrWGxFUlZERWljakFoOHBZdzR0cDNYNWFoZU9mSHZpWEwyX1h2U0RkLURiUnl4Tkd5bUVfcS1OcEtCeEhnaGRUdWwwb05jRnc?oc=5",
+      "source": "PYMNTS.com",
+      "published_date": "2026-08-16",
+      "summary": "Alibaba berhasil melampaui raksasa teknologi AS seperti Google dan Meta setelah model kecerdasan buatan mereka mencatatkan rekor lebih dari 3 miliar unduhan secara global. Keberhasilan ini didorong oleh strategi open-weight Alibaba yang agresif dan tingginya adopsi di pasar Asia dan global. Pencapaian ini mempertegas dominasi teknologi Tiongkok dalam lanskap pengembangan kecerdasan buatan dunia yang semakin kompetitif.",
+      "takeaways": [
+        "Model AI Alibaba telah diunduh lebih dari 3 miliar kali, melampaui raksasa teknologi Barat seperti Google dan Meta.",
+        "Strategi open-weight (model terbuka) terbukti sangat efektif dalam menarik ekosistem pengembang global secara cepat.",
+        "Persaingan teknologi AI antara AS dan Tiongkok kini bergeser ke ranah penguasaan pasar adopsi pengembang."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Manajer Toko Berbasis AI Pecat Karyawan Manusia untuk Pertama Kalinya",
+      "original_title": "A Real-Life Terminator: AI Store Manager Fires Human Employee",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNd3o1dDlEVDhSTVF6WFQ3U3ZHa1RjbWZ2LXVjUXhENTZaejJWMzJFNWZkT3Y5NUl0SmY4Rlh2dkFJXzB5ajIxUnNFU1dFeEdxVm1MbVRmUVphYU1hcTZlam5wVkZkYmNlLS10TWVTeGRZeFpNVVhqeGllUmJheUZnM3ZvNHV1QUZKOU1KQ3dGYjlDZkROSU42TlU1c19NNE1CWmpSSQ?oc=5",
+      "source": "inc.com",
+      "published_date": "2026-08-16",
+      "summary": "Sebuah insiden mengejutkan terjadi ketika sistem manajer toko berbasis kecerdasan buatan (AI) secara mandiri memutuskan untuk memecat seorang karyawan manusia setelah mengevaluasi kinerjanya secara algoritmik. Peristiwa ini memicu debat etis dan hukum mengenai sejauh mana otonomi keputusan AI boleh diterapkan dalam manajemen sumber daya manusia. Fenomena ini memperlihatkan kenyataan baru dari otomatisasi tempat kerja yang kini merambah ke fungsi manajerial kepemimpinan.",
+      "takeaways": [
+        "Kecerdasan buatan kini mulai mengambil keputusan krusial seperti pemecatan karyawan tanpa keterlibatan emosional manusia.",
+        "Kasus ini memicu kekhawatiran baru tentang hilangnya sentuhan empati dan objektivitas sejati dalam evaluasi kinerja karyawan.",
+        "Regulasi ketat mengenai hak-hak pekerja di bawah pengawasan manajer AI otonom menjadi kebutuhan mendesak."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Warga Gunakan AI untuk Konseling Kesehatan Mental, California Rencanakan Pelarangan",
+      "original_title": "People Are Turning to AI for Mental Health, California Wants It Banned",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeEV1TE5mMUFFQVlWVnBKSUt4VmxJR1gtdUZ1TFd3Ylk5OXJ4a2tnNll0WndFNTY1TVo3UVNEN2dwUi1lRFJXdnhnUHJpWHhyb0U3WnRueHdob00zdEJaaVBDbnhqend6RGowMDV2LTdDdEcwci1zaXJhaHpuUzNIc2JSZFNzUQ?oc=5",
+      "source": "Decrypt",
+      "published_date": "2026-08-16",
+      "summary": "Semakin banyak masyarakat yang beralih ke chatbot bertenaga kecerdasan buatan untuk mendapatkan dukungan kesehatan mental karena keterbatasan akses dan mahalnya biaya terapis manusia. Menanggapi tren ini, regulator di California mulai menggodok undang-undang untuk melarang penggunaan AI dalam diagnosis dan konseling psikologis guna mencegah risiko kesalahan penanganan medis digital. Langkah ini memicu perdebatan antara inovasi layanan kesehatan yang terjangkau dan perlindungan keselamatan pasien.",
+      "takeaways": [
+        "Keterbatasan akses layanan kesehatan mental konvensional mendorong masyarakat menggunakan chatbot AI sebagai alternatif konseling.",
+        "California memimpin upaya regulasi ketat dengan merencanakan pelarangan penggunaan AI untuk terapi psikologis otonom.",
+        "Para ahli medis memperingatkan bahaya bias algoritma dan ketiadaan empati sejati pada sistem AI dalam menangani krisis psikologis."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Goldman Sachs Sebut Investasi Besar-Besaran pada AI Belum Dongkrak Pendapatan Perusahaan",
+      "original_title": "Goldman Sachs Says AI Spending Not Boosting Corporate Earnings",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeHpXZ0ZxYlU1NmNuZ3FDMnpiNndOelRWeXQyTnphZXEybWMzQ1AwQVBZOFhjazJVQzNMZmRnSTVoVnE0OUM5b0ZfbTF0TVlhWmNjRE94NkZRRDlCM3pwaWFxaU50LTBYbjY4VTRqWVByakpJQ2VVZDVUNEM4ZGlMR1VuYmpreVBmLWRUeWQ2dHlzVzFyNElCTUVYUk8tVW8yWkNNaU9fMTI2bi1KVkN6TTNhNkE5WnF3NGVaSQ?oc=5",
+      "source": "PYMNTS.com",
+      "published_date": "2026-08-16",
+      "summary": "Lembaga keuangan raksasa Goldman Sachs merilis laporan yang menyatakan bahwa pengeluaran bernilai miliaran dolar untuk teknologi kecerdasan buatan belum memberikan dorongan signifikan terhadap laba bersih korporasi. Laporan ini menimbulkan skeptisisme di kalangan investor mengenai apakah tren investasi AI saat ini berisiko menjadi gelembung ekonomi (bubble). Meskipun potensi jangka panjangnya diakui, pengembalian investasi (ROI) jangka pendek AI terbukti masih sangat minim bagi sebagian besar sektor bisnis tradisional.",
+      "takeaways": [
+        "Laporan Goldman Sachs menunjukkan ketidakseimbangan antara tingginya biaya investasi AI dan laba riil yang dihasilkan saat ini.",
+        "Banyak korporasi menghadapi tantangan dalam mengubah adopsi teknologi AI menjadi peningkatan efisiensi operasional yang menghasilkan laba.",
+        "Investor disarankan untuk lebih realistis dan berhati-hati terhadap valuasi tinggi dari perusahaan-perusahaan teknologi AI."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Aturan Baru Uni Eropa Wajibkan Label Konten AI, Ahli Khawatir Persulit Deteksi Deepfake",
+      "original_title": "New EU laws make AI content labels compulsory – but might just make it harder to spot deepfakes",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcnMxX3hvdzN0OWdFLW93STFRSnlCSXBSNFR5S1ZWbDI2bGdxdzFmSkFmclZZeDI4cm5VNXF4QjV3ZHVqM0pjV2hURE90V3NrOW5NZUZ6Mk9IWkpWMjQ5dnRNeWNncWpDMjdFdUJDTVJ3dVhhcVRSRy05c3RmR0YtM0QxdUNIaE0weks2Smp5d2pFLU9iSElDeTlVd3R4VU9SX04zc1RkTkh4amF2bGhubG1pWmpOVGc2azlVSDdLUFNLeUJBMDEw?oc=5",
+      "source": "The Conversation",
+      "published_date": "2026-08-16",
+      "summary": "Uni Eropa resmi menerapkan regulasi baru yang mewajibkan pemberian label digital atau watermark pada semua konten yang dihasilkan oleh kecerdasan buatan demi memerangi disinformasi. Namun, beberapa pakar teknologi memperingatkan bahwa aturan ini justru bisa menjadi bumerang dengan membuat publik berasumsi bahwa semua konten tanpa label adalah asli, padahal pembuat deepfake berbahaya kemungkinan besar akan mengabaikan aturan pelabelan tersebut. Hal ini menyoroti rumitnya perumusan regulasi siber di era generatif AI.",
+      "takeaways": [
+        "Uni Eropa memperketat pengawasan digital dengan mewajibkan label transparan pada konten hasil kreasi AI.",
+        "Para ahli memperingatkan bahaya bias 'kepercayaan palsu' pada konten tak berlabel yang berpotensi meloloskan deepfake ilegal.",
+        "Penerapan teknis aturan ini menghadapi kendala besar karena kepatuhan bergantung pada kesadaran pembuat konten."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Agen AI Belanjakan Uang Anda: Dilema Hukum Pembuktian Otorisasi Transaksi",
+      "original_title": "An AI agent spent your money—can anyone prove you authorized it?",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVmduNVBjeXhwVWVrOEY2ZUV6YzJHSVluOXRhTWV5ZUQ0MDlwYmRGWVU2d2F4blRNeV9LcHgtYW9WRVhMN25iVUd4TXFLWWk4ZGNndkExZEZDSUR3b3S0MmN2MmtjOTg3NDNiUkFlQlpTT3RUbmczajJ6T2lLbVpiZ3pISi1hM0xGNGIwbDctUU14LWhJcWd0RmVjV05lMjFmaFhCSnVib9IBrAFBVV95cUxPMFhxeDRnMWs3ekE4M28tS1pwbkhUZGxuaW4yT181M3Vub1NvTEp3OWdkSkxOdHpTN0hjZzY5TUxkNWxPcVRZZWQ5TkNCVGdReUVhNHZid1VVWjNNRGJYUXlRazgxUHphMXVmdU41dmxrXzN0MDM4VWE0V0pWajVIdjJQR0lKbEh6N0FPbTRGY3NGQkc0T3pNNHlseEI5SmNQdC11MTVUUTFYTmo5?oc=5",
+      "source": "FOX 56 News",
+      "published_date": "2026-08-16",
+      "summary": "Kemampuan agen kecerdasan buatan yang kini dapat melakukan transaksi finansial mandiri atas nama pengguna memicu kekhawatiran hukum baru terkait otorisasi transaksi. Para ahli hukum dan perbankan kini berjuang merumuskan standar pembuktian digital untuk memverifikasi apakah suatu transaksi benar-benar diizinkan oleh pemilik akun manusia atau akibat kesalahan sistem otonom AI. Isu ini mendesak karena adopsi agen AI transaksional terus berkembang pesat tanpa regulasi perlindungan konsumen yang memadai.",
+      "takeaways": [
+        "Agen kecerdasan buatan kini mampu melakukan pembayaran dan transaksi mandiri tanpa konfirmasi manual langkah demi langkah dari pengguna.",
+        "Timbul ketidakpastian hukum yang besar dalam menentukan tanggung jawab finansial ketika agen AI melakukan kesalahan transaksi.",
+        "Sektor perbankan membutuhkan protokol keamanan dan verifikasi baru yang dirancang khusus untuk era agen AI otonom."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Kampus-Kampus di Boston Luncurkan Jurusan Baru demi Cetak Mahasiswa 'Asli AI'",
+      "original_title": "Boston-area colleges are looking to make students ‘AI natives’ with new majors",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORTFneWhkYWhZUzhTNE1lYWRDam5UZDlOSmpQVXVWa0V0bzVncngyMG92UGtRNjgzQ0EzVWhROURyTEFjTzZXb05tZkU1T3d2S2pxQ1JodTVPYzBXSEpURVAyX3FoVVlXclEyWVgxMjIyN0tlVHhKY2dwdmJTMUFyVm9DOA?oc=5",
+      "source": "The Boston Globe",
+      "published_date": "2026-08-16",
+      "summary": "Sejumlah universitas ternama di wilayah Boston mulai memperkenalkan jurusan dan kurikulum baru yang dirancang khusus untuk mendidik mahasiswa agar menjadi profesional berkemampuan AI sejak dini (AI natives). Langkah ini diambil guna merespons disrupsi pasar kerja global yang kini menuntut keahlian integrasi kecerdasan buatan di hampir seluruh lini industri. Transformasi pendidikan tinggi ini diharapkan dapat menjembatani kesenjangan talenta digital yang kian melebar pesat.",
+      "takeaways": [
+        "Institusi pendidikan tinggi terkemuka mulai mendesain ulang kurikulum demi mempersiapkan lulusan menghadapi era kerja berbasis AI.",
+        "Jurusan baru ini tidak hanya berfokus pada pemrograman teknis, melainkan juga aspek etika dan aplikasi praktis lintas industri.",
+        "Langkah akademis ini mencerminkan transisi pasar tenaga kerja yang kini menuntut literasi AI tingkat lanjut sebagai standar dasar."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Bekas Gedung Laboratorium Nasional Lawrence Berkeley Dipertimbangkan Jadi Kompleks Pusat Data AI",
+      "original_title": "Former Lawrence Berkeley National Laboratory building in Oakland being considered for AI data center complex",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNU0dSU25QZXJCZGF0ekZMaGhONjkxT2l1RTlIQnpJempsUDdOTEVDZVcwekxnTFk5MG1fNzZvcVRqaTJiaGc3bHZTR2xpMGRBeUtTYVVYU0xrM0xFWEFkVHBESnhjWnVSTW5yRkV0RGYtS0NKV0trcm9LVmZ3S2ZfWGtzN0VHbDlmZ0c4MWxWQXhSV2t4NUZwcGdpeWxBTkJjMzhTTUxBRHNJbnRqeXM1cDg3VnVER3pNVzk0dXl2bHRoG0VIRTl6cVVkX3dURS1Td19r0gHYAUFVX3lxTFBTd3U0UVZDREV0czFGNDdDRGQtN084aDZHS0tDdUh3ZVFyWUxKRWhIZElGZUNIMENOMUdjYks4WXNfS3l2dDVoN1lTbFVIUTRoVHY5Z29BRW10TnVxQWtLLXp6TVdtQm9jd0wtTGNobGR3MHJhc0NUcU5FRlRyTURBQ3N2Rk5SU2hoTU1TOTI1cWF1V2ZUb29TaDRNamZlZnJfM1ZaeGFUaXdlcHRINnNEc0NCYVpYMjROazJLN2NoeTR1VzVpdXVvM0tCMWpRQTRxLUN0MmJHbg?oc=5",
+      "source": "ABC7 Bay Area",
+      "published_date": "2026-08-16",
+      "summary": "Bekas bangunan bersejarah milik Laboratorium Nasional Lawrence Berkeley di Oakland kini tengah dipertimbangkan untuk dialihfungsikan menjadi kompleks pusat data (data center) berkapasitas besar guna menopang infrastruktur kecerdasan buatan. Proyek ini mencerminkan perubahan masif dalam pemanfaatan ruang fisik ilmiah perkotaan demi memenuhi tingginya permintaan daya komputasi dari perusahaan-perusahaan teknologi dunia. Namun, rencana ini juga menghadapi tantangan terkait ketersediaan pasokan energi listrik yang masif dan dampaknya bagi lingkungan sekitar.",
+      "takeaways": [
+        "Infrastruktur fisik warisan lembaga penelitian sains kini mulai dialihfungsikan untuk mendukung kebutuhan komputasi awan AI.",
+        "Kebutuhan pusat data berskala besar mendorong konversi cepat aset-aset real estat komersial dan ilmiah di berbagai kota penting.",
+        "Proyek ini memicu dialog mendalam mengenai keseimbangan antara inovasi teknologi dan konsumsi sumber daya energi lokal."
+      ],
+      "category": "Sains & Teknologi"
+    },
     {
       "title": "Terobosan Baru: Model AI Terbuka China Saingi Raksasa Silicon Valley",
       "original_title": "Another powerful new artificial intelligence model from China took the US tech industry by surprise",
