@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-08-17T01:26:20.555302+00:00",
-  "total_articles": 225,
+  "last_updated": "2026-08-18T01:23:09.805883+00:00",
+  "total_articles": 235,
   "articles": [
+    {
+      "title": "Regulasi Tertinggal: Integrasi Kecerdasan Buatan dalam Bioteknologi Berkembang Terlalu Cepat",
+      "original_title": "The use of AI in biotechnology is changing faster than the rules governing either technology",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRVJrbmxNZDdra3VXbTdpYlliLW9TUWo4VExNWWJLc1dNVDNfcTBGeFNGVFItbFF5N3NwbWVNZ0N3dUpId3NjU1hQQmNRRzFINmZwTnZjY3lEaTdFa2lXc0NfSTI5M1Bzd3RUUGppMUEya2hEYXhWODRuX0lNdmVVd0x5WFc5c3NrUlg3NU1iTjEzMkRkR01BQXN2YmlHV3NEVzBiaGY5dkd4dnpCdU52N3ZUNnRoSmo2cjdBRnQ1Y1pBMGpJZkE?oc=5",
+      "source": "The Conversation",
+      "published_date": "2026-08-18",
+      "summary": "Penggunaan kecerdasan buatan (AI) dalam bidang bioteknologi kini melaju pesat, melampaui kerangka regulasi yang ada untuk kedua teknologi tersebut. Fenomena ini memicu kekhawatiran global terkait potensi penyalahgunaan serta perlunya aturan baru yang adaptif untuk mengawal inovasi biologis berbasis AI. Langkah cepat dari para regulator sangat krusial guna menyeimbangkan potensi medis dan risiko keamanan biologi.",
+      "takeaways": [
+        "Integrasi AI dalam bioteknologi berkembang lebih cepat daripada pembaruan hukum yang mengatur keduanya.",
+        "Para ahli memperingatkan risiko bio-keamanan jika desain protein atau genom berbasis AI tidak diawasi dengan ketat.",
+        "Dibutuhkan standar akademis dan hukum global yang mampu mengimbangi dinamika inovasi bioteknologi modern."
+      ],
+      "category": "Genom & Biotek"
+    },
     {
       "title": "Penulis Sambut Baik Kesepakatan Buku Berbasis AI Senilai $2,4 Juta yang Mengguncang Industri Kreatif",
       "original_title": "I’m a novelist — cheering the $2.4M AI book deal that should open everyone’s eyes",
@@ -13,6 +27,132 @@
         "Kesepakatan lisensi buku AI senilai $2,4 juta membuktikan adanya nilai pasar riil pada karya kolaboratif manusia-AI.",
         "Peristiwa ini mempercepat polarisasi di industri seni antara penolak keras kecerdasan buatan dan mereka yang mulai merangkulnya.",
         "Aturan hak kekayaan intelektual (HAKI) perlu segera direformasi guna memfasilitasi model kerja sama kreatif baru ini."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Lawan Sampah Digital: Spotify dan LinkedIn Mulai Batasi Konten Sampah Buatan AI",
+      "original_title": "AI Slop Is Everywhere. Spotify, LinkedIn and Others Have Had Enough.",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBOWjV4Szg4bEFBdlVDNGxjNE5ocy1wMnN1ZkRUMUlkazNTV21NdzhwMGlMT3hsVzBKeXNHOEJoMnB3NERSZ2xYMEFKa25ISF9fRGJvV01hNWc4VExHb19xb0N4WE00YzA1Vnc?oc=5",
+      "source": "The New York Times",
+      "published_date": "2026-08-17",
+      "summary": "Platform digital raksasa seperti Spotify dan LinkedIn mulai mengambil tindakan tegas terhadap maraknya konten sampah berkualitas rendah yang dihasilkan secara massal oleh AI (AI slop). Konten-konten otomatis ini dinilai mengganggu kenyamanan pengguna dan menurunkan nilai platform. Upaya pengetatan ini menandai babak baru dalam perang industri teknologi melawan spam generatif di internet.",
+      "takeaways": [
+        "Konten 'AI slop' berkualitas rendah kian membanjiri berbagai platform media sosial dan layanan streaming musik.",
+        "Platform besar mulai menerapkan sistem penyaringan baru untuk membersihkan algoritma mereka dari konten sampah tersebut.",
+        "Langkah pengetatan ini penting demi menjaga kualitas pengalaman pengguna dan melindungi hak cipta kreator manusia."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Diagnosis Kanker Lebih Cepat Menggunakan Kecerdasan Buatan Berbasis Cloud pada Hasil Pemindaian MRI",
+      "original_title": "Cloud-Based Artificial Intelligence Classification of Common Intracranial Tumors on Magnetic Resonance Imaging",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYk1mcHlKQVp5aUc2anJidVh0ZFNWNklJaWhtSXZTa1p0WUJEdDJ0aFJkZ1dXdTlSc2ZPQ3VSOFRmWFZxa3A1X0xxaEducjd3SXlJU1ZLOFYyWlhzNUJ6LThzbFFNOXRXalVvMlo5RVp1WlZYTGx6MmdKTnZna0ZkSGxFTzBwUFo4T3BCYWNvbFlIdndsMjFmNEZxRjZFLU84ZHNmd2VnWTFMZ0szNy1feFVFZFhwTXpnbUpSdHB3dmxaNlAxWk5JY0xCOE5md1pxOElCcW9ZTWZNYlI2eF9fUFdXUQ?oc=5",
+      "source": "Cureus",
+      "published_date": "2026-08-17",
+      "summary": "Sebuah studi terbaru membuktikan bahwa penggunaan AI berbasis cloud mampu mengklasifikasikan jenis-jenis tumor otak umum melalui hasil pemindaian MRI dengan tingkat akurasi tinggi. Teknologi ini dirancang untuk meringankan beban kerja radiolog dan mempercepat proses diagnosis klinis pasien kanker. Kehadiran AI berbasis cloud ini diharapkan dapat mempermudah akses medis berkualitas di wilayah-wilayah dengan fasilitas laboratorium terbatas.",
+      "takeaways": [
+        "AI berbasis cloud terbukti efektif dalam mengidentifikasi dan mengklasifikasikan tumor intrakranial pada MRI.",
+        "Teknologi ini secara signifikan memangkas waktu tunggu hasil diagnosis medis pasien.",
+        "Sistem berbasis cloud memungkinkan klinik daerah terpencil untuk mengakses teknologi diagnostik mutakhir tanpa biaya infrastruktur yang mahal."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Undang-Undang Baru California Wajibkan Perusahaan AI Sediakan Alat Deteksi Konten Buatan",
+      "original_title": "New California Law Requires AI Companies to Publish Detection Tools. Are They Complying?",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWnNSSFNYU2s1bU9Id3lueVU5b3ItNWZsSm9RcElvQzZ2ODZ3bFo0YXN2RXpRYkNtZUJrVnlGUkRmakl2aUtNMG9zMjlTNWoyUDBQVlVTMDA3T0todzk1TnhzSmhaRzBVR08tV2dHbC1FM0JhMW92Y2Fzem9Ib2NWZm00aE50TDFKZks3amJVemoyOW1RVlZwdjhRUDEzTmpockhkMktCUm5UYlZqTWdkRTFNci1CWndLV1VyNEV3?oc=5",
+      "source": "KQED",
+      "published_date": "2026-08-17",
+      "summary": "Undang-undang baru di California kini mewajibkan perusahaan kecerdasan buatan untuk merilis alat pendeteksi konten yang dihasilkan oleh mesin mereka sendiri. Regulasi ini dirancang demi menekan maraknya misinformasi serta pemalsuan digital seperti deepfake. Kendati demikian, tingkat kepatuhan dan efektivitas alat deteksi yang disediakan oleh para pengembang raksasa saat ini masih terus dipantau secara kritis.",
+      "takeaways": [
+        "California meluncurkan aturan hukum ketat yang mewajibkan transparansi deteksi konten buatan AI.",
+        "Kepatuhan industri teknologi terhadap regulasi baru ini masih menyisakan banyak pertanyaan dari para ahli hukum.",
+        "Inisiatif regulasi ini dinilai krusial untuk mencegah penyalahgunaan konten sintetis dalam lanskap politik dan sosial."
+      ],
+      "category": "Sains & Teknologi"
+    },
+    {
+      "title": "Diminati Investor, Startup AI Pengubah Suara Menjadi Teks 'Wispr Flow' Raih Valuasi Rp31 Triliun",
+      "original_title": "Wispr Flow valued at $2 billion on investor demand for AI voice-to-text startups",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQM0dxM0lyTkVyZENsWWJSOXdyODFIeS1aRktWN0JBZW1NenFqOHVSMVY2S2dDUGYwcU5YY0xyeWVQb0lpTEdvYVFxQ2NKM3pZSDdQVWhjU1NYT1BKSHlVaURiWUw3bmJPVmkxQk0xemRaWmdIQXZsMzZSaUN4V1Z4WEcxOS1EeVQ4VnJoN1hibGt0bnhBaXFYLTF2cw?oc=5",
+      "source": "Reuters",
+      "published_date": "2026-08-17",
+      "summary": "Wispr Flow, sebuah perusahaan rintisan yang memfokuskan diri pada teknologi transkripsi suara-ke-teks berbasis AI, sukses mencapai valuasi senilai 2 miliar dolar AS (sekitar Rp31 triliun). Lonjakan nilai perusahaan ini dipicu oleh tingginya minat pasar terhadap solusi komunikasi nir-ketik yang lebih cepat dan efisien. Teknologi ini digadang-gadang akan merevolusi cara manusia berinteraksi dengan komputer dan ponsel pintar di masa depan.",
+      "takeaways": [
+        "Startup AI suara Wispr Flow mencatat valuasi spektakuler di tengah tingginya ketertarikan pasar modal.",
+        "Teknologi transkripsi berbasis AI dianggap sebagai pilar utama antarmuka pengguna generasi berikutnya.",
+        "Kebutuhan efisiensi pengetikan dalam pekerjaan sehari-hari menjadi motor utama di balik investasi ini."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Peringatan Ray Dalio: Spekulasi Pasar AI Saat Ini Mirip dengan Gelembung Ekonomi 1929 dan 2000",
+      "original_title": "Billionaire Ray Dalio Says Today's Artificial Intelligence (AI) Market Echoes 1929 and 2000. History Says Investors Should Watch Valuations Closely.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQamZOcTlqREpjU1ZiY2VWbTBBb1lXMXdaV3E0b05ISXVlcnRfaDA0U3FpS2E3U1J5VUg2Qk0ybExpN0EzelRyaTNaTXBBTzhlaWJlSE5rZDZfanBaazBDc1dldF90dWFWOTQ2OGVOM3E0RnFwQ3RkVEsxRWZtTlBVS1U0Y2FENHFjYXN4LWVtUEZxTFlnUHBlcg?oc=5",
+      "source": "The Motley Fool",
+      "published_date": "2026-08-17",
+      "summary": "Investor miliarder Ray Dalio memperingatkan bahwa euforia pasar kecerdasan buatan (AI) saat ini menunjukkan pola spekulatif yang menyerupai gelembung ekonomi pra-depresi tahun 1929 dan era Dot-com tahun 2000. Ia mengimbau para pemegang saham untuk lebih jeli memperhatikan kesesuaian antara valuasi tinggi perusahaan AI dengan realitas keuntungan bisnis mereka. Analisis sejarah ini menjadi pengingat penting akan potensi risiko koreksi finansial yang besar.",
+      "takeaways": [
+        "Ray Dalio melihat indikasi gelembung spekulatif (bubble) pada pasar saham korporasi berbasis AI masa kini.",
+        "Pola valuasi saat ini dianggap mencerminkan antusiasme berlebih yang pernah memicu krisis finansial historis.",
+        "Investor disarankan untuk tetap bersikap realistis serta tidak sekadar mengekor pada hype tren semata."
+      ],
+      "category": "Sains & Teknologi"
+    },
+    {
+      "title": "NVIDIA Hadirkan Model AI Cepat 'Nemotron 3.5 Lightning' di Amazon SageMaker",
+      "original_title": "NVIDIA Nemotron 3.5 Lightning now available in Amazon SageMaker JumpStart",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUGx3RkdROW5IWHlEQWNVOWg5N1JYR3dVRFlDRUtPSkNVZndYNUpXdTI1bmUzT0h5SGVqRmxXXy1kb3BpQTdkdi1Rd0M5c2xScGRWbDBQWkZyRFl2aThLRDBVbF9TeGdMSkdReHdmTUdVREhCZm9FYmlocjVKUjRzd1VEZzI5bmxFZ3NFV3liTmV1ajUxT0MxNHZkLTNMU0RzUGRrb2d2c2djaGg3LUEzZmJTUzRUVFhmWVY1Zw?oc=5",
+      "source": "Amazon Web Services (AWS)",
+      "published_date": "2026-08-17",
+      "summary": "NVIDIA mengumumkan ketersediaan model AI generatif andalannya, Nemotron 3.5 Lightning, melalui layanan Amazon SageMaker JumpStart guna memudahkan adopsi AI di tingkat korporasi. Model ini dioptimalkan khusus untuk memberikan performa komputasi berkecepatan tinggi dengan kebutuhan sumber daya yang minimum. Sinergi infrastruktur AWS dan model NVIDIA ini diharapkan dapat mempercepat pengembangan aplikasi komputasi awan yang responsif.",
+      "takeaways": [
+        "Model AI Nemotron 3.5 Lightning kini dapat diakses dengan mudah oleh pengembang melalui ekosistem cloud AWS.",
+        "Keunggulan utama model ini terletak pada efisiensi biaya dan kecepatan pemrosesan data (low-latency).",
+        "Langkah ini memperkuat posisi NVIDIA dan AWS dalam memimpin pasar platform pengembangan AI generatif korporat."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Sinergi Layanan Medis: Kemitraan Innovaccer dan Mastek untuk Terapkan 'Agentic AI' di Sektor Kesehatan Global",
+      "original_title": "Innovaccer, Mastek ink strategic partnership to scale agentic AI in healthcare globally",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRUxzOHo4Smg0anYzNUF3RnVhaUVobmhRb3N5VWtLbFlBQ21yZ0ZfQ1hOWGRaQjVuWWwtUmRzNkhtWkpLSHNkblZBQ1VCNHJ0eU9ZX0JNc0JqSnhtTWFMc29teW41VzBESk9nUWtqNUdfajRQS25pTS0tRG8wam9OTFFLWlJTQm5YWk1tblJvenZndUtrQnZXTjJ2cGZ1cXNDWlczQ0pQNnhSMmdub1dpOGdoM3Y2ekJYRTlENnNzUVN1c2M?oc=5",
+      "source": "Fierce Healthcare",
+      "published_date": "2026-08-17",
+      "summary": "Innovaccer dan Mastek resmi menjalin kerja sama strategis global untuk menghadirkan dan mengukur skala pemanfaatan 'agentic AI' di industri pelayanan kesehatan. Sistem kecerdasan buatan mandiri ini dirancang untuk mengambil peran aktif dalam mengotomatisasi alur kerja klinis yang rumit serta mengelola data pasien secara real-time. Implementasi ini diproyeksikan mampu meningkatkan kualitas penanganan klinis sekaligus memangkas pengeluaran rumah sakit.",
+      "takeaways": [
+        "Kerja sama Innovaccer dan Mastek memfokuskan diri pada 'agentic AI' yang sanggup mengambil keputusan klinis tingkat dasar secara mandiri.",
+        "Teknologi ini membantu meringankan tugas-tugas administratif para dokter dan perawat.",
+        "Skalabilitas global dari AI agen ini diharapkan mampu menciptakan standarisasi pelayanan medis yang lebih murah dan presisi."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Kurangi Beban Menatap Layar, Kecerdasan Buatan Bantu Dokter Lebih Fokus pada Pasien",
+      "original_title": "Artificial Intelligence helps Munson health care provider focus more on patients, less on screens",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdGhTOEJxOXRsWGdfbi1pLXd1dl84RkN3VE90eThrRFI2SVRDbzNVa3lXRjUwM292VUJKNXBQeW9TMWU0OVpEampWUXBYVGdKTHZuUU1sOEVqOVc3Vmp0V1dfR0NYYkZnX2ZzNjhzVjhTUjdNQ083Y1QzQ2xyeldNUmxHVGN1NjZhZjdydnQtV3AyZXgybGNGaXFzRS1TNm9rWTFqR2pud2xmb1l1Y1JBVEh1eWk0bEI0RlhnX2JxZDNZdU5FblE?oc=5",
+      "source": "DVIDS",
+      "published_date": "2026-08-17",
+      "summary": "Penyedia layanan kesehatan Munson sukses mengintegrasikan asisten AI suara guna meminimalkan durasi waktu yang dihabiskan para dokter di depan monitor selama konsultasi medis berlangsung. Sistem AI ini bertugas menangkap interaksi percakapan verbal antara dokter dan pasien, lalu menyusunnya menjadi laporan rekam medis digital yang rapi dan cepat. Solusi inovatif ini terbukti signifikan dalam menekan angka kejenuhan profesional (burnout) di kalangan dokter.",
+      "takeaways": [
+        "Asisten AI suara terbukti mampu mengotomatisasi pendokumentasian rekam medis secara akurat dalam waktu singkat.",
+        "Dokter dapat kembali mencurahkan perhatian penuh dan kontak mata langsung kepada pasien selama sesi konsultasi.",
+        "Pengurangan beban administratif ini membantu menurunkan tingkat kelelahan mental para tenaga medis profesional."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Keamanan AI: OpenAI Bantu Kepolisian Gagalkan Rencana Kejahatan Berbahaya Berbasis ChatGPT",
+      "original_title": "Artificial intelligence giant OpenAI was instrumental in catching a South Palm Beach, Florida, man who turned to ChatGPT to plot a horrific, violent revenge scheme against his former girlfriend. Darren Zhou, a 25-year-old former Goldman Sachs analyst, though",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNM2pQazIwNmNkQWtzMU9TR1ZDdEdCOC1YTjd5Y1JQSGdHT0JuS1VYVGRMTDhoWS1WRzlEcUVUSHBwZ3lOZ2RNSWw0a25xTDA3ZGtXQUFhVG43LVdUTUJoYTJWNEdC0HWNUVkNDA1aTZPMEFiRmFrYTdUUFh2SEQyZ0lqQjZVSXhjaTlkZFc0eV9SUFZvQnB4a0prSUd0ZnBmeFlFZ0gtNGtyWDRKQVYyck5sQXlSYVFzZnk0Z0tScVFtU0Y1WThYVS1qWVNwWTRfWFJNTmJXVjVFX0VIMW1CdzAyYw?oc=5",
+      "source": "facebook.com",
+      "published_date": "2026-08-17",
+      "summary": "Perusahaan pionir AI, OpenAI, berhasil memfasilitasi aparat kepolisian Florida dalam mengidentifikasi dan menangkap seorang pria yang berencana melancarkan aksi kejahatan fisik memanfaatkan panduan instruksi dari ChatGPT. Peristiwa ini menjadi bukti nyata keseriusan pengembang dalam memantau penyalahgunaan teknologi AI publik demi tujuan ilegal dan berbahaya. Keterlibatan proaktif ini menjadi preseden penting dalam memperkuat sistem keamanan dan penegakan hukum digital.",
+      "takeaways": [
+        "Sistem pemantauan internal dan kepatuhan OpenAI terbukti andal dalam mendeteksi indikasi penyalahgunaan berbahaya.",
+        "Kerja sama lintas sektor antara korporasi teknologi AI dan penegak hukum berhasil mengantisipasi aksi kekerasan nyata.",
+        "Kejadian ini menegaskan pentingnya implementasi dinding pembatas (guardrails) yang kokoh pada kecerdasan buatan komersial."
       ],
       "category": "Artificial Intelligence"
     },
