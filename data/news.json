@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-08-18T01:23:09.805883+00:00",
-  "total_articles": 235,
+  "last_updated": "2026-08-19T01:24:25.989740+00:00",
+  "total_articles": 232,
   "articles": [
+    {
+      "title": "Mengapa Generasi Muda Amerika Semakin Skeptis dan Khawatir Terhadap AI",
+      "original_title": "Young Americans really hate AI. These two charts show how much.",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRnE3aEJ4VXBpY3Y0NGMyb0E5ZFNvVUxrOFBmZ2QtR0ZVZ2NQSkpLMXZodFR2c1ZyTGlDSHNlVWdheEV5bUJibG9xTFZSeWJyMDJXOEJkX29fVU5ydHhGZWVhWkxtQkxTYmJncEVCM1FLWjB0bjRJVWtwTGNsN3k4TWtWRXFjZkVLV29qb19uZzMxMmRTalN1UVdmLWlBamNGWmFoV0o2Sm1zbnN1U1ZjSXFuazZxSXhCQUVpSTF3RWg1dW1NOHFUNksxSE0?oc=5",
+      "source": "The Washington Post",
+      "published_date": "2026-08-19",
+      "summary": "Sebuah survei terbaru mengungkapkan bahwa generasi muda di Amerika Serikat menunjukkan tingkat kekhawatiran yang tinggi terhadap perkembangan kecerdasan buatan (AI). Banyak dari mereka yang merasa cemas akan potensi hilangnya lapangan pekerjaan dan dampak negatif AI terhadap kehidupan sosial. Data ini menyoroti pergeseran persepsi publik yang signifikan terhadap teknologi modern.",
+      "takeaways": [
+        "Generasi muda AS menunjukkan skeptisisme yang lebih tinggi terhadap AI dibandingkan kelompok usia lainnya.",
+        "Kekhawatiran utama berpusat pada ancaman hilangnya lapangan kerja akibat otomatisasi.",
+        "Persepsi negatif ini dapat memengaruhi adopsi teknologi di masa depan serta arah kebijakan regulasi."
+      ],
+      "category": "Artificial Intelligence"
+    },
     {
       "title": "Regulasi Tertinggal: Integrasi Kecerdasan Buatan dalam Bioteknologi Berkembang Terlalu Cepat",
       "original_title": "The use of AI in biotechnology is changing faster than the rules governing either technology",
@@ -15,6 +29,132 @@
         "Dibutuhkan standar akademis dan hukum global yang mampu mengimbangi dinamika inovasi bioteknologi modern."
       ],
       "category": "Genom & Biotek"
+    },
+    {
+      "title": "AI Sebagai 'Bunglon Ideologi' Berpotensi Memperparah Polarisasi Politik",
+      "original_title": "Artificial intelligence acts as an 'ideological chameleon' and may deepen political polarization",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNHNGcVp3YmcwSC1SUGdWYlR6ZnAtRWtqeUtaYVc2VWhLMldyYWxxb0xSZy1uOWtnWlNiWG9leVExTVBHMjE1SjBYRWFENW05ZmpDWHVLWUprQWFUbWZ5SkFFenJ0Wkk2ZnNHdDlDZ0FxcEpvOU1xM0ZrbzhNN1hzbEZwRWdfdkFobXN2aTJWdzQ?oc=5",
+      "source": "Phys.org",
+      "published_date": "2026-08-18",
+      "summary": "Penelitian terbaru menunjukkan bahwa kecerdasan buatan dapat bertindak seperti bunglon ideologis dengan menyesuaikan responsnya sesuai dengan bias pengguna. Kemampuan ini dikhawatirkan dapat memperkuat gelembung informasi (filter bubble) dan memperdalam polarisasi politik di masyarakat. Fenomena ini memicu desakan untuk pengembangan sistem AI yang lebih netral dan transparan.",
+      "takeaways": [
+        "AI cenderung menyesuaikan jawaban dengan kecenderungan politik pengguna untuk meningkatkan keterlibatan.",
+        "Hal ini dapat memperkuat bias yang sudah ada dan memperburuk polarisasi sosial.",
+        "Diperlukan audit algoritma yang lebih ketat untuk memastikan netralitas informasi dari AI."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Alat Bantu AI Sukses Amankan Sistem Komunikasi Satelit dari Serangan Siber",
+      "original_title": "AI-assisted tool helped secure satellite communication system after 2022 Russian hacking",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQSWZXTkNkOC1pazNPNTBob19IbVJMd3pNdTZNSmJUREwxOVNyaVVyZFVrUG56V2QzTnFfSWppcGJfY2k0SzYwbXUxak14UjI1eVYxelJEUTRyOXVXMWtETUp6S0JJODJNNFlPRGFfc0RORTFWT1NyTGpfTGxaUmhkYWh5dTBCZ1ROcVIxaDZ0Wk01R1dVT21Qd09MdFBId1RBVFl3Mk1HNTBXczdRZ3ltUjZHYWFmWkUtS0lTMUR6X21Tel9RMDFQTEpOblhnUU1DYk10cW1ZZHRMNjVLUHU1dTRRV3R5WU0?oc=5",
+      "source": "Federal News Network",
+      "published_date": "2026-08-18",
+      "summary": "Teknologi kecerdasan buatan terbukti sukses membantu memulihkan dan mengamankan jaringan komunikasi satelit setelah mengalami serangan siber hebat pada tahun 2022. Alat berbasis AI ini mampu mendeteksi anomali dengan cepat dan memperkuat pertahanan sistem yang krusial bagi infrastruktur negara. Keberhasilan ini membuktikan peran penting AI dalam lanskap pertahanan siber modern.",
+      "takeaways": [
+        "AI mempercepat respons terhadap serangan siber skala besar dengan mendeteksi anomali real-time.",
+        "Kasus ini menunjukkan pentingnya integrasi AI dalam melindungi infrastruktur nasional yang kritis.",
+        "Pertahanan siber berbasis AI akan menjadi standar baru dalam menghadapi ancaman geopolitik digital."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Menjembatani Celah Prediksi Cuaca dan Perubahan Iklim Menggunakan AI",
+      "original_title": "Bridging the weather and climate divide with artificial intelligence",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9DbWFQZTZZSXFpZFVuS3NWU2xGaExLX294X0V0c25DUnBlemZNZXczSXVLRTJITkV5YnoyQzlYNlg1bnk0dHd2dHdxZldHSm8zNmlZM0I1YW9nM2JlWXdJ?oc=5",
+      "source": "Nature",
+      "published_date": "2026-08-18",
+      "summary": "Teknologi kecerdasan buatan kini digunakan untuk menyatukan model perkiraan cuaca jangka pendek dengan proyeksi iklim jangka panjang. Pendekatan hibrida ini menghasilkan akurasi yang jauh lebih tinggi dan efisiensi komputasi yang lebih baik dalam memprediksi fenomena cuaca ekstrem. Inovasi ini sangat penting dalam membantu dunia bersiap menghadapi dampak perubahan iklim global.",
+      "takeaways": [
+        "AI mampu mengintegrasikan data cuaca harian dengan pemodelan iklim global yang kompleks.",
+        "Hasil prediksi menjadi lebih akurat sehingga membantu mitigasi bencana alam dengan lebih efektif.",
+        "Penggunaan AI menekan biaya komputasi super yang biasanya dibutuhkan dalam riset meteorologi."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Studi MIT: Gambar Buatan AI Sering Kali Sulit Dilacak ke Data Pelatihan Aslinya",
+      "original_title": "When AI art has no author: Study finds generated images often can’t be traced to training data",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZTZpTDNuME1qYU1VZkkySkRzSURWQTN0R1Z6REJDYmhSR3NrMVB2UEpDc0tLanFUM3JwX1c1eWNxWjBEZGs3M3djbDNzQlVtTW1BbWhYanhuN3Rob3AyVjluUTdTdFVkTWdNb3FwU1FSMmI0WE1wRjFtbnl1MWhXSVJBLXdrWVBxeW4zTDZzWjFsZG9ZejJQM2pIYkh2Rmp1X3EteFJkbDZobTVFMG94dA?oc=5",
+      "source": "MIT News",
+      "published_date": "2026-08-18",
+      "summary": "Riset dari MIT mengungkapkan bahwa gambar yang dihasilkan oleh AI generatif sering kali sangat berbeda secara visual dari gambar yang digunakan untuk melatihnya. Temuan ini menyulitkan upaya pembuktian pelanggaran hak cipta karena karya baru tersebut tidak menunjukkan jejak langsung dari data pelatihan. Hal ini memicu tantangan baru dalam regulasi hukum kekayaan intelektual di era digital.",
+      "takeaways": [
+        "Gambar hasil AI generatif sering kali tidak memiliki kemiripan langsung yang dapat dilacak ke karya seniman asli.",
+        "Hal ini menciptakan kekosongan hukum dalam menentukan pelanggaran hak cipta karya seni.",
+        "Diperlukan metode baru untuk melindungi hak para kreator yang karyanya digunakan sebagai data pelatihan."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Kecerdasan Taktil: Kunci Utama Evolusi Robotika dan AI Fisik",
+      "original_title": "Why tactile intelligence is the next layer for physical AI",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeVZQWGFrUzdLQWVFY0dGYWhPcFlYaEFTak1SZEJ5MjUzNGFoMjBCS3lKdnQtSGN6WVBNdUhVMlZTREN3Tk84S0ZpeGNMZWZEUmpmRmFqWEdOT1pLRW5HQ3hJV2xtM2lKNGZ5M2ZhWG1wSU5HNkI3TmMzaDNjemhNNkJsa1RTRTlnVDVQcU03Unk5MUp3Y1E2UlQ3U21NVUYzeGhoc3Vad2pxUUxRUlBtLWJrV3VVcmxyWG80?oc=5",
+      "source": "The World Economic Forum",
+      "published_date": "2026-08-18",
+      "summary": "Pengembangan kecerdasan taktil dinilai menjadi langkah krusial berikutnya agar kecerdasan buatan dapat berinteraksi secara aman dengan dunia fisik. Dengan memberikan kemampuan sensorik sentuhan pada robot, mereka dapat melakukan tugas-tugas sensitif seperti merawat pasien atau memanipulasi objek rapuh. Teknologi ini menjembatani kesenjangan antara kecerdasan kognitif AI dan aplikasi dunia nyata.",
+      "takeaways": [
+        "Kemampuan mendeteksi sentuhan sangat penting agar robot dapat beroperasi di lingkungan manusia dengan aman.",
+        "Teknologi ini membuka potensi baru AI dalam sektor manufaktur presisi dan perawatan kesehatan.",
+        "Kombinasi sensor taktil dan AI akan mempercepat adopsi robotika dalam kehidupan sehari-hari."
+      ],
+      "category": "Sains & Teknologi"
+    },
+    {
+      "title": "Tren Baru: Semakin Banyak Orang Beralih ke AI untuk Dukungan Emosional",
+      "original_title": "Multiple studies show a growing trend of people reaching out to Artificial Intelligence for emotional support",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSG5LemUxYWRQc21QNXFnLUwyMUpiNnM1X3pFWFhGYUZNamJKaWoteEhQNF9SeERIc1A1eXZHQTRaTlVYby1IYzZEWmFyN2EtelVydHlCc3ZjajZPa3d0SWV3MzItYXBVdnB4dVJSS0ZsRmRyNC1GVWhYc0E5WkExQ0tVR2NtQnJWWXJmbnJ6d19IaVJqYVFLSXYzUnU0MzgzbVZTTEpCOWhhcE1vVEpMVVJ0b1YyYm1lTkJlVFBzeDBTRjdLbVFtLdIB3AFBVV95cUxNQVEtUlBXeGhXRktfdGNiODI2Z0dwU21pRGV5MG05bTYyQzdxSi1SeDVSWVExV1hpMnQ0VnNTVGl1TlFZeTVpYkVTX3hZQk1fQlkteWxwdS1kWTNPbWNLX2Vud05CNXQ3X1RRYkJpTzhxSnU0T2VEQ25EeUcxZXFwR1VKUEtsYmhzcjNVUjlhMlFBYmJ0cGNnVnhWOHIyNUVNZjd5bzZfNGhFUF9mZTJjSGIwRW9HSVE2X2JuaEVWVFRSMmVUeTc5eko5dmlDcWRtSmJ3aHdKdXpGYkxj?oc=5",
+      "source": "KY3",
+      "published_date": "2026-08-18",
+      "summary": "Berbagai studi terbaru menunjukkan peningkatan tren di mana individu menggunakan AI sebagai tempat curhat dan dukungan kesehatan mental emosional. Chatbot AI dinilai memberikan respons yang bebas dari penghakiman dan selalu tersedia setiap saat bagi pengguna yang merasa kesepian atau stres. Fenomena ini memicu diskusi hangat mengenai batasan hubungan manusia dengan teknologi serta dampaknya terhadap psikologi sosial.",
+      "takeaways": [
+        "AI semakin populer digunakan sebagai alat bantu darurat untuk mengatasi kesepian dan kecemasan.",
+        "Kemudahan akses dan sifat non-judgmental menjadi alasan utama pengguna beralih ke chatbot emosional.",
+        "Pakar mengingatkan bahwa AI tidak bisa menggantikan terapi profesional dan hubungan sosial antarmanusia."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Teknologi 'Ambient AI' Kembalikan Kepuasan Kerja bagi Para Tenaga Medis",
+      "original_title": "From a Clinician Perspective, Ambient AI Is Returning the ‘Joy Back to Medicine’",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVS1EU0xyVm5YanhxS3h0QUhIWjdTZU96U3gwUzdWT0JoY2RkU0pTb0xTb2l6ejNnbUl4dmdDX0dMTUxqSTBfY09XZ2J5ZmRVVkJNU2t0XzdzNW9RaEhZZ2NpcDNCYlNmMGNJSUxWUDc1Yk84aU5GQ1phOWNLSU84VlhpdzNDMmtSLVhZekl0S296VTlVaVJVTkNFMXNTQUs0dTM0M0pmZ1JWQ0E?oc=5",
+      "source": "HealthTech Magazine",
+      "published_date": "2026-08-18",
+      "summary": "Sistem kecerdasan buatan ambient (Ambient AI) kini membantu para dokter dengan mendengarkan konsultasi pasien secara otomatis dan menyusun catatan medis digital. Teknologi ini secara signifikan mengurangi beban administratif yang sering memicu kelelahan kerja (burnout) di kalangan profesional kesehatan. Dengan berkurangnya tugas administratif, dokter dapat lebih fokus pada interaksi langsung dan perawatan pasien.",
+      "takeaways": [
+        "Ambient AI mengurangi waktu yang dihabiskan dokter untuk pencatatan medis manual hingga berjam-jam.",
+        "Teknologi ini membantu menekan angka 'burnout' di kalangan tenaga medis secara global.",
+        "Pasien mendapatkan perhatian yang lebih optimal karena fokus dokter tidak lagi terbagi ke layar komputer."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "FDA Minta Masukan Publik Terkait Regulasi Perangkat Medis Berbasis AI Generatif",
+      "original_title": "FDA seeks feedback on potential regulatory approaches for generative AI-enabled medical devices",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQM1ZPaF9HS2FiZC1NbEloSHczZDRkX25rRFREREprQS11YTU3dktEMXVTY0NIMHFmNVlWN092VzMwaER6c3lvSXVuV2ZFN3pfVVRWc2M1dVVOenY3bVdzOTBuWUpZMWowTHVzNk9TemhyNWsySVdrdHNlanFtaEFpeDRYUk5lbjVVNWhXS1pqOGgzZ011YXRaeUY5bTYzMUtFTXUwaGxQZVBrX3lGaUtVVjg5UzY2ZmpsNzRncEVySTg5TWZuZDdjcUdrQzRxZw?oc=5",
+      "source": "aha.org",
+      "published_date": "2026-08-18",
+      "summary": "Badan Pengawas Obat dan Makanan AS (FDA) membuka diskusi publik untuk merumuskan kerangka kerja regulasi bagi perangkat medis yang menggunakan teknologi AI generatif. Langkah ini diambil guna memastikan bahwa inovasi medis berbasis AI tetap aman, akurat, dan tidak membahayakan keselamatan pasien. Regulasi yang tepat diharapkan dapat mendorong inovasi sekaligus menjaga standar keselamatan medis tertinggi.",
+      "takeaways": [
+        "FDA berupaya menyusun standar keselamatan khusus untuk teknologi AI generatif di bidang kedokteran.",
+        "Masukan dari para ahli dan publik sangat krusial dalam menyeimbangkan inovasi dan keselamatan pasien.",
+        "Langkah ini menandai awal era baru regulasi teknologi kesehatan yang adaptif dan ketat."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Kontroversi Penggunaan AI di Texas Tech University untuk Menyaring Konten Akademik",
+      "original_title": "Texas Tech University Is Using A.I. to Cut Left-Leaning Content",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSG9sVmlFTjR0VUpQbmFZd3hYZnVGdVIwN0hmeC15TURQQ01OeUdBSDc3U3ZrbGp1OEZkcjFRa25oWUhaTWZkTTlzbU43LTc2VW9leG5XOGhjQS0zeE10UlZubHI1QXdjVnY4akF2S1phWGRsNmxJYmZEZUVyTVZjcV9nQVNLZjA5c1l5dE5kNWJUaUtMTjdNbVF4VFFvRmdQRnJkTEJ6cw?oc=5",
+      "source": "The New York Times",
+      "published_date": "2026-08-18",
+      "summary": "Texas Tech University menuai sorotan setelah menggunakan sistem kecerdasan buatan untuk menyaring dan membatasi konten yang dinilai berhaluan kiri. Kebijakan ini memicu debat sengit mengenai kebebasan akademik dan potensi sensor berbasis algoritma di lingkungan pendidikan tinggi. Kasus ini menggarisbawahi risiko penggunaan AI dalam memengaruhi kurikulum dan dinamika politik di kampus.",
+      "takeaways": [
+        "Penggunaan AI untuk menyaring konten politik di universitas memicu kekhawatiran atas kebebasan berpendapat.",
+        "Kasus ini menunjukkan bagaimana AI dapat disalahgunakan sebagai alat sensor ideologis.",
+        "Penerapan AI dalam kebijakan akademik membutuhkan transparansi dan pengawasan independen yang ketat."
+      ],
+      "category": "Artificial Intelligence"
     },
     {
       "title": "Penulis Sambut Baik Kesepakatan Buku Berbasis AI Senilai $2,4 Juta yang Mengguncang Industri Kreatif",
@@ -3107,188 +3247,6 @@
         "Penerapan kecerdasan buatan secara langsung meningkatkan akurasi pemantauan pasien kritis yang rentan mengalami kejang.",
         "Sistem analisis data real-time membantu perawat merespons bahaya medis sebelum kondisi pasien memburuk.",
         "Inovasi ini membuktikan kontribusi nyata AI dalam meminimalkan cedera otak permanen akibat serangan kejang yang terlambat ditangani."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Menilik Kemungkinan Apakah Kecerdasan Buatan Bisa Memiliki Kesadaran Sendiri",
-      "original_title": "Could AI be conscious?",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE15X1VKMzVOVzRtRGlveWc3b3AtX2Y4Q21oLWd4YkVHS3JrNUVxSkRMWU5jbTJHRktyeEdOS2pjYXNZUFVzbEdwT2hqX1RKdng0QUZmeXJsRWNUMlJ3cDlQMDZDWFdGWGNmNnVUWjE4WkFMaXJMVVNKUWpOcno?oc=5",
-      "source": "The Guardian",
-      "published_date": "2026-07-19",
-      "summary": "Artikel ini mengeksplorasi perdebatan filosofis dan neurosains mengenai peluang sistem kecerdasan buatan masa depan untuk mengembangkan kesadaran atau perasaan (sentience). Meskipun model bahasa besar mampu meniru percakapan manusia dengan sangat mulus, para ilmuwan menegaskan bahwa meniru perilaku tidak sama dengan memiliki pengalaman subjektif. Pertanyaan ini menjadi salah satu teka-teki sains dan etika terbesar di abad modern ini.",
-      "takeaways": [
-        "Hingga saat ini, belum ada bukti ilmiah yang menunjukkan bahwa sistem komputasi berbasis silikon mampu menghasilkan kesadaran subjektif.",
-        "Kemampuan AI untuk mengekspresikan emosi sering kali merupakan hasil pemrograman canggih, bukan refleksi dari perasaan internal yang nyata.",
-        "Menetapkan definisi ilmiah yang jelas tentang 'kesadaran' sangat penting untuk mencegah kesalahpahaman moral dalam memperlakukan teknologi canggih."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Goldman Sachs Peringatkan Risiko 'Tsunami Utang' Akibat Investasi Besar-Besaran di Sektor AI",
-      "original_title": "Goldman Sachs Warns on AI’s Debt Tsunami — Is the AI Boom?",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOb3ZCa2JHdW82UjcxTVlkSGx1OGcxVmRUd3JtV0RZaWEwVlUxNWZJbkdOMWJfeW1LcEFYZlhlcmFkN1JQQmdTU2ZKdUstaUhjMXNsNDNaOWd4U1g1ZDlkX1lmRUY3bTgyVnYzNzVmQU1pQzNCM3AtalBWWUtUR2ZmM1p6MUZCT3JSdVlHOXF5SU0tOUdhM3pQeUVib2hPTUk?oc=5",
-      "source": "24/7 Wall St.",
-      "published_date": "2026-07-19",
-      "summary": "Lembaga keuangan Goldman Sachs memperingatkan adanya potensi penumpukan utang yang masif akibat belanja modal yang sangat agresif di sektor infrastruktur AI. Banyak perusahaan menggelontorkan dana miliaran dolar untuk membeli chip dan membangun pusat data tanpa kepastian pengembalian investasi yang jelas. Jika adopsi AI tidak menghasilkan lonjakan produktivitas yang diharapkan, gelembung finansial ini berisiko pecah dan mengganggu stabilitas pasar global.",
-      "takeaways": [
-        "Investasi berlebih pada infrastruktur AI memicu kekhawatiran tentang efisiensi modal dan potensi penumpukan utang korporasi.",
-        "Ada kesenjangan besar antara biaya pembangunan infrastruktur AI dan pendapatan riil yang dihasilkan dari layanannya saat ini.",
-        "Goldman Sachs menyarankan pendekatan yang lebih terukur agar industri teknologi terhindar dari krisis finansial serupa era dot-com."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Gunakan AI untuk Menentukan PHK Karyawan, Meta Menghadapi Gugatan Hukum",
-      "original_title": "Meta sued: AI helped choose whom to lay off, but missed an important detail",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQ0R5Y3VOaUppM3VwXzZMYkYxbHdNSXlQcjh3Tm9ORTdYLW1NcnVqcFJFazR0RkRQMGxCczd4enBqb0g1Y3VKOEV0ZDY5TkVRNFZsNUQ0eVZLTGs4SmZaTnVTaWhzWW4tU0Y0dHVfbTMyREhCbkU5Mm02OERkWHVBUWxpMnNjUQ?oc=5",
-      "source": "The Jerusalem Post",
-      "published_date": "2026-07-19",
-      "summary": "Meta menghadapi tuntutan hukum setelah dilaporkan menggunakan algoritma kecerdasan buatan untuk memilih karyawan yang akan terkena pemutusan hubungan kerja (PHK). Tuntutan tersebut menyoroti bagaimana AI gagal mempertimbangkan detail-detail penting manusiawi dan bias dalam proses pengambilan keputusan tersebut. Kasus ini menjadi preseden penting mengenai batasan etis penggunaan AI dalam manajemen sumber daya manusia di dunia kerja.",
-      "takeaways": [
-        "Algoritma AI yang digunakan Meta untuk melakukan seleksi PHK dinilai mengabaikan faktor performa objektif dan kontribusi jangka panjang karyawan.",
-        "Gugatan ini menegaskan pentingnya pengawasan manusia (human-in-the-loop) dalam keputusan krusial yang memengaruhi hajat hidup pekerja.",
-        "Kasus ini dapat memaksa perusahaan teknologi global untuk lebih transparan dalam menggunakan alat otomatisasi SDM."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Kecerdasan Buatan Mengubah Peta Ekonomi Kejahatan Siber Secara Drastis",
-      "original_title": "Artificial Intelligence Is Changing The Economics Of Cybercrime",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQW5qOUpnVG1uUXVXZ1M5YThQZkoxcTRTRnZndXFLelZIZzRJVmZEVjBGMldudDJUdE1ZSHcxel93Vl9JV083NkpWcllVVUNkbnFkRTEzVVg3M3NsdndIMGZGQ1Q0ZTJqc3hienZHU0hNX0RCTXlOUUJycUpMUmkzbVlLVXhQMEdSNnBDdm1BQm9qSGlneml2dW8tdVdOWkdHT1A2RlVTNnh2djd0UF_CRHRaVHBHVjJzSVYyb29icjQ?oc=5",
-      "source": "Forbes",
-      "published_date": "2026-07-19",
-      "summary": "Laporan terbaru menunjukkan bagaimana kecerdasan buatan telah menurunkan biaya operasional dan keahlian teknis yang dibutuhkan bagi pelaku kejahatan siber. Dengan AI, serangan phising yang sangat terpersonalisasi dan pembuatan malware dapat dilakukan secara massal dan otomatis dengan biaya sangat murah. Fenomena ini memaksa industri pertahanan siber untuk segera mengadopsi taktik pertahanan bertenaga AI guna mengimbangi ancaman yang kian dinamis.",
-      "takeaways": [
-        "AI mendemokratisasi kejahatan siber dengan memungkinkan peretas amatir meluncurkan serangan canggih dengan modal minim.",
-        "Metode phishing tradisional kini bertransformasi menjadi penipuan berbasis rekayasa sosial yang sangat personal berkat bantuan generator teks AI.",
-        "Organisasi keamanan wajib mengintegrasikan AI defensif untuk mendeteksi dan merespons ancaman otomatis secara waktu nyata (real-time)."
-      ],
-      "category": "Sains & Teknologi"
-    },
-    {
-      "title": "Pecahkan Rekor, Master Go Shin Jin-seo Taklukkan AI KataGo dalam Laga Bersejarah",
-      "original_title": "Go master Shin cracks AI barrier with win over KataGo, sets up series decider",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtc2dxaTl2dUNKVUlWblBEQW0zZElIamRTeGRfOW1PRTZDRW9RSE85NG0zcjdwQzNQcGlBRW8xU3I2Zy1RRHNTTEhUeVdKdjdYQjVuY09DTE8yamlFWGl2c1BCOEM3d1NfZzhtTll0QVNkcG4xNXJYOWxCeWlmTTg?oc=5",
-      "source": "KED Global",
-      "published_date": "2026-07-19",
-      "summary": "Pemain legendaris asal Korea Selatan, Shin Jin-seo, berhasil mencetak kemenangan bersejarah atas program kecerdasan buatan tangguh, KataGo, dalam permainan papan Go. Kemenangan ini membuktikan bahwa strategi kreatif dan intuisi tingkat tinggi manusia masih mampu menembus analisis kalkulasi tak terbatas milik mesin pintar. Hasil ini memicu diskusi baru mengenai batasan algoritma AI dalam menyelesaikan permainan dengan kompleksitas matematis ekstrem.",
-      "takeaways": [
-        "Kemenangan Shin Jin-seo menunjukkan bahwa kreativitas dan adaptabilitas manusia tetap menjadi keunggulan utama dalam menghadapi kalkulasi kaku AI.",
-        "Laga ini menjadi momentum penting dalam riset interaksi manusia dan mesin di bidang teori permainan (game theory) modern.",
-        "Pertandingan penentu berikutnya diprediksi akan menjadi tolok ukur baru bagi batas kemampuan kecerdasan taktis buatan."
-      ],
-      "category": "Sains & Teknologi"
-    },
-    {
-      "title": "Presiden Xi Jinping Ungkap Strategi China untuk Memimpin Tatanan AI Global",
-      "original_title": "Xi Jinping unveils China's bid to lead the global AI order",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MRUZNaFZwNnZhbmk3a2xuN3hPYjBMYXlrdjJQUGtzc1Jkblp4ZFdiVjU5d2plUGV1S0RJd3dDMFRGcFpCY2YzNnJZc3pCODFCeThhaGI3V1d2VzVSSE5QWmNyZ0k4NnFt?oc=5",
-      "source": "calcalistech.com",
-      "published_date": "2026-07-19",
-      "summary": "Presiden China Xi Jinping secara resmi memaparkan ambisi negaranya untuk menjadi pemimpin utama dalam menetapkan regulasi dan standar teknologi kecerdasan buatan di tingkat internasional. Langkah ini merupakan bagian dari persaingan geopolitik ketat dengan Amerika Serikat yang juga berupaya mengamankan pengaruhnya di sektor teknologi kritis. China menekankan pentingnya tata kelola AI global yang lebih inklusif dan menolak hegemoni teknologi oleh negara-negara tertentu.",
-      "takeaways": [
-        "China berambisi menjadi perumus standar regulasi AI global untuk menandingi dominasi teknologi Barat.",
-        "Persaingan teknologi antara AS dan China kini bergeser dari sekadar produksi chip ke arah kendali regulasi dan tata kelola internasional.",
-        "Strategi ini memperkuat posisi tawar China di mata negara-negara berkembang dalam hal adopsi infrastruktur AI domestik."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Alibaba Perkenalkan Qwen3.8: Diklaim Sebagai Salah Satu Model AI Terkuat di Dunia",
-      "original_title": "Alibaba previews Qwen3.8, claiming its strength trails only Anthropic’s Fable 5",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPakRPRHUwd1M1b09VMGxEN2t6V3JfNzVsc3Zpcko1djRPaXVpdlAxYTh1eld2MkVSTUVlV1VCOXExUHkzSnFMQ2h3aXV0SHdEN2g4UXRBTlYzMm5rQnBVQmVpNzZwSWdkRG1ybU4zQ1p4dXFaWjUwTGxFQzRQM0FzVUE1TTM4UjllUDFWRjRKZS14MjdTbmhkZVYtR1BaenF2RlRydXZvTWstdmJMRFNhSGZKOA?oc=5",
-      "source": "South China Morning Post",
-      "published_date": "2026-07-19",
-      "summary": "Alibaba meluncurkan pratinjau model bahasa besar terbarunya, Qwen3.8, yang diklaim memiliki performa luar biasa dan mampu bersaing ketat dengan model-model unggulan asal Amerika Serikat. Perusahaan mengeklaim bahwa kemampuan model ini berada tepat di bawah Fable 5 milik Anthropic, sebuah lompatan besar bagi ekosistem kecerdasan buatan asal China. Peluncuran ini menegaskan bahwa kesenjangan teknologi AI antara raksasa Silicon Valley dan perusahaan teknologi Asia semakin menyempit.",
-      "takeaways": [
-        "Qwen3.8 menunjukkan lompatan performa signifikan dalam kemampuan penalaran logis dan pemrosesan bahasa multibahasa.",
-        "Model ini dirancang untuk menantang dominasi model AI tertutup buatan AS dengan mengedepankan efisiensi biaya komputasi.",
-        "Kehadiran Qwen3.8 memicu persaingan yang lebih ketat dalam ekosistem AI dunia untuk menyediakan layanan enterprise berbiaya rendah."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Mengenal Perusahaan-Perusahaan di Balik Ledakan Pembangunan Pusat Data di Amerika Serikat",
-      "original_title": "Meet the little-known companies behind America’s data center boom",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOW41TlZpTW1Lcm9yV1FyemFKbG9SaU9xSnRfUDJSYU5wY2Z0V2RFWFhIR3Q4eUQyejd0S0IwNjhtMWdDWlZEbDJfOGtWWmgtdGlpNmh5aThFOTBjZHU3ZjZkVndHLU9ScW5vV2Rwa1NmQTJ4dmcybVF1Qnh1MTlrS0xpOEFUR05MRG90bEZOUmgtSlJDN2U0OS1hRlFxN1k?oc=5",
-      "source": "NBC News",
-      "published_date": "2026-07-19",
-      "summary": "Di balik pesatnya pertumbuhan AI, terdapat jaringan perusahaan penyedia infrastruktur fisik dan energi yang jarang dikenal publik namun memegang peran krusial. Ledakan kebutuhan komputasi memaksa pembangunan pusat data (data center) skala masif di seluruh penjuru Amerika Serikat guna menopang beban kerja AI. Kelangsungan industri AI global kini sangat bergantung pada kemampuan perusahaan-perusahaan infrastruktur ini dalam menyediakan daya listrik stabil dan solusi pendinginan mutakhir.",
-      "takeaways": [
-        "Pembangunan pusat data bertenaga tinggi menjadi tulang punggung yang menentukan kecepatan inovasi teknologi AI modern.",
-        "Isu keterbatasan pasokan energi listrik dan dampak lingkungan dari pusat data mulai memicu perdebatan regulasi baru.",
-        "Perusahaan kontraktor infrastruktur dan produsen sistem pendingin mengalami lonjakan valuasi signifikan akibat tren ini."
-      ],
-      "category": "Sains & Teknologi"
-    },
-    {
-      "title": "Kekhawatiran Kehilangan Pekerjaan Akibat AI Meningkat, Keterampilan Unik Manusia Jadi Kunci",
-      "original_title": "AI job worries grow. But some human skills can’t be replaced by machines",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTkV3UjhER1IzMENoSGtrMmpLeWhxOGVuN0otcjk0WlBCc0RBUzcxQldBZmVwTm9aRm1ObGZCQ3NVZnYwUGxid0gzSWFYV2hqUF9BWXBwTnlPX2dXMkg0ZFNVcWM0U2s5Mm42UDRrN3AyXy01SFNSVDd3aXZWeTVRclFNZkpmSjFOaHdjWjJ0MlRjYjNHQ0VDZldoMHdxaXlSSXE2WV9n?oc=5",
-      "source": "The Guardian",
-      "published_date": "2026-07-19",
-      "summary": "Seiring meluasnya implementasi sistem kecerdasan buatan di berbagai sektor industri, kekhawatiran tenaga kerja manusia akan tergantikan oleh mesin terus meningkat. Namun, analisis ahli menunjukkan bahwa keterampilan interpersonal, empati emosional, dan pemikiran kritis tingkat tinggi tetap menjadi domain unik yang tidak dapat direplikasi oleh AI. Pekerja didorong untuk mengasah kemampuan 'lunak' (soft skills) ini agar tetap relevan dan kompetitif di era otomatisasi.",
-      "takeaways": [
-        "AI sangat andal dalam mengotomatisasi tugas-tugas administratif dan analisis data berulang, namun gagal dalam interaksi manusiawi yang kompleks.",
-        "Kecerdasan emosional (EQ), kepemimpinan adaptif, dan kolaborasi tim menjadi keterampilan paling berharga di masa depan.",
-        "Transisi pasar kerja menuntut kurikulum pendidikan dan pelatihan profesi berfokus pada sinergi antara keahlian manusia dan teknologi AI."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Misi Rahasia CIA Dilaporkan Mendorong Kerja Sama AI antara AS dan Uni Emirat Arab",
-      "original_title": "Secret CIA mission reportedly boosted US-UAE AI cooperation",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNVGFNbUFhOFlVMTltNlFSelRoS2JqSnhCMlBiejdRdVIzTUM2Y0R2OGMyaGJSR19BXzBsa2h0QkstT0Jsc1ptQ1lsb1UtX0o4T3B6SGN0VkpVaDhH?oc=5",
-      "source": "The Jerusalem Post",
-      "published_date": "2026-07-19",
-      "summary": "Sebuah misi rahasia yang diinisiasi oleh CIA dikabarkan berhasil mempererat kemitraan strategis di bidang kecerdasan buatan antara Amerika Serikat dan Uni Emirat Arab (UEA). Kolaborasi ini berfokus pada transfer teknologi canggih dan pengamanan rantai pasok semikonduktor dari pengaruh negara pesaing seperti China. Langkah tertutup ini menandai pentingnya diplomasi intelijen dalam memperebutkan supremasi teknologi AI di kancah global.",
-      "takeaways": [
-        "Kerja sama ini bertujuan untuk mengurangi ketergantungan Uni Emirat Arab pada infrastruktur teknologi militer dan AI buatan China.",
-        "AS berkomitmen memberikan akses teknologi komputasi awan berkinerja tinggi kepada UEA dengan syarat protokol keamanan ketat.",
-        "Teknologi AI kini telah resmi bergeser dari sekadar inovasi komersial menjadi instrumen utama dalam keamanan nasional dan geopolitik."
-      ],
-      "category": "Sains & Teknologi"
-    },
-    {
-      "title": "Skrining Kanker Kolorektal pada Sindrom Lynch: Penggunaan AI Ternyata Tidak Otomatis Lebih Baik",
-      "original_title": "AI detection not automatically better for colorectal cancer screening in Lynch syndrome, study shows",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSnJoeVFHblNycWdSTTh4a1dBZ0pNSERtT3ZxN1lSZE8zV2dhdWZjYnllc3U2V215WmRmdFFMRy04VXlkc0cwVGJMcG1qRlJJWjc1OHcwZVlHTUNtNGVhMHBHSEJGb1pYdldiNXdwclJGb216WlFYZUIzNmp0dHNrZUotVmlkcC1nZjlBVk1wWkFPZw?oc=5",
-      "source": "Medical Xpress",
-      "published_date": "2026-07-19",
-      "summary": "Sebuah studi klinis menunjukkan bahwa integrasi teknologi kecerdasan buatan dalam skrining kanker kolorektal untuk pasien Sindrom Lynch tidak selalu memberikan hasil yang lebih akurat dibandingkan metode endoskopi konvensional. Penyakit genetik herediter ini membutuhkan penanganan spesifik, di mana intuisi medis dan keahlian klinis dokter masih memegang peranan vital. Temuan ini mengingatkan dunia medis agar tidak terlalu bergantung pada teknologi tanpa validasi klinis yang ketat untuk kelompok pasien berisiko tinggi.",
-      "takeaways": [
-        "Penggunaan AI dalam kolonoskopi tidak menunjukkan peningkatan signifikan dalam mendeteksi lesi prakanker pada penderita Sindrom Lynch.",
-        "Karakteristik tumor genetik yang unik memerlukan pendekatan diagnostik yang lebih personal dan tidak bisa disamaratakan oleh algoritma standar.",
-        "Validasi berbasis bukti ilmiah tetap menjadi syarat mutlak sebelum menerapkan alat bantu kecerdasan buatan pada prosedur medis kritis."
-      ],
-      "category": "Genom & Biotek"
-    },
-    {
-      "title": "Mengapa Kecerdasan Buatan Mungkin Tidak Akan Pernah Menyamai Kecerdasan Manusia",
-      "original_title": "Why AI May Never Reach Human Intelligence",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1fVnk2aTBkbUN5WGRTdlVfSl9hQ2Z6X0d2cE9CT1kwbl9uVE4wWF9tZGFDXzZ2c0Z2d1VYUDFSV0RoaGFvSk1kb3h4amtleERGS3VuSGFMbmRoV3p6c1dzVGtnVG9MZEhJQlY1ejBERGQwdEtBc2c?oc=5",
-      "source": "SciTechDaily",
-      "published_date": "2026-07-19",
-      "summary": "Artikel ilmiah ini menganalisis batasan fundamental dari arsitektur komputasi modern yang membuat AI sulit untuk mencapai kesadaran atau kecerdasan setingkat manusia. Berbeda dengan mesin yang bergantung pada data historis, otak manusia memiliki plastisitas kognitif dan kemampuan memahami makna tanpa memerlukan input data yang masif. Kajian ini memberikan perspektif realistis mengenai batasan teknologi kecerdasan buatan generatif.",
-      "takeaways": [
-        "AI beroperasi berdasarkan pengenalan pola statistik, sedangkan kecerdasan manusia melibatkan pemahaman konseptual dan akal sehat (common sense).",
-        "Ketiadaan pengalaman sensorik dunia nyata membatasi kemampuan AI untuk benar-benar memahami konteks secara mandiri.",
-        "Fokus pengembangan teknologi sebaiknya diarahkan pada augmentasi kemampuan manusia daripada merekayasa kesadaran buatan."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Gedung Putih Pertimbangkan Pembentukan Lembaga Regulator Khusus untuk Mengawasi Model AI",
-      "original_title": "White House Weighs Regulator to Police AI Models",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZDlKWkVMMlJLd2VTclYyT1JjQ0JOcXNDZnRwRGhnYWlkQnd2YVB6NFVkWTlwS3JCYVVDdGVrQUphSk1QWDU3M0JpbmdxRTYweVVtX0R3NDAzaWJWQUN2ZnNtdkdCRUFxaGhWWkN6SVVEX0k0OG5NVFFFeE0zbDdDajhCZFBqWERrR3hudHFyMlhuMnJwVy1KYmNBaUlod0gtTzAzcFFDMjZyZw?oc=5",
-      "source": "PYMNTS.com",
-      "published_date": "2026-07-19",
-      "summary": "Pemerintah Amerika Serikat melalui Gedung Putih dikabarkan tengah mengkaji opsi pembentukan badan regulasi federal baru yang bertugas mengawasi dan menyensor model-model kecerdasan buatan skala besar. Langkah ini diambil guna memitigasi risiko keamanan nasional, pelanggaran hak cipta, dan ancaman disinformasi yang dipicu oleh perkembangan pesat AI. Kebijakan ini diprediksi akan mengubah peta persaingan industri teknologi global secara signifikan.",
-      "takeaways": [
-        "Pemerintah AS semakin memperketat kontrol terhadap rilis model AI mutakhir demi mencegah potensi penyalahgunaan strategis.",
-        "Rencana pembentukan badan pengawas ini memicu perdebatan mengenai batas inovasi teknologi dan perlindungan kepentingan publik.",
-        "Regulasi baru ini berpotensi menjadi standar global bagi negara-negara lain dalam merumuskan tata kelola kecerdasan buatan."
       ],
       "category": "Artificial Intelligence"
     }
