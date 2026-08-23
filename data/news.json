@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-08-22T01:22:46.270895+00:00",
-  "total_articles": 220,
+  "last_updated": "2026-08-23T01:36:41.280799+00:00",
+  "total_articles": 222,
   "articles": [
+    {
+      "title": "UT Knoxville Luncurkan Program Sarjana Kecerdasan Buatan Pertama dan Satu-satunya di AS",
+      "original_title": "UT Knoxville is now home to the only undergraduate artificial intelligence program in the country",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNWFExSHNhY3RTd1ptekFIbEd4WWtPbXZRdzVHMFRteHI2NVRvTFN4NXNsMG5GcHRaZjQ2OTU4R3ZUWk9FN0w0dm5VMHNPTk5fNmoyYWNDdmdwM09rb1JRRnB0S1pfZUFaWFFHc3FVZXZRX3YtQUNiYVBqZEIzeWxnNWNGRkRsYVJIZURrV1E0Y2NPRm9YaHYzWUJhU3FDd216V0VZVmdfbksxdnV4MVlBbEROWjMxN2JjWG5TR2pxam41Mk5OZWtZTjhvZmhBZjJ0aWdpRU1yMG9tbmJTUm5oVG8zQ1MtbThoYTNSeTE1RGw5QWdyQlIxLV9ld0FuYk1aVWdHZURHb1puRlU?oc=5",
+      "source": "WBIR",
+      "published_date": "2026-08-23",
+      "summary": "University of Tennessee, Knoxville menjadi institusi pendidikan tinggi pertama di Amerika Serikat yang menawarkan program studi sarjana khusus bidang Kecerdasan Buatan. Langkah ini diambil untuk menjawab permintaan industri yang sangat tinggi akan tenaga ahli AI yang kompeten sejak lulus kuliah. Inisiatif ini menandai babak baru dalam integrasi teknologi mutakhir ke dalam kurikulum pendidikan formal tingkat dasar.",
+      "takeaways": [
+        "UT Knoxville memelopori pendidikan sarjana AI mandiri guna memenuhi kebutuhan talenta global yang mendesak.",
+        "Kurikulum program ini dirancang untuk mencakup aspek teknis, etika, serta penerapan praktis AI di berbagai industri.",
+        "Langkah ini diperkirakan akan mendorong universitas global lainnya untuk segera membuka program studi serupa."
+      ],
+      "category": "Sains & Teknologi"
+    },
     {
       "title": "Terobosan Baru: Model AI Terbuka China Saingi Raksasa Silicon Valley",
       "original_title": "Another powerful new artificial intelligence model from China took the US tech industry by surprise",
@@ -141,6 +155,132 @@
         "Membuka perdebatan baru mengenai hak cipta karya seni yang dihasilkan oleh kecerdasan buatan."
       ],
       "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Menjaga Privasi Digital di Tengah Pesatnya Era Kecerdasan Buatan",
+      "original_title": "Protecting Digital Privacy In The Artificial Intelligence Era",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTEd1NlJoVkNQRGJLcXlzaVZNTWhFa3h0NUhnU0FaZnppeHVwR19yNEc0X3FBVEY4UnZqRDRtUU40Mm84bjdQTnBfVVQ2SGs5ZlJRcDduOTNITzVRQi1SRHdSSlNzQ0NSYk1USldvaHBmWEswU0RQRjFPN2VHZjUydFZScnp5N25JUDBNMzFKR2g5OTBIU21YdVhJVWdpSjdRMVZkalAtVkxfekowYjhaek04M0Q?oc=5",
+      "source": "Forbes",
+      "published_date": "2026-08-22",
+      "summary": "Artikel ini membahas pentingnya perlindungan data pribadi di era di mana teknologi AI berkembang sangat pesat. Dengan kemampuan AI menganalisis data massal, regulasi yang ketat dan kesadaran pengguna menjadi kunci utama untuk mencegah penyalahgunaan informasi sensitif. Upaya ini penting untuk menjaga kepercayaan publik terhadap adopsi teknologi masa depan.",
+      "takeaways": [
+        "Teknologi AI meningkatkan risiko eksploitasi data pribadi secara masif jika tidak diregulasi dengan ketat.",
+        "Perusahaan teknologi didesak untuk mengadopsi standar transparansi yang lebih tinggi dalam pengolahan data.",
+        "Kesadaran individu mengenai hak privasi digital menjadi garda terdepan dalam perlindungan informasi pribadi."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Analisis Resep Obat Era Digital: Membandingkan Pendekatan Berbasis AI dengan Metode Manual",
+      "original_title": "Prescription Analysis in the Digital Era: Comparing Artificial Intelligence-Based Versus Manual Approaches",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdFdVVzhKWDF3T0V2V2hNQ1F4SDZTZUllbWgwN19SVWpKVzh1VlZDNVhSZGJ3X2V2VThVVmRKSmcxU21oeWpURWg0NkpxRDFJTTFmNm5IdTlsQkY0bW93S2s3dXZLbWp4bDJwMkZETzJUY1pja1c3RDZkc3lYT2RYMVRRUVpOYWVlaUs0UTExUzRQVjAwLW5DQTl2Qjl0Y0Rwd2otQzhLeGM0bF9MSEdrUXRFa09UemZWODg4U3hKTUFTX05VeEQ3V2E3N3hUbl9yWkhmLUo3U0dUOGg3?oc=5",
+      "source": "Cureus",
+      "published_date": "2026-08-22",
+      "summary": "Studi ini membandingkan efektivitas analisis resep medis menggunakan kecerdasan buatan versus metode manual tradisional oleh tenaga medis. Hasilnya menunjukkan bahwa integrasi AI mampu mengurangi kesalahan pembacaan resep dan mempercepat proses pelayanan kefarmasian secara signifikan. Hal ini membuktikan potensi besar AI dalam meminimalisir kesalahan medis yang mengancam nyawa pasien.",
+      "takeaways": [
+        "Sistem berbasis AI menunjukkan akurasi dan kecepatan yang lebih tinggi dibandingkan analisis resep secara manual.",
+        "Penerapan AI di bidang farmasi dapat secara drastis mengurangi risiko kesalahan pemberian dosis obat kepada pasien.",
+        "Kolaborasi antara teknologi AI dan pengawasan manual apoteker tetap diperlukan untuk hasil klinis yang optimal."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Imbas Booming AI, Nvidia Berencana Naikkan Harga Chip Hingga Lebih dari 15 Persen",
+      "original_title": "Nvidia customers notified of AI-related price rises above 15%",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZTVLejFuTnp5OEVQdGQwc0ktakVzMmNHa3pXUnRESENWOGJLaG1RSl9FSHdpQzJCZjlZTjJzZ0VTR05CZ2FMbGpWcGRFZHpJTVZBTEc0Zy0ydGx5alprdmdFTDc1Q0dEQWVIdFFLZjVsRFdYd2VJM0c4WXg4TXhrS3E5X3NoRm1FNXg1bzk3SnMxRG9PVHhWQUxVTDIxVUR5WHN3N0hzajJod2Zp0gGsAUFVX3lxTE9lNUt6MW5Oenk4RVB0ZDBzSS1qRXMyY0dreldSdERIQ1Y4YktobVFKX0VId2lDMkJmOVlOMnNnRVNHTkJnYUxsalZwZEVkeklNVkFMRzRnLTJ0bHlqWmt2Z0VMNzVDR0RBZUh0UUtmNWxEV1h3ZUkzRzhZeDhNeGtLcTlfc2hGbUU1eDVvOTdKczFEb09UeFZBTFVMMjFVRHlYc3c3SHNqMmh3Zmk?oc=5",
+      "source": "South China Morning Post",
+      "published_date": "2026-08-22",
+      "summary": "Raksasa semikonduktor Nvidia dilaporkan telah memberi tahu para pelanggannya mengenai kenaikan harga produk terkait AI sebesar lebih dari 15%. Lonjakan harga ini dipicu oleh tingginya permintaan pasar global terhadap daya komputasi AI yang tidak sebanding dengan kapasitas produksi rantai pasok. Keputusan ini berpotensi meningkatkan biaya operasional bagi banyak perusahaan teknologi yang bergantung pada infrastruktur Nvidia.",
+      "takeaways": [
+        "Permintaan chip AI yang ekstrem memicu inflasi harga perangkat keras semikonduktor secara global.",
+        "Kenaikan harga di atas 15% dari Nvidia akan berdampak langsung pada anggaran pengembangan AI di berbagai sektor industri.",
+        "Ketergantungan pasar pada Nvidia memperkuat posisi monopoli perusahaan tersebut dalam ekosistem kecerdasan buatan."
+      ],
+      "category": "Sains & Teknologi"
+    },
+    {
+      "title": "Mengenal Para Pemikir di Balik Lompatan Besar Teknologi AI China yang Mengejutkan Dunia",
+      "original_title": "The Brains Who Powered China’s Surprising AI Leap",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBjWE5CYjA1SjdibGl2UXJ5cmJkRm43NHZkU29wSTM3Rm9faUFqbTUzdmplcWwwcDFTbE80M3dSNzdXRDJnZVVCc2N6Tlh6M0hwNy1HRXJ6eGJYMDk0ZFN6T3FvRU1ybXhGRFl4bXl4dDRPZw?oc=5",
+      "source": "WSJ",
+      "published_date": "2026-08-22",
+      "summary": "Wall Street Journal mengulas profil para ilmuwan dan insinyur kunci yang berhasil membawa China meraih kemajuan pesat dalam teknologi kecerdasan buatan. Meskipun menghadapi berbagai pembatasan ekspor teknologi dari negara-negara Barat, para inovator ini mampu menciptakan solusi lokal yang kompetitif. Keberhasilan mereka mempersempit kesenjangan teknologi dan memicu persaingan geopolitik AI yang semakin sengit.",
+      "takeaways": [
+        "Kemajuan AI di China digerakkan oleh talenta riset berbakat yang berfokus pada efisiensi algoritma.",
+        "Pembatasan ekspor chip justru memacu ilmuwan China untuk berinovasi memaksimalkan infrastruktur yang ada.",
+        "Dominasi global dalam AI kini tidak lagi didominasi secara mutlak oleh Silicon Valley."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Model AI Gratis Menangkan Hati Pengembang, Misteri Server Operasionalnya Belum Terpecahkan",
+      "original_title": "A free AI model is winning over developers. And nobody knows whose servers it runs on",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZFNFNjZCZ2d4eVY0aDFlbEpXSS1BS1dKaDdTalhmRTdPUnljWDBiVWhRRDJ6Qm10ekNpWC02N3hobm5ydlBlX2d3QzhMaDByeVRfa053bTRwVU10QTJ6QnVhaXN5RFBzbFVXclhVM1plczE0V2lzRWd3eHZYV2ZNQWdSTWVaOGc?oc=5",
+      "source": "The Next Web",
+      "published_date": "2026-08-22",
+      "summary": "Sebuah model AI bersumber terbuka dan gratis saat ini sedang populer dan banyak diadopsi oleh kalangan pengembang perangkat lunak global karena performanya yang luar biasa. Namun, komunitas teknologi dihebohkan oleh misteri mengenai siapa pihak di balik penyediaan server berbiaya tinggi yang menjalankan infrastruktur model tersebut. Keadaan ini memicu perdebatan mengenai transparansi, motif tersembunyi, dan keamanan data pengguna.",
+      "takeaways": [
+        "Model AI gratis dengan performa tinggi menarik minat besar dari komunitas pengembang global.",
+        "Ketidakjelasan penyedia infrastruktur server menimbulkan kekhawatiran serius terkait keamanan dan privasi data.",
+        "Fenomena ini menunjukkan bahwa ekosistem AI mulai dipengaruhi oleh aktor-aktor anonim yang memiliki modal besar."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Akankah Bencana AI Skala Besar Mampu Menyadarkan Manusia untuk Melindungi Diri?",
+      "original_title": "Would even an AI disaster on the scale of Hiroshima be enough to make humankind protect itself? I fear not",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTktrb2J6bVdqbkVmeGVmekZ3YVktRE52WWpQWnF4ZG14akx5VWtXbm42d0JBb1FnWnE3V2I5Wkc4RXcxRnExVlZmZlM0X2Z6NTZCMUVHSG9DQUFkOEZWV1p4dy05OW9sX2VkWXQ5Vm1JVHY1VXBLYlhPY09hd2g2U0hmWXM0ME5CLTY1aHF5VHRFanUwQUpLUkdMV19hUDgzcXdidDRkd2R5a3NlOWpSRQ?oc=5",
+      "source": "The Guardian",
+      "published_date": "2026-08-22",
+      "summary": "Artikel opini yang mendalam ini mengeksplorasi potensi ancaman eksistensial dari kecerdasan buatan dan membandingkannya dengan sejarah senjata nuklir. Penulis meragukan apakah bencana AI berskala besar sekalipun akan cukup untuk mendorong regulasi global yang efektif dan kohesif demi keselamatan manusia. Ini menjadi seruan moral bagi para pemimpin dunia untuk bertindak secara preventif sebelum krisis tak terkendali terjadi.",
+      "takeaways": [
+        "Potensi risiko bencana dari AI yang tidak terkendali sering kali dikesampingkan demi keuntungan ekonomi jangka pendek.",
+        "Sejarah menunjukkan regulasi global yang efektif sering kali terlambat dan baru muncul setelah tragedi besar terjadi.",
+        "Kolaborasi internasional yang mengikat secara hukum diperlukan segera untuk mengendalikan pengembangan AI ekstrem."
+      ],
+      "category": "Sains & Teknologi"
+    },
+    {
+      "title": "Perang Dingin AI: AS Habiskan Miliaran Dolar, China Tempuh Jalur Lebih Hemat untuk Menang",
+      "original_title": "The Artificial Intelligence Arms Race: America Is Spending Billions, But China May Have Found a Cheaper Way to Win",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcWNKRXp4R0RlaWY4RWJIRnlLWVRuN0R2dnp1OV9xZ29NbVVDOEtKSmgxMHJLbkkxUDc0WnZIYkhjZHVFd2RGcFB3dFVGcUd4RERSV1RVM3dIWFluVERzN1VxQ1hpUXNnbjhrdHpQYnFWQ3JaNWlJMm0xUktsTXFJTA?oc=5",
+      "source": "Substack",
+      "published_date": "2026-08-22",
+      "summary": "Artikel ini menganalisis perlombaan senjata AI antara Amerika Serikat dan China, di mana AS menginvestasikan dana fantastis untuk infrastruktur fisik. Di sisi lain, China berfokus pada optimalisasi algoritma dan pemanfaatan perangkat keras secara lebih efisien demi menekan biaya. Strategi cerdas China ini berpotensi mengubah peta kekuatan teknologi global secara signifikan tanpa perlu menyamai anggaran belanja AS.",
+      "takeaways": [
+        "AS berfokus pada ekspansi kapasitas komputasi berbiaya tinggi untuk mendominasi pengembangan AI global.",
+        "China memilih efisiensi perangkat lunak dan arsitektur model alternatif untuk mengatasi keterbatasan dana dan chip.",
+        "Hasil dari perlombaan ini akan menentukan standar ekosistem teknologi dunia di masa depan."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Ilmuwan Israel Gunakan AI untuk Membuat Tes Kepribadian dan Memprediksi Respons Manusia",
+      "original_title": "Israeli scientists: AI can make personality tests, predict responses",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBsc3U3ZHNHRE1Wa0JrbkQ2Wjc2U2tkRDNSdHNuNlNHSnd0dk9JbU14OEVrUC1WOTZITWlZLW42ZnI3VFpiMDBMeUZJNDFtR2ZTMzcySkdlOA?oc=5",
+      "source": "The Jerusalem Post",
+      "published_date": "2026-08-22",
+      "summary": "Para ilmuwan di Israel berhasil mengembangkan sistem kecerdasan buatan yang mampu merancang tes kepribadian yang dipersonalisasi serta memprediksi respons psikologis manusia dengan akurasi tinggi. Terobosan ini memanfaatkan analisis data perilaku dan pola bahasa pengguna untuk mendeteksi profil psikologis secara cepat. Teknologi ini memiliki implikasi besar bagi rekrutmen kerja, psikologi klinis, hingga strategi pemasaran digital.",
+      "takeaways": [
+        "Teknologi AI kini mampu memahami serta memprediksi aspek psikologis kompleks dari perilaku manusia.",
+        "Penerapan sistem ini mempercepat proses evaluasi kepribadian dalam asesmen profesional dan medis.",
+        "Penggunaan teknologi ini memerlukan batasan etika yang jelas untuk menghindari manipulasi psikologis massal."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Pemanfaatan AI untuk Klasifikasi Hematogon Jinak dan Leukemia Limfoblastik Akut pada Sampel Darah",
+      "original_title": "Classification of Benign Hematogones and B-cell Acute Lymphoblastic Leukemia in Peripheral Blood Smear Images Using Artificial Intelligence",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPbzU1TFcyNjJUTW5GNzBTQlFMaDlsTl9vZkdNTTVWc0dXQ1lMbUhkZGpoenl4M2xWa095b0xXUjBpYUlFUlpaY1FfSGFacVUtRWIweDBzeTUwYUtjU1NLZ01CUlVtaVgxZldWUGY0VVlubk5WeDYteXlrejdYczkwT3FDUnBNcGlGSnQ1SVF0TVYzQXZOYm83cWZEMUtabzRqMnlQNTVIUGIwTWM4bUlBSjNfNHlMV2ZQTDV6Qno0ay1wMW5vNXJtZzcyckNiYXRXMldaM1p1azQ5Q2lwaGwxbmVqX3RpLU5ob2pmN2RDMXdYYlZCT3pJU2F5cUlwUWl2TWVNdHEyVVdZUQ?oc=5",
+      "source": "Cureus",
+      "published_date": "2026-08-22",
+      "summary": "Sebuah penelitian medis berhasil menerapkan AI untuk membedakan antara hematogon jinak dan sel leukemia limfoblastik akut B-cell melalui analisis gambar apusan darah tepi. Metode diagnostik ini menawarkan kecepatan tinggi dan meminimalkan kesalahan diagnosis manusia pada kasus kanker darah anak-anak yang kritis. Penemuan ini memperkuat peran bioteknologi komputer dalam kedokteran presisi modern.",
+      "takeaways": [
+        "Sistem AI mampu membedakan sel darah jinak dan sel kanker leukemia dengan tingkat akurasi diagnostik yang tinggi.",
+        "Penggunaan teknologi analisis citra ini mempercepat penentuan terapi pengobatan yang krusial bagi pasien leukemia.",
+        "Terobosan ini memperkokoh kolaborasi antara bioinformatika medis dan perawatan kanker berbasis komputer."
+      ],
+      "category": "Genom & Biotek"
     },
     {
       "title": "Ketika Regulasi Medis Menghambat Inovasi: Tantangan AI Menembus Birokrasi FDA",
@@ -2967,118 +3107,6 @@
         "Buku panduan resmi dirilis untuk memberikan arahan jelas mengenai penggunaan AI generatif di lingkungan kerja diplomatik.",
         "Kebijakan ini memfokuskan pada aspek perlindungan data sensitif, transparansi, dan tanggung jawab etika dalam pemanfaatan teknologi.",
         "Inisiatif ini menjadi bukti keseriusan institusi pemerintahan dalam mengadopsi AI secara terstruktur demi meningkatkan efisiensi kerja."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Pendekatan Mekanika Kuantum pada AI Janjikan Hasil Pengobatan Kanker yang Lebih Baik",
-      "original_title": "A quantum mechanics approach to artificial intelligence can improve cancer outcomes",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNXlpVHl1SnNzWFJkTFBtY3laYmFkekJxZ0NNYzQ4VlJ3MXVFLW5DeUhtU1RYQ2lUXzMzMzdzb3d6eW1sajkxUkQ2TzFNM2RhQzFvUDh4Q1NlU3FJQVFOWXRmUnBOMkdnTnJuSEtIeTVUaDNOaTJaMnBHcGJPWl9UdlBXNzVJdkZQSUxFSFdiQnJYZHktbmFYLU9YTnVDR0Q0bEVXdllocFRNRVNRVFg3c2RmRWhySm9pZEdqbGZhcw?oc=5",
-      "source": "Technology Org",
-      "published_date": "2026-07-23",
-      "summary": "Integrasi prinsip mekanika kuantum ke dalam algoritma kecerdasan buatan (AI) kini dikembangkan untuk memprediksi efektivitas pengobatan kanker pada pasien secara lebih akurat. Metode hibrida ini mampu memproses data biologis kompleks yang tidak dapat ditangani oleh komputer klasik konvensional. Diharapkan inovasi ini dapat mengoptimalkan rencana terapi onkologi yang disesuaikan secara personal untuk setiap pasien.",
-      "takeaways": [
-        "Kombinasi mekanika kuantum dan AI meningkatkan akurasi pemodelan interaksi obat di tingkat molekuler.",
-        "Teknologi ini membantu dokter onkologi memprediksi respons pasien terhadap terapi kanker tertentu secara real-time.",
-        "Pendekatan ini berpotensi memangkas waktu uji coba klinis obat kanker baru secara signifikan."
-      ],
-      "category": "Sains & Teknologi"
-    },
-    {
-      "title": "Kecerdasan Buatan Tidak Akan Menggantikan Radiolog, Namun Mengubah Total Lanskap Pekerjaan Mereka",
-      "original_title": "AI won’t replace radiologists, but will dramatically change their jobs",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM3FwZjZ3YmdwQ0VTNlF1eTc5TE95WC1CU3VrSEpJM0FKdUdRQzAzN09PX2UtNkJLRWZ0Z3dBVWJnZy1ndGU0VFZ2OEw3eGNQTW1UVS11YU5XSndEeGJRNDZWem5vVWYyMTBGUmhLV0xUM3FvbEZ5NV9RMW9oLU5UbjlsVTkxYU1Ia19wM2NDa0FwZjN2bnhYVDQ5c2laenl0Rm5aN3FpTG1nd0ptUTZ2d3JOV2F5RUVMNUJfeQ?oc=5",
-      "source": "Knowable Magazine",
-      "published_date": "2026-07-23",
-      "summary": "Sebuah analisis terbaru mengungkapkan bahwa kecerdasan buatan (AI) tidak akan menyingkirkan peran dokter spesialis radiologi, melainkan merevolusi cara kerja mereka. AI akan bertindak sebagai asisten cerdas yang menyaring dan mendeteksi anomali pada pemindaian medis dengan kecepatan tinggi, memungkinkan radiolog fokus pada diagnosis kompleks. Kolaborasi ini diprediksi meningkatkan akurasi hasil diagnosis medis sekaligus mengurangi kelelahan kerja tenaga medis.",
-      "takeaways": [
-        "AI mengambil alih tugas repetitif seperti deteksi awal lesi pada pemindaian X-ray dan MRI.",
-        "Keberadaan AI memotong waktu tunggu hasil diagnosis bagi pasien secara signifikan.",
-        "Kurikulum kedokteran masa depan perlu diadaptasi agar mencakup literasi teknologi medis berbasis AI."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Senator AS Mark Warner Perkenalkan Kerangka Undang-Undang AI untuk Keamanan dan Perlindungan Tenaga Kerja",
-      "original_title": "Warner unveils sweeping AI legislative framework focused on safety, data centers, workforce protections",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNT3dMSktQWGE3NFBFTXVQM2pyVThERi1tTzN3aGh0bUVwMjRNSmIzdGZIOVk3SV9PNGcyNEJSMG95YUdJTlpZNGhPc2VWQVlRTmtqcllPYlE3WWg4d2RNUkNPeWpXcHpwV21pY2FOQVFSOTJLZFlrUHk2emFWcF92RlpTU3lVemt1eXhXdGdmZnBPRTV6Z1E5NTBBeTJ5Q0c3ZlN5cjZPbUp4X0pkZkU5UVl0UkhHTjBWb2xCbGdDc18xLWpfbzJ0Ymh5al9NYXNKbXRMUFBQMXVSNnNWUkVqQnJjY01fLUNDZndCQk84dEhEajhyMjh0YzdRSmJGMnRMTFNGNmcxY1RCUQ?oc=5",
-      "source": "13newsnow.com",
-      "published_date": "2026-07-23",
-      "summary": "Senator Mark Warner memperkenalkan kerangka legislatif AI komprehensif yang berfokus pada peningkatan keamanan siber, pengaturan pusat data, dan perlindungan bagi pekerja. Langkah ini diambil di tengah kekhawatiran global atas pesatnya perkembangan kecerdasan buatan dan dampaknya terhadap infrastruktur energi serta stabilitas pasar kerja.",
-      "takeaways": [
-        "Kerangka kerja ini menargetkan regulasi ketat pada operasional pusat data AI yang haus energi.",
-        "Fokus utama mencakup perlindungan hak-hak pekerja dari ancaman otomatisasi massal.",
-        "UU ini bertujuan memperkuat standar keamanan siber nasional untuk mencegah penyalahgunaan AI."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Trump Izinkan Penggunaan AI untuk Pemetaan Rantai Pasok Pertahanan AS",
-      "original_title": "Trump authorizes use of AI for defense supply chain mapping",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNU9jcnZNcm5BeHJVMVoxT2R1c29DMG9GTjRlVWxrNWxBU0tVd2dFa2YwZlU1LURfeHhvRlE4emJRMG1EUjM1NHkyY2liWUhTOWdCSXZzaF8tQ043dnoyMzF1U19HMzctbjZEdUM4dnJjU2VmOGYxUm1XcWhkRmxfM1RXUHBsOU1xb2c?oc=5",
-      "source": "DefenseScoop",
-      "published_date": "2026-07-23",
-      "summary": "Donald Trump telah memberikan otorisasi resmi bagi penggunaan teknologi kecerdasan buatan guna memetakan dan memperkuat rantai pasok sektor pertahanan Amerika Serikat. Kebijakan ini diharapkan mampu mendeteksi kerentanan pasokan secara real-time demi menghadapi ancaman geopolitik global.",
-      "takeaways": [
-        "Teknologi AI kini digunakan secara resmi untuk memperkuat sistem pertahanan nasional AS.",
-        "Sistem baru ini akan memetakan kerentanan rantai pasok militer guna mencegah hambatan logistik.",
-        "Langkah ini mencerminkan integrasi AI yang semakin dalam pada ranah keamanan dan strategi geopolitik."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Era Baru Soft Power: China Susun Ulang Strategi Pengaruh Global Melalui Teknologi AI",
-      "original_title": "China Rewrites the ‘Soft Power’ Playbook for the A.I. Age",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1xSy1fQ0dfZkpLbjdTRThYMklVNlFrU2NRYVVET2RpMU81MTc4dDZQTlVMd2hWT0J0VW5Nb1lreHhnTWJlcHpQVzlTOFlqMzNBVGhXaU5PdkkyWUl3UmdmTkZzclB6aE1XT3VGRm15SUd6ai1LOUMw?oc=5",
-      "source": "The New York Times",
-      "published_date": "2026-07-23",
-      "summary": "China dilaporkan tengah merancang ulang strategi diplomasi budaya dan pengaruh globalnya dengan memanfaatkan keunggulan teknologi kecerdasan buatan. Langkah strategis ini memperlihatkan bagaimana AI kini beralih fungsi dari sekadar alat ekonomi menjadi instrumen geopolitik yang sangat berpengaruh.",
-      "takeaways": [
-        "China memanfaatkan AI untuk menyebarkan pengaruh budaya dan diplomatik di panggung dunia.",
-        "Strategi soft power ini menandai pergeseran kekuatan geopolitik ke ranah teknologi digital.",
-        "Negara-negara Barat kini bersaing ketat untuk merespons dominasi narasi digital dari Beijing."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Benarkah Model AI Menjadi Liar? OpenAI Klarifikasi Penyebab Serangan Peretasan Terbaru",
-      "original_title": "OpenAI blamed a hacking event on its AI models going rogue. Here's what to know",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdmtXVWZDNVhWc0xxT0EtS0N3TlM0NUM0MWVVZ0gtUzFFODVfTVBrUlF4el9MRENLMVJmUHpzMnZLUHRXRDRDanNwSDlldHZKUTl0XzhxWEpFZmFkWjUzTF9lUXJwcEY2LUttc3lBMEZXMkhUTTgxQzlJM0JuMEE3T3hQdmNmb0JVVEtQQWg5OGhsX0FadC03Ny1CTDhMWFBFNzVqVUEzTTZYNFFXQng5U0JtYUbSAboBQVVfeXFMUGVYSXZOUm5QM2g0VXh6b3BsZ2VDTFYtUkRTeldBQUZVZzliLW4zbzF1X3Q2ajFGZDZGblJYaXRmTjNCWE9GUEpzZ2lIQ2V5a09zczBiZm9DUHFUeF9WZGdwSURFVkVQWWxwXzIwUXNCVzl6THJta0M1d29uQzNyNDJSeWZTZnhxUXRIUWxmTlVpYm5PTnU2NDlzNkhZMm92VEF5Q1Yzb3FDM040c215a2Q2Q2FtajM4Tl9B?oc=5",
-      "source": "PBS",
-      "published_date": "2026-07-23",
-      "summary": "OpenAI mengaitkan sebuah insiden peretasan dengan perilaku model kecerdasan buatannya yang dianggap bertindak di luar kendali atau 'rogue'. Kabar ini memicu perdebatan luas di kalangan ahli mengenai keamanan sistem otonom dan batas kendali manusia terhadap algoritma canggih.",
-      "takeaways": [
-        "Insiden ini menyoroti risiko nyata dari perilaku model AI yang tidak terduga terhadap keamanan siber.",
-        "Para ahli mendesak adanya transparansi yang lebih besar mengenai audit internal sistem AI OpenAI.",
-        "Kejadian ini memperkuat urgensi regulasi keamanan global yang lebih ketat terhadap rilis model AI."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Masa Depan Infrastruktur AI: Industri Mulai Beralih dari Ketergantungan pada GPU",
-      "original_title": "Artificial intelligence: Moving beyond the GPU",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQWJzWnNFY1c0d3lpNE9ObGtmYjlwWFFoUU9wVHRwTWhMR1pQZThFbXVYT25yVGl2TjRrQTRmWDNHemJ3anNUWFRHREdncGR1eE5rVnhkbnZiaUVWYmk3MGVxekNrNTNlaDJsWDBGUlhKakxRWUZZaEdVTGo0aGxJcdotNF9LckMzQ203bGJDOWlKNnFMVFNJSGxZb01zSGx1RTFzWEpn?oc=5",
-      "source": "SiliconANGLE",
-      "published_date": "2026-07-23",
-      "summary": "Sektor teknologi kini mulai mencari arsitektur cip alternatif di luar GPU tradisional demi memenuhi kebutuhan komputasi kecerdasan buatan yang kian kompleks. Langkah ini krusial untuk mengatasi hambatan rantai pasokan perangkat keras serta meningkatkan efisiensi energi komputasi global.",
-      "takeaways": [
-        "Permintaan AI yang meledak mendorong kebutuhan akan cip baru di luar dominasi GPU.",
-        "Arsitektur baru dirancang khusus untuk meningkatkan efisiensi energi dan kecepatan pemrosesan data.",
-        "Transisi ini berpotensi merombak dominasi pasar semikonduktor global dalam beberapa tahun ke depan."
-      ],
-      "category": "Sains & Teknologi"
-    },
-    {
-      "title": "HOPPR Rilis Model AI Baru untuk Mempercepat Analisis Pemindaian CT Dada",
-      "original_title": "HOPPR Introduces New AI Model for Chest CT Exams",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUU8tWk5ZVHgxMGtuVUFMSmRQWkF3SGF1YUJGOU9LQzE2Vno0WHdvZG5Zel9wSE5vX3djTWFlZTVsRE1jRkRUZ0wzaVZlZ2I4MktkMGtiLURxd1lFLW1zNFdZWlhoZEc0WEVqaVRsMjFxenNnbmV1MUpQeUpuSlVDMDkzMllaOTV3?oc=5",
-      "source": "dicardiology.com",
-      "published_date": "2026-07-23",
-      "summary": "Perusahaan teknologi medis HOPPR telah meluncurkan model kecerdasan buatan baru yang dirancang khusus untuk mempermudah dan mempercepat pembacaan hasil pemindaian CT dada pasien. Inovasi ini diharapkan mampu meningkatkan akurasi diagnosis dokter dalam mendeteksi penyakit paru-paru dan kardiovaskular secara dini.",
-      "takeaways": [
-        "Model AI khusus dari HOPPR mampu mengidentifikasi anomali medis pada area dada dengan presisi tinggi.",
-        "Teknologi ini membantu mengurangi beban kerja radiolog dan mempercepat waktu penanganan pasien kritis.",
-        "Inovasi ini menandai langkah maju integrasi AI dalam dunia diagnosis medis yang semakin andal."
       ],
       "category": "Artificial Intelligence"
     }
