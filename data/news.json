@@ -1,20 +1,48 @@
 {
-  "last_updated": "2026-08-29T06:20:53.771059+00:00",
-  "total_articles": 228,
+  "last_updated": "2026-08-30T04:30:01.833870+00:00",
+  "total_articles": 233,
   "articles": [
     {
-      "title": "Era AI yang Penuh Gejolak Telah Tiba: Mengapa Keputusan Kita Saat Ini Sangat Krusial",
+      "title": "Era Kecerdasan Buatan yang Penuh Gejolak Telah Tiba: Mengapa Pilihan Kita Saat Ini Sangat Krusial",
       "original_title": "The turbulent AI era is here. The choices we make now are critical.",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
       "source": "gatesnotes.com",
-      "published_date": "2026-08-29",
-      "summary": "Bill Gates menyoroti transisi cepat menuju era kecerdasan buatan (AI) yang membawa tantangan sekaligus peluang besar bagi kemanusiaan. Ia menekankan bahwa kebijakan dan keputusan etis yang diambil hari ini akan menentukan apakah AI menjadi kekuatan yang memberdayakan atau justru memperlebar kesenjangan sosial. Tulisan ini mendesak para pemimpin global untuk bertindak cepat dalam merumuskan regulasi yang tepat.",
+      "published_date": "2026-08-30",
+      "summary": "Bill Gates menyoroti transisi cepat menuju era AI yang penuh disrupsi dan ketidakpastian. Ia menekankan pentingnya keputusan kebijakan dan etika yang diambil saat ini untuk memastikan teknologi ini membawa manfaat bagi seluruh umat manusia. Langkah antisipatif sangat mendesak demi memitigasi dampak negatifnya di masa depan.",
       "takeaways": [
-        "Transisi menuju era AI sedang berlangsung dengan kecepatan tinggi dan membawa perubahan geopolitik serta sosial.",
-        "Keputusan regulasi dan etika saat ini akan berdampak jangka panjang bagi masa depan pemanfaatan AI.",
-        "Kolaborasi global diperlukan untuk memastikan AI digunakan demi kemaslahatan bersama dan meminimalkan risiko."
+        "Transisi ke era AI memerlukan regulasi yang cepat dan adaptif dari para pemimpin global.",
+        "Fokus utama pengembangan AI harus diarahkan untuk mengurangi ketimpangan sosial dan ekonomi.",
+        "Kolaborasi multisektoral sangat penting untuk menghadapi tantangan etika dan keamanan teknologi ini."
       ],
       "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Agentic AI Mulai Merevolusi Analisis Data: Mengapa Kemampuan Manusiawi Ini Tetap Tak Tergantikan",
+      "original_title": "Agentic AI Is Rewriting The Analytics Stack But There's One Skill It Still Can't Touch",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNmVVekRVWXQxZFpvdkszV0FMZGNsb3RkYjk0b2NWWW9pRXRsUW1jSXAxR1BWUlpqaTlzaWdNRjBDc1VWdm5yYUNydTF1NWxLRFRVclBiaWxYX01kY2hhX3pXMlVkQmRpZXVwNjBxR0lTTXlTSmZOc0NMVW1CaG5jcmM1WUZNWGhlQkN5dUhGNjJkMmNxY0Q5TzhPdjkyRENuWFpzOS1zR3hvNjRVcTYtY1ZWLWRxZHM?oc=5",
+      "source": "Towards Data Science",
+      "published_date": "2026-08-30",
+      "summary": "Perkembangan Agentic AI kini mampu mendefinisikan ulang cara kerja analisis data dengan mengambil tindakan mandiri dan otomatis. Kendati demikian, intuisi mendalam serta pemahaman kontekstual manusia tetap menjadi benteng yang belum bisa ditembus oleh AI. Kolaborasi antara agen cerdas dan keahlian manusia menjadi masa depan industri analisis data.",
+      "takeaways": [
+        "Agentic AI melangkah lebih jauh dari sekadar memberikan jawaban dengan mampu mengeksekusi tugas analitis secara otonom.",
+        "Kemampuan penalaran kontekstual dan empati manusia tetap menjadi aspek krusial dalam pengambilan keputusan strategis.",
+        "Arsitektur data modern perlu dirancang untuk mendukung integrasi mulus antara agen kecerdasan buatan dan pengguna manusia."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Investasi Masif Kecerdasan Buatan: Setara Proyek Manhattan Skala Global",
+      "original_title": "Immersed in artificial intelligence: \"We have 10 Manhattan projects\"",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcmdDUDlpOGp6OENDdDJYcVlrTEUtdlBPdXJ5R3JSX0pvdnBFYWJpZjVpdWFycDBpd0kySEVidHBmem1YcnZWRnR6aWZ2V2k2allxTGZIMFFuRFE3UlB5d0dJS2g2NHdNYW41VUk4MDhGUElESUxUd3l5aDY4YzRPaTV6SDhIcjJsMlU2LVpzVGZuVXRwMnd6eTJYYWVDcnV2Y2M3Y09taVVnb0nSAbABQVVfeXFMTlEtRlVYeW5vakFQdnphQTRnVEtIcGdGMjZhY2J2aVN2T1hoVGN3OGwyc2Y4ZWxTcWJzSGdWQmoxUGR1OXo4UnZac1l0aUNnMXJzRldRMXdjNzNYbW5iakNfeS1RTncxeV9ldS1lOHoyT1IyeUtJZV9IdU9NdjhBbjJQdWZ0MUZLSkNqSnd0ZWx3anJLQjZMRjNRMDFGeFlaODZfclBHZnNCdjZRZ1J6Z3g?oc=5",
+      "source": "Diari ARA",
+      "published_date": "2026-08-30",
+      "summary": "Artikel ini menyoroti ambisi raksasa teknologi yang menggelontorkan dana luar biasa untuk pengembangan infrastruktur kecerdasan buatan. Skala riset dan pembangunan pusat data saat ini dinilai menyamai upaya perang sains historis seperti Proyek Manhattan. Perebutan dominasi AI ini diprediksi akan mengubah peta geopolitik teknologi global secara dramatis.",
+      "takeaways": [
+        "Skala investasi infrastruktur AI global saat ini mencapai tingkat historis yang belum pernah terjadi sebelumnya.",
+        "Konsumsi energi dan kebutuhan komputasi menjadi tantangan logistik terbesar dalam realisasi 'super-proyek' ini.",
+        "Dominasi teknologi ini kini dipandang sebagai isu ketahanan nasional yang setara dengan persenjataan strategis."
+      ],
+      "category": "Sains & Teknologi"
     },
     {
       "title": "Riset Temukan Lonjakan Tajam Kasus AI yang Lepas dari Kendali Pengguna",
@@ -69,6 +97,104 @@
         "UEA secara agresif menginvestasikan kekayaan negaranya untuk membangun ekosistem kecerdasan buatan bertaraf internasional.",
         "Investasi AI diposisikan sebagai pilar utama transformasi ekonomi jangka panjang di wilayah Teluk.",
         "Kemitraan teknologi UEA dengan perusahaan global memicu dinamika geopolitik baru dalam hal pengawasan ekspor teknologi."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Sinergi AGI dan Medis: Menyingkap Kompleksitas Kecerdasan Buatan Umum dalam Menyembuhkan Penyakit",
+      "original_title": "The Intricacies Of Artificial General Intelligence And Curing Disease",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPel9nM1ZrTGhmbjZ6RFFTUG5jd3ZfZEdRVEZ3RDBOYUphLTU0bThMb2Y3YUg4WmQ2M3N0Y1JzSWpUazJETlZEZlhTTzRwVmNEbTZyWWdPbEdURTljSnZZV1lJakRlOE9tNDQzMmpnR2R0cHB5NFB4emh5cVBmd191QW5KRlp4RDk1dWttV21RdzUzTUViOUktR29xOV95azF2c0JuV2VoVms4X0RGN2U1U1hjMklnSkVLQ0E?oc=5",
+      "source": "Forbes",
+      "published_date": "2026-08-29",
+      "summary": "Artikel ini mengeksplorasi potensi besar Artificial General Intelligence (AGI) dalam memahami penyakit manusia yang sangat kompleks secara holistik. Dengan kemampuan pemrosesan informasi tingkat lanjut, AGI diharapkan mampu menemukan obat baru dan merevolusi terapi medis modern. Keberhasilan ini akan membawa lompatan besar dalam dunia kesehatan dan bioteknologi.",
+      "takeaways": [
+        "AGI berpotensi memetakan pola biologis yang terlalu kompleks untuk dianalisis oleh kecerdasan manusia biasa.",
+        "Integrasi AGI dalam penelitian medis dapat memangkas waktu penemuan obat dari hitungan dekade menjadi hitungan bulan.",
+        "Tantangan terbesar terletak pada ketersediaan data kesehatan berkualitas tinggi dan tepercaya untuk melatih model AGI."
+      ],
+      "category": "Genom & Biotek"
+    },
+    {
+      "title": "Model AI Generasi Baru Raih Performa Lebih Cepat dari Waktu Nyata",
+      "original_title": "New AI Models Achieve Faster Than Real-Time Performance",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNN09pMi13WHRTaXJzQUMxYXl2M3F0Z1NhUG1XZEhHUDc4eXVxQTRQRlVlZFdaRERaejY2TDZYZ0U0b1pIYmYtVWZ5OUo0NThyMldfRV9US2RpN09Bbzk0eWdoWlA3bE8xaW5IYVB1dU1oY1Jzd0xBYWNBX3RhajdpdjI2dlg3N2xXNEJLZWRQVGpOb2ZWTXlKVVphSHQ4cXVQN3VnUmNrMVdPWWM2emVXLXJfZ1JsSVAyV2c?oc=5",
+      "source": "StartupHub.ai",
+      "published_date": "2026-08-29",
+      "summary": "Model kecerdasan buatan terbaru berhasil mencapai kecepatan pemrosesan yang melampaui metrik waktu nyata (real-time). Terobosan arsitektur komputasi ini membuka peluang baru untuk aplikasi kritis yang menuntut respons instan tanpa jeda. Teknologi ini akan memicu gelombang inovasi baru di berbagai sektor, termasuk otomotif dan robotika.",
+      "takeaways": [
+        "Performa 'faster than real-time' dicapai melalui optimalisasi efisiensi model dan arsitektur perangkat keras terkini.",
+        "Kemajuan ini sangat penting untuk operasional sistem otonom seperti mobil tanpa pengemudi dan drone taktis.",
+        "Penurunan latensi ekstrem ini sekaligus mengurangi konsumsi energi per proses komputasi AI."
+      ],
+      "category": "Sains & Teknologi"
+    },
+    {
+      "title": "Menavigasi Fragmentasi Regulasi dalam Konvergensi Biologi Sintetis, AI, dan Otomatisasi",
+      "original_title": "Navigating regulatory fragmentation in the convergence of synthetic biology, artificial intelligence, and automation",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBFNl8xYUNzQTdyV19YX0gxem45ZWZCdnl0QmhDQ3RKMkx5UWxuWl85TjNMcUZzeFgteGFtc1RLbUREUWlwcFRvem4zLVFkRF9Ra0dmb0Naa0c1QkdaN1g4?oc=5",
+      "source": "Nature",
+      "published_date": "2026-08-29",
+      "summary": "Jurnal Nature membahas tantangan hukum akibat bertemunya teknologi biologi sintetis, kecerdasan buatan, dan otomatisasi laboratorium. Kurangnya koordinasi antarlebaga pengawas menciptakan celah hukum dan hambatan bagi inovasi bioteknologi yang aman. Penyelarasan standar internasional menjadi kunci utama untuk memitigasi risiko keamanan hayati.",
+      "takeaways": [
+        "Konvergensi AI dan biologi sintetis mempercepat inovasi, namun memicu risiko biosekuriti baru yang belum diatur secara memadai.",
+        "Kerangka regulasi saat ini terlalu terfragmentasi dan lambat mengantisipasi perkembangan teknologi lintas disiplin.",
+        "Diperlukan standar kepatuhan global yang dinamis untuk memastikan keamanan penelitian genetika berbasis AI."
+      ],
+      "category": "Genom & Biotek"
+    },
+    {
+      "title": "Tantangan Regulasi Agentic AI: Mengawasi Sistem Cerdas Berkemampuan Otonom",
+      "original_title": "Regulating Agentic Artificial Intelligence",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaVBPZVdfcW1VS0NVSDJPRmY5cXhnUnNqX0tzbk5uajRaSUVVRVlqajhfbl9EbjZSTks2Zm1xanVfZjczeWdKZnlxNlF5RlRzektYdk01LTdJZmQ1Uk1fYmJUYXNTTlBZclJPRElER0tBNmk2clc5UXNqVjlTQmlDZkpEWktxNDBPNzN1SXk4MTVoMEwxOGc?oc=5",
+      "source": "The Regulatory Review",
+      "published_date": "2026-08-29",
+      "summary": "Seiring berkembangnya AI agen yang mampu beroperasi dan mengambil keputusan tanpa intervensi langsung, tantangan regulasi hukum pun bergeser. Para ahli mendesak perlunya kerangka hukum baru yang berfokus pada akuntabilitas tindakan otonom tersebut. Regulasi yang tepat penting untuk menghindari kekacauan hukum akibat kegagalan sistem pintar ini.",
+      "takeaways": [
+        "Agentic AI membutuhkan paradigma hukum baru karena sistem ini tidak sekadar memproses data, melainkan mengambil tindakan otonom.",
+        "Menetapkan tanggung jawab hukum atas kerugian yang disebabkan oleh keputusan otonom AI masih menjadi wilayah abu-abu.",
+        "Pendekatan regulasi harus adaptif agar tidak mematikan inovasi fungsional dari teknologi agen pintar ini."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Bagaimana Kecerdasan Buatan Akan Membentuk Masa Depan Tenaga Medis Klinis",
+      "original_title": "How Will AI Impact the Future of the Clinical Workforce?",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRmlJdXJiM1BDMk9KNk1PWVlXVmVaUG1QcnB2YzZuR1FyeUlxaW51WHNUeEYta25VaHBlMTNxY3YySkxkRVFzY0ZCRjF3eDRLNHJQUHI0TGpZS2dRVUUzQ1VJWC1GSmg0OFllSGlSSVFGQ3dUVDdLbEMxbHZReFJaYi1WWjFqN2k5ZFZSTzBacjRQWGVxQWZTRXphX0N3eWJ2?oc=5",
+      "source": "WCM Newsroom",
+      "published_date": "2026-08-29",
+      "summary": "Integrasi AI di sektor klinis diproyeksikan akan meringankan beban administratif para dokter dan perawat secara signifikan. Melalui otomasi dokumentasi dan analisis diagnostik awal, tenaga medis dapat lebih berfokus pada perawatan pasien langsung. Kendati begitu, pelatihan ulang keterampilan digital menjadi syarat mutlak keberhasilan transisi ini.",
+      "takeaways": [
+        "AI berfungsi sebagai asisten cerdas untuk mengoptimalkan alur kerja klinis dan mengurangi kejenuhan (burnout) tenaga medis.",
+        "Pengambilan keputusan klinis tetap membutuhkan pengawasan ketat manusia untuk menghindari bias algoritma.",
+        "Kurikulum pendidikan kedokteran harus segera mengintegrasikan literasi AI untuk mempersiapkan generasi dokter masa depan."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Atasi Krisis Kesehatan Mental: MUSC Kembangkan Sistem AI untuk Deteksi Dini Risiko Bunuh Diri Remaja",
+      "original_title": "MUSC receives grant to develop AI system for youth suicide prevention",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOWp2ckV2QlJQemxRVWFFVmY1RWh6djhOdEdVdmY2RVJvakFwMTFFb1ZrZVVGWlAxa3R1X1hUamdMY3FFUWZCQWZmemFfclpjZjR0c0JfdXhJME1teDROeG1iZm9fbk1jeXlPU2hGVVVoUkt5azU3TUlaNjBBbHdwYUthZmNrbHpmeUxwTFNmcVgwUzZJM1BlYWk4dkhydWRzcVE?oc=5",
+      "source": "Live 5 News",
+      "published_date": "2026-08-29",
+      "summary": "Universitas Kedokteran Carolina Selatan (MUSC) memperoleh dana hibah besar untuk merancang teknologi kecerdasan buatan pelindung jiwa. Sistem AI ini difokuskan pada pemindaian prediktif guna mengidentifikasi tanda-tanda depresi ekstrem dan potensi bunuh diri pada anak muda. Inisiatif kemanusiaan ini menunjukkan sisi lain AI sebagai alat penyelamat dalam kesehatan masyarakat.",
+      "takeaways": [
+        "Sistem AI yang dikembangkan bertujuan mendeteksi sinyal distress mental secara jauh lebih cepat daripada metode skrining konvensional.",
+        "Privasi data pasien muda tetap menjadi perhatian etis utama yang wajib dijaga dengan standar keamanan super ketat.",
+        "Teknoogi ini diposisikan sebagai alat bantu bagi konselor manusia, bukan pengganti intervensi klinis tatap muka."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "OpenAI Dukung Penguatan Undang-Undang Keamanan AI Baru di California",
+      "original_title": "OpenAI wants California to strengthen its newly passed AI safety law",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNU3kwUUdkQkoxeHZQajktMlZTSVpxMWhqMjFLUXowNEMzV2gyLXBHR3ViWkI2MGxwX3RlUVE4TjF3RlA1dFJFUFU3bUN3alRvWmF4bjFpQ1YtQlZwT2JtcFV1a3VXY29Ya3hYNWM3eTlFMUVOUjhScVZWS1V2U2RHU3lCT0l2TW8?oc=5",
+      "source": "Mashable",
+      "published_date": "2026-08-29",
+      "summary": "OpenAI mendesak pemerintah bagian California untuk memperketat undang-undang keselamatan AI yang baru saja disahkan demi standardisasi industri. Langkah ini bertujuan untuk menciptakan batas etis yang jelas bagi para pengembang teknologi mutakhir tanpa menghambat laju inovasi. Regulasi yang kuat dinilai penting guna menjaga kepercayaan publik terhadap sistem otonom.",
+      "takeaways": [
+        "OpenAI berupaya aktif dalam merumuskan standar kepatuhan hukum demi memitigasi penyalahgunaan teknologi AI skala besar.",
+        "Undang-undang keamanan AI yang kokoh di California kemungkinan akan menjadi cetak biru regulasi nasional AS.",
+        "Keseimbangan antara pembatasan ketat keselamatan dan kebebasan berinovasi masih menjadi perdebatan hangat di Silicon Valley."
       ],
       "category": "Artificial Intelligence"
     },
@@ -3137,62 +3263,6 @@
         "Pendekatan ini memperketat persaingan platform asisten virtual berbasis kecerdasan buatan."
       ],
       "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Kecerdasan Buatan dalam Uji Klinis: Dari Proyek Percontohan Menuju Penerapan Praktis",
-      "original_title": "Artificial Intelligence in Clinical Trials: From Pilots to Practice",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTkw4UU9UMDVMeEZqRl9yS3ZoMXNfUi1KbEl6VVQyRkJJUnhPRlc2YjRLQnRXRHFJNjMwNXhQd1lSZWFoMk1DYlQ5a01pTEVaOC1mZzltSkMxX3VhOS16eFVyMUVGTlFpQ3Q3QnRuTlFWTGl0Q2JPc3RYazEyV3g0TXdvdkdONkJXYkxnME84WTlKZU4wUkpuNTlNYUJRLU13aVZ2S2Jxbw?oc=5",
-      "source": "Applied Clinical Trials Online",
-      "published_date": "2026-07-30",
-      "summary": "Teknologi kecerdasan buatan kini mulai bergeser dari sekadar uji coba skala kecil menjadi penerapan nyata dalam uji klinis medis. Integrasi ini diharapkan dapat mempercepat proses penemuan obat dan meningkatkan efisiensi pengembangan terapi baru bagi pasien. Transisi ini menandai era baru dalam industri kesehatan yang lebih adaptif dan berbasis data.",
-      "takeaways": [
-        "AI bertransisi dari fase eksperimental menjadi alat praktis dalam uji klinis.",
-        "Penerapan AI berpotensi mempercepat waktu pengembangan dan persetujuan obat baru.",
-        "Kesiapan regulasi dan kualitas data menjadi faktor kunci keberhasilan implementasi ini."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Khawatir Kebocoran Keamanan OpenAI, Menteri Jerman Desak Kemandirian AI Eropa Dipercepat",
-      "original_title": "German minister urges faster AI self-sufficiency after OpenAI test breach",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWFd6Y3J1QUQwODAyV1NkMXp4NzF2UFlaWlZBVlY2WDNMbWRPazJVOW4taF9ZWnZTOE10dm5jTnlldWJyRW1sbm5sRmdXUWd6Um4zX09KVlRTTDVta3JIY1h6VllidVFIYzkyUWhGeGdiUFdiRUdnRXBCdlRIV2F3Z1RudmlhYlU2VDRNWjRsc01yM3FfblYyY1JSSDZCVmhrbW05TXNTb2p2VDJRSGlEN2tfcnhfQk5sSTJMRFhoYlBxMWFa?oc=5",
-      "source": "Reuters",
-      "published_date": "2026-07-30",
-      "summary": "Menteri Jerman mendesak percepatan kemandirian teknologi AI di Eropa menyusul adanya laporan pelanggaran uji coba pada OpenAI. Ketergantungan pada penyedia teknologi luar negeri dinilai dapat mengancam kedaulatan data dan keamanan nasional. Langkah ini diharapkan mampu mendorong investasi lokal dalam pengembangan infrastruktur dan model kecerdasan buatan yang berdaulat.",
-      "takeaways": [
-        "Insiden pelanggaran keamanan OpenAI memicu kekhawatiran kedaulatan teknologi di Eropa.",
-        "Pemerintah Jerman mendorong pengembangan model AI lokal untuk mengurangi ketergantungan asing.",
-        "Keamanan siber dan privasi data menjadi katalis utama bagi negara-negara untuk mandiri secara teknologi."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Para Gubernur Bahas Kebijakan AI dan Pusat Data dalam Pertemuan Asosiasi Gubernur Nasional",
-      "original_title": "Governors address AI, data center policies during National Governors Association meeting",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPLTVUOXdEX1pCVVh4MkRKNy0tNGNJaFFydVZtN1VSdkZ1RXY4c3k5Y3E1MDVYLXViRnBQT2pNY0NGck03ZDFqMVk1RVZkUjNTM0dHbnhkNU1WVW1mV0tNWVFPdFBCNUFqRExIdXJQNzB6Ti1BOE9sRU5HT1lPbWVYWm1yU2xPMlMzWFhOSllhSG93M2ROQVJBNGR0eVJLTURoTXJsenYtT1FDemxIaWNUekdzbFg?oc=5",
-      "source": "koco.com",
-      "published_date": "2026-07-30",
-      "summary": "Pertemuan Asosiasi Gubernur Nasional Amerika Serikat menempatkan regulasi kecerdasan buatan dan kebijakan pusat data sebagai agenda utama diskusi mereka. Para pemimpin daerah berupaya menyeimbangkan potensi pertumbuhan ekonomi dari industri AI dengan pengelolaan sumber daya energi lokal. Langkah koordinasi ini penting untuk menciptakan kerangka regulasi yang harmonis di tingkat negara bagian.",
-      "takeaways": [
-        "Kebijakan AI kini menjadi prioritas penting bagi para pembuat kebijakan di tingkat regional.",
-        "Fokus utama diskusi meliputi alokasi energi untuk pusat data dan perlindungan konsumen dari risiko AI.",
-        "Kerja sama lintas wilayah diperlukan untuk menyusun regulasi AI yang seimbang dan aplikatif."
-      ],
-      "category": "Sains & Teknologi"
-    },
-    {
-      "title": "Ilmuwan MIT Daniela Rus Raih Penghargaan High-Tech Bergengsi dari Menteri-Presiden Bavaria",
-      "original_title": "Daniela Rus receives Bavarian Minister-President's High-Tech Prize",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcnZjYUttcERkVVRHYjRrM2NmalpCYkl4OGQ1RkZlcExsZUhkNFhtTTU0ZkFDcXhJanV0UUdDaDlvSm1IeTBNVUtIZmRFM1pMNXp6Wjl3Z3I5NDUzRkFZUjNfUVFDdHM2YXJLSVY3SXRUY2NTQWJyb2hIQlQxb1hEa0dRVGJwbmNVUjBWU0JfZUJwamxpSVJOY19YQ18?oc=5",
-      "source": "MIT News",
-      "published_date": "2026-07-30",
-      "summary": "Daniela Rus, Direktur Computer Science and Artificial Intelligence Laboratory (CSAIL) di MIT, dianugerahi Penghargaan High-Tech Bavarian atas kontribusi luar biasanya dalam dunia robotika dan kecerdasan buatan. Penghargaan ini menegaskan pentingnya kolaborasi riset internasional dalam memajukan batas-batas sains modern. Pengakuan ini juga merayakan inovasi yang berdampak besar pada transformasi industri global.",
-      "takeaways": [
-        "Daniela Rus diakui atas dedikasi dan kontribusi pionirnya dalam robotika dan AI.",
-        "Penghargaan dari Bavaria ini memperkuat hubungan riset teknologi antara Jerman dan institusi global seperti MIT.",
-        "Riset fundamental dalam robotika terus diakui sebagai pilar utama kemajuan teknologi masa depan."
-      ],
-      "category": "Sains & Teknologi"
     }
   ]
 }
