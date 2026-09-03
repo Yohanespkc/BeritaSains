@@ -1,7 +1,49 @@
 {
-  "last_updated": "2026-09-02T03:39:10.488105+00:00",
-  "total_articles": 228,
+  "last_updated": "2026-09-03T03:38:49.833082+00:00",
+  "total_articles": 235,
   "articles": [
+    {
+      "title": "Meta Dorong Karyawannya Gunakan Agen AI Baru Sembari Kurangi Fokus pada Penghematan Token",
+      "original_title": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRVltcmNvczI1UFVDcUtNeFR1SGxwaHFlaHB0cWVrUTZ2cS1mOXFOdWdzM0hBbHpNUXpRcGwtU19aeDBvSVRBVHB2T3JvYlhtY3ZzTzQ5UlNtNnF5ZzBNNm5BVlBvcGI5czlwTnR2MzJTdjE2RjI5VkV0ZUhtMmJPWXE2dkJXVXhINEoxTHR1elZOUV9hRE5tLTJvdFVuR2dmSnc?oc=5",
+      "source": "WIRED",
+      "published_date": "2026-09-03",
+      "summary": "Meta secara agresif mendorong para karyawannya sendiri untuk mengadopsi agen AI terbaru mereka dalam aktivitas kerja sehari-hari. Menariknya, perusahaan kini melonggarkan tekanan terkait efisiensi token ekstrem (tokenmaxxing) demi fokus pada fungsionalitas yang lebih baik. Langkah ini menunjukkan transisi Meta dari fase pengembangan dasar menuju implementasi praktis di dunia kerja nyata.",
+      "takeaways": [
+        "Meta mewajibkan atau sangat menyarankan penggunaan alat AI baru mereka secara internal guna menguji fungsionalitasnya.",
+        "Perusahaan mengurangi fokus pada batasan konsumsi token demi meningkatkan kualitas interaksi dengan AI.",
+        "Strategi ini mencerminkan upaya Meta mempercepat adopsi teknologi AI generatif di lingkungan korporat sebelum merilisnya ke publik."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Departemen Kehakiman AS Desak Hakim Tolak Gugatan New York Times Terhadap OpenAI dan Microsoft",
+      "original_title": "DOJ urges judge to rule for OpenAI, Microsoft in N.Y. Times lawsuit",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR0dkWmwxWFVnc2QzNnprVzNMLVRkVjVLOGZ0NUQwVEw0VHZ3dWlPSmJYUnptSGJfM0FrZURMTzV5SWRxSUZUa0dpR0ZFNWZkSE1GUUw4eXBnU05OVUNIZHF2OGtnUWFBNHB2bk1saUJMZWRrRjNJVUZNQVBDUXVXR0JRTnpCUDJ6WUFJWGdVY1Y3NFY4ZVRWa3RTTFJIa1IxNFVZSlBfd3BnTThR?oc=5",
+      "source": "The Washington Post",
+      "published_date": "2026-09-03",
+      "summary": "Departemen Kehakiman AS (DOJ) telah mendesak pengadilan untuk memenangkan OpenAI dan Microsoft dalam gugatan pelanggaran hak cipta yang diajukan oleh The New York Times. DOJ berpendapat bahwa teknologi AI generatif memiliki manfaat publik yang signifikan dan tidak selalu melanggar undang-undang hak cipta melalui pelatihan modelnya. Keputusan akhir kasus ini berpotensi menjadi preseden hukum yang krusial bagi masa depan industri AI generatif secara global.",
+      "takeaways": [
+        "DOJ secara resmi memihak OpenAI and Microsoft dalam sengketa hukum hak cipta melawan The New York Times.",
+        "Kasus ini berpusat pada legalitas penggunaan artikel berita berhak cipta untuk melatih model bahasa besar (LLM).",
+        "Hasil dari persidangan ini akan menentukan batasan hukum penggunaan data internet untuk pengembangan kecerdasan buatan."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Masuk Indeks HKEX Tech 100, Insilico Medicine Soroti Potensi AI dalam Rantai Nilai Bioteknologi",
+      "original_title": "Insilico Medicine included in the HKEX Tech 100 Index, drawing attention to opportunities in AI value chain",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1FRnI0MmJ2VU1fXy1ERGhTdGc2ZktZYjF0eG93NjNGUmRXa2RPZ3Z1Zzg4TTY0ek1QaFQtRGxIdTNYVWsxOW5jdlpXLUlOazhNcE5feDFDWEhtN3o3?oc=5",
+      "source": "EurekAlert!",
+      "published_date": "2026-09-03",
+      "summary": "Insilico Medicine, pionir dalam penemuan obat berbasis kecerdasan buatan, telah resmi masuk ke dalam Indeks HKEX Tech 100 yang bergengsi. Pencapaian ini menegaskan meningkatnya kepercayaan pasar terhadap peran AI dalam mempercepat riset bioteknologi dan pengembangan terapi klinis baru. Hal ini juga menarik perhatian investor global terhadap nilai ekonomi jangka panjang dari integrasi AI dalam sektor kesehatan dan farmasi.",
+      "takeaways": [
+        "Insilico Medicine mencatatkan sejarah dengan masuk ke dalam jajaran indeks teknologi utama bursa saham Hong Kong.",
+        "Penggunaan AI terbukti mampu memangkas waktu dan biaya penemuan molekul obat baru secara signifikan.",
+        "Pencapaian ini memperkuat posisi AI sebagai penggerak utama inovasi dalam industri bioteknologi masa kini."
+      ],
+      "category": "Genom & Biotek"
+    },
     {
       "title": "Dilema Global: AS Pilih Pendekatan Longgar untuk Regulasi AI, Sementara Uni Eropa Perketat Undang-Undang",
       "original_title": "US pushes looser approach to AI regulation, while EU pushes new law",
@@ -71,6 +113,104 @@
         "Integrasi teknologi memerlukan metode penilaian baru yang lebih adaptif."
       ],
       "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Kota New York Resmi Larang Penggunaan AI di Sekolah Dasar dan Menengah",
+      "original_title": "New York City Bans A.I. in Elementary and Middle Schools",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8wXzZnbFJaZHpuN1pnMWRTOWRJYXBnWHJIRDhzc0dEczB1anRKbjhiM2l1VXZkR1B2NFZTTjZOZ1NHeUdlbDRCeUR5dmpvSzdjNmlUUlI3N0pqTUI3VlhuZU1SbmRLN05vZnEtM0pjSFcxYUZBWVE?oc=5",
+      "source": "The New York Times",
+      "published_date": "2026-09-02",
+      "summary": "Kota New York mengambil langkah tegas dengan melarang penggunaan kecerdasan buatan (AI) bagi siswa sekolah dasar hingga kelas 8. Keputusan ini diambil guna melindungi proses belajar mengajar konvensional dan meminimalkan ketergantungan anak-anak pada teknologi sejak dini. Langkah ini memicu perdebatan luas mengenai bagaimana seharusnya AI diintegrasikan dalam dunia pendidikan anak.",
+      "takeaways": [
+        "Larangan penggunaan AI berlaku bagi seluruh siswa sekolah negeri hingga tingkat menengah (kelas 8) di New York City.",
+        "Kebijakan ini bertujuan menjaga integritas akademik dan mendorong perkembangan keterampilan berpikir kritis secara mandiri tanpa bantuan AI.",
+        "Keputusan ini memicu pro-kontra terkait efektivitas pelarangan teknologi di era digital."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "California Terbitkan Aturan Pertama di AS Terkait Penggunaan AI oleh Advokat",
+      "original_title": "California Passes First-in-the-Nation Rules for Lawyers Using Artificial Intelligence",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1TVm9DcjNTMExqakNvZHJYVFgxTEVxODB1LXVycjlUTFhuak5PZGFmQnhGdDJYWlVjUHVpMlY2WGkxc1g5OXIyV2xldExCUXZJQkpyTzl3VGhkeTdaUDdVQ21YWms4RktQYmplZXB3NndYMkhNV09mWjFadlBxUQ?oc=5",
+      "source": "Law Commentary",
+      "published_date": "2026-09-02",
+      "summary": "Negara bagian California resmi meluncurkan pedoman hukum pertama di Amerika Serikat yang mengatur penggunaan AI oleh para pengacara dan praktisi hukum. Aturan baru ini mewajibkan advokat untuk tetap memegang kendali penuh atas pekerjaan mereka dan tidak mempercayakan dokumen hukum sepenuhnya pada AI. Langkah ini penting untuk menjaga etika profesi serta melindungi klien dari kesalahan analisis hukum yang dihasilkan oleh kecerdasan buatan.",
+      "takeaways": [
+        "California menjadi negara bagian pertama di AS yang menerapkan aturan formal untuk penggunaan AI dalam praktik hukum.",
+        "Pengacara diwajibkan untuk memeriksa ulang semua draf hukum yang dibuat oleh AI guna menghindari kesalahan fatal.",
+        "Regulasi ini menekankan pentingnya kerahasiaan data klien saat menggunakan alat bantu berbasis kecerdasan buatan."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Trinity: Solusi AI untuk Perencanaan Transisi Siswa Disabilitas",
+      "original_title": "Trinity: Agentic AI-powered transition planning for students with disabilities",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRnh3NllyMXh0aGtZRjZUS25yNklLblFFc1hfSmR0WXRuNXc2XzVNczA3NjBFZWxicGpHdDVvTVJuU1FTTlk0bVpCNVhISzRUYWwtQ0RTd0ZxbnJkR3pFT1BJZTM2ODczVzhENFpBLWgtVDdXclp1dEhGSE41dTlYU2dYLWVGRExfODF3bWw0cFpsSHJqcEhSQXN4ajZEVUt2bDlRbVhkNU1lRkZsVUt6cXdIelp1RzdBWDlxRUZCZFBWQQ?oc=5",
+      "source": "Amazon Web Services (AWS)",
+      "published_date": "2026-09-02",
+      "summary": "AWS memperkenalkan Trinity, sebuah sistem berbasis agen kecerdasan buatan yang dirancang untuk membantu perencanaan masa transisi bagi siswa penyandang disabilitas. Teknologi ini mempermudah pembuatan rencana pendidikan individual yang disesuaikan dengan kebutuhan unik masing-masing anak saat melangkah ke jenjang karir atau pendidikan tinggi. Kehadiran inovasi ini menunjukkan potensi besar AI dalam menciptakan sistem pendidikan yang inklusif dan ramah disabilitas.",
+      "takeaways": [
+        "Trinity memanfaatkan teknologi Agentic AI untuk merumuskan jalur transisi akademis dan karir bagi penyandang disabilitas.",
+        "Sistem ini meringankan beban administrasi guru dan konselor dalam menyusun rencana pendidikan khusus.",
+        "Inovasi ini membuktikan bahwa kecerdasan buatan dapat diarahkan untuk misi sosial kemanusiaan dan aksesibilitas."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Gara-Gara Percaya Rekomendasi AI, Tiga Pendaki Tersesat di Gunung Berapi Aktif",
+      "original_title": "Three hikers got stranded on an active volcano after relying on AI for trip research",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONk5JSmJQSGJ6N1IydkNOeU1jRUt2UEpRemJnc3pmMmt1amg0X05jbjROWTlEMFE4WG12OXBPRndmZk91X2R1aDMtT3NXNmJaZWVDazdMaC1FWTZRcEVnV0h2MGN1bVFaS3gzWnF1Sl9QOE9vanpNWVZKT1E5b09TRW4zTjZFdzU4S3NseWw1aW1EcHNQVTZXblg1dFludmZjb3Boc2R5aW5vS2g5Y214M2tmbEdxY3BvQ3RYTktHNWg1SGNod1VjTWxzUHVhSHQ3THYyeGFDdmtEd2c?oc=5",
+      "source": "Denver Gazette",
+      "published_date": "2026-09-02",
+      "summary": "Tiga orang pendaki terdampar di lereng gunung berapi aktif setelah jalur pendakian yang mereka pilih didasarkan sepenuhnya pada riset yang dihasilkan oleh AI. Model AI tersebut terbukti memberikan informasi rute yang keliru dan berbahaya, yang tidak sesuai dengan kondisi riil di lapangan. Kasus ini menjadi pengingat keras akan fenomena halusinasi AI dan bahaya nyata mengandalkan kecerdasan buatan untuk keputusan krusial di alam liar.",
+      "takeaways": [
+        "Kesalahan navigasi akibat rekomendasi rute AI yang menyesatkan membuat tiga pendaki terjebak di area berbahaya.",
+        "Kasus ini menyoroti keterbatasan AI dalam memproses data geografis real-time yang dinamis dan berisiko tinggi.",
+        "Para ahli mengimbau masyarakat untuk selalu memverifikasi informasi perjalanan penting melalui otoritas resmi lokal."
+      ],
+      "category": "Sains & Teknologi"
+    },
+    {
+      "title": "Mengungkap Kasus Kriminal Lama Menggunakan Teknologi Kecerdasan Buatan Terkini",
+      "original_title": "Webinar: Solving yesterday's cases with today's AI: How artificial intelligence is transforming cold case investigations",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNa1ppT3A2LWxVeXZCWmVUUU9LaEU2Y1BxV2NkV2NBRWE4bWY4SVNVMWpBeTV2cmZqWnlKMU81WkF0YVhIYzNCaGZpRno0a0FMU2h2MUFsWHhRUHYtb0g0V2FPa1JCNFdnb1NieEdPOFNWZHRrQnpRTEt6Y1BoSUhKQ19iVERLQWF3aTl4TDI2akR4WU11T2RWYjdfd0hvR0J1Yy1wLUIxYlV1aUF0RnQ3VTBkU3FlMk0ya3hicVc0VlFIQ2VFOFgwblJSVWtGMHJwcEQzdEVoN1ExbE5IUl95UHM0OGNhU2xrdm5PSDU4aDhPdFFvV09z?oc=5",
+      "source": "Police1",
+      "published_date": "2026-09-02",
+      "summary": "Teknologi AI modern kini mulai diintegrasikan untuk memecahkan kasus-kasus kriminal lama yang belum terpecahkan (cold cases). Dengan kemampuan analisis data massal yang cepat, AI mampu mendeteksi pola tersembunyi dan petunjuk baru dari berkas penyelidikan kuno yang luput dari perhatian manusia. Penerapan ini menjanjikan revolusi baru dalam sistem keadilan hukum dan investigasi kepolisian di masa mendatang.",
+      "takeaways": [
+        "AI dapat memproses ribuan dokumen kasus lama secara instan guna mencari korelasi data yang terabaikan.",
+        "Teknologi ini membantu detektif menemukan sudut pandang baru dalam penyelidikan kasus kriminal yang telah membeku puluhan tahun.",
+        "Penggunaan AI di bidang forensik menawarkan harapan baru bagi keadilan korban kejahatan masa lalu."
+      ],
+      "category": "Sains & Teknologi"
+    },
+    {
+      "title": "Laporan Terbaru Ungkap Tren Peningkatan Penggunaan Teman Virtual Berbasis AI",
+      "original_title": "Imagining the Digital Future Center reports on ‘The Rise of AI Companions’",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPU0MyQkh3NEk2YjJjT1dKbmhuaGFzTzBIYjNiOVV5aGk5UF8wTlRmZXh2NzNHNjktMDBIMFdoQTdlc3d4VVNuNG83OUZQWlB6WExzbWZjREptOWwxMzh2Z3RtN3dBQWwwMUk1RGEySWdNTjM4eXJmLUpaZUtjUjVEbkxnV1R0by1KLU8zcXpEQTBLYlNySUgzZGViLWdpenNqMU5kSFZITlRQTjVzOWlSV0x3?oc=5",
+      "source": "Elon University",
+      "published_date": "2026-09-02",
+      "summary": "Laporan dari Imagining the Digital Future Center menyoroti fenomena maraknya 'AI Companions' atau teman virtual berbasis kecerdasan buatan di kalangan masyarakat. Penelitian ini membedah bagaimana interaksi emosional manusia dengan agen AI dapat memengaruhi kesehatan mental dan pola hubungan sosial di dunia nyata. Tren ini menuntut perhatian serius dari para psikolog dan sosiolog mengenai pergeseran definisi hubungan interpersonal di era digital.",
+      "takeaways": [
+        "Popularitas AI sebagai teman bicara dan mitra virtual mengalami peningkatan signifikan secara global.",
+        "Meskipun membantu mengatasi rasa kesepian, ketergantungan pada AI Companion berisiko mengurangi keterampilan sosial nyata.",
+        "Studi ini menekankan perlunya batasan etis dalam pengembangan AI yang dirancang untuk meniru emosi manusia."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Putusan Pengadilan AS Terkait Gambar Anak Buatan AI Picu Kekhawatiran Baru Bagi Orang Tua",
+      "original_title": "Appeals court ruling on AI-generated child images raises questions for families",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdV9YNk9uLURzbWV0bUJUb1VSLWI3UlRHSml5RnI5RzI1bGNtSDc1XzdJZl96dERaZnRXSThNd3BvQXEyM0JLYU9NTkpsa2twZVVCbDdNQmlidlVTT3RKcVN0cmtFcEtpbTVtOEtWOTN4d1hUSE1iMTF4ZGh0TmN5dEJmSURLM2hRWXNraFBEMXFXLUQ1WFU2dWFlUTFBdDU2YkZpakQ2VUnSAbwBQVVfeXFMUEZTaWQ5Wkw2a0VYblZCRUZMcjNSeGl5MlR3Q08wSGI1T3hobTlmaGZBaW5WenRBR1pqMVduQnBwZmlVUF83czdzX096M2xjLU5zelVIQ0JDZ0JDeVFqSktaNGlfNWJtTnc2SHJjc0sxQnVzSzdIUHlxT3NIWG9JTHY5dUJycGJVbmpyMk9ZMEozTm9PcGNIb0tJWHVLRUFVM1ZobnhmTlNzMjhZRUlIcUdDZ0dSMUF2MVlEd0U?oc=5",
+      "source": "weau.com",
+      "published_date": "2026-09-02",
+      "summary": "Putusan terbaru dari pengadilan banding terkait legalitas gambar anak yang dihasilkan oleh AI telah memicu perdebatan hukum dan kecemasan bagi kalangan keluarga. Keputusan ini menyoroti celah hukum yang rumit dalam melindungi privasi anak dari eksploitasi visual berbasis kecerdasan buatan generatif. Hal ini mendesak pemerintah untuk segera memperbarui undang-undang perlindungan anak agar relevan dengan ancaman teknologi digital masa kini.",
+      "takeaways": [
+        "Putusan pengadilan banding mengungkap adanya ketidakpastian hukum mengenai hak cipta dan perlindungan gambar anak berbasis AI.",
+        "Penyalahgunaan teknologi generatif AI dapat mengancam privasi dan keamanan digital anak-anak secara global.",
+        "Para aktivis mendesak pembuatan regulasi khusus yang lebih ketat guna menghentikan penyebaran visual anak ilegal hasil rekayasa AI."
+      ],
+      "category": "Sains & Teknologi"
     },
     {
       "title": "Terobosan Baru: Model AI Terbuka China Saingi Raksasa Silicon Valley",
@@ -3149,48 +3289,6 @@
         "Meningkatnya kekhawatiran terhadap risiko model AI berskala besar memicu desakan pembentukan badan regulasi internasional.",
         "Krisis konsumsi energi oleh pusat data memaksa otoritas di New York mengambil langkah penangguhan izin pembangunan demi stabilitas listrik.",
         "Perkembangan AI kini tidak hanya berhadapan dengan regulasi algoritme, melainkan juga batasan infrastruktur dan dampak lingkungan nyata."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Sistem AI Berbasis Rekam Medis Elektronik Mampu Deteksi Risiko Kematian Pasien untuk Panggilan Tim Reaksi Cepat",
-      "original_title": "EHR-based AI beckons rapid-response team to head off avoidable in-hospital deaths",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZUJkSEx4WVJXWVE1bnZkQ1VYOXhST3RQSllsYXJyYlNGQ25IUHVxTWZPX3RqWW9VbE53YVlGZGpoTkxkNVZDR1NkeWRzRFp4dG1vbnRycEZZZHpNTHZ4VkNNTFlLMUROSVZpdEYzNjNLTS15aDA5MXU1RWJnTy1MbWdqTEJkM2lKanB4VTZIcnR6VXhrdnoyQlZQaWpMVl9YS3g5RzZ5WDFzVWZrTXh1eEVxeGliSWtRV3BDcUc1MXFLS0E?oc=5",
-      "source": "HealthExec",
-      "published_date": "2026-08-03",
-      "summary": "Penerapan sistem kecerdasan buatan (AI) berbasis Rekam Medis Elektronik (EHR) terbukti mampu mengidentifikasi pasien rumah sakit yang berisiko mengalami penurunan kondisi fatal secara cepat. AI ini secara otomatis memanggil tim reaksi cepat medis untuk melakukan tindakan pencegahan sebelum kondisi pasien memburuk. Inovasi ini berpotensi menekan angka kematian yang sebenarnya dapat dihindari di lingkungan rumah sakit.",
-      "takeaways": [
-        "AI menganalisis data rekam medis elektronik secara real-time untuk memprediksi penurunan kondisi pasien.",
-        "Sistem secara otomatis memicu alarm panggilan bagi tim medis reaksi cepat guna intervensi dini.",
-        "Teknologi ini membantu mengurangi angka kematian pasien di rumah sakit akibat penanganan yang terlambat."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Kecerdasan Buatan Ungkap Ledakan Populasi Alga Raksasa di Samudra Global",
-      "original_title": "AI reveals a massive algae boom across the world’s oceans",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1oTFhjd3dSUGotOVh2Y3ZwMERGdGMzcHpwX3kzcHhLVUVVWGVMRS1pazh5S1k4U1c5RzdFd1k2VVZOZ2dLSWRJZDVnbk0zeU00bm5BQWhoRmttcF80ZjhONXExVGdYMmNuS05qMXpn?oc=5",
-      "source": "ScienceDaily",
-      "published_date": "2026-08-03",
-      "summary": "Menggunakan teknologi AI untuk menganalisis data satelit, para peneliti berhasil memetakan lonjakan populasi alga yang sangat masif di lautan dunia. Fenomena ini memberikan wawasan penting mengenai dampak perubahan iklim dan limpasan nutrisi terhadap ekosistem laut. Deteksi berbasis AI ini memungkinkan pemantauan lingkungan global yang jauh lebih cepat dan akurat dibanding metode konvensional.",
-      "takeaways": [
-        "AI mempercepat analisis data satelit untuk memantau perubahan ekologi laut dalam skala global.",
-        "Ledakan alga yang terdeteksi mengindikasikan adanya ketidakseimbangan nutrisi dan pengaruh pemanasan global.",
-        "Peta resolusi tinggi dari AI ini membantu ilmuwan mengantisipasi dampak buruk ledakan alga terhadap perikanan."
-      ],
-      "category": "Sains & Teknologi"
-    },
-    {
-      "title": "Alibaba Buka Akses Model AI Qwen3.8-Max Sebelum Merilis Bobot Terbuka",
-      "original_title": "Alibaba’s AI model Qwen3.8-Max made widely accessible ahead of open-weights release",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQ2JaU2cyc2JoeTZWTk5Sa0JWOVZxUnlSaTd0NDhLZzVWX3U1RHZaRjBZTVg5cExTdVluWFZQamkyeVh2RklTVDYwNXQ0eER0eXpPbDJIWUVwSHZsNm1WbVBoOWItN3RiWUtyMVliZGIzVlZxb054MlpPd2JiLWlXSDVwQjd5ZmVlNjV0UV9QY1lTeFNqMkxPMUR2VGMwZG5iVWhNSE5XdFdkQ0pfNnRGZEZrMjlvVDhUYURyeQ?oc=5",
-      "source": "South China Morning Post",
-      "published_date": "2026-08-03",
-      "summary": "Raksasa teknologi Alibaba telah membuka akses luas ke model AI andalan terbarunya, Qwen3.8-Max, sebelum merilis versi open-weights secara resmi. Langkah ini dinilai sebagai bagian dari strategi untuk menarik minat komunitas pengembang global dan bersaing dengan model-model barat seperti Llama milik Meta. Peluncuran ini mempertegas posisi Tiongkok sebagai salah satu pemimpin utama dalam pengembangan AI generatif.",
-      "takeaways": [
-        "Qwen3.8-Max menawarkan kapabilitas tinggi yang dapat diakses oleh publik sebelum kode bobotnya resmi dibuka.",
-        "Strategi open-weights membantu Alibaba membangun ekosistem pengembang yang loyal di seluruh dunia.",
-        "Persaingan teknologi AI open-source antara Tiongkok dan AS semakin sengit dengan hadirnya model ini."
       ],
       "category": "Artificial Intelligence"
     }
