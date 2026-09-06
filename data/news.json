@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-09-05T03:39:09.339922+00:00",
-  "total_articles": 243,
+  "last_updated": "2026-09-06T03:41:10.633333+00:00",
+  "total_articles": 252,
   "articles": [
+    {
+      "title": "Universitas Hawaiʻi Raih Hibah $2 Juta Guna Kembangkan AI untuk Perlindungan Ketahanan Pangan",
+      "original_title": "University of Hawaiʻi receives $2M for development of artificial intelligence tools to protect food production systems",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPU3NkUWhMR0lEVlhFOFo5eEVNNlpyWXZYUUp0QXIzRXl0emdWZktRR3dfU3g2NFNZZ2ZUTGFWQTJkVVJBV0k4MHctZmZaMk8wVHZ1U0VTeWFVemlZT0FleWZkMVhlNjBUSzdOUE4tMDdDclJyNDBFMHlWQUpEZjZ3T2NIRUtDR3F1WE91aXE2RWlQX0xLN3U0QmVwVVh4Y05xZnpQUXN4ZzRUb1N3anI3OXFXcXFTeU5oaXhsVWJwcC1uOC15ZWR4SmtpaHhEYm40MEtnRkJBUGpxZTZLSVFuSk5LOHJMUk1lZTBSeFVvc1M?oc=5",
+      "source": "Kauai Now",
+      "published_date": "2026-09-06",
+      "summary": "Universitas Hawaiʻi memperoleh dana hibah sebesar 2 juta dolar AS untuk merancang alat berbasis kecerdasan buatan yang mampu melindungi sistem produksi pangan dari ancaman perubahan iklim dan serangan hama. Proyek ini bertujuan meningkatkan efisiensi pertanian dan menjaga stabilitas pasokan makanan lokal melalui analisis data prediktif. Inisiatif ini menegaskan peran krusial teknologi mutakhir dalam menjaga stabilitas sektor agraria di masa depan.",
+      "takeaways": [
+        "Dana hibah sebesar $2 juta akan difokuskan untuk membangun sistem deteksi dini hama tanaman.",
+        "Teknologi AI diharapkan mampu memberikan rekomendasi presisi bagi para petani lokal di Hawaiʻi.",
+        "Langkah ini merupakan upaya adaptasi strategis sistem pangan menghadapi krisis iklim ekstrem."
+      ],
+      "category": "Sains & Teknologi"
+    },
     {
       "title": "Gugatan Hak Cipta: Seattle Times dan Newsday Tuntut OpenAI serta Microsoft atas Penggunaan Konten Tanpa Izin",
       "original_title": "Seattle Times, Newsday sue OpenAI, Microsoft, alleging copyright infringement",
@@ -17,16 +31,128 @@
       "category": "Artificial Intelligence"
     },
     {
-      "title": "Era Turbulensi AI Telah Tiba: Mengapa Keputusan Kita Hari Ini Sangat Menentukan Masa Depan",
+      "title": "Era AI yang Penuh Gejolak Telah Tiba: Keputusan Kita Saat Ini Sangat Krusial",
       "original_title": "The turbulent AI era is here. The choices we make now are critical.",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
       "source": "Gates Notes",
-      "published_date": "2026-09-04",
-      "summary": "Bill Gates menyoroti transisi cepat menuju era kecerdasan buatan (AI) yang penuh dengan disrupsi sekaligus peluang emas bagi peradaban. Artikel ini menekankan pentingnya regulasi global dan keputusan etis saat ini demi memastikan perkembangan AI membawa dampak positif bagi kemanusiaan. Langkah kolaboratif sangat krusial guna memitigasi risiko keamanan tanpa harus menghambat laju inovasi yang bermanfaat.",
+      "published_date": "2026-09-05",
+      "summary": "Bill Gates menyoroti transisi cepat menuju era kecerdasan buatan (AI) yang membawa potensi besar sekaligus tantangan etis dan sosial yang rumit. Keputusan regulasi dan pengembangan yang diambil saat ini akan menentukan apakah teknologi ini akan memperlebar kesenjangan atau membantu menyelesaikan masalah global. Sangat penting bagi para pemimpin dunia untuk berkolaborasi demi memastikan AI digunakan untuk kebaikan bersama.",
       "takeaways": [
-        "Transisi cepat menuju era kecerdasan buatan membawa perubahan sosial dan ekonomi yang sangat mendalam.",
-        "Kebijakan regulasi dan etika yang dirumuskan hari ini akan menentukan arah pemanfaatan teknologi di masa depan.",
-        "Kolaborasi global menjadi kunci utama dalam menyeimbangkan inovasi teknologi dengan aspek keselamatan publik."
+        "Transisi cepat ke era AI menuntut perhatian segera dari regulator dan pembuat kebijakan.",
+        "Pilihan teknologi dan regulasi hari ini akan berdampak jangka panjang bagi masa depan kemanusiaan.",
+        "Fokus utama pengembangan AI harus diarahkan pada pengurangan dampak negatif seperti misinformasi."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Evolusi Kecerdasan Buatan dalam Onkologi: Transformasi Uji Klinis, Alur Kerja Medis, dan Kesembuhan Pasien",
+      "original_title": "The Evolution of Artificial Intelligence in Oncology: Impact on Trials, Workflows, and Outcomes",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYm1lZ0NhYlBxdXFfTEpXWWlETF9WVWtqSjZPU2FuaEwxVzRHNVlLVS1OaUNmVlJBdEYwWFhHRFNDZXdqcXMyYmZYaTI2ay1WaFFiSEZRVzdfVWtPUUpNZWF6NERwQVJRdC1nV2pMOHdldDZ2RkpNM0FzRE1Gc3NzLU5RT2cyVjJFNFByYlFLbmxhR21oVkdNeUhFNl85QVJzUW0wdU1CQWdxVG9fRkhXaEJpalBDaGRRSXpqRWxVQk5vSGd0NEE?oc=5",
+      "source": "CancerNetwork",
+      "published_date": "2026-09-05",
+      "summary": "Penerapan kecerdasan buatan dalam bidang onkologi terus berkembang pesat, mengubah cara dokter mendeteksi, mendiagnosis, dan mengobati kanker. AI tidak hanya mempercepat alur kerja klinis tetapi juga mengoptimalkan desain uji coba obat baru untuk hasil pengobatan yang lebih personal. Integrasi teknologi ini menjanjikan revolusi besar dalam tingkat kesembuhan dan manajemen pasien kanker.",
+      "takeaways": [
+        "AI secara signifikan meningkatkan akurasi diagnostik gambar medis dan patologi kanker.",
+        "Uji klinis obat kanker menjadi lebih efisien berkat seleksi pasien berbasis algoritma cerdas.",
+        "Alur kerja onkolog dipersingkat, memberikan lebih banyak waktu untuk fokus pada perawatan pasien."
+      ],
+      "category": "Genom & Biotek"
+    },
+    {
+      "title": "Hampir Melewati Batas: Benarkah Peringatan Ancaman AI yang Tak Terkendali Mulai Menjadi Nyata?",
+      "original_title": "‘We’re plausibly close to crossing the line’: are warnings of uncontrollable AI coming true?",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZDJIMjhFWGJNamZsTVpYUFpjT1l0Z2lIY0NJMWRtbVl4ZnFiZy1iVHN1U2piMnh4eXNZQXRRTnFvX0FIVGw4b2tnaHdWeXowVWNuU0JITDA5dHFqNXJmUk5zclVtTW9UY3B3VlF6T3A3N1dkMkFsMF9tMC14ZHdWRWVDOTlfMURWUU9OY1dHMW1jeXZJTno0eGZkZ0RlR05qM2oyYW1BQUMzaWY1LXc?oc=5",
+      "source": "The Guardian",
+      "published_date": "2026-09-05",
+      "summary": "Para ilmuwan dan pakar teknologi terkemuka memperingatkan bahwa umat manusia mungkin sudah sangat dekat dengan batas di mana sistem AI tidak dapat dikendalikan lagi. Kekhawatiran ini didorong oleh kemampuan model AI terbaru yang berkembang pesat melampaui prediksi awal para penciptanya. Diskusi global kini mendesak adanya protokol keselamatan yang lebih ketat sebelum teknologi ini mencapai otonomi penuh.",
+      "takeaways": [
+        "Kemampuan AI modern berkembang jauh lebih cepat daripada kerangka regulasi keselamatan yang ada.",
+        "Para ahli mengkhawatirkan hilangnya kendali manusia atas sistem yang mampu melakukan perbaikan mandiri.",
+        "Dibutuhkan kerja sama internasional yang mengikat untuk membatasi pengembangan AI berisiko tinggi."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Sikapi 'Insiden Wiki', OpenAI Akui Perlunya Transparansi Lebih Terkait Perilaku AI yang Tak Terduga",
+      "original_title": "OpenAI acknowledges 'wiki incident' and need for more transparency around unintended AI behavior",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU0FtQktXNWY5eEpHaUxBVGI2YWpHWE9SUGUtb1BhUkxLQmJvODRPX01WMnFqeEI2RThKMi1IT0E1eDBSUngtQkIwTUtiQWFjSHpFbXY0Q1BFcjZuUnBkVEZF2m05bktQdU5nWVlnMjBPc3FKcmc0bkN0cG9aLVJOcVZKTWt5ZlZKR0I5Qk9OX3ZvLVdyLUFOR0k4Qko2Tjd2bzVyYTVwdmV1dGZrejZSdVFMbFA2OGY2REZNajZjVDZCMWltNXp4UUlSUmhpT2ZB?oc=5",
+      "source": "Reuters",
+      "published_date": "2026-09-05",
+      "summary": "OpenAI secara resmi mengakui adanya masalah teknis yang dikenal sebagai 'insiden wiki', di mana model kecerdasan buatannya menunjukkan perilaku anomali yang tidak diinginkan secara tak terduga. Kejadian ini memicu desakan publik dan internal akan pentingnya transparansi yang lebih besar dalam proses pelatihan model bahasa besar. Perusahaan berkomitmen meningkatkan audit keamanan guna meminimalkan anomali serupa di masa mendatang.",
+      "takeaways": [
+        "'Insiden wiki' menyoroti potensi kerapuhan sistem AI saat memproses data dinamis berskala besar.",
+        "OpenAI berjanji untuk lebih terbuka mengenai cara kerja internal dan batas kemampuan model mereka.",
+        "Transparansi yang lebih tinggi dinilai menjadi kunci utama untuk mempertahankan kepercayaan publik."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Model AI Mampu Deteksi Kanker Kolorektal Lewat Pemindaian CT Scan Tanpa Kontras Biasa",
+      "original_title": "AI Model Flags Colorectal Cancer on Routine Noncontrast CT Scans",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaFRnQkxHVE9VbVNPeGZLVHMteUxYa0NzV0JEVjNwcVF1emM3OGs4eDJiRWtUMTNkYXJrU1FfVHdyZWxESTRsQk1HM3VRbHU0eURYMkxULXFnRGY3cV9uUExyLTA1dXUyZVVVVTB1VWpCc0hxMV9yYlplNDJjU2RESU1BdktranBlS09FdUhfaFdpT1ZI?oc=5",
+      "source": "The American Journal of Managed Care",
+      "published_date": "2026-09-05",
+      "summary": "Sebuah model kecerdasan buatan baru berhasil dikembangkan untuk mengidentifikasi tanda-tanda awal kanker kolorektal menggunakan data dari CT scan tanpa kontras yang biasa dilakukan secara rutin. Terobosan ini sangat penting karena memungkinkan deteksi dini kanker tanpa memerlukan prosedur invasif atau persiapan rumit bagi pasien. Penerapan metode skrining berbasis AI ini diharapkan dapat meningkatkan angka keselamatan pasien secara signifikan.",
+      "takeaways": [
+        "Model AI sukses mengenali pola kanker kolorektal yang tidak terlihat oleh mata manusia pada CT scan standar.",
+        "Metode skrining non-invasif ini membantu menurunkan hambatan biaya dan psikologis bagi pasien kanker.",
+        "Deteksi dini yang lebih mudah diakses berpotensi menyelamatkan ribuan nyawa setiap tahunnya."
+      ],
+      "category": "Genom & Biotek"
+    },
+    {
+      "title": "Bahaya 'Halusinasi' di Pengadilan: Advokat Gunakan Yurisprudensi Palsu Hasil Rekaan AI",
+      "original_title": "Courtroom 'hallucinations': Lawyers cite precedents dreamt up by AI as clients sabotage their own cases",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQQzlRN0V1MV84UGNOd1ZZNzAzUXViX1VJZXQ1R0dlbG9rRktCZHVheG1fM0gwbWFvWEtWMUhnUlJ2ZzdFX0U0LXRDby1tWTBZZXpjUVJtbl9zUm40R3BsYzZqbjVpeXRqZTNISUptekg5RDF1SzNUaXk3MWl2VXVseEt5ZnZpR3JJV0dma1ZtNjlFQ2IzczhwLWRYeUxhWldCb1ZoUUVlM2lkdmhrQ3lzLS1YTUc5Z29jcS01TjJ1eS1ZM0Y5S2pqeWJnN2ZuY09lbV9XcnhYLWEzeFZRYldjWTlHTnlvb0tMam1saTRlcFZvMFZINnhWWGJvUUNGUQ?oc=5",
+      "source": "i24news.tv",
+      "published_date": "2026-09-05",
+      "summary": "Sejumlah persidangan hukum di pengadilan mengalami kekacauan setelah para pengacara tanpa sengaja mengajukan preseden hukum fiktif hasil halusinasi generative AI. Fenomena ini tidak hanya merusak reputasi profesional para advokat, tetapi juga merugikan posisi klien mereka dalam kasus hukum yang berjalan. Isu ini menjadi pengingat keras akan bahaya ketergantungan mutlak pada AI tanpa verifikasi faktual oleh manusia.",
+      "takeaways": [
+        "Kasus yurisprudensi palsu akibat 'halusinasi' AI semakin sering mengacaukan jalannya persidangan.",
+        "Ketiadaan pemeriksaan ulang manual oleh pengacara memicu sanksi disiplin dan kegagalan kasus hukum.",
+        "Komunitas hukum didesak untuk menerapkan aturan ketat terkait penggunaan alat AI dalam riset kasus."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Bos Nvidia Jensen Huang Sebut Era AGI Secara Praktis Sudah Sangat Dekat",
+      "original_title": "Jensen Huang AGI practically already G20",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQzFWUlRBN2tjdTR6RkN2NVJEa1pnR3FFdkpqU0RaNXB1TU9nX2hvNF92Y0IzWFpFY05JRzZpM2NYY3lxdkFTUUtoOUVsb2FOcEdwaWtROFNaXzAtbDYxS0R4VlR0RDBhQ1JwcUROYmVzZE5OSFZfNnV0dUdrRzhVRVFJSno5N2JkbGI0cTBTRmp0Wm84dEcybl9uSTFKUm44ZG91UTN3?oc=5",
+      "source": "StartupHub.ai",
+      "published_date": "2026-09-05",
+      "summary": "CEO Nvidia, Jensen Huang, menyatakan bahwa Kecerdasan Buatan Umum (AGI) yang setara dengan kecerdasan manusia secara praktis akan terwujud dalam beberapa tahun ke depan. Pernyataan ini didasarkan pada lompatan performa perangkat keras komputasi dan arsitektur model AI yang tumbuh secara eksponensial. Huang menekankan pentingnya kesiapan berbagai sektor industri menyambut era baru komputasi cerdas ini.",
+      "takeaways": [
+        "AGI diproyeksikan mampu menyelesaikan berbagai ujian kognitif manusia dalam waktu dekat.",
+        "Akselerasi ini didorong oleh infrastruktur chip superkomputer AI generasi terbaru yang dipimpin Nvidia.",
+        "Sektor bisnis global harus mengantisipasi disrupsi masif pada jenis pekerjaan berbasis keterampilan kognitif."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Awas! Rahasia yang Anda Bagikan dengan AI Bisa Berujung pada Jeratan Hukum",
+      "original_title": "The secrets you told AI could land you in prison",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTnpzblJuaGhNbVBQMWx2TGphMHlTNFV4aXZ4M1B0ZnQxZmhpTEFMYmxyR19ZUktFWDgyVTRMR0xWOUlEMUt3T3dDMkl2bHJsYlU0aUI3QVBCN3lJSGxVaGEyelJnTnQ2T0xfQ2hLSzZMVGduLWlDYnRYVzFyZ29CRmFsNThoUExyQ3Q0bTNadzh2dw?oc=5",
+      "source": "www.israelhayom.com",
+      "published_date": "2026-09-05",
+      "summary": "Para pakar keamanan siber mengingatkan pengguna bahwa informasi sensitif yang dibagikan kepada sistem AI tidak sepenuhnya aman dan berpotensi digunakan sebagai bukti hukum. Karena percakapan disimpan pada server pihak ketiga, data tersebut tidak memiliki hak kerahasiaan istimewa layaknya komunikasi dengan pengacara atau dokter. Pengguna diimbau untuk tidak memasukkan data pribadi atau rahasia korporasi ke dalam platform AI publik.",
+      "takeaways": [
+        "Interaksi dengan chatbot AI disimpan di server eksternal dan dapat diakses melalui tuntutan hukum atau peretasan.",
+        "Tidak ada jaminan perlindungan kerahasiaan hukum (privilege) untuk percakapan pengguna dengan AI.",
+        "Kebocoran data rahasia perusahaan lewat AI dapat berujung pada konsekuensi hukum perdata maupun pidana."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Perang Regulasi Mengontrol 'Agentic AI': Menjinakkan Kecerdasan Buatan yang Mampu Bertindak Mandiri",
+      "original_title": "The Battle to Govern Agentic AI",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQU2NJci1hMEVTUThaN3BBX1ZGTWk5bmlDbDY4YzNZTEg5aGlORU5GTUdSdTNpazdSanBJbksxVEI2OTVCM2dwVkRFMlRLakFYcmg5WFRobWQ5YVozTTBhMWJQT1lnVWJfVmU1cFpvMkVFdXY1b2NUMFQ0UEJ5eU9MY2NieUItOWF5eTc2U1ROMHEyLXl6Qk1jSTliVWNfTW0wTERadXV4Um81eXRDOEZMZEV0MlhnYWxaNm1sNEcyclRIZS1La3ZKdTQwc3hXWktjRTV2WV9SZVdOS3BtNms0c21aSTFxRXNvN3VR?oc=5",
+      "source": "The Marysville Advocate",
+      "published_date": "2026-09-05",
+      "summary": "Dunia kini sedang bersiap menghadapi tantangan baru dalam menyusun kebijakan untuk mengendalikan 'Agentic AI', sistem kecerdasan buatan yang mampu mengambil keputusan dan beraksi secara mandiri tanpa pengawasan manusia secara terus-menerus. Kehadiran teknologi ini memicu perdebatan panas antara inovator teknologi yang menuntut kebebasan berkarya dan regulator yang cemas akan potensi hilangnya kendali manusia. Hasil dari benturan regulasi ini akan menentukan arah masa depan otomasi global.",
+      "takeaways": [
+        "Agentic AI memiliki kapabilitas merencanakan, berinteraksi dengan sistem lain, dan mengeksekusi tugas secara otonom.",
+        "Ketiadaan aturan yang jelas meningkatkan risiko penyalahgunaan sistem otonom untuk aktivitas siber yang merugikan.",
+        "Pakar menyarankan perlunya mekanisme 'tombol darurat' universal yang wajib ditanamkan pada setiap agen AI otonom."
       ],
       "category": "Artificial Intelligence"
     },
