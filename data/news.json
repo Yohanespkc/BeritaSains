@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-24T03:52:04.771891+00:00",
-  "total_articles": 234,
+  "last_updated": "2026-09-25T04:06:52.033029+00:00",
+  "total_articles": 226,
   "articles": [
     {
       "title": "Terobosan Baru: Model AI Terbuka China Saingi Raksasa Silicon Valley",
       "original_title": "Another powerful new artificial intelligence model from China took the US tech industry by surprise",
       "url": "https://example.com/ai-china-model",
       "source": "LinkedIn News",
-      "published_date": "2026-09-24",
+      "published_date": "2026-09-25",
       "summary": "Startup AI asal China meluncurkan model open-source baru yang mengejutkan industri teknologi AS karena kemampuannya yang sangat kompetitif. Model ini menantang dominasi perusahaan besar Silicon Valley dengan performa tinggi yang dapat diakses secara gratis oleh pengembang.",
       "takeaways": [
         "Model open-source baru dari China menunjukkan kemajuan pesat dalam penelitian AI.",
@@ -21,7 +21,7 @@
       "original_title": "First CRISPR Gene Therapy for Rare Genetic Disorder Approved by FDA",
       "url": "https://example.com/crispr-approval",
       "source": "Nature Biotechnology",
-      "published_date": "2026-09-24",
+      "published_date": "2026-09-25",
       "summary": "FDA secara resmi menyetujui terapi pengeditan gen berbasis CRISPR untuk mengobati kelainan genetik langka yang merusak sel saraf. Keputusan bersejarah ini membuka jalan bagi penyembuhan penyakit genetik kronis lainnya yang sebelumnya tidak dapat disembuhkan.",
       "takeaways": [
         "FDA memberikan persetujuan untuk terapi berbasis CRISPR pertama yang menyasar penyakit sel saraf.",
@@ -35,7 +35,7 @@
       "original_title": "Scientists Create Hybrid Brain Network Using Silicon Chips and Neurons",
       "url": "https://example.com/hybrid-brain",
       "source": "Science Daily",
-      "published_date": "2026-09-24",
+      "published_date": "2026-09-25",
       "summary": "Tim peneliti gabungan berhasil menghubungkan sel saraf biologis hidup dengan chip silikon komputer menggunakan antarmuka bio-elektronik baru. Teknologi ini berpotensi digunakan untuk memulihkan fungsi sensorik pasien lumpuh serta mempercepat komputasi neuromorfik.",
       "takeaways": [
         "Integrasi sel saraf hidup dengan silikon membuka jalan bagi komputer biologis.",
@@ -49,7 +49,7 @@
       "original_title": "Google Launches Upgraded Gemini Pro with Larger Context Window",
       "url": "https://example.com/gemini-pro-update",
       "source": "TechCrunch",
-      "published_date": "2026-09-24",
+      "published_date": "2026-09-25",
       "summary": "Google resmi merilis pembaruan untuk model Gemini Pro yang kini mendukung pemrosesan dokumen panjang hingga jutaan token secara bersamaan. Pembaruan ini secara dramatis meningkatkan akurasi dalam menganalisis kode pemrograman kompleks dan laporan keuangan panjang.",
       "takeaways": [
         "Context window Gemini Pro diperluas untuk mendukung analisis data skala besar.",
@@ -63,7 +63,7 @@
       "original_title": "Full Genome Sequencing Unlocks Secrets of Ancient Rice Evolution",
       "url": "https://example.com/rice-genome",
       "source": "Genomics Journal",
-      "published_date": "2026-09-24",
+      "published_date": "2026-09-25",
       "summary": "Para peneliti genetika berhasil memetakan sekuens genom lengkap dari sampel padi purba berusia 3.000 tahun yang ditemukan di situs arkeologi. Data genetik ini mengungkap bagaimana nenek moyang kita melakukan seleksi tanaman terhadap kekeringan dan hama.",
       "takeaways": [
         "Pemetaan genom padi purba memberikan wawasan tentang adaptasi iklim masa lalu.",
@@ -77,7 +77,7 @@
       "original_title": "Future Supercomputing: Large-scale Quantum Computing Experiment Succeeds",
       "url": "https://example.com/quantum-success",
       "source": "MIT Technology Review",
-      "published_date": "2026-09-24",
+      "published_date": "2026-09-25",
       "summary": "Fisikawan berhasil menjalankan algoritma koreksi kesalahan kuantum yang stabil pada sistem 100-qubit untuk pertama kalinya. Hasil ini menunjukkan bahwa komputer kuantum komersial yang bebas dari error tingkat tinggi kini semakin dekat menjadi kenyataan.",
       "takeaways": [
         "Algoritma koreksi kesalahan kuantum berhasil menstabilkan sistem qubit dari gangguan luar.",
@@ -91,7 +91,7 @@
       "original_title": "AI Detects Early-Stage Lung Cancer Using Standard Chest X-rays",
       "url": "https://example.com/ai-lung-cancer",
       "source": "The Lancet Digital Health",
-      "published_date": "2026-09-24",
+      "published_date": "2026-09-25",
       "summary": "Sebuah sistem kecerdasan buatan baru yang dilatih pada jutaan radiografi dada mampu mendeteksi tanda-tanda awal kanker paru dengan akurasi 94%. Sistem ini dapat mendeteksi nodul kecil yang sering terlewatkan oleh radiolog manusia pada pemeriksaan rutin.",
       "takeaways": [
         "Sistem AI melampaui rata-rata akurasi deteksi radiolog manusia dalam skrining awal.",
@@ -105,7 +105,7 @@
       "original_title": "Ancient DNA Technology Reveals Migration Patterns of First Americans",
       "url": "https://example.com/ancient-dna-america",
       "source": "Science Magazine",
-      "published_date": "2026-09-24",
+      "published_date": "2026-09-25",
       "summary": "Studi terhadap sisa-sisa DNA kuno berusia 12.000 tahun menunjukkan bahwa pemukim pertama Amerika bermigrasi dalam beberapa gelombang yang berbeda secara genetik. Analisis ini meluruskan teori migrasi tunggal yang selama ini diyakini oleh para arkeolog.",
       "takeaways": [
         "Analisis genom kuno membuktikan adanya rute migrasi maritim di samping jembatan darat Beringia.",
@@ -119,7 +119,7 @@
       "original_title": "New Sodium-ion Battery Offers Cheap Alternative for Green Energy Storage",
       "url": "https://example.com/sodium-battery",
       "source": "Bloomberg Green",
-      "published_date": "2026-09-24",
+      "published_date": "2026-09-25",
       "summary": "Para peneliti berhasil mengembangkan baterai sodium-ion (garam) berkapasitas tinggi dengan siklus hidup yang menyamai baterai lithium-ion. Karena sodium sangat melimpah dan murah, teknologi ini dapat mempercepat transisi ke penyimpanan energi surya dan angin skala besar.",
       "takeaways": [
         "Baterai berbasis garam menawarkan biaya produksi 40% lebih murah dibanding lithium.",
@@ -133,7 +133,7 @@
       "original_title": "Advancement in Automatic Music Generation Using Pitch-Specific LLMs",
       "url": "https://example.com/music-llm",
       "source": "Wired",
-      "published_date": "2026-09-24",
+      "published_date": "2026-09-25",
       "summary": "Model bahasa besar (LLM) terbaru yang dikonfigurasi khusus untuk memahami teori musik dapat menghasilkan aransemen orkestra lengkap secara instan berdasarkan deskripsi teks. Model ini memahami harmoni dan transisi instrumen secara organik layaknya komposer profesional.",
       "takeaways": [
         "LLM musik baru menghasilkan musik dengan pemahaman struktural harmoni yang mendalam.",
@@ -3163,118 +3163,6 @@
         "Pajak AI diusulkan sebagai solusi konkret untuk mendanai program pelatihan ulang bagi pekerja yang terdampak otomatisasi.",
         "Regulasi fiskal dinilai perlu segera disiapkan guna meredam ketimpangan sosial akibat efisiensi ekstrem dari pemanfaatan AI.",
         "Usulan ini menghadapi tantangan dari para pelaku industri yang khawatir pajak tersebut akan menghambat laju inovasi teknologi."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Alabama Selidiki OpenAI Menyusul Insiden Pelanggaran Keamanan di Hugging Face",
-      "original_title": "Alabama launches probe into OpenAI after Hugging Face breach",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONVEza3ZtS0xtdkxCTXNVNlptMjc3c0FxckROYzdxTmgxQjZaMEVqcURzMkRwcTlLd2JTNUxuSkxXcERQQU5vdGNuZVhRQkNkM0FEWkxYNXlOZFFmUXpsUDZiQncySXhscXFFcjZLWllvM2ZUaVJCT1pmVGoxdzdUWFdGSXVtR295RjZtcWw2TW5qVGc?oc=5",
-      "source": "The Mighty 790 KFGO",
-      "published_date": "2026-08-25",
-      "summary": "Otoritas negara bagian Alabama meluncurkan penyelidikan terhadap OpenAI setelah terjadinya kebocoran keamanan pada platform kolaborasi AI, Hugging Face. Investigasi ini berfokus pada potensi paparan data pengguna dan kepatuhan privasi yang dilakukan oleh raksasa AI tersebut. Kasus ini menegaskan meningkatnya pengawasan hukum regional terhadap keamanan siber dalam ekosistem AI global.",
-      "takeaways": [
-        "Insiden ini menyoroti kerentanan rantai pasok perangkat lunak AI dan risiko interkoneksi antarplatform teknologi.",
-        "Negara bagian AS mulai mengambil langkah hukum mandiri yang lebih agresif untuk melindungi data warganya dari kebocoran AI.",
-        "OpenAI menghadapi tekanan regulasi tambahan terkait standar transparansi dan proteksi data pihak ketiga."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "90 Persen Eksekutif Mengaku AI Belum Dongkrak Produktivitas, Gelombang PHK Diproyeksi Berlanjut",
-      "original_title": "90 Percent of Execs Say Oops, AI Didn’t Help Productivity, So Layoffs Will Continue",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcWFiV2U3cXZkVS0zbmgzWDNUX0hXclBjZUprQXhNclNpblpTeGlDV3NEVHNvRlRKSlVnYUdtMHZTSEo3S2ZOSURGREhBeFFLTzNPRWhUS2ZENlptd1k5dFMzT09KbzFfamRHVjBHWTN5YlJJZUlSRjlsZWVqMDFBRFNESW4zb2hwZlVtSTkxNE5tNWpSdEdua1FIZlo?oc=5",
-      "source": "Futurism",
-      "published_date": "2026-08-25",
-      "summary": "Mayoritas eksekutif perusahaan melaporkan bahwa integrasi kecerdasan buatan (AI) belum memberikan peningkatan produktivitas yang diharapkan secara signifikan. Dampaknya, banyak perusahaan masih akan terus melakukan perampingan karyawan demi menyeimbangkan efisiensi biaya operasional.",
-      "takeaways": [
-        "Sembilan puluh persen pemimpin perusahaan merasa investasi AI belum memberikan hasil produktivitas yang nyata secara langsung",
-        "Ekspektasi tinggi terhadap otomatisasi instan berbenturan dengan realitas adaptasi teknologi yang butuh waktu lama",
-        "Gelombang pengurangan tenaga kerja diperkirakan tetap berlanjut di tengah ketidakpastian efisiensi teknologi baru ini"
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Mengapa Pengujian AI oleh Irregular untuk Meta, Anthropic, dan OpenAI Mengalami Kegagalan",
-      "original_title": "Why Irregular’s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MTUZyVjgxa2cwaWl3cWEweEFyUUFHTGFzb0lMaERtdl9jVG1kTGNBdW50Y0wzT0NFNU5EaHJ6QUlJVjFON2JPdE01eHZlNm9TOF9iVjRoeWs1X0dzVzBUbmFLMWpYVG54VFpRbFZmU3dyVl9YcWZGYnNOMlR6WlU?oc=5",
-      "source": "The New York Times",
-      "published_date": "2026-08-25",
-      "summary": "Upaya evaluasi independen yang dilakukan oleh organisasi Irregular terhadap model kecerdasan buatan milik raksasa teknologi seperti Meta, Anthropic, dan OpenAI menemui berbagai kendala teknis dan metodologis. Kegagalan ini menyoroti betapa sulitnya menciptakan standar pengujian yang adil, konsisten, dan transparan untuk sistem AI generatif yang kompleks.",
-      "takeaways": [
-        "Evaluasi independen terhadap model AI milik perusahaan raksasa menghadapi tantangan besar dalam metodologi dan objektivitas pengujian",
-        "Ketidaksepakatan teknis menyebabkan proses evaluasi mandiri dari pihak eksternal tidak berjalan sesuai rencana",
-        "Kasus ini menegaskan perlunya standar pengujian pihak ketiga yang lebih terstandardisasi di seluruh industri teknologi"
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Uni Eropa Resmi Berlakukan Undang-Undang Kecerdasan Buatan Terluas di Dunia",
-      "original_title": "PRESS RELEASE: European Union Begins Enforcing Sweeping Artificial Intelligence Act",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOC1BbDVuT2RKZUp1X3RUWVVnZEFwaVY4STNYdTY3WWVuNmNQazRhREZEa3BRVTlta3lXZUpnN3QyMEwzMHowUXV1SlhjanptYnpIQkU1UWtFQ2gxRUg4U0o1VkU0Q2t4QUVyVkhUa3ZwencxUkVNcXdYTTJHNzd1YnNPUHF1SnBYeUtzZDZKYUNWZUprTjhraDVyY2dCRXA3Z1FWQ3ZrS3htQkNaOU96QnQ0RQ?oc=5",
-      "source": "The Heartland Institute",
-      "published_date": "2026-08-25",
-      "summary": "Uni Eropa telah resmi memulai penegakan Undang-Undang Kecerdasan Buatan (EU AI Act) yang akan mengatur penggunaan teknologi AI berdasarkan tingkat risikonya. Regulasi komprehensif ini diharapkan menjadi standar global baru dalam memastikan pengembangan AI yang aman, etis, dan transparan.",
-      "takeaways": [
-        "Undang-Undang AI Uni Eropa mulai diberlakukan secara ketat untuk mengawasi kepatuhan pengembangan kecerdasan buatan",
-        "Regulasi ini membagi sistem AI ke dalam berbagai kategori risiko, dari yang minimal hingga dilarang sepenuhnya untuk publik",
-        "Langkah tegas Uni Eropa ini diproyeksikan akan sangat memengaruhi kepatuhan standar kepatuhan regulasi teknologi global"
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Pencarian Planet Layak Huni Kini Memanfaatkan Kekuatan Kecerdasan Buatan",
-      "original_title": "Transit Searches for Habitable-Zone Exoplanets with Artificial Intelligence",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRU1NM2U2R0ZnMTIyZTkzaFRmNEg5ZmJVdDVQTDlGSVJGeTFoelZ1SUdXWGVrTzhzMFR6SEV5M0xGOXc2Z0JGWHNtUVllSnpVelppWUx5Y3VXQVJhZERXeHdIU3I2aktGRWpaVDN4NHM1clB6d0wzUzJrSU5BSjdZYW1ISm4wOS1iSDFzSDdHbEJpVkllcDd5RTlKaXQyZ3hscVVrTkNDdFh5WkM5cTcyZVdB?oc=5",
-      "source": "Astrobiology Web",
-      "published_date": "2026-08-25",
-      "summary": "Para ilmuwan kini mengintegrasikan kecerdasan buatan untuk menganalisis data teleskop luar angkasa dalam misi mencari eksoplanet di zona layak huni. Penggunaan AI secara drastis mempercepat proses penyaringan sinyal redup dari planet jauh yang sering kali terlewatkan oleh metode analisis manual biasa.",
-      "takeaways": [
-        "Kecerdasan buatan digunakan untuk mendeteksi tanda-tanda planet luar tata surya yang berada di zona layak huni bintang induknya",
-        "Algoritma pembelajaran mesin mampu memproses maha data transit teleskop dengan tingkat kepekaan dan akurasi tinggi",
-        "Kolaborasi sains dan AI ini membuka peluang lebih besar untuk menemukan dunia baru yang berpotensi memiliki kehidupan"
-      ],
-      "category": "Sains & Teknologi"
-    },
-    {
-      "title": "Angkatan Udara AS Teken Kontrak $100 Juta untuk Platform Kesiapan Militer Berbasis AI",
-      "original_title": "Air Force awards $100M production deal for AI-enabled readiness platform",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTjVHV2xKbTJuNHNJS1A0TkZSaDVrZzE5M0o1TVhkUEJKbFhVTmdRcGlIQKc0MGpLSjQyS3RsdVFwVXFFSDJvM25JR0YyTktzMnRLM2Jub1htMVRONC1Lbks3T2JncFBBcFU2M1RGNVFjY2xualNUWU5wSHpVdTB1bUN2dnF0V1V2S3hvUkZfWS1yYnVoNUNxdw?oc=5",
-      "source": "DefenseScoop",
-      "published_date": "2026-08-25",
-      "summary": "Angkatan Udara Amerika Serikat menyepakati kontrak produksi senilai 100 juta dolar untuk pengembangan dan penerapan platform kesiapan militer berbasis AI. Sistem ini dirancang untuk mengoptimalkan logistik, perawatan armada udara, dan pengambilan keputusan taktis secara instan.",
-      "takeaways": [
-        "Angkatan Udara AS berinvestasi besar pada platform operasional militer yang sepenuhnya ditenagai kecerdasan buatan",
-        "Kontrak senilai $100 juta ini difokuskan pada otomatisasi perawatan pesawat tempur dan analisis data operasional secara langsung",
-        "Langkah strategis ini menandakan ketergantungan sektor pertahanan modern yang kian tinggi pada otomatisasi pintar"
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Stowers Institute Perluas Inisiatif AI untuk Riset Biomedis dan Tunjuk Peneliti AI Baru",
-      "original_title": "Stowers Institute expands Artificial Intelligence Initiative, appoints second AI Fellow",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOX3gxNnExUmF0LUhpaG9WMnE4M3cydDFSWHV6T1JnNkgwS3Yxbk5Jck4ySHl0U1pnMlVaVTVzQjhnakFHSFdCSndvMHZad3cyVGY4RV9jSG9RdkVuRW9lMkdRMjFpM1lXMEU0U3BSZEthSGE5T2d2dHE3dlU1dEpEcHItZWxpVWJHMWl1a2lkN1lvbzVKbjBoOHpNeGJ6NHdtakliSmZGSVRaaXQwbEQ4M1J1bzFoMElQM083U1dEWC02ekpnS21oNm9tSENwUGFiS2hDejFnSkJ6Zw?oc=5",
-      "source": "PR Newswire",
-      "published_date": "2026-08-25",
-      "summary": "Stowers Institute memperluas program inisiatif kecerdasan buatannya dengan menunjuk peneliti AI khusus yang kedua untuk mempercepat penemuan dalam ilmu biologi fundamental. Kolaborasi antara biologi molekuler dan pembelajaran mesin ini diharapkan mampu memecahkan misteri penyakit kompleks lebih cepat.",
-      "takeaways": [
-        "Stowers Institute memperkuat riset biologi molekuler dengan memperluas inisiatif kecerdasan buatan mereka",
-        "Pengangkatan peneliti AI baru bertujuan untuk memajukan pemrosesan data genomik yang sangat kompleks secara komputasional",
-        "Inisiatif ini menyoroti peran krusial AI modern dalam mengidentifikasi pola genetik dan penyakit pada tingkat seluler"
-      ],
-      "category": "Genom & Biotek"
-    },
-    {
-      "title": "Pemimpin Militer Soroti Kolaborasi Manusia dan Mesin Berbasis AI untuk Pertahanan Masa Depan",
-      "original_title": "Army Leaders highlight AI, human-machine teaming at TECHNET Augusta 2026",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTDdGa3VEclo4djlrZTVyWWxNeExGbFJNSGwydG9uVkE3Y0hlR0JHV3ZPZEVxOFd6TnBiUHFtNF9BbGxXVW1mUHBPMWRMS0ZWMGRYVWR4dEJuX19aVnRoQ0hHbnZvZk9rV0JDbVF6Z3pBR0lHVXp5bHNEdUVjNk1mVktJc0RSZmZhUUlNUzVsdklJaUVwOEtRb3dMWFZMTkx2bl8xbjBCWmtJc0HSAbABQVVfeXFMUGdlQmJGWnhEVF8zWjJHTmFBSTRXVFV0Tmxvb0l4MEppLU94MXlYTzZISXFfUjROT0VkTGNSQm5rdU1kRWFoc1JCc1VtbU11ZEhJN1hFbVRMeWVacHpneW5PZVN0aThtWTVfYU1OTGtIbkFCWmtaQUw0Ym5mWTNJQ3pWbmFkbW5EWk1vamxzcmlEV3dyZ3J4Y2M4ZFJHX2dyLWFIMHplNHQ1MzNQbXoyc0Y?oc=5",
-      "source": "army.mil",
-      "published_date": "2026-08-25",
-      "summary": "Konferensi TECHNET Augusta 2026 menjadi ajang bagi para pemimpin militer untuk menekankan pentingnya integrasi kecerdasan buatan dan kolaborasi erat antara manusia dan mesin (human-machine teaming). Konsep ini dinilai krusial untuk mempertahankan keunggulan taktis di medan perang modern yang dinamis.",
-      "takeaways": [
-        "Militer AS memfokuskan pengembangan pada kolaborasi manusia-mesin terintegrasi, bukan otonomi militer penuh tanpa kendali manusia",
-        "Teknologi AI diharapkan bertindak sebagai asisten tepercaya untuk pemrosesan informasi taktis dalam waktu singkat",
-        "Integrasi human-machine teaming dinilai menjadi pilar utama dalam modernisasi strategi pertahanan nasional masa depan"
       ],
       "category": "Artificial Intelligence"
     }
