@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-29T04:58:02.629354+00:00",
-  "total_articles": 209,
+  "last_updated": "2026-09-30T04:44:19.464717+00:00",
+  "total_articles": 204,
   "articles": [
     {
       "title": "Terobosan Baru: Model AI Terbuka China Saingi Raksasa Silicon Valley",
       "original_title": "Another powerful new artificial intelligence model from China took the US tech industry by surprise",
       "url": "https://example.com/ai-china-model",
       "source": "LinkedIn News",
-      "published_date": "2026-09-29",
+      "published_date": "2026-09-30",
       "summary": "Startup AI asal China meluncurkan model open-source baru yang mengejutkan industri teknologi AS karena kemampuannya yang sangat kompetitif. Model ini menantang dominasi perusahaan besar Silicon Valley dengan performa tinggi yang dapat diakses secara gratis oleh pengembang.",
       "takeaways": [
         "Model open-source baru dari China menunjukkan kemajuan pesat dalam penelitian AI.",
@@ -21,7 +21,7 @@
       "original_title": "First CRISPR Gene Therapy for Rare Genetic Disorder Approved by FDA",
       "url": "https://example.com/crispr-approval",
       "source": "Nature Biotechnology",
-      "published_date": "2026-09-29",
+      "published_date": "2026-09-30",
       "summary": "FDA secara resmi menyetujui terapi pengeditan gen berbasis CRISPR untuk mengobati kelainan genetik langka yang merusak sel saraf. Keputusan bersejarah ini membuka jalan bagi penyembuhan penyakit genetik kronis lainnya yang sebelumnya tidak dapat disembuhkan.",
       "takeaways": [
         "FDA memberikan persetujuan untuk terapi berbasis CRISPR pertama yang menyasar penyakit sel saraf.",
@@ -35,7 +35,7 @@
       "original_title": "Scientists Create Hybrid Brain Network Using Silicon Chips and Neurons",
       "url": "https://example.com/hybrid-brain",
       "source": "Science Daily",
-      "published_date": "2026-09-29",
+      "published_date": "2026-09-30",
       "summary": "Tim peneliti gabungan berhasil menghubungkan sel saraf biologis hidup dengan chip silikon komputer menggunakan antarmuka bio-elektronik baru. Teknologi ini berpotensi digunakan untuk memulihkan fungsi sensorik pasien lumpuh serta mempercepat komputasi neuromorfik.",
       "takeaways": [
         "Integrasi sel saraf hidup dengan silikon membuka jalan bagi komputer biologis.",
@@ -49,7 +49,7 @@
       "original_title": "Google Launches Upgraded Gemini Pro with Larger Context Window",
       "url": "https://example.com/gemini-pro-update",
       "source": "TechCrunch",
-      "published_date": "2026-09-29",
+      "published_date": "2026-09-30",
       "summary": "Google resmi merilis pembaruan untuk model Gemini Pro yang kini mendukung pemrosesan dokumen panjang hingga jutaan token secara bersamaan. Pembaruan ini secara dramatis meningkatkan akurasi dalam menganalisis kode pemrograman kompleks dan laporan keuangan panjang.",
       "takeaways": [
         "Context window Gemini Pro diperluas untuk mendukung analisis data skala besar.",
@@ -63,7 +63,7 @@
       "original_title": "Full Genome Sequencing Unlocks Secrets of Ancient Rice Evolution",
       "url": "https://example.com/rice-genome",
       "source": "Genomics Journal",
-      "published_date": "2026-09-29",
+      "published_date": "2026-09-30",
       "summary": "Para peneliti genetika berhasil memetakan sekuens genom lengkap dari sampel padi purba berusia 3.000 tahun yang ditemukan di situs arkeologi. Data genetik ini mengungkap bagaimana nenek moyang kita melakukan seleksi tanaman terhadap kekeringan dan hama.",
       "takeaways": [
         "Pemetaan genom padi purba memberikan wawasan tentang adaptasi iklim masa lalu.",
@@ -77,7 +77,7 @@
       "original_title": "Future Supercomputing: Large-scale Quantum Computing Experiment Succeeds",
       "url": "https://example.com/quantum-success",
       "source": "MIT Technology Review",
-      "published_date": "2026-09-29",
+      "published_date": "2026-09-30",
       "summary": "Fisikawan berhasil menjalankan algoritma koreksi kesalahan kuantum yang stabil pada sistem 100-qubit untuk pertama kalinya. Hasil ini menunjukkan bahwa komputer kuantum komersial yang bebas dari error tingkat tinggi kini semakin dekat menjadi kenyataan.",
       "takeaways": [
         "Algoritma koreksi kesalahan kuantum berhasil menstabilkan sistem qubit dari gangguan luar.",
@@ -91,7 +91,7 @@
       "original_title": "AI Detects Early-Stage Lung Cancer Using Standard Chest X-rays",
       "url": "https://example.com/ai-lung-cancer",
       "source": "The Lancet Digital Health",
-      "published_date": "2026-09-29",
+      "published_date": "2026-09-30",
       "summary": "Sebuah sistem kecerdasan buatan baru yang dilatih pada jutaan radiografi dada mampu mendeteksi tanda-tanda awal kanker paru dengan akurasi 94%. Sistem ini dapat mendeteksi nodul kecil yang sering terlewatkan oleh radiolog manusia pada pemeriksaan rutin.",
       "takeaways": [
         "Sistem AI melampaui rata-rata akurasi deteksi radiolog manusia dalam skrining awal.",
@@ -105,7 +105,7 @@
       "original_title": "Ancient DNA Technology Reveals Migration Patterns of First Americans",
       "url": "https://example.com/ancient-dna-america",
       "source": "Science Magazine",
-      "published_date": "2026-09-29",
+      "published_date": "2026-09-30",
       "summary": "Studi terhadap sisa-sisa DNA kuno berusia 12.000 tahun menunjukkan bahwa pemukim pertama Amerika bermigrasi dalam beberapa gelombang yang berbeda secara genetik. Analisis ini meluruskan teori migrasi tunggal yang selama ini diyakini oleh para arkeolog.",
       "takeaways": [
         "Analisis genom kuno membuktikan adanya rute migrasi maritim di samping jembatan darat Beringia.",
@@ -119,7 +119,7 @@
       "original_title": "New Sodium-ion Battery Offers Cheap Alternative for Green Energy Storage",
       "url": "https://example.com/sodium-battery",
       "source": "Bloomberg Green",
-      "published_date": "2026-09-29",
+      "published_date": "2026-09-30",
       "summary": "Para peneliti berhasil mengembangkan baterai sodium-ion (garam) berkapasitas tinggi dengan siklus hidup yang menyamai baterai lithium-ion. Karena sodium sangat melimpah dan murah, teknologi ini dapat mempercepat transisi ke penyimpanan energi surya dan angin skala besar.",
       "takeaways": [
         "Baterai berbasis garam menawarkan biaya produksi 40% lebih murah dibanding lithium.",
@@ -133,7 +133,7 @@
       "original_title": "Advancement in Automatic Music Generation Using Pitch-Specific LLMs",
       "url": "https://example.com/music-llm",
       "source": "Wired",
-      "published_date": "2026-09-29",
+      "published_date": "2026-09-30",
       "summary": "Model bahasa besar (LLM) terbaru yang dikonfigurasi khusus untuk memahami teori musik dapat menghasilkan aransemen orkestra lengkap secara instan berdasarkan deskripsi teks. Model ini memahami harmoni dan transisi instrumen secara organik layaknya komposer profesional.",
       "takeaways": [
         "LLM musik baru menghasilkan musik dengan pemahaman struktural harmoni yang mendalam.",
@@ -2855,76 +2855,6 @@
         "Drone AI dikembangkan untuk mampu mengambil keputusan navigasi mandiri di wilayah konflik.",
         "Teknologi ini dirancang guna mengurangi risiko bagi personel militer dalam misi pengintaian.",
         "Penerapan AI otonom di bidang militer terus memicu debat regulasi dan etika global."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Investasi Masif Kecerdasan Buatan: Setara Proyek Manhattan Skala Global",
-      "original_title": "Immersed in artificial intelligence: \"We have 10 Manhattan projects\"",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcmdDUDlpOGp6OENDdDJYcVlrTEUtdlBPdXJ5R3JSX0pvdnBFYWJpZjVpdWFycDBpd0kySEVidHBmem1YcnZWRnR6aWZ2V2k2allxTGZIMFFuRFE3UlB5d0dJS2g2NHdNYW41VUk4MDhGUElESUxUd3l5aDY4YzRPaTV6SDhIcjJsMlU2LVpzVGZuVXRwMnd6eTJYYWVDcnV2Y2M3Y09taVVnb0nSAbABQVVfeXFMTlEtRlVYeW5vakFQdnphQTRnVEtIcGdGMjZhY2J2aVN2T1hoVGN3OGwyc2Y4ZWxTcWJzSGdWQmoxUGR1OXo4UnZac1l0aUNnMXJzRldRMXdjNzNYbW5iakNfeS1RTncxeV9ldS1lOHoyT1IyeUtJZV9IdU9NdjhBbjJQdWZ0MUZLSkNqSnd0ZWx3anJLQjZMRjNRMDFGeFlaODZfclBHZnNCdjZRZ1J6Z3g?oc=5",
-      "source": "Diari ARA",
-      "published_date": "2026-08-30",
-      "summary": "Artikel ini menyoroti ambisi raksasa teknologi yang menggelontorkan dana luar biasa untuk pengembangan infrastruktur kecerdasan buatan. Skala riset dan pembangunan pusat data saat ini dinilai menyamai upaya perang sains historis seperti Proyek Manhattan. Perebutan dominasi AI ini diprediksi akan mengubah peta geopolitik teknologi global secara dramatis.",
-      "takeaways": [
-        "Skala investasi infrastruktur AI global saat ini mencapai tingkat historis yang belum pernah terjadi sebelumnya.",
-        "Konsumsi energi dan kebutuhan komputasi menjadi tantangan logistik terbesar dalam realisasi 'super-proyek' ini.",
-        "Dominasi teknologi ini kini dipandang sebagai isu ketahanan nasional yang setara dengan persenjataan strategis."
-      ],
-      "category": "Sains & Teknologi"
-    },
-    {
-      "title": "Guna Bersaing Secara Global, Korea Selatan Alihkan Fokus Strategi AI ke Pengembangan Model Frontier",
-      "original_title": "S. Korea shifts AI strategy toward frontier models",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbXZlX0M4b3ZHYjZ5dmMwOWNwYkEzalJkMHUtaF95SExEb1NMRlREd0t3bkFtY3VnZnVZd2V5X0c1S0hSUV9CQkZHWHoyNUl1ZHhrNk1tN1VhOFBxLTlHNTZ2Qjh4RUJIb1FtOWtoUU9BREhOekc5ckFTbUh1bXdIMDlubWI4MERtSmcyd3BvZHlQQkl2V3h2QnhmeWVQay1zT0wtMDVRMDBjbGJMUlBPatIBtgFBVV95cUxQZXdQX25FYkR6b2N4ZzlSRTdNU0VCNWdiWmJTSWR2eHRLRmk2UFFKbUlJMDRiMlhYU0UwY0UwOW5NREVYYTVRODNkaVJkVVFHeGhQbFZNX2pHNm9XMjBHOUU5VDVWX2xCbml1UERSVldLVV9QeEFzYi10djczeU9yTUdRRjlJRllMdUd4MFJ4ZDcxZXVNeEgwMTczUjliSGxUSGM5b3FNUDM1WlBzQUxjNDFYT2l3UQ?oc=5",
-      "source": "upi.com",
-      "published_date": "2026-08-30",
-      "summary": "Pemerintah Korea Selatan secara resmi mengubah arah kebijakan teknologinya dengan memprioritaskan pendanaan pada pengembangan 'frontier models' AI generasi berikutnya. Langkah strategis ini diambil demi menandingi dominasi perusahaan teknologi raksasa asal Amerika Serikat dan China. Kolaborasi erat antara sektor publik, akademisi, dan industri lokal menjadi pilar utama dari inisiatif nasional ini.",
-      "takeaways": [
-        "Korea Selatan berkomitmen menginvestasikan sumber daya besar untuk membangun model AI canggih mandiri.",
-        "Inisiatif ini dirancang guna mengurangi ketergantungan pada infrastruktur teknologi asing.",
-        "Fokus utama mencakup peningkatan kemampuan komputasi nasional dan pengamanan kedaulatan data."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Bukan Nvidia atau AMD: Raksasa Semikonduktor Ini Diprediksi Menjadi Pemenang Utama Perebutan Pasar Perangkat Keras AI",
-      "original_title": "Not Nvidia. Not AMD. This Semiconductor Giant Will Be the Ultimate Winner of the Artificial Intelligence (AI) Hardware Race.",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTWJ4dGZtY3JEb2tVVU00Z0pqNFdIaHprUmQzal9rdUJnOUdFTDMtRTN3a3FRX2ctdjJEbmEwMnRMblBrTXYwS1ByaUR0NXBCaXgwd3RSOWRlb1hwa0VmWkFQaXV0SGJYWjhuSjRhX3NSNm1MR3ZKdmExVzhxd3pfeUt0MjA3REcyWXpXZnVZODJGVzgwOHJjaVlCMTQ?oc=5",
-      "source": "Yahoo Finance",
-      "published_date": "2026-08-30",
-      "summary": "Analisis pasar terbaru memprediksi bahwa pemenang sejati dari perlombaan perangkat keras AI global bukanlah perancang cip populer seperti Nvidia atau AMD, melainkan pabrikan semikonduktor raksasa yang memproduksi fisik cip tersebut. Ketergantungan industri terhadap fasilitas pengecoran (foundry) tingkat lanjut menempatkan manufaktur infrastruktur ini dalam posisi monopoli yang sangat menguntungkan. Hal ini menyoroti titik kritis rantai pasok global dalam revolusi teknologi.",
-      "takeaways": [
-        "Kapasitas manufaktur fisik cip menjadi hambatan terbesar sekaligus peluang emas dalam industri AI.",
-        "Perusahaan pengecoran semikonduktor memiliki daya tawar yang sangat tinggi dibanding perancang cip tanpa pabrik (fabless).",
-        "Keamanan geopolitik di sekitar pusat produksi cip akan terus memengaruhi stabilitas perkembangan AI global."
-      ],
-      "category": "Sains & Teknologi"
-    },
-    {
-      "title": "Adopsi AI di Rumah Sakit Meningkat Pesat, Namun Regulasi Pengawasan dan Pengujian Masih Tertinggal",
-      "original_title": "Hospitals Are All In on AI, but Testing and Oversight Haven’t Caught Up",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8zQ2xqdjJOZF80cUFfcjR1SE1VRGRVdzZ5Z0M2S1pRR2o3LTVjcEo1WHQtak5CbGlFLWdtWGlEdE03LW1JaDVGam5ZZlB2Nmg0R3Z3NXhVaWxjS3Q0TDFzdXFHZU5KTl83anBXNFRKcw?oc=5",
-      "source": "MedCity News",
-      "published_date": "2026-08-30",
-      "summary": "Meskipun institusi medis di berbagai belahan dunia berlomba-lomba menerapkan AI untuk diagnosis dan administrasi, para ahli memperingatkan adanya kesenjangan besar dalam protokol pengujian. Banyak alat kesehatan berbasis AI yang diimplementasikan tanpa melalui validasi klinis jangka panjang yang memadai untuk menjamin keselamatan pasien. Hal ini mendorong tuntutan standarisasi regulasi kesehatan digital yang lebih ketat.",
-      "takeaways": [
-        "Integrasi AI di sektor kesehatan berlangsung lebih cepat dibandingkan pembentukan regulasi keamanannya.",
-        "Kurangnya pengujian klinis yang transparan berisiko menimbulkan kesalahan diagnosis yang membahayakan pasien.",
-        "Diperlukan badan pengawas khusus untuk mengevaluasi kinerja algoritma medis secara berkala."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Bagaikan Fase Awal Pandemi: Upaya Global Mengatur Regulasi AI Dinilai Masih Kurang Terarah",
-      "original_title": "‘It feels like early COVID’: The messy scramble to regulate AI",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQlJqaTdwRndxU3d6UUtyX0ZzZHBzTFRvbkNTaFNUTDIyNXh4aUY1Z1dIZGxfeWd5UzZUMVhJRWdUZjRMS2d3ZlhJcmRYeC1tZVZLTW5qZlRxZlk2ZVJTTFVaQ0hTZWRLRm0zeHZqdlB2Y2xNZDF5Y1pWeUN6ektIQjZuVGxPV1BMZ3I2cEhvSndsMVhmRUYycjFZS21FMUtkRDg4dGF5UnZMY3hQZ2JiNUFHWmV2OV9oWUdxRUdySll1cHVzaTB4bDZIMjhpNFUwTFlZc0NQY2o?oc=5",
-      "source": "WPSD Local 6",
-      "published_date": "2026-08-30",
-      "summary": "Para pembuat kebijakan di seluruh dunia menghadapi kepanikan dalam merumuskan aturan hukum untuk membatasi dampak negatif AI, menyamai urgensi masa awal krisis COVID-19. Akibatnya, regulasi yang lahir sering kali tumpang tindih, terfragmentasi, dan tidak konsisten antarnegara. Ketiadaan standar internasional yang seragam dipandang dapat menghambat adopsi teknologi yang aman sekaligus membingungkan pelaku industri.",
-      "takeaways": [
-        "Negara-negara di dunia terburu-buru membuat aturan AI secara parsial tanpa koordinasi global yang matang.",
-        "Pendekatan regulasi yang tidak konsisten memicu ketidakpastian hukum bagi industri teknologi.",
-        "Diperlukan kerangka kerja kolaboratif global agar aturan yang dibuat efektif dan adaptif terhadap perkembangan AI."
       ],
       "category": "Artificial Intelligence"
     }
