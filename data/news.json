@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-10-01T04:56:39.970079+00:00",
-  "total_articles": 199,
+  "last_updated": "2026-10-02T04:46:36.648710+00:00",
+  "total_articles": 194,
   "articles": [
     {
       "title": "Terobosan Baru: Model AI Terbuka China Saingi Raksasa Silicon Valley",
       "original_title": "Another powerful new artificial intelligence model from China took the US tech industry by surprise",
       "url": "https://example.com/ai-china-model",
       "source": "LinkedIn News",
-      "published_date": "2026-10-01",
+      "published_date": "2026-10-02",
       "summary": "Startup AI asal China meluncurkan model open-source baru yang mengejutkan industri teknologi AS karena kemampuannya yang sangat kompetitif. Model ini menantang dominasi perusahaan besar Silicon Valley dengan performa tinggi yang dapat diakses secara gratis oleh pengembang.",
       "takeaways": [
         "Model open-source baru dari China menunjukkan kemajuan pesat dalam penelitian AI.",
@@ -21,7 +21,7 @@
       "original_title": "First CRISPR Gene Therapy for Rare Genetic Disorder Approved by FDA",
       "url": "https://example.com/crispr-approval",
       "source": "Nature Biotechnology",
-      "published_date": "2026-10-01",
+      "published_date": "2026-10-02",
       "summary": "FDA secara resmi menyetujui terapi pengeditan gen berbasis CRISPR untuk mengobati kelainan genetik langka yang merusak sel saraf. Keputusan bersejarah ini membuka jalan bagi penyembuhan penyakit genetik kronis lainnya yang sebelumnya tidak dapat disembuhkan.",
       "takeaways": [
         "FDA memberikan persetujuan untuk terapi berbasis CRISPR pertama yang menyasar penyakit sel saraf.",
@@ -35,7 +35,7 @@
       "original_title": "Scientists Create Hybrid Brain Network Using Silicon Chips and Neurons",
       "url": "https://example.com/hybrid-brain",
       "source": "Science Daily",
-      "published_date": "2026-10-01",
+      "published_date": "2026-10-02",
       "summary": "Tim peneliti gabungan berhasil menghubungkan sel saraf biologis hidup dengan chip silikon komputer menggunakan antarmuka bio-elektronik baru. Teknologi ini berpotensi digunakan untuk memulihkan fungsi sensorik pasien lumpuh serta mempercepat komputasi neuromorfik.",
       "takeaways": [
         "Integrasi sel saraf hidup dengan silikon membuka jalan bagi komputer biologis.",
@@ -49,7 +49,7 @@
       "original_title": "Google Launches Upgraded Gemini Pro with Larger Context Window",
       "url": "https://example.com/gemini-pro-update",
       "source": "TechCrunch",
-      "published_date": "2026-10-01",
+      "published_date": "2026-10-02",
       "summary": "Google resmi merilis pembaruan untuk model Gemini Pro yang kini mendukung pemrosesan dokumen panjang hingga jutaan token secara bersamaan. Pembaruan ini secara dramatis meningkatkan akurasi dalam menganalisis kode pemrograman kompleks dan laporan keuangan panjang.",
       "takeaways": [
         "Context window Gemini Pro diperluas untuk mendukung analisis data skala besar.",
@@ -63,7 +63,7 @@
       "original_title": "Full Genome Sequencing Unlocks Secrets of Ancient Rice Evolution",
       "url": "https://example.com/rice-genome",
       "source": "Genomics Journal",
-      "published_date": "2026-10-01",
+      "published_date": "2026-10-02",
       "summary": "Para peneliti genetika berhasil memetakan sekuens genom lengkap dari sampel padi purba berusia 3.000 tahun yang ditemukan di situs arkeologi. Data genetik ini mengungkap bagaimana nenek moyang kita melakukan seleksi tanaman terhadap kekeringan dan hama.",
       "takeaways": [
         "Pemetaan genom padi purba memberikan wawasan tentang adaptasi iklim masa lalu.",
@@ -77,7 +77,7 @@
       "original_title": "Future Supercomputing: Large-scale Quantum Computing Experiment Succeeds",
       "url": "https://example.com/quantum-success",
       "source": "MIT Technology Review",
-      "published_date": "2026-10-01",
+      "published_date": "2026-10-02",
       "summary": "Fisikawan berhasil menjalankan algoritma koreksi kesalahan kuantum yang stabil pada sistem 100-qubit untuk pertama kalinya. Hasil ini menunjukkan bahwa komputer kuantum komersial yang bebas dari error tingkat tinggi kini semakin dekat menjadi kenyataan.",
       "takeaways": [
         "Algoritma koreksi kesalahan kuantum berhasil menstabilkan sistem qubit dari gangguan luar.",
@@ -91,7 +91,7 @@
       "original_title": "AI Detects Early-Stage Lung Cancer Using Standard Chest X-rays",
       "url": "https://example.com/ai-lung-cancer",
       "source": "The Lancet Digital Health",
-      "published_date": "2026-10-01",
+      "published_date": "2026-10-02",
       "summary": "Sebuah sistem kecerdasan buatan baru yang dilatih pada jutaan radiografi dada mampu mendeteksi tanda-tanda awal kanker paru dengan akurasi 94%. Sistem ini dapat mendeteksi nodul kecil yang sering terlewatkan oleh radiolog manusia pada pemeriksaan rutin.",
       "takeaways": [
         "Sistem AI melampaui rata-rata akurasi deteksi radiolog manusia dalam skrining awal.",
@@ -105,7 +105,7 @@
       "original_title": "Ancient DNA Technology Reveals Migration Patterns of First Americans",
       "url": "https://example.com/ancient-dna-america",
       "source": "Science Magazine",
-      "published_date": "2026-10-01",
+      "published_date": "2026-10-02",
       "summary": "Studi terhadap sisa-sisa DNA kuno berusia 12.000 tahun menunjukkan bahwa pemukim pertama Amerika bermigrasi dalam beberapa gelombang yang berbeda secara genetik. Analisis ini meluruskan teori migrasi tunggal yang selama ini diyakini oleh para arkeolog.",
       "takeaways": [
         "Analisis genom kuno membuktikan adanya rute migrasi maritim di samping jembatan darat Beringia.",
@@ -119,7 +119,7 @@
       "original_title": "New Sodium-ion Battery Offers Cheap Alternative for Green Energy Storage",
       "url": "https://example.com/sodium-battery",
       "source": "Bloomberg Green",
-      "published_date": "2026-10-01",
+      "published_date": "2026-10-02",
       "summary": "Para peneliti berhasil mengembangkan baterai sodium-ion (garam) berkapasitas tinggi dengan siklus hidup yang menyamai baterai lithium-ion. Karena sodium sangat melimpah dan murah, teknologi ini dapat mempercepat transisi ke penyimpanan energi surya dan angin skala besar.",
       "takeaways": [
         "Baterai berbasis garam menawarkan biaya produksi 40% lebih murah dibanding lithium.",
@@ -133,7 +133,7 @@
       "original_title": "Advancement in Automatic Music Generation Using Pitch-Specific LLMs",
       "url": "https://example.com/music-llm",
       "source": "Wired",
-      "published_date": "2026-10-01",
+      "published_date": "2026-10-02",
       "summary": "Model bahasa besar (LLM) terbaru yang dikonfigurasi khusus untuk memahami teori musik dapat menghasilkan aransemen orkestra lengkap secara instan berdasarkan deskripsi teks. Model ini memahami harmoni dan transisi instrumen secara organik layaknya komposer profesional.",
       "takeaways": [
         "LLM musik baru menghasilkan musik dengan pemahaman struktural harmoni yang mendalam.",
@@ -2717,76 +2717,6 @@
         "Para aktivis mendesak pembuatan regulasi khusus yang lebih ketat guna menghentikan penyebaran visual anak ilegal hasil rekayasa AI."
       ],
       "category": "Sains & Teknologi"
-    },
-    {
-      "title": "Deteksi Dini Kanker Payudara: BCRF Danai Pengembangan Platform AI untuk Pasien Penyintas",
-      "original_title": "BCRF Award Supports AI Platform to Improve Breast Cancer Survivorship Care",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWmFFenZTbE91WEV3Yktwem9Dd09PZm1wMHhrQ2xWV2hZOFFZcUlZenpfSVdzMTNLbWNWTXlfS0hPc2UzdW00Z0FNTWZmRkY3THVHZ1Zqak8zQk50QlVKNi1tNGZhN19mYV9uVXA5ZmY5d3JPZ092R09ON2ItekRsTTJB?oc=5",
-      "source": "University of Miami",
-      "published_date": "2026-09-01",
-      "summary": "Breast Cancer Research Foundation (BCRF) memberikan pendanaan untuk pengembangan platform kecerdasan buatan yang berfokus pada perawatan penyintas kanker payudara. Platform ini dirancang untuk mendeteksi risiko kambuh secara dini dan memantau kesehatan pasien pasca-perawatan secara lebih presisi. Inovasi ini diharapkan mampu meningkatkan kualitas hidup dan angka harapan hidup para penyintas.",
-      "takeaways": [
-        "Pendanaan BCRF difokuskan pada pemantauan penyintas menggunakan AI.",
-        "Platform AI membantu memprediksi risiko kekambuhan kanker secara dini.",
-        "Teknologi ini dirancang untuk meningkatkan perawatan pasca-pengobatan yang lebih personal."
-      ],
-      "category": "Genom & Biotek"
-    },
-    {
-      "title": "Transformasi Keperawatan: Aplikasi Baru Integrasikan Kecerdasan Buatan dalam Pendidikan Medis",
-      "original_title": "New app brings artificial intelligence into nursing education",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORTZGcU40NV95OVVLc2pzanZ4cmd3X19KYy0yeVN1b0dvQlNmWnFRUkhUZGdHc2RBQ1lOODBWbXAxNWpsa1pEQjBKWkJIem8zMDFJQnhFdElrOE1YVHB1dy12U0dmSEJoLVdCTXpvSFpSUDY4VC1mbGNoY2w4dmIxM1FsU0E2NzhRQ1Faa3lGRnV3TTVWZ081eDJPRGYtLUR4M1E?oc=5",
-      "source": "WCJB",
-      "published_date": "2026-09-01",
-      "summary": "Sebuah aplikasi bertenaga kecerdasan buatan baru saja diluncurkan untuk mendukung pendidikan keperawatan. Aplikasi ini menyimulasikan skenario pasien nyata, membantu mahasiswa keperawatan melatih keterampilan klinis dan pengambilan keputusan secara interaktif. Terobosan ini bertujuan untuk menjembatani teori akademik dan praktik langsung di lapangan.",
-      "takeaways": [
-        "AI menyimulasikan skenario pasien untuk melatih perawat masa depan.",
-        "Aplikasi membantu meningkatkan kemampuan pengambilan keputusan klinis tanpa risiko fisik.",
-        "Teknologi ini mempercepat integrasi antara teori pendidikan dan praktik di rumah sakit."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Pertemuan G20 Bahas Dampak AI dan Kebutuhan Pusat Data Global",
-      "original_title": "G20 Innovation Ministerial talks spotlight AI, data centers",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeXROWXA4NkpoTTVKSUEwLTF2YVdudUFSNml6UHF6QThGWHRVSFY4WDlaNi1KdEVYOEhZc0c2N3k0am9INjNyTU52NGhrSVRjM3JNSHM4NE43OFA0NzQ1QjRVWHdmNU5jZ1psYWNOLU51cXZTREJjbFhJcWFyN1RSeFp3eTIxOWstbC1RcjdBSW05dHFEVmfSAZsBQVVfeXFMT2x5QUxCMG5EeVlKOHlnSm9PSlNXblI4RHJPcGhSX1dkVGY1YWlXbGNJYUhJRU9LdXVVcDdSZzJpdGsxWDJPNmdiUEJETGg3dHR4T1hOVktfX1lvWnMybDVfNXFaSDZ6bE9nVl9xQWtLbTRtUWoxNWJxRHpLUjczQWNZTkR3UkU0TGtEUkRCUzluX0RoZEVtTFJLRGc?oc=5",
-      "source": "ABC11 News",
-      "published_date": "2026-09-01",
-      "summary": "Pertemuan Tingkat Menteri Inovasi G20 menaruh perhatian khusus pada perkembangan kecerdasan buatan (AI) dan infrastruktur pusat data. Para pemimpin negara membahas pentingnya infrastruktur digital yang berkelanjutan di tengah melonjaknya konsumsi energi akibat pemrosesan data AI. Diskusi ini menekankan kolaborasi global untuk memastikan pertumbuhan teknologi yang ramah lingkungan.",
-      "takeaways": [
-        "G20 menyoroti lonjakan konsumsi energi akibat perkembangan pusat data AI.",
-        "Kolaborasi internasional dibutuhkan untuk membangun infrastruktur digital yang ramah lingkungan.",
-        "AI menjadi pilar utama dalam diskusi regulasi dan inovasi global."
-      ],
-      "category": "Sains & Teknologi"
-    },
-    {
-      "title": "Platform Militer TITAN Memasuki Fase Produksi, Palantir dan Anduril Raih Kontrak Senilai $192 Juta",
-      "original_title": "Army’s TITAN platform moving into production phase with $192M delivery award for Palantir, Anduril",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcm9BQk94MGE3QzExMGx3aXgxMUM1ZzJTc3lPTGdWenM4aXVUN2lodm9SWUh4eExNTFdSS2tfZ0ZpT0psSk1ZUW9feGtlV1M5NlVDZzlqcmhKSm12aGxTOHFjcXRDZU1IbkZENmpJellUbEFTaFI2MHA3VHV3RkpTYWYwWGxTeUpqNVUxcGh5LVJQUzhydHc?oc=5",
-      "source": "defensescoop.com",
-      "published_date": "2026-09-01",
-      "summary": "Angkatan Darat Amerika Serikat melangkah maju dalam modernisasi militer dengan memindahkan platform TITAN berbasis AI ke fase produksi. Palantir dan Anduril dipercaya menggarap proyek senilai $192 juta ini untuk mengintegrasikan intelijen taktis generasi baru. Sistem ini akan mempercepat pengiriman data sensor langsung ke operator militer di lapangan.",
-      "takeaways": [
-        "Sistem intelijen militer berbasis AI, TITAN, resmi memasuki tahap produksi.",
-        "Kontrak senilai $192 juta diberikan kepada perusahaan teknologi Palantir dan Anduril.",
-        "Platform ini meningkatkan akurasi dan kecepatan pengolahan data taktis di medan perang."
-      ],
-      "category": "Sains & Teknologi"
-    },
-    {
-      "title": "Regulasi AI di Tempat Kerja 2026: Panduan bagi Perusahaan Menghadapi Perubahan Hukum",
-      "original_title": "Workplace AI Regulation in 2026: How Employers Can Navigate the Changing Legal Landscape",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRjZuaU9aTk5pbDgxYkNIaFI5ZHdDbnlSZDEyX3hpVklrVDFwV0hLcEE4cjh2ZjFVUUY4RXZtVDN3eHd6YUN1aEQ3SXJhMWtlTzIwdUdsUnpWWksxOTlBNU4wY0dvbTJlQjlTeUtCS3JkX3VFMjJPYzZlR18tV3NUWHRkQl8xUDN3NnJVMzlPeExpdVppRWIyUHJOR2hGa0YteFA2OVJFMGl5dnYzaGhrZm84ZUJ3U3JPZWhqOHNrTWsyMC1GeS02RWlrYnU?oc=5",
-      "source": "Epstein Becker Green",
-      "published_date": "2026-09-01",
-      "summary": "Perkembangan pesat AI memicu perubahan regulasi hukum terkait ketenagakerjaan di tahun 2026. Perusahaan kini didesak untuk memahami batas-batas hukum dalam penggunaan AI untuk perekrutan, evaluasi kinerja, dan pengawasan karyawan guna menghindari tuntutan diskriminasi. Langkah mitigasi hukum menjadi krusial agar operasional perusahaan tetap sesuai standar kepatuhan terbaru.",
-      "takeaways": [
-        "Penggunaan AI dalam proses perekrutan kini diawasi ketat oleh regulasi hukum.",
-        "Perusahaan harus transparan dalam menerapkan algoritma evaluasi kinerja karyawan.",
-        "Kepatuhan hukum terhadap regulasi AI terbaru mencegah risiko diskriminasi di tempat kerja."
-      ],
-      "category": "Artificial Intelligence"
     }
   ]
 }
