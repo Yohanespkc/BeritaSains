@@ -1,7 +1,91 @@
 {
-  "last_updated": "2026-10-03T04:29:22.539912+00:00",
+  "last_updated": "2026-10-04T05:00:29.460720+00:00",
   "total_articles": 182,
   "articles": [
+    {
+      "title": "Eksklusif: Kepala AI Baru AS Ungkap Target dan Anggota Satgas Gedung Putih",
+      "original_title": "Exclusive | New AI Czar Unveils Goals, Members of White House Task Force",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVzllZ3FlUmNzR3pPMkNlbDRWSU5yT2lZLXA0bnpMZjI5VmxNTG5KZFBfZEp3elVXSG1XOU5jckVlRVA1M05oRHNtMDdhVDQyY0pLdXlScG54OXJpZlZJSTFtZkMxVVBHOWlaM2hKVmpuaFpwR3c3c05ITDU1N19IcnhENHQwdTAxeGtmRnVpNDdSc0IwWFowTmlxREVocURBVFppVFRoaVdLYXpsbXBmSUxqUTZ6MG1GSjE3RHRmVQ?oc=5",
+      "source": "WSJ",
+      "published_date": "2026-10-04",
+      "summary": "Kepala AI (AI Czar) baru bentukan pemerintah AS mengumumkan struktur anggota dan target kerja dari Satuan Tugas (Satgas) Gedung Putih yang baru dibentuk. Satgas ini dirancang untuk merumuskan kebijakan nasional guna menyeimbangkan risiko keamanan dan peluang ekonomi dari perkembangan AI. Langkah ini menandai babak baru regulasi teknologi di bawah pemerintahan yang baru.",
+      "takeaways": [
+        "Satgas AI bentukan Gedung Putih merumuskan strategi nasional terkait risiko dan peluang kecerdasan buatan.",
+        "Kepala AI yang baru ditunjuk memimpin tim ahli untuk mempercepat integrasi teknologi yang aman.",
+        "Kebijakan ini bertujuan menjaga kepemimpinan AS di bidang AI sekaligus memitigasi potensi ancaman keamanan nasional."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Ketika AI Mulai Tak Terkendali: Siapa yang Harus Bertanggung Jawab?",
+      "original_title": "A.I. Is Going Rogue. Who Should Be Held Responsible?",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTUhrakN2TGFTTmdhM0VtY2s5UjBjOVB5cnRRM1NHOWxPV1FGYTdfYjRrQkNZeFFBeHVkSXI1Q29DOE96WmNnSndCb1hwU1c4UGpxanNmMlJsNkJkYVRZNEpBSzdLdG55cXN5Z3hBYWVZSVVkQ1B2OV81Q1hEbExJUUJR?oc=5",
+      "source": "The New York Times",
+      "published_date": "2026-10-04",
+      "summary": "Seiring dengan semakin otonomnya sistem kecerdasan buatan, perdebatan mengenai akuntabilitas hukum dan etika saat AI melakukan kesalahan fatal kini menjadi isu mendesak. Artikel ini membahas celah hukum dalam menentukan siapa yang harus disalahkan: pengembang, pengguna, atau sistem AI itu sendiri. Diskusi ini penting untuk merumuskan kerangka hukum masa depan sebelum AI otonom sepenuhnya terintegrasi ke masyarakat.",
+      "takeaways": [
+        "Peningkatan otonomitas AI mempersulit penentuan tanggung jawab hukum atas kegagalan sistem.",
+        "Para ahli hukum menyerukan adanya standar regulasi baru yang mendefinisikan tanggung jawab pengembang.",
+        "Terdapat desakan etis untuk tidak membiarkan sistem kecerdasan buatan beroperasi tanpa pengawasan manusia."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Atasi Frustrasi Kuliah Kedokteran, Alumnus UCLA Ciptakan Aplikasi Belajar Berbasis AI 'Neural Consult'",
+      "original_title": "UCLA alumnus turns medical school frustrations into AI study app ‘Neural Consult’",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZFFPUHNmVXFsOWNWbDZXejk2RmdsUUMwQk5lZVBtbmRBMUNQSUJIbUlmTHZoZDBuaENCUklWYk5KdmJIVDdzMExnTHdlNTlNSjE5QWNEbmIwU2RNX0M2em5wYnVPNmhPUTlkbFNLWkdOaW1vZWFZVlJyNmdvZklxb1dZMUxuQjFhX3I2Z180X2h4OUlndzJ3Mm9XTUFTcTFDR1d2MlVFRFBCWnlYWWlKTWo1Vks?oc=5",
+      "source": "Daily Bruin",
+      "published_date": "2026-10-04",
+      "summary": "Seorang lulusan UCLA berhasil mengembangkan aplikasi belajar inovatif bernama 'Neural Consult' yang menggunakan teknologi AI untuk menyederhanakan materi kuliah kedokteran yang rumit. Aplikasi ini dirancang berdasarkan pengalamannya sendiri dalam menghadapi beban studi kedokteran yang sangat berat. Langkah ini membuktikan potensi AI dalam merevolusi metode pendidikan medis menjadi lebih interaktif dan efisien.",
+      "takeaways": [
+        "Neural Consult memanfaatkan kecerdasan buatan untuk mengonversi materi medis yang kompleks menjadi bahan studi yang mudah dipahami.",
+        "Aplikasi ini lahir dari kebutuhan nyata untuk mengurangi tingkat kelelahan mental (burnout) di kalangan mahasiswa kedokteran.",
+        "Teknologi ini memperlihatkan peran AI dalam mendukung pendidikan profesional yang membutuhkan pemahaman klinis mendalam."
+      ],
+      "category": "Sains & Teknologi"
+    },
+    {
+      "title": "Alasan Mengapa Universitas di Asia Sebaiknya Tidak Menggunakan Detektor AI",
+      "original_title": "Why universities in Asia shouldn’t be reaching for AI detectors",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNclRJVTVCTFdUS3I4bTdvSlpvck5MaklWdjBVcU9od1A4MWxsZVhkQUhOY1B3TmxKeDh0TnkzcERIOTFRZXJYTW4xR3QwZG00MDlycExVOXBzblRiTnQ3N19LMmNqc29GeWstNkY1ampwMTF0M1d2WUF1R1VUMGNrd0J4dkxEQ1U4ZmdkSUhFWDJUYjVMenBwRW81TzQtalVKVGJfZ3g2cEk0b3ZG0gGsAUFVX3lxTE1JNlBQLUNJNzNGaXNTX0NUYWUtWmg3TWRUdGRRUnFTME1LbWk5TnZ1X0xWMm1FY3NxaEdGejZQbV80NVZVbTlVUDN6c3JlVG15TkpBWXJISVhxcktBTUNubXkxMmgtSEJqbXJCcGFybHMxYmgwalFlUm9WNXlwRlFfYUprT3gyWEhaM2ZkYjZ1UDJQbLIwdDB1dm16aklxSjY0bnNRVllqT00xWDE?oc=5",
+      "source": "South China Morning Post",
+      "published_date": "2026-10-04",
+      "summary": "Artikel opini ini menyoroti kekeliruan universitas-universitas di Asia yang terlalu bergantung pada alat pendeteksi AI untuk memeriksa tugas mahasiswa, mengingat tingkat kesalahan (false positives) alat tersebut masih sangat tinggi. Penggunaan alat deteksi yang tidak akurat ini justru berisiko merugikan mahasiswa, terutama yang menggunakan bahasa Inggris sebagai bahasa kedua. Para akademisi disarankan untuk mengubah metode asesmen daripada berfokus memburu plagiarisme AI.",
+      "takeaways": [
+        "Detektor AI sering kali tidak akurat dan memiliki bias tinggi terhadap tulisan dari penutur bahasa Inggris non-asli.",
+        "Ketergantungan pada alat pendeteksi dapat merusak kepercayaan akademis antara dosen dan mahasiswa.",
+        "Universitas perlu mengadopsi metode evaluasi baru yang lebih berfokus pada pemikiran kritis daripada sekadar mendeteksi teks buatan AI."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Pengadilan AS Tangguhkan Larangan 'Nudifikasi' Berbasis AI di Minnesota Terkait Gugatan xAI",
+      "original_title": "Federal Appeals Court Blocks Minnesota's AI “Nudification” Ban While xAI Constitutional Challenge Continues | MinneapoliMedia",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQnMtXzRtN2puN09FcXR4a3RxVVRrSG10YzNUWXdEZFpOejktcmhtLUREMGpjVnk5S1BFTl9KN25tWktTQjNsV09vRkU1cElvWEx6RVQ5Z19jOVl6NTczRVFLOFdiRlZyU1BPV29oSVplUkVMTS1RcndYRmdDci12Z3NkekdnMnNGYTBrdjdiTHlES0IwQ1Fqa0ZRWXNEMEdaWlZ1X0g2N1xlc29UQ3ZhenFSbHFRaWU3TDM0ZmxVVFg?oc=5",
+      "source": "MinneapoliMedia",
+      "published_date": "2026-10-04",
+      "summary": "Pengadilan Banding Federal Amerika Serikat menangguhkan undang-undang larangan pembuatan konten telanjang palsu (nudification) berbasis AI di Minnesota akibat gugatan konstitusional dari xAI milik Elon Musk. Pihak penantang mengklaim larangan tersebut berpotensi melanggar kebebasan berpendapat di bawah Amandemen Pertama konstitusi AS. Kasus ini menjadi sorotan penting mengenai sulitnya menyeimbangkan perlindungan privasi individu dari ancaman deepfake dengan hak konstitusional.",
+      "takeaways": [
+        "Undang-undang larangan deepfake pornografi di Minnesota menghadapi hambatan hukum akibat isu kebebasan berbicara.",
+        "Gugatan dari xAI menunjukkan ketegangan antara regulasi keamanan AI dan kebebasan berekspresi secara digital.",
+        "Putusan akhir kasus ini akan berdampak besar pada regulasi konten seksual hasil rekayasa AI di tingkat nasional."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Gavin Newsom Kritik Pendekatan Longgar Pemerintah Terhadap Regulasi AI",
+      "original_title": "Gavin Newsom Mocks 'Golden Age of Super Intelligence,' Calls President’s 'Let It Rip' Approach to AI 'Reckless'",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWm9tejV3ek93dHBPRzVvdF9adVp2cG91Q2lqb0FuY3gzaW1VQUFWX0tLb0ZkRnBaMUpndk9nbHVOUzFFc1VaT1ktWUdHVFVjYS1aUWZIeVhmdUx6X3Zwd19OMGJlWE5PbWpKV2lVQjYwV3dIWFR3Qmd2d2J1UlhSN1BDdTM5Ym9wOV9SOUxQck1LLVk?oc=5",
+      "source": "yahoo.com",
+      "published_date": "2026-10-04",
+      "summary": "Gubernur California Gavin Newsom mengkritik keras visi masa depan pemerintah federal yang terlalu optimis mengenai kecerdasan super, serta menyebut pendekatan tanpa regulasi ketat sebagai tindakan yang ceroboh. Newsom memperingatkan bahwa membiarkan industri AI berkembang tanpa aturan yang jelas dapat memicu ancaman keamanan siber dan hilangnya lapangan pekerjaan secara massal. Debat politik ini memperlihatkan perpecahan mendalam mengenai cara terbaik dalam mengatur inovasi teknologi tanpa mematikan pertumbuhan ekonomi.",
+      "takeaways": [
+        "Pendekatan tanpa intervensi regulasi dinilai berisiko menciptakan instabilitas sosial dan ekonomi.",
+        "California mendorong adanya aturan hukum yang lebih tegas guna melindungi pekerja dan hak cipta dari dampak buruk AI.",
+        "Ketegangan regulasi antara pemerintah daerah dan federal dapat memicu ketidakpastian hukum bagi industri teknologi."
+      ],
+      "category": "Artificial Intelligence"
+    },
     {
       "title": "Terobosan Baru: Model AI Terbuka China Saingi Raksasa Silicon Valley",
       "original_title": "Another powerful new artificial intelligence model from China took the US tech industry by surprise",
@@ -139,6 +223,62 @@
         "LLM musik baru menghasilkan musik dengan pemahaman struktural harmoni yang mendalam.",
         "Mampu menghasilkan file MIDI multi-instrumen yang dapat diedit secara profesional.",
         "Membuka perdebatan baru mengenai hak cipta karya seni yang dihasilkan oleh kecerdasan buatan."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Pemanfaatan AI untuk Analisis Otomatis Ultrasonografi Intravaskular pada Penyakit Jantung Koroner",
+      "original_title": "Artificial Intelligence for Automated Analysis and Interpretation of Intravascular Ultrasound in Coronary Artery Disease: A Systematic Review",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPelhfM0ZFZnhaTkZHOUJZd2ZUeUF4WW5ZRUNQNmpwX1NodE4yMGlYVVNuU1dhb2ZMTGppcXpIdXhiNW04UG1hZEs4ZHdXTmI3WkpBRzVZRk5IU3NvVjRRTFExS2p3R2prSThpWlNzLWpydHdEUWt4M1ZySjdIamU5ZG8xZUpIeXZNMkxmb3dKdzF2VEthMVdTdFVsYnQtSDZ3QktJX1dRZnc3ZVNWVFdVeXNqTzlJbzRRSjJaU2cwMnRvNVNFTFFlcjI0MzZpR1NHSjNCVTg0N3pjc3p6UG10NGgyWTdfZktHR2Z4Q2k2SnFjRDVxSjl4Uy12N284S3QyeHhXMEdteVJubGc?oc=5",
+      "source": "Cureus",
+      "published_date": "2026-10-03",
+      "summary": "Sebuah tinjauan sistematis menyoroti peran penting kecerdasan buatan (AI) dalam menganalisis dan menginterpretasikan hasil ultrasonografi intravaskular (IVUS) untuk pasien penyakit jantung koroner secara otomatis. Penggunaan teknologi AI ini terbukti meningkatkan akurasi diagnosis serta mempercepat proses pengambilan keputusan klinis oleh dokter. Inovasi ini menjadi tonggak penting dalam integrasi teknologi medis modern untuk penyelamatan nyawa pasien jantung.",
+      "takeaways": [
+        "AI mampu mengotomatisasi analisis citra medis kompleks seperti ultrasonografi intravaskular (IVUS) dengan tingkat akurasi tinggi.",
+        "Teknologi ini membantu mendeteksi plak koroner secara cepat, meminimalkan risiko kesalahan diagnosis manusia.",
+        "Integrasi AI dalam kardiologi membuka jalan bagi intervensi medis yang lebih presisi dan personal."
+      ],
+      "category": "Sains & Teknologi"
+    },
+    {
+      "title": "Karyawan Divisi Keamanan OpenAI Mengundurkan Diri: Masa 'Uji Coba' AI Telah Berakhir",
+      "original_title": "OpenAI safety employee quits, says 'time for trial and error is over'",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPanBnbDA2SnluX0swT1ZpQ212VUNKRHh1T3d2Tmt0VDBieEtFVmh6blFFZEVCZlFLbjd4TnNYRnhacmtoSEdRTTFsbVdQN3RjRW5BTVd2NkJwdkdmcHNBa2czV3BZc19MYnJ1dkFvTkh1YXZQQkw1Zmtma2Y4Qm10RzlIUlhJS1ZSUHJnVVdTNlk1djVnNndqNXJBZ29hcEVJUmdkZTNWcklGWEF4TGtuZw?oc=5",
+      "source": "Reuters",
+      "published_date": "2026-10-03",
+      "summary": "Seorang insinyur di divisi keamanan OpenAI memutuskan mundur dari jabatannya sembari mengeluarkan peringatan keras bahwa pendekatan coba-coba dalam pengembangan AI tidak bisa lagi ditoleransi. Ia menekankan perlunya protokol keselamatan yang lebih ketat seiring dengan perkembangan pesat menuju kecerdasan umum buatan (AGI). Keputusan ini menambah daftar panjang kekhawatiran internal atas prioritas komersialisasi dibanding keselamatan di perusahaan AI terkemuka tersebut.",
+      "takeaways": [
+        "Mundurnya staf keamanan menyoroti ketegangan internal di OpenAI antara kecepatan komersialisasi dan aspek keselamatan.",
+        "Peringatan keras diberikan agar industri beralih dari fase eksperimen ke protokol keamanan AI yang lebih ketat.",
+        "Dibutuhkan tanggung jawab industri yang lebih besar sebelum sistem AI super-cerdas dirilis ke publik."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Mantan Insinyur OpenAI Peringatkan Raksasa Teknologi Kurang Berhati-hati Kembangkan AI",
+      "original_title": "AI giants not 'careful enough,' ex-OpenAI engineer warns",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYlZOU3BaNml6U0dSaXlYT0hZaFd5VWU3Q0pUQlhIUXV2d01VU0JFTnFpY0IxY010TFdZM0FHeEljVkdtUnFvQnhsQlJPWjVtM2pLWDNaWlhPX2VSLXpsbU5TVmc2aloxNlJwYlh0N3o3eXRQdUxVZWpac0U5aWJvTWo0VC10NXkzZ0RsSEs2NF9zLVRXdkxWWk5sT2Z6TTlsdFVYUmVBYk1SdWlCc3Q2UEtn0gGyAUFVX3lxTE9iVk5TcFo2aXpTR1JpeVhPSFloV3lVZTdDSlRCWEhRdXZ3TVVTQkVOcWljQjFjTXRMV1kzQUd4SWNWR21ScW9CeGxCUk9aNW0zaktYM1paWE9fZVItemxtTlNWZzZqWjE2UnBiWHQ3ejd5dFB1TFVlalpzRTlpYm9NajRULXQ1eTNnRGxISzY0X3MtVFd2TFZaTmxPZnpNOWx0VVhSZUFiTVJ1aUJzdDZQS2c?oc=5",
+      "source": "dw.com",
+      "published_date": "2026-10-03",
+      "summary": "Mantan pakar teknologi OpenAI memperingatkan bahwa perusahaan-perusahaan teknologi besar saat ini mengabaikan protokol keamanan dasar demi memenangkan perlombaan dominasi AI. Peringatan ini menyoroti bahwa kecepatan rilis produk mengalahkan mitigasi risiko jangka panjang yang berpotensi membahayakan masyarakat. Ia menyerukan adanya audit eksternal yang independen terhadap model-model AI berskala besar.",
+      "takeaways": [
+        "Raksasa teknologi dinilai mengorbankan aspek keselamatan demi kompetisi pasar yang agresif.",
+        "Kurangnya kehati-hatian dalam melatih model AI dapat memicu disinformasi massal dan kerentanan sistem.",
+        "Diperlukan pengawasan pihak ketiga yang independen untuk mengontrol pengembangan teknologi kecerdasan buatan."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Apakah Kecerdasan Buatan Menjadi Penyebab Sulitnya Lulusan Kuliah Mendapatkan Pekerjaan?",
+      "original_title": "Is AI to blame for hiring woes faced by college graduates?",
+      "url": "https://news.google.com/rss/articles/CBMi6whBVV95cUxPQVF2MU1MTzVrSllwdnZSamQ3TGRwVGdVOGJ3U3MxOEpLRTJCMkg2NklkMkhqWWlBaThZeWFvN2NXZHg3TkVBdzNobVk4cWphb1hzSlRnQnFHSlJJN0U4aVRxT0p2cUIxOVBIMmJLcVV4amxwbjJ2VXBJTmZ5NUp4M0d6d21kcERuelJUaFZCVnFKaTF0dGJmQkQ4TjlSZENZRTRNNEpTSW1tdWJPZXhUbDRMaVA5cFZCQkFRRUlicTlyZjZTQW11aWloZHUyeFdUOXFCXzZlUVM1MXpVNENXYjJmMG9XYl9veFZSR0N0cUFpZUE2OEd4dFJwTlJoNG1PYlBZZmVtRHJFS2k3c0RmUVNRdmpxandITXdxNll5cHRyTWZOT2VGZTVfZUJKYXpwUHZnXzdYRW1uVXduem9WeWVTbm1hdmNMZEJjRU1UR2RxOEppc3FmSHM3MWZET0NacXU4MXIzc2xoRHZjdUpHWWkwb3ROd1RKdHQ4NElUMVkzcEpibU9LaVU1YlNqOXY4ZFBiU1YxUHVNeDlZUkh2RnRTdTNxMVBDR1NXNnpXaXlueFo3VEt1OHNUMzRvajNWQ1NkVTlEbHZQN0JrcFV6ZUJCZW1Edk9PNVNYZmdmakd4TWVkYW8wOFQ4NkU1eHVVNi13dV9YRExJSjhoXzV4SEl1cW1HazkyTzM5M1JnakpxakFlMEJ5bEtZR1JuM21qQU9CcTNSbWU4anlkdXpZYUJ2M0xvRHlSNjI4NXMyM3pQR1FHcVlJc3dxWjNiN3pGV00yc1dDWkpQWm1JemVrZGtvUmpNWF80S0pNbGNLZlc5Um1tQUJ3T1pHXzRudDJORy14VEQtRVVJRTZ1YlhralpCeUxUQUt5c3FibDhxQlV4TzlfWURLNEVUcUxuUkZleXpUMTBYNEdJd3ZXNGhiM01mR2hQaVJUSXF4TmQ1ZkY0eGR0Ylo3QWY5OGIweEt5cGYxOVJYa05pZXpDc3h0Zk9KbWk1cUJBaWQtLV9oMldEaEplZEwxNGNKeERZZHROODJYTDBkbktSZ25fUFJuQjFLY3JCVzFmSWJJaEcwMmdRc0ZySDdDQ2ZyTnd3a0VOMTJQQWJvTk1yQnpwdkswZnBETDJfcmw3dDlYeDFIV2l1bEptLTZtMFloem40dmRIaTh4blE4NXc1UGdkT3RKT2dsSW8tUThGMUdjajlnTnYtdG16MFVHOXZvdHNPS3hZTWhSRG8wMl90YUFNcm1zOWcyNUttcDJWczgwa3pPdWNadTFaRzJJSF8xeTlabkExMm9UeVpaZ1N6NUw1NUZ0V0Y3YzJOVkdhSHY4VGhHVk91eEljaVRKSmVnV3pNXzZvUnJHZy1ON0VIOFQ0MkU3dS0yTFpNa01MTUh1amhsSWtidUdJUWZQZWs0ejExSlFoaHJ1YWtIYU1iR2d3ZGlPVmtjLVpEYzdWNlE4NTlTcldKVl9SNmhGcUdoVmhFUE8wU0x3RVlDaU9MeG8?oc=5",
+      "source": "ABC7 Chicago",
+      "published_date": "2026-10-03",
+      "summary": "Lulusan perguruan tinggi masa kini menghadapi tantangan berat dalam mencari kerja akibat adopsi teknologi AI yang menapis resume pelamar secara otomatis dan mengeliminasi posisi entry-level. Banyak perusahaan kini beralih ke efisiensi AI, mengurangi kebutuhan akan staf pemula yang biasanya diisi oleh lulusan baru. Fenomena ini memaksa institusi pendidikan dan para lulusan untuk segera menyesuaikan keterampilan mereka dengan lanskap industri yang serba otomatis.",
+      "takeaways": [
+        "Sistem penyaringan resume berbasis AI mempersulit lulusan baru untuk lolos ke tahap wawancara.",
+        "Otomatisasi tugas-tugas administratif mengurangi lowongan pekerjaan tingkat pemula (entry-level).",
+        "Mahasiswa dituntut untuk menguasai keterampilan kolaborasi dengan AI agar tetap kompetitif di pasar kerja modern."
       ],
       "category": "Artificial Intelligence"
     },
@@ -2409,146 +2549,6 @@
         "Pemerintah dan lembaga pendidikan didesak bersiap menghadapi perubahan struktural dalam pasar tenaga kerja masa depan."
       ],
       "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Meta Dorong Karyawannya Gunakan Agen AI Baru Sembari Kurangi Fokus pada Penghematan Token",
-      "original_title": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRVltcmNvczI1UFVDcUtNeFR1SGxwaHFlaHB0cWVrUTZ2cS1mOXFOdWdzM0hBbHpNUXpRcGwtU19aeDBvSVRBVHB2T3JvYlhtY3ZzTzQ5UlNtNnF5ZzBNNm5BVlBvcGI5czlwTnR2MzJTdjE2RjI5VkV0ZUhtMmJPWXE2dkJXVXhINEoxTHR1elZOUV9hRE5tLTJvdFVuR2dmSnc?oc=5",
-      "source": "WIRED",
-      "published_date": "2026-09-03",
-      "summary": "Meta secara agresif mendorong para karyawannya sendiri untuk mengadopsi agen AI terbaru mereka dalam aktivitas kerja sehari-hari. Menariknya, perusahaan kini melonggarkan tekanan terkait efisiensi token ekstrem (tokenmaxxing) demi fokus pada fungsionalitas yang lebih baik. Langkah ini menunjukkan transisi Meta dari fase pengembangan dasar menuju implementasi praktis di dunia kerja nyata.",
-      "takeaways": [
-        "Meta mewajibkan atau sangat menyarankan penggunaan alat AI baru mereka secara internal guna menguji fungsionalitasnya.",
-        "Perusahaan mengurangi fokus pada batasan konsumsi token demi meningkatkan kualitas interaksi dengan AI.",
-        "Strategi ini mencerminkan upaya Meta mempercepat adopsi teknologi AI generatif di lingkungan korporat sebelum merilisnya ke publik."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Departemen Kehakiman AS Desak Hakim Tolak Gugatan New York Times Terhadap OpenAI dan Microsoft",
-      "original_title": "DOJ urges judge to rule for OpenAI, Microsoft in N.Y. Times lawsuit",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR0dkWmwxWFVnc2QzNnprVzNMLVRkVjVLOGZ0NUQwVEw0VHZ3dWlPSmJYUnptSGJfM0FrZURMTzV5SWRxSUZUa0dpR0ZFNWZkSE1GUUw4eXBnU05OVUNIZHF2OGtnUWFBNHB2bk1saUJMZWRrRjNJVUZNQVBDUXVXR0JRTnpCUDJ6WUFJWGdVY1Y3NFY4ZVRWa3RTTFJIa1IxNFVZSlBfd3BnTThR?oc=5",
-      "source": "The Washington Post",
-      "published_date": "2026-09-03",
-      "summary": "Departemen Kehakiman AS (DOJ) telah mendesak pengadilan untuk memenangkan OpenAI dan Microsoft dalam gugatan pelanggaran hak cipta yang diajukan oleh The New York Times. DOJ berpendapat bahwa teknologi AI generatif memiliki manfaat publik yang signifikan dan tidak selalu melanggar undang-undang hak cipta melalui pelatihan modelnya. Keputusan akhir kasus ini berpotensi menjadi preseden hukum yang krusial bagi masa depan industri AI generatif secara global.",
-      "takeaways": [
-        "DOJ secara resmi memihak OpenAI and Microsoft dalam sengketa hukum hak cipta melawan The New York Times.",
-        "Kasus ini berpusat pada legalitas penggunaan artikel berita berhak cipta untuk melatih model bahasa besar (LLM).",
-        "Hasil dari persidangan ini akan menentukan batasan hukum penggunaan data internet untuk pengembangan kecerdasan buatan."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Masuk Indeks HKEX Tech 100, Insilico Medicine Soroti Potensi AI dalam Rantai Nilai Bioteknologi",
-      "original_title": "Insilico Medicine included in the HKEX Tech 100 Index, drawing attention to opportunities in AI value chain",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1FRnI0MmJ2VU1fXy1ERGhTdGc2ZktZYjF0eG93NjNGUmRXa2RPZ3Z1Zzg4TTY0ek1QaFQtRGxIdTNYVWsxOW5jdlpXLUlOazhNcE5feDFDWEhtN3o3?oc=5",
-      "source": "EurekAlert!",
-      "published_date": "2026-09-03",
-      "summary": "Insilico Medicine, pionir dalam penemuan obat berbasis kecerdasan buatan, telah resmi masuk ke dalam Indeks HKEX Tech 100 yang bergengsi. Pencapaian ini menegaskan meningkatnya kepercayaan pasar terhadap peran AI dalam mempercepat riset bioteknologi dan pengembangan terapi klinis baru. Hal ini juga menarik perhatian investor global terhadap nilai ekonomi jangka panjang dari integrasi AI dalam sektor kesehatan dan farmasi.",
-      "takeaways": [
-        "Insilico Medicine mencatatkan sejarah dengan masuk ke dalam jajaran indeks teknologi utama bursa saham Hong Kong.",
-        "Penggunaan AI terbukti mampu memangkas waktu dan biaya penemuan molekul obat baru secara signifikan.",
-        "Pencapaian ini memperkuat posisi AI sebagai penggerak utama inovasi dalam industri bioteknologi masa kini."
-      ],
-      "category": "Genom & Biotek"
-    },
-    {
-      "title": "AS Didesak Pertimbangkan Tindakan Militer demi Cegah Dominasi AGI China",
-      "original_title": "US urged to consider military strikes to stop China achieving AGI first",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMjJHZUFIUWRwN2JDTUxTZkNETk9FTWk4ZTRNNEpPd1l6SWxLZW5GT3UwVVpJcFNGaXNlVURJeGxpZWVjVFp0dFhHSXlNbXhiQWd5WlM4MV9Sc3M2OTZXX3VvOXNhUVJiNmpmZTZiVTFfa3hZT1JEYnNYM0UzVGllaXAyTUJIcDRHQk9JQVN1N1hiZmIyWC00dnlseW0yQmlxYVlkTlFVVWtPZG5WejVF0gGvAUFVX3lxTE5xSmw3anRkQnlvOGZ6eEJtaTlxUnhqRmg2YVE3clFsaWVBQUJqMXk1MlE3OEVvZGpOektYTUlsakhtT3lhNHg3dThzVkNVam9qR0RRbS1WVXN4Z1gxSDdfcU1tR0FCaVlWUXJodUFZREprOFhTbGVYVjFRUUhYZmQ3U3Y2dXFhY01JWUxiTElTbE1ZNzZ3LXNYX1ZPSFp5X19JMWhBRmFNVUhzS25CTnc?oc=5",
-      "source": "South China Morning Post",
-      "published_date": "2026-09-03",
-      "summary": "Sebuah laporan kebijakan mendesak pemerintah Amerika Serikat untuk mempertimbangkan opsi ekstrem, termasuk serangan militer, guna mencegah China menjadi negara pertama yang mencapai Artificial General Intelligence (AGI). Rekomendasi provokatif ini mencerminkan tingginya tensi geopolitik di mana AGI dipandang sebagai senjata pamungkas dalam dominasi militer dan ekonomi global di masa depan. Situasi ini memperparah perlombaan senjata teknologi yang membahayakan stabilitas dunia.",
-      "takeaways": [
-        "Pakar kebijakan luar negeri mendesak opsi militer preventif guna menghalangi supremasi AGI oleh China.",
-        "AGI dipandang bukan sekadar alat teknologi, melainkan elemen kunci penentu keseimbangan kekuatan geopolitik global.",
-        "Eskalasi ini memicu kekhawatiran akan pecahnya konflik terbuka akibat perlombaan penguasaan kecerdasan buatan tingkat tinggi."
-      ],
-      "category": "Sains & Teknologi"
-    },
-    {
-      "title": "Nvidia Akuisisi Hugging Face Senilai $13 Miliar, Komitmen Tetap Jaga Platform Open Source",
-      "original_title": "Nvidia to spend $13 billion on Hugging Face, which will remain an open source platform - ABC News",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc2dCeVdWTElXNFlNWHFFc0hJR2JjR21iVkRTcnAtQzBfRXZQQ0x6TXhDbkJhbDRBOTA3VDhZODgxejN3YVM2aWtmcXBXYm5aNEZmM2UycjBjZWJEMU5MOUtST05odEdId1N0RlY2OUUxa2V1VDRqR3FnRTRWNFlQaUtKVkFmblh4UmtSd3NqampoRVlHZmVrRnlLczY0Vkt6ckRZeWpKS2REdzZLeFNkRNIBtgFBVV95cUxPQ3pnSEZqMmJXMmxsQ3gxNlo4bDJtYVFrdi1sWnBTdDZXMG0yQzZLcG5GOXZ5ZmwxUU01YmV0c0oxVnVJT0hzYXFqZUV2UmlnenUyT2thaURFZXI5djhUdXlSSWRXWGtybVgzT1hHSTRLa19sVVExM1EtaldramR2MEx0Q3M2ZHhPRldYbUVWVDBiRG15dFV0ZU1raTNSNnhFdUZYNmhUQ0N6aUpYb0VkeF9nVW9LUQ?oc=5",
-      "source": "Breaking News, Latest News and Videos",
-      "published_date": "2026-09-03",
-      "summary": "Raksasa cip Nvidia dilaporkan setuju untuk mengakuisisi Hugging Face, platform komunitas model AI terkemuka, dengan nilai fantastis mencapai 13 miiliar dolar AS. Kendati berpindah kepemilikan, Nvidia berkomitmen untuk tetap membiarkan Hugging Face beroperasi sebagai platform open-source bagi para pengembang di seluruh dunia. Langkah strategis ini memperkokoh dominasi Nvidia di seluruh rantai pasok ekosistem kecerdasan buatan, mulai dari perangkat keras hingga perangkat lunak.",
-      "takeaways": [
-        "Nvidia mengukuhkan dominasinya di industri AI dengan mengakuisisi Hugging Face senilai $13 miliar.",
-        "Akuisisi ini menjadi jaminan penting bagi komunitas pengembang karena Hugging Face akan tetap mempertahankan sifat open-source miliknya.",
-        "Langkah ini mengintegrasikan ekosistem perangkat keras terkuat milik Nvidia langsung dengan pusat repositori model AI terbesar di dunia."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "OpenAI Luncurkan Model Astra, Klaim Babak Baru Menuju Realisasi AGI Telah Dimulai",
-      "original_title": "OpenAI hails ‘new era of artificial general intelligence’ with Astra model release",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb3FfMUQ1dXBYcXVnWUlNVW5kd01IM2VnNW9FdTQtemgxamtIYnRLVWNlS1FkZVdlam1HYXJFRmpITnNTTlhtSi1NNXMzREVxVnhlTXh4MUFfNTREYWxieXNUYkV4MzFhT0EySm4zbkFISHFyQURHVDBKWEZaNDZiQmRKU1pPbG5xOXR5WExVVFJxOVlvbm84eVZMQ0ctT1oyaWRCWVlR?oc=5",
-      "source": "The Guardian",
-      "published_date": "2026-09-03",
-      "summary": "OpenAI resmi merilis model kecerdasan buatan terbarunya yang bernama Astra, yang diklaim sebagai tonggak sejarah baru dalam pencapaian Artificial General Intelligence (AGI). Model Astra dirancang memiliki kemampuan penalaran multi-modal yang jauh lebih dinamis dan mampu beradaptasi secara real-time seperti manusia. Peluncuran ini dipandang sebagai lompatan besar sekaligus memicu kembali kekhawatiran etis terkait kontrol atas teknologi yang kian cerdas ini.",
-      "takeaways": [
-        "Model AI 'Astra' terbaru dari OpenAI dirancang dengan kapabilitas penalaran tingkat lanjut yang mendekati konsep AGI.",
-        "Teknologi ini mampu memproses berbagai bentuk input secara simultan dengan latensi yang sangat rendah.",
-        "Rilis ini mempercepat persaingan global dalam menciptakan kecerdasan buatan yang mampu beroperasi tanpa instruksi spesifik manusia."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Pemerintah Dinilai Kurang Mampu Memverifikasi Klaim Keamanan dari Laboratorium AI",
-      "original_title": "Government lacks ability to verify AI labs’ claims, experts say",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWThxeWd5bllnYUZoNndBOHl5ZHYzZk00eWVILV9CNzBob2pYZUVQTWsteUxaSUVENzhONUNzVEE4a0xIWnFqcVF6LV8wcVluR2pxVTFrdExXX3NMYnh0dkZZN3VTQndYVndHYVpDSWhlY1MxX09QWXdBQnVmeHVTZ1JtQzV2Wm5kNTdpeQ?oc=5",
-      "source": "Cybersecurity Dive",
-      "published_date": "2026-09-03",
-      "summary": "Sejumlah pakar memperingatkan bahwa pemerintah federal saat ini tidak memiliki alat bantu dan keahlian teknis yang memadai untuk memverifikasi klaim keamanan dari laboratorium AI terkemuka secara independen. Akibatnya, regulasi yang ada sangat bergantung pada laporan mandiri (self-reporting) dari perusahaan-perusahaan teknologi tersebut. Keterbatasan ini dinilai berbahaya karena potensi kegagalan sistem AI atau penyalahgunaan tidak dapat diantisipasi secara objektif oleh negara.",
-      "takeaways": [
-        "Pemerintah saat ini mengalami ketimpangan teknologi untuk mengaudit sistem kecerdasan buatan canggih secara mandiri.",
-        "Ketergantungan pada laporan mandiri dari perusahaan AI menciptakan celah pengawasan keselamatan yang signifikan.",
-        "Para ahli mendesak pembentukan lembaga audit independen yang dibekali infrastruktur komputasi setara industri."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "FDA Setujui Perangkat Lunak Pencitraan Medis Berbasis AI Buatan Para Ahli Jantung",
-      "original_title": "FDA clears new imaging software from AI company founded by cardiologists",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZkdncDNVVUQyOGNsSEQyUzJ0UzdaVG1IdW9ROVp6b1dCN2hWbHVpNkVyQTVZN2FUWE5NM09LVXJaLXpPc2xaUE0xRng4UktXRmw5THBtYmVnaDh2YjBRM2ZsTGJST2pzUzNrUHVjNG1fbGhEXzFER0hyRG5peHRmMi1uNnZOYXdZZnJ0UnFNTC1SWUJUeFR6MUtQVjlpRnNmSkRpTzRwNWYxaVFwRDZaUjR0SlIxSHRNU0dXTlM1OA?oc=5",
-      "source": "Cardiovascular Business",
-      "published_date": "2026-09-03",
-      "summary": "Badan Pengawas Obat dan Makanan AS (FDA) memberikan izin edar bagi perangkat lunak pencitraan baru berbasis AI yang dikembangkan oleh perusahaan besutan para ahli jantung terkemuka. Teknologi ini dirancang untuk mendeteksi anomali pada struktur jantung secara instan dengan akurasi yang menyamai diagnosis klinis manual. Kehadiran inovasi ini diharapkan mampu mempercepat penanganan darurat pasien penyakit jantung dan mengurangi beban kerja dokter spesialis.",
-      "takeaways": [
-        "FDA memberikan persetujuan resmi untuk perangkat pencitraan jantung berbasis kecerdasan buatan terbaru.",
-        "Aplikasi ini dikembangkan langsung oleh praktisi medis, memastikan integrasi klinis yang lebih relevan dan fungsional.",
-        "AI ini dapat mengidentifikasi penyakit jantung koroner dan kelainan kardiovaskular lainnya dalam hitungan menit."
-      ],
-      "category": "Sains & Teknologi"
-    },
-    {
-      "title": "Distrik Sekolah Terbesar Los Angeles Larang Siswa Gunakan Semua Alat AI",
-      "original_title": "LAUSD restricts all students from using AI tools",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORUpFWGxuSEhvUFNkd1JCMFlHTXlnMnREZlNpVWN0cUdGS2V0Rzh3b1Q5bGNBdE05aGthOXlIMlBvX0ZRbFNoZWd3WTd6LUVlcUdEVUVQSkVIb2VxYTdSUnI1bWZZX0htVHFGZW1lZVdUa1Zpa2xHazhvbkJVUEJId2F2dzNlcGVFV2R6NDVB?oc=5",
-      "source": "K-12 Dive",
-      "published_date": "2026-09-03",
-      "summary": "Los Angeles Unified School District (LAUSD), salah satu distrik sekolah terbesar di Amerika Serikat, resmi memberlakukan kebijakan pembatasan total terhadap penggunaan seluruh alat AI bagi para siswanya. Langkah ini diambil guna menjaga integritas akademik dan mencegah maraknya plagiarisme berbasis AI generatif di lingkungan sekolah. Keputusan ini menuai pro dan kontra dari berbagai pihak terkait metode pengajaran di era digital yang dinamis ini.",
-      "takeaways": [
-        "LAUSD secara resmi melarang siswa mengakses seluruh platform AI generatif di dalam jaringan sekolah.",
-        "Kebijakan ini didorong oleh kekhawatiran atas menurunnya kemampuan berpikir kritis dan orisinalitas karya siswa.",
-        "Langkah tegas dari distrik raksasa ini diperkirakan akan menjadi acuan bagi sistem sekolah lain di seluruh penjuru negeri."
-      ],
-      "category": "Sains & Teknologi"
-    },
-    {
-      "title": "Universitas Hawaii Raih Dana $2 Juta untuk Kembangkan AI Pelindung Sistem Produksi Pangan",
-      "original_title": "UH receives $2M award to develop AI tools to protect food production systems",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1BbDNnc0RtT2t4cl9xZHNhQW9iTjdtc3Z0cnpjYTZUYmxodEg3dnZaWjhZZzdQNUVoSGxMYXlFOUctZXlPS1B4enhtdEhuRzR2NThMd2Nnb0dwcGg0NTY0SUlBMjlSdlR4bnJ0ZG1vejBCZw?oc=5",
-      "source": "University of Hawaii System",
-      "published_date": "2026-09-03",
-      "summary": "Universitas Hawaii memperoleh dana hibah penelitian senilai 2 juta dolar AS untuk merancang solusi berbasis kecerdasan buatan guna mengamankan rantai produksi pangan dari ancaman hama dan perubahan iklim. Sistem AI yang dikembangkan akan memantau kondisi tanaman secara real-time dan memprediksi potensi gagal panen sebelum terjadi kerusakan luas. Proyek inovatif ini menjadi langkah krusial dalam memperkuat ketahanan pangan global di tengah ketidakpastian lingkungan.",
-      "takeaways": [
-        "Universitas Hawaii mendapatkan pendanaan $2 juta guna mengintegrasikan AI dalam perlindungan sektor pertanian.",
-        "Sistem pintar ini difokuskan pada deteksi dini serangan patogen serta pola perubahan cuaca ekstrem pada lahan pangan.",
-        "Teknologi ini diharapkan mampu mengoptimalkan hasil panen secara berkelanjutan guna menekan krisis pangan global."
-      ],
-      "category": "Sains & Teknologi"
     }
   ]
 }
