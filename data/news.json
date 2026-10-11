@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-10-10T05:02:13.655761+00:00",
-  "total_articles": 183,
+  "last_updated": "2026-10-11T04:50:29.428239+00:00",
+  "total_articles": 175,
   "articles": [
     {
       "title": "Terobosan Baru: Model AI Terbuka China Saingi Raksasa Silicon Valley",
       "original_title": "Another powerful new artificial intelligence model from China took the US tech industry by surprise",
       "url": "https://example.com/ai-china-model",
       "source": "LinkedIn News",
-      "published_date": "2026-10-10",
+      "published_date": "2026-10-11",
       "summary": "Startup AI asal China meluncurkan model open-source baru yang mengejutkan industri teknologi AS karena kemampuannya yang sangat kompetitif. Model ini menantang dominasi perusahaan besar Silicon Valley dengan performa tinggi yang dapat diakses secara gratis oleh pengembang.",
       "takeaways": [
         "Model open-source baru dari China menunjukkan kemajuan pesat dalam penelitian AI.",
@@ -21,7 +21,7 @@
       "original_title": "First CRISPR Gene Therapy for Rare Genetic Disorder Approved by FDA",
       "url": "https://example.com/crispr-approval",
       "source": "Nature Biotechnology",
-      "published_date": "2026-10-10",
+      "published_date": "2026-10-11",
       "summary": "FDA secara resmi menyetujui terapi pengeditan gen berbasis CRISPR untuk mengobati kelainan genetik langka yang merusak sel saraf. Keputusan bersejarah ini membuka jalan bagi penyembuhan penyakit genetik kronis lainnya yang sebelumnya tidak dapat disembuhkan.",
       "takeaways": [
         "FDA memberikan persetujuan untuk terapi berbasis CRISPR pertama yang menyasar penyakit sel saraf.",
@@ -35,7 +35,7 @@
       "original_title": "Scientists Create Hybrid Brain Network Using Silicon Chips and Neurons",
       "url": "https://example.com/hybrid-brain",
       "source": "Science Daily",
-      "published_date": "2026-10-10",
+      "published_date": "2026-10-11",
       "summary": "Tim peneliti gabungan berhasil menghubungkan sel saraf biologis hidup dengan chip silikon komputer menggunakan antarmuka bio-elektronik baru. Teknologi ini berpotensi digunakan untuk memulihkan fungsi sensorik pasien lumpuh serta mempercepat komputasi neuromorfik.",
       "takeaways": [
         "Integrasi sel saraf hidup dengan silikon membuka jalan bagi komputer biologis.",
@@ -49,7 +49,7 @@
       "original_title": "Google Launches Upgraded Gemini Pro with Larger Context Window",
       "url": "https://example.com/gemini-pro-update",
       "source": "TechCrunch",
-      "published_date": "2026-10-10",
+      "published_date": "2026-10-11",
       "summary": "Google resmi merilis pembaruan untuk model Gemini Pro yang kini mendukung pemrosesan dokumen panjang hingga jutaan token secara bersamaan. Pembaruan ini secara dramatis meningkatkan akurasi dalam menganalisis kode pemrograman kompleks dan laporan keuangan panjang.",
       "takeaways": [
         "Context window Gemini Pro diperluas untuk mendukung analisis data skala besar.",
@@ -63,7 +63,7 @@
       "original_title": "Full Genome Sequencing Unlocks Secrets of Ancient Rice Evolution",
       "url": "https://example.com/rice-genome",
       "source": "Genomics Journal",
-      "published_date": "2026-10-10",
+      "published_date": "2026-10-11",
       "summary": "Para peneliti genetika berhasil memetakan sekuens genom lengkap dari sampel padi purba berusia 3.000 tahun yang ditemukan di situs arkeologi. Data genetik ini mengungkap bagaimana nenek moyang kita melakukan seleksi tanaman terhadap kekeringan dan hama.",
       "takeaways": [
         "Pemetaan genom padi purba memberikan wawasan tentang adaptasi iklim masa lalu.",
@@ -77,7 +77,7 @@
       "original_title": "Future Supercomputing: Large-scale Quantum Computing Experiment Succeeds",
       "url": "https://example.com/quantum-success",
       "source": "MIT Technology Review",
-      "published_date": "2026-10-10",
+      "published_date": "2026-10-11",
       "summary": "Fisikawan berhasil menjalankan algoritma koreksi kesalahan kuantum yang stabil pada sistem 100-qubit untuk pertama kalinya. Hasil ini menunjukkan bahwa komputer kuantum komersial yang bebas dari error tingkat tinggi kini semakin dekat menjadi kenyataan.",
       "takeaways": [
         "Algoritma koreksi kesalahan kuantum berhasil menstabilkan sistem qubit dari gangguan luar.",
@@ -91,7 +91,7 @@
       "original_title": "AI Detects Early-Stage Lung Cancer Using Standard Chest X-rays",
       "url": "https://example.com/ai-lung-cancer",
       "source": "The Lancet Digital Health",
-      "published_date": "2026-10-10",
+      "published_date": "2026-10-11",
       "summary": "Sebuah sistem kecerdasan buatan baru yang dilatih pada jutaan radiografi dada mampu mendeteksi tanda-tanda awal kanker paru dengan akurasi 94%. Sistem ini dapat mendeteksi nodul kecil yang sering terlewatkan oleh radiolog manusia pada pemeriksaan rutin.",
       "takeaways": [
         "Sistem AI melampaui rata-rata akurasi deteksi radiolog manusia dalam skrining awal.",
@@ -105,7 +105,7 @@
       "original_title": "Ancient DNA Technology Reveals Migration Patterns of First Americans",
       "url": "https://example.com/ancient-dna-america",
       "source": "Science Magazine",
-      "published_date": "2026-10-10",
+      "published_date": "2026-10-11",
       "summary": "Studi terhadap sisa-sisa DNA kuno berusia 12.000 tahun menunjukkan bahwa pemukim pertama Amerika bermigrasi dalam beberapa gelombang yang berbeda secara genetik. Analisis ini meluruskan teori migrasi tunggal yang selama ini diyakini oleh para arkeolog.",
       "takeaways": [
         "Analisis genom kuno membuktikan adanya rute migrasi maritim di samping jembatan darat Beringia.",
@@ -119,7 +119,7 @@
       "original_title": "New Sodium-ion Battery Offers Cheap Alternative for Green Energy Storage",
       "url": "https://example.com/sodium-battery",
       "source": "Bloomberg Green",
-      "published_date": "2026-10-10",
+      "published_date": "2026-10-11",
       "summary": "Para peneliti berhasil mengembangkan baterai sodium-ion (garam) berkapasitas tinggi dengan siklus hidup yang menyamai baterai lithium-ion. Karena sodium sangat melimpah dan murah, teknologi ini dapat mempercepat transisi ke penyimpanan energi surya dan angin skala besar.",
       "takeaways": [
         "Baterai berbasis garam menawarkan biaya produksi 40% lebih murah dibanding lithium.",
@@ -133,7 +133,7 @@
       "original_title": "Advancement in Automatic Music Generation Using Pitch-Specific LLMs",
       "url": "https://example.com/music-llm",
       "source": "Wired",
-      "published_date": "2026-10-10",
+      "published_date": "2026-10-11",
       "summary": "Model bahasa besar (LLM) terbaru yang dikonfigurasi khusus untuk memahami teori musik dapat menghasilkan aransemen orkestra lengkap secara instan berdasarkan deskripsi teks. Model ini memahami harmoni dan transisi instrumen secara organik layaknya komposer profesional.",
       "takeaways": [
         "LLM musik baru menghasilkan musik dengan pemahaman struktural harmoni yang mendalam.",
@@ -2451,118 +2451,6 @@
         "Debut gemilang ini menandai pergeseran fokus investor global ke arah penguatan rantai pasok infrastruktur kecerdasan buatan fisik."
       ],
       "category": "Sains & Teknologi"
-    },
-    {
-      "title": "Peneliti Anthropic Bunyikan Alarm Bahaya: Akselerasi AI yang Tak Terkendali Ancam Kemanusiaan",
-      "original_title": "Anthropic Researchers Raise Alarm Over A.I. Acceleration, Warning of Threat to Humanity",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQkNXOVd1RnJGS09XOUY5M1FVNHk2ZUdOUTRtWlFOYXNoSzFBR1RKS01HVGYySlZSb2xfeUppdFJLTTgxNXEtS3IxR1dDV0YtZWhOWUtCQy1XS3VvYW51MXZQRk8td0ZXakpzVzRrQWg1UkJST2g1cnZyRTk1X0lIUjJzR09ZZDhwbFM1NQ?oc=5",
-      "source": "The New York Times",
-      "published_date": "2026-09-10",
-      "summary": "Sejumlah peneliti dari perusahaan AI terkemuka, Anthropic, memperingatkan publik mengenai bahaya dari pengembangan kecerdasan buatan yang terlalu cepat tanpa diimbangi protokol keselamatan yang memadai. Mereka menekankan bahwa persaingan ketat antar-laboratorium memicu pengabaian risiko bencana kemanusiaan demi keuntungan komersial. Peringatan ini memperkuat tuntutan global akan regulasi keamanan AI yang jauh lebih ketat.",
-      "takeaways": [
-        "Para peneliti mengkhawatirkan perlombaan komersial AI mengesampingkan faktor keselamatan mendasar.",
-        "Ada kekhawatiran nyata bahwa sistem AI masa depan dapat lepas dari kendali manusia.",
-        "Peringatan ini mendesak urgensi intervensi pemerintah dalam menetapkan batas aman pengembangan teknologi."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Apple Luncurkan Era Baru Siri Berbasis Kecerdasan Buatan yang Lebih Cerdas",
-      "original_title": "Apple ushers in new, AI-powered era for Siri",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQnB5blNSUXFRZzl3cDZRLWthNVdmQTZfQ2I1UFQweG9Udjh5b0hqT21sN21ORF9xTWs5ak4tVklsVWE5UE1SWmd5aTRtRE1KNDdlT0F3LWdGQVlrSFkwUEo3bk1Bd1p1QlRPZWh6ODdYUVRYQnl1bktWOHlMNXE0LThFTUs0VnEyM1Bz?oc=5",
-      "source": "Mashable",
-      "published_date": "2026-09-10",
-      "summary": "Apple secara resmi memperbarui asisten virtualnya, Siri, dengan integrasi kecerdasan buatan generatif yang mendalam demi memberikan pengalaman pengguna yang lebih responsif dan kontekstual. Pembaruan ini memungkinkan Siri memahami instruksi kompleks serta berinteraksi secara natural layaknya manusia. Langkah ini mempertegas komitmen Apple untuk bersaing ketat di panggung AI global.",
-      "takeaways": [
-        "Siri kini didukung oleh AI generatif untuk pemahaman konteks yang jauh lebih baik.",
-        "Pembaruan ini mengubah cara pengguna berinteraksi dengan ekosistem perangkat Apple secara harian.",
-        "Langkah Apple menandai pergeseran besar ke arah komputasi personal yang sepenuhnya berpusat pada AI."
-      ],
-      "category": "Sains & Teknologi"
-    },
-    {
-      "title": "FBI Mulai Lacak Kejahatan Berbasis AI: Jutaan Dolar AS Raib Akibat Penipuan Canggih",
-      "original_title": "FBI now publicly identifies, tracks AI used in crimes. North Carolinians have lost millions",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNT3A2MHBqUm9MdnBCLTE3VWxGWFBUalJtc0lUempaZV9MMnRLRHVjTGtkUy05aWtZa2h4ZDZFNkhpUXVXWnZwcGFOUHMzY0NEVEhKRGI4OUN2MGE4N1JzWldaMlN6ODVIandkRUN5SFNEMy1kNkgwRG5vOHZVT0RhVk1kSEJaMzJMSWFkMTRfel9COVFoYXE2ei1nY0w4dTQ3eElXQm85ZnNqVjlTZmRQQUlMU3k?oc=5",
-      "source": "WRAL",
-      "published_date": "2026-09-10",
-      "summary": "Biro Investigasi Federal (FBI) kini secara resmi mengidentifikasi dan melacak penggunaan kecerdasan buatan dalam berbagai aktivitas kriminal, menyusul kerugian jutaan dolar yang diderita masyarakat. Penjahat siber dilaporkan memanfaatkan teknologi deepfake dan kloning suara berbasis AI untuk melancarkan skema penipuan keuangan yang sangat meyakinkan. Langkah proaktif penegak hukum ini menyoroti sisi gelap pemanfaatan teknologi kecerdasan buatan.",
-      "takeaways": [
-        "FBI membentuk unit khusus untuk melacak taktik penjahat siber yang memanfaatkan teknologi AI canggih.",
-        "Kloning suara dan manipulasi video (deepfake) menjadi modus operandi utama dalam penipuan bernilai jutaan dolar.",
-        "Masyarakat diimbau untuk meningkatkan kewaspadaan digital mengingat semakin sulitnya membedakan interaksi asli dan buatan."
-      ],
-      "category": "Sains & Teknologi"
-    },
-    {
-      "title": "Mendeteksi dan Menangkal Penyalahgunaan AI: Laporan Anthropic September 2026",
-      "original_title": "Detecting and countering misuse of AI: September 2026",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBeTNVQy1tcnZPVW9SM3drbmxGN1UxRktiY3JfLW9rMDdIMm9SOUd3b3RJNHpSRXVzS1JKckctcFUyZHpNTVE3aEtWVFhka3o3UmlLUzk1ZEs3dUhyVmRJYVctb0IyN1JuNDB6N0hZdTR2TWJTVXc?oc=5",
-      "source": "Anthropic",
-      "published_date": "2026-09-10",
-      "summary": "Anthropic merilis laporan terbaru mengenai strategi deteksi dan mitigasi terhadap potensi penyalahgunaan model kecerdasan buatan demi menjaga keamanan digital. Upaya ini berfokus pada identifikasi ancaman siber, disinformasi, dan manipulasi perilaku yang digerakkan oleh sistem cerdas. Langkah ini sangat penting untuk menetapkan standar industri baru dalam pengembangan AI yang aman dan bertanggung jawab.",
-      "takeaways": [
-        "Anthropic secara proaktif mengembangkan metode deteksi dini terhadap penyalahgunaan sistem AI dalam kampanye siber berbahaya.",
-        "Kerja sama lintas industri sangat krusial untuk mengidentifikasi ancaman baru yang terus berevolusi seiring kecanggihan model AI.",
-        "Pendekatan keamanan harus bergeser dari sekadar pembatasan statis menjadi pemantauan aktif yang dinamis."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Melalui Misi Bio Genesis, NIH Libatkan Pasien dalam Pemanfaatan AI untuk Genomik",
-      "original_title": "NIH seeks to engage patients as it scales use of AI with Bio Genesis Mission",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYlR2cENfdGFZc0U4dS1IVHV2Z3p6WW5wRkxmN0lYNWI5WTE2clhCTGVwZUlMYl9hLXBWMERKblJaVTBOYW5nSkVWZkZNckp0cktCM3h3NVo3Q2pTclVKdHBWTGFuX2xpcFFMLXJZYVNMOFBOOTMwc3BNa1YyTkdNRW5PcW5jejVjY3dzU0R4X0twVHVpYTVRSWYtV3dxVThmcHNvaTVGeC05QkhGYzBxRVJpR3NqLWlMV0pwcHYxajB0cnFl?oc=5",
-      "source": "Nextgov/FCW",
-      "published_date": "2026-09-10",
-      "summary": "Institut Kesehatan Nasional AS (NIH) meluncurkan 'Bio Genesis Mission' untuk memperluas penerapan kecerdasan buatan dalam riset genomik dengan melibatkan partisipasi pasien secara aktif. Inisiatif ini berupaya memastikan data genetik yang dianalisis lebih bervariasi sekaligus menjunjung tinggi transparansi etika medis. Langkah ini sangat krusial dalam mempercepat penemuan obat baru serta era kedokteran presisi berbasis bioteknologi modern.",
-      "takeaways": [
-        "Misi Bio Genesis menggabungkan kecerdasan buatan dengan analisis data genomik skala besar yang melibatkan kontribusi pasien secara langsung.",
-        "Inklusivitas data genetik ditingkatkan untuk meminimalkan bias dalam pengembangan obat dan terapi medis masa depan.",
-        "Pendekatan ini berpotensi mempercepat penemuan terapi penyakit langka dan kronis melalui pemrosesan data genomik berbasis AI."
-      ],
-      "category": "Genom & Biotek"
-    },
-    {
-      "title": "Harapan dan Tantangan: Peneliti UVA Ungkap Sisi Positif dan Negatif AI dalam Riset Biomedis",
-      "original_title": "UVA School of Medicine researchers find promise, pitfalls in AI models for biomedical research",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSHZlVHgydk9NQm4yaEFlaENLUFB1ZWpvSHFxTHpueGp2bkxUODBQcHRCUXM4c0JUMW03UzRqcHZ2V2UzamtGWldCN3ZBcnQ0Y2Z2N3dOdTQzbmtQcjNCNk9oU1Blc1dnUFZHa0VtVmtGcjUwN2Nkc2ZUbF9yVTgxVEd3U05fNFVnMFFySzc3ZEVoUjFJMldfMldqVjdlSVY5QS0wYjE2XzdMWEhiMlZINGRwVk9uSjNEYVHSAc4BQVVfeXFMTl9IVzV2WXZaVkxvQjBsd1RMU0xYaUh3UFFoeEhINnF2endBWkNBaWhzLU4yTjYzNUxCblY1WVdYb1JaZWdQX2xMSmJrcmFMM3dJeURCazRjWnNkaFVvTnl3QVBBVnRuaHFqYXUtUkI5V2I2UzJoOHAwX0I5QURVMl92UzI2TERsZHJHaUxNRzlwZ2hkT3V3MmFuMWtiY0twcG56SXhocDQtVjk5bzRQZlhKYXFRSkdaYXhNak1SNVlpWElQcmdYb0FVMzNSNGc?oc=5",
-      "source": "WVIR",
-      "published_date": "2026-09-10",
-      "summary": "Para peneliti di Fakultas Kedokteran University of Virginia (UVA) mengidentifikasi peluang sekaligus keterbatasan kritis dari penggunaan model AI dalam riset biomedis saat ini. Walaupun AI mampu mempercepat analisis data genetik yang rumit, ketidakakuratan data pelatihan awal dapat memicu bias hasil riset yang berbahaya bagi keselamatan klinis. Studi ini menekankan pentingnya pengawasan manusia secara ketat sebelum sepenuhnya bergantung pada AI untuk penemuan obat.",
-      "takeaways": [
-        "AI menawarkan keunggulan luar biasa dalam memproses informasi biologis yang kompleks dalam hitungan detik.",
-        "Keterbatasan kualitas data input berisiko memunculkan kesimpulan penelitian yang keliru atau bias secara medis.",
-        "Validasi ketat oleh peneliti manusia mutlak diperlukan sebelum menerapkan rekomendasi AI dalam penemuan obat berbasis bioteknologi."
-      ],
-      "category": "Genom & Biotek"
-    },
-    {
-      "title": "Eksperimen Berbahaya? Publik Pertanyakan Keamanan Langkah Agresif Perusahaan AI Raksasa",
-      "original_title": "Are big AI companies gambling with our lives?",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNGs0eTlRM1dlV19YOFI5Z1FfZWw2cVFxZWlkMzNCVFpCOVJJS3RQQWF3cVU4dEw4aExEUl9NQUgyWnJ3bmN3MzQ1Z1h2WGNYOWFkaXBFSGdGZnhLXzU2LTEwV0hzTkUwR3lyZzRtUTV6YWh2V1Q2X3lWQVEwT01FNUlpZ1QxSkxqVG5QR3BLTDlIVjg?oc=5",
-      "source": "NPR",
-      "published_date": "2026-09-10",
-      "summary": "Laporan dari NPR mengulas kekhawatiran masyarakat dan ilmuwan bahwa perusahaan teknologi raksasa sedang mengabaikan aspek keselamatan dasar demi memenangkan perlombaan komersialisasi kecerdasan buatan. Berbagai peluncuran teknologi yang terburu-buru dituding berpotensi mengganggu stabilitas sosial, menyebarkan disinformasi skala besar, hingga memicu kerentanan sistem siber kritis. Hal ini mendorong seruan yang lebih keras bagi keterlibatan publik dalam mengawasi laju perkembangan teknologi ini.",
-      "takeaways": [
-        "Persaingan pasar yang agresif dikhawatirkan membuat pengembang AI raksasa mengesampingkan pengujian keselamatan jangka panjang.",
-        "Peluncuran sistem kecerdasan buatan yang belum matang dinilai dapat mengancam integritas informasi dan keamanan infrastruktur siber publik.",
-        "Komunitas ahli mendesak penerapan transparansi penuh dan mekanisme pertanggungjawaban hukum bagi para pelaku industri teknologi utama."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Bagaimana AI Bisa Membahayakan Eksistensi Manusia? Penjelasan Ahli Atas Risiko Nyata",
-      "original_title": "How could AI kill humans? Experts explain the risks after researcher's viral warning",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNa2ZUNXZ3LTMwQlhpejBmUDhpdno0QWNwWUktMEpYTGtCOGoyRy1NSWdlTENIaVRHWUJza0FGZmFMcnpYbWtQZ2pHYzMyeXpnM0sxOVRLV29DRGd6M1Bkd3FXTGszS0FzTnRDcDNQRGNMd0d3TFZGemxDeXNVTDBFUTUtZ3ViQUVvOXZENTFsWjFIYi1jWjBVdVE3ZVk5dnNUd0JUd285bVVOd2owb0MtQWRjYkhxM2pMalE1NDFWUGF4RV9BUnFvStIB0AFBVV95cUxPNG5ndTk5YWRVc2VwVE9US3BEZXE5dElreXFrUTF3YXowczgxdFB0RGdlaTlLUkc1QUVudFdQeUgxWUt3UkdBeHdWb0FTOXhQNzdnSHFkcUIxZS1wTVZHYlI0TmUwaUd5VXp6SDhxdHd2NURVYjdoODhVSFpocVZTNE9KVW5keXpDRkZGNjBYbnRQSWRfeTdLOEhVUUFQTUlRTUFBY1FMcll0X21wWHhTSlA0M2kxUC05Z3VFV0tLcTg1U0g4cDYxSGpaZWJoZERX?oc=5",
-      "source": "nbcchicago.com",
-      "published_date": "2026-09-10",
-      "summary": "Menanggapi peringatan keras yang viral dari seorang peneliti terkemuka, para pakar keselamatan memaparkan skenario konkret bagaimana sistem cerdas otonom dapat membahayakan kehidupan manusia di masa depan. Bahaya ini mencakup masalah kegagalan penyelarasan nilai (alignment), hilangnya kontrol manusia atas sistem persenjataan otonom, hingga potensi sabotase infrastruktur penting. Artikel ini mengedukasi publik mengenai pentingnya menempatkan keamanan AI sebagai prioritas darurat nasional.",
-      "takeaways": [
-        "Risiko terbesar AI otonom bersumber dari 'alignment problem', di mana tujuan mesin menyimpang dari intensi keselamatan manusia.",
-        "Penggunaan kecerdasan buatan otonom dalam infrastruktur pertahanan militer dinilai memiliki risiko kegagalan fisik yang paling instan.",
-        "Edukasi publik yang komprehensif mengenai batasan sistem AI menjadi kunci pencegahan kepanikan sosial sekaligus pendorong lahirnya regulasi bijak."
-      ],
-      "category": "Artificial Intelligence"
     }
   ]
 }
