@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-10-11T04:50:29.428239+00:00",
-  "total_articles": 175,
+  "last_updated": "2026-10-12T05:05:26.449123+00:00",
+  "total_articles": 171,
   "articles": [
     {
       "title": "Terobosan Baru: Model AI Terbuka China Saingi Raksasa Silicon Valley",
       "original_title": "Another powerful new artificial intelligence model from China took the US tech industry by surprise",
       "url": "https://example.com/ai-china-model",
       "source": "LinkedIn News",
-      "published_date": "2026-10-11",
+      "published_date": "2026-10-12",
       "summary": "Startup AI asal China meluncurkan model open-source baru yang mengejutkan industri teknologi AS karena kemampuannya yang sangat kompetitif. Model ini menantang dominasi perusahaan besar Silicon Valley dengan performa tinggi yang dapat diakses secara gratis oleh pengembang.",
       "takeaways": [
         "Model open-source baru dari China menunjukkan kemajuan pesat dalam penelitian AI.",
@@ -21,7 +21,7 @@
       "original_title": "First CRISPR Gene Therapy for Rare Genetic Disorder Approved by FDA",
       "url": "https://example.com/crispr-approval",
       "source": "Nature Biotechnology",
-      "published_date": "2026-10-11",
+      "published_date": "2026-10-12",
       "summary": "FDA secara resmi menyetujui terapi pengeditan gen berbasis CRISPR untuk mengobati kelainan genetik langka yang merusak sel saraf. Keputusan bersejarah ini membuka jalan bagi penyembuhan penyakit genetik kronis lainnya yang sebelumnya tidak dapat disembuhkan.",
       "takeaways": [
         "FDA memberikan persetujuan untuk terapi berbasis CRISPR pertama yang menyasar penyakit sel saraf.",
@@ -35,7 +35,7 @@
       "original_title": "Scientists Create Hybrid Brain Network Using Silicon Chips and Neurons",
       "url": "https://example.com/hybrid-brain",
       "source": "Science Daily",
-      "published_date": "2026-10-11",
+      "published_date": "2026-10-12",
       "summary": "Tim peneliti gabungan berhasil menghubungkan sel saraf biologis hidup dengan chip silikon komputer menggunakan antarmuka bio-elektronik baru. Teknologi ini berpotensi digunakan untuk memulihkan fungsi sensorik pasien lumpuh serta mempercepat komputasi neuromorfik.",
       "takeaways": [
         "Integrasi sel saraf hidup dengan silikon membuka jalan bagi komputer biologis.",
@@ -49,7 +49,7 @@
       "original_title": "Google Launches Upgraded Gemini Pro with Larger Context Window",
       "url": "https://example.com/gemini-pro-update",
       "source": "TechCrunch",
-      "published_date": "2026-10-11",
+      "published_date": "2026-10-12",
       "summary": "Google resmi merilis pembaruan untuk model Gemini Pro yang kini mendukung pemrosesan dokumen panjang hingga jutaan token secara bersamaan. Pembaruan ini secara dramatis meningkatkan akurasi dalam menganalisis kode pemrograman kompleks dan laporan keuangan panjang.",
       "takeaways": [
         "Context window Gemini Pro diperluas untuk mendukung analisis data skala besar.",
@@ -63,7 +63,7 @@
       "original_title": "Full Genome Sequencing Unlocks Secrets of Ancient Rice Evolution",
       "url": "https://example.com/rice-genome",
       "source": "Genomics Journal",
-      "published_date": "2026-10-11",
+      "published_date": "2026-10-12",
       "summary": "Para peneliti genetika berhasil memetakan sekuens genom lengkap dari sampel padi purba berusia 3.000 tahun yang ditemukan di situs arkeologi. Data genetik ini mengungkap bagaimana nenek moyang kita melakukan seleksi tanaman terhadap kekeringan dan hama.",
       "takeaways": [
         "Pemetaan genom padi purba memberikan wawasan tentang adaptasi iklim masa lalu.",
@@ -77,7 +77,7 @@
       "original_title": "Future Supercomputing: Large-scale Quantum Computing Experiment Succeeds",
       "url": "https://example.com/quantum-success",
       "source": "MIT Technology Review",
-      "published_date": "2026-10-11",
+      "published_date": "2026-10-12",
       "summary": "Fisikawan berhasil menjalankan algoritma koreksi kesalahan kuantum yang stabil pada sistem 100-qubit untuk pertama kalinya. Hasil ini menunjukkan bahwa komputer kuantum komersial yang bebas dari error tingkat tinggi kini semakin dekat menjadi kenyataan.",
       "takeaways": [
         "Algoritma koreksi kesalahan kuantum berhasil menstabilkan sistem qubit dari gangguan luar.",
@@ -91,7 +91,7 @@
       "original_title": "AI Detects Early-Stage Lung Cancer Using Standard Chest X-rays",
       "url": "https://example.com/ai-lung-cancer",
       "source": "The Lancet Digital Health",
-      "published_date": "2026-10-11",
+      "published_date": "2026-10-12",
       "summary": "Sebuah sistem kecerdasan buatan baru yang dilatih pada jutaan radiografi dada mampu mendeteksi tanda-tanda awal kanker paru dengan akurasi 94%. Sistem ini dapat mendeteksi nodul kecil yang sering terlewatkan oleh radiolog manusia pada pemeriksaan rutin.",
       "takeaways": [
         "Sistem AI melampaui rata-rata akurasi deteksi radiolog manusia dalam skrining awal.",
@@ -105,7 +105,7 @@
       "original_title": "Ancient DNA Technology Reveals Migration Patterns of First Americans",
       "url": "https://example.com/ancient-dna-america",
       "source": "Science Magazine",
-      "published_date": "2026-10-11",
+      "published_date": "2026-10-12",
       "summary": "Studi terhadap sisa-sisa DNA kuno berusia 12.000 tahun menunjukkan bahwa pemukim pertama Amerika bermigrasi dalam beberapa gelombang yang berbeda secara genetik. Analisis ini meluruskan teori migrasi tunggal yang selama ini diyakini oleh para arkeolog.",
       "takeaways": [
         "Analisis genom kuno membuktikan adanya rute migrasi maritim di samping jembatan darat Beringia.",
@@ -119,7 +119,7 @@
       "original_title": "New Sodium-ion Battery Offers Cheap Alternative for Green Energy Storage",
       "url": "https://example.com/sodium-battery",
       "source": "Bloomberg Green",
-      "published_date": "2026-10-11",
+      "published_date": "2026-10-12",
       "summary": "Para peneliti berhasil mengembangkan baterai sodium-ion (garam) berkapasitas tinggi dengan siklus hidup yang menyamai baterai lithium-ion. Karena sodium sangat melimpah dan murah, teknologi ini dapat mempercepat transisi ke penyimpanan energi surya dan angin skala besar.",
       "takeaways": [
         "Baterai berbasis garam menawarkan biaya produksi 40% lebih murah dibanding lithium.",
@@ -133,7 +133,7 @@
       "original_title": "Advancement in Automatic Music Generation Using Pitch-Specific LLMs",
       "url": "https://example.com/music-llm",
       "source": "Wired",
-      "published_date": "2026-10-11",
+      "published_date": "2026-10-12",
       "summary": "Model bahasa besar (LLM) terbaru yang dikonfigurasi khusus untuk memahami teori musik dapat menghasilkan aransemen orkestra lengkap secara instan berdasarkan deskripsi teks. Model ini memahami harmoni dan transisi instrumen secara organik layaknya komposer profesional.",
       "takeaways": [
         "LLM musik baru menghasilkan musik dengan pemahaman struktural harmoni yang mendalam.",
@@ -2393,62 +2393,6 @@
         "Perjanjian diplomatik tradisional memiliki keterbatasan besar dalam mencegah militerisasi sistem kecerdasan buatan otonom.",
         "Dorongan kompetitif antar-negara dalam teknologi pertahanan sering kali mengalahkan komitmen etika internasional.",
         "Solusi penangkalan harus beralih ke pembatasan ekspor komponen keras penting (seperti cip canggih) dan pengawasan rantai pasok."
-      ],
-      "category": "Sains & Teknologi"
-    },
-    {
-      "title": "GPT-6 Astra: OpenAI Perkenalkan Generasi Baru Kecerdasan Buatan",
-      "original_title": "GPT-6 Astra: A new generation of intelligence",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
-      "source": "OpenAI",
-      "published_date": "2026-09-11",
-      "summary": "OpenAI resmi memperkenalkan GPT-6 Astra, model AI generasi terbaru yang menawarkan peningkatan kemampuan penalaran logis serta pemahaman multimodal mendalam. Peluncuran ini menandai lompatan besar menuju realisasi Kecerdasan Buatan Umum (AGI) dengan efisiensi komputasi yang jauh lebih optimal. Kehadiran GPT-6 Astra diproyeksikan akan merevolusi berbagai sektor industri dan penelitian ilmiah tingkat tinggi.",
-      "takeaways": [
-        "GPT-6 Astra membawa lompatan besar dalam kemampuan penalaran logis melampaui generasi pendahulunya.",
-        "Model baru ini dirancang dengan optimalisasi energi dan komputasi demi penerapan skala industri yang lebih efisien.",
-        "Peluncuran ini mempercepat persaingan teknologi global menuju pencapaian visi Artificial General Intelligence (AGI)."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "CEO OpenAI Sam Altman Isyaratkan Kesediaan Memperlambat Rilis AI Demi Keamanan",
-      "original_title": "OpenAI Is Open to Slowing Cutting-Edge AI, CEO Sam Altman Tells Staff",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaE5RVzVKR09WQ0pick9xYjhVaXhnYUFpOUt2OElxZjBwbTRvT2d3U2FnRmFacXd5TWFvVnpwRUo5M0lEeWVNbWJURzdlRXFLbnFHa1Y4WU43SmxKYWcwUGRFQmdjV2FGeUg4TVdPVEFkTzJtNUtQV0xtVHROLV9XekJKSTZFbmFNb0xwaFNMejRHYmpwbUdpOGRlYXoza2hjWXRTdVdNcng0cmFNV2ZwTkFYT0tma1kzTkpN?oc=5",
-      "source": "Bloomberg.com",
-      "published_date": "2026-09-11",
-      "summary": "CEO OpenAI, Sam Altman, menyatakan kepada stafnya bahwa perusahaan bersedia memperlambat peluncuran model AI tercanggih jika aspek keselamatan belum sepenuhnya terjamin. Langkah ini diambil di tengah meningkatnya kekhawatiran global mengenai risiko eksistensial teknologi kecerdasan buatan yang berkembang terlalu cepat tanpa kendali. Pernyataan ini menunjukkan pergeseran prioritas penting di internal OpenAI menuju pendekatan yang lebih berhati-hati.",
-      "takeaways": [
-        "OpenAI membuka peluang untuk menunda rilis teknologi baru demi memastikan pengujian keamanan yang komprehensif.",
-        "Kebijakan ini merespons tekanan kuat dari komunitas riset dan regulator yang mengkhawatirkan hilangnya kendali atas AI otonom.",
-        "Sikap hati-hati ini berpotensi memengaruhi dinamika persaingan komersial di antara para raksasa teknologi kecerdasan buatan."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Gubernur Newsom Teken Aturan Baru: Model AI Canggih Wajib Lalui Tinjauan Independen",
-      "original_title": "Newsom signs new AI safeguards requiring independent reviews of artificial intelligence",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONXFkMXJLbkpuVXNDQ3ZCUGxBdFZUdmtGeXdNOGJ1SWc3X3NVRGNpYjAtN2NUc3dfOXJfdU12eFZrTnlLUml3ZFBsMm56YTkyUks3YWMtdVdpd2Izak8zWWpPV3hPeWRxRlpLeS05VlFIbHRQUGtjOWR6WnN0VGZjVC1aX0xFb2JQSnNBTkFtZHhRcnl4QmhaXzJiRVFzMnpQX0xwTDdrdUMwX3BfTnBrYmxYM0pWUGl6Zk1nTm1tZUR0LTRreWQ1YQ?oc=5",
-      "source": "CBS News",
-      "published_date": "2026-09-11",
-      "summary": "Gubernur California Gavin Newsom menandatangani undang-undang perlindungan AI baru yang mewajibkan audit dan tinjauan independen terhadap model kecerdasan buatan berskala besar sebelum diluncurkan. Aturan ketat ini dirancang untuk mencegah potensi bencana siber dan penyalahgunaan senjata biologis berbantuan sistem pintar. Langkah California ini diperkirakan akan menjadi acuan penting bagi kebijakan regulasi AI di tingkat nasional dan global.",
-      "takeaways": [
-        "California resmi mewajibkan evaluasi pihak ketiga yang independen bagi pengembang model AI berisiko tinggi.",
-        "Regulasi difokuskan untuk meminimalkan bahaya ekstrem, seperti serangan siber berskala nasional dan pengembangan senjata biologi.",
-        "Kebijakan baru ini memicu perdebatan mengenai batas inovasi teknologi dan kebutuhan mendesak akan keamanan publik."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Didukung Tencent, Saham Produsen Chip AI 'Enflame' Melonjak Tiga Kali Lipat di Bursa Shanghai",
-      "original_title": "Tencent-backed Enflame triples in Shanghai debut as China AI chip bets surge",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOV1oyZUF1MXVHWmZZeDRoUTlDT0lORWoyNldHNGVlOFdOUlhjYUMyNEFXQzY1MjJGc0RCa3U2WG1DZ09vWVdCQzhqcnFSYkZqQU91NVBFeDZQMFc2aDNoRVh0NDhPWjYwSWs1TlA0NkNCZ1htNDN6VzJ1eVRMMHdvcEp1TWlYOG1zdllwNFZOc2dyVmtwX0hmZDhVUUVoanFGQWxFTnN3dVVVNHBLWkVoSVdaNWszOUY0SXBoUmE3QlJ1MUln?oc=5",
-      "source": "Reuters",
-      "published_date": "2026-09-11",
-      "summary": "Perusahaan perancang cip kecerdasan buatan asal Tiongkok, Enflame, mencatatkan kenaikan harga saham hingga tiga kali lipat pada perdagangan perdananya di bursa saham Shanghai. Kenaikan spektakuler ini didorong oleh lonjakan investasi domestik guna mencapai kemandirian teknologi semikonduktor di tengah pembatasan ekspor dari Amerika Serikat. Fenomena ini membuktikan betapa krusialnya penguasaan infrastruktur perangkat keras fisik dalam peta persaingan teknologi dunia saat ini.",
-      "takeaways": [
-        "Tingginya permintaan terhadap alternatif cip AI domestik di Tiongkok mendorong lonjakan valuasi saham Enflame secara masif.",
-        "Kemandirian teknologi perangkat keras cip semikonduktor kini menjadi prioritas geopolitik dan ekonomi strategis Tiongkok.",
-        "Debut gemilang ini menandai pergeseran fokus investor global ke arah penguatan rantai pasok infrastruktur kecerdasan buatan fisik."
       ],
       "category": "Sains & Teknologi"
     }
