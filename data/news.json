@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-10-13T06:05:06.912064+00:00",
-  "total_articles": 167,
+  "last_updated": "2026-10-14T04:08:17.827978+00:00",
+  "total_articles": 162,
   "articles": [
     {
       "title": "Terobosan Baru: Model AI Terbuka China Saingi Raksasa Silicon Valley",
       "original_title": "Another powerful new artificial intelligence model from China took the US tech industry by surprise",
       "url": "https://example.com/ai-china-model",
       "source": "LinkedIn News",
-      "published_date": "2026-10-13",
+      "published_date": "2026-10-14",
       "summary": "Startup AI asal China meluncurkan model open-source baru yang mengejutkan industri teknologi AS karena kemampuannya yang sangat kompetitif. Model ini menantang dominasi perusahaan besar Silicon Valley dengan performa tinggi yang dapat diakses secara gratis oleh pengembang.",
       "takeaways": [
         "Model open-source baru dari China menunjukkan kemajuan pesat dalam penelitian AI.",
@@ -21,7 +21,7 @@
       "original_title": "First CRISPR Gene Therapy for Rare Genetic Disorder Approved by FDA",
       "url": "https://example.com/crispr-approval",
       "source": "Nature Biotechnology",
-      "published_date": "2026-10-13",
+      "published_date": "2026-10-14",
       "summary": "FDA secara resmi menyetujui terapi pengeditan gen berbasis CRISPR untuk mengobati kelainan genetik langka yang merusak sel saraf. Keputusan bersejarah ini membuka jalan bagi penyembuhan penyakit genetik kronis lainnya yang sebelumnya tidak dapat disembuhkan.",
       "takeaways": [
         "FDA memberikan persetujuan untuk terapi berbasis CRISPR pertama yang menyasar penyakit sel saraf.",
@@ -35,7 +35,7 @@
       "original_title": "Scientists Create Hybrid Brain Network Using Silicon Chips and Neurons",
       "url": "https://example.com/hybrid-brain",
       "source": "Science Daily",
-      "published_date": "2026-10-13",
+      "published_date": "2026-10-14",
       "summary": "Tim peneliti gabungan berhasil menghubungkan sel saraf biologis hidup dengan chip silikon komputer menggunakan antarmuka bio-elektronik baru. Teknologi ini berpotensi digunakan untuk memulihkan fungsi sensorik pasien lumpuh serta mempercepat komputasi neuromorfik.",
       "takeaways": [
         "Integrasi sel saraf hidup dengan silikon membuka jalan bagi komputer biologis.",
@@ -49,7 +49,7 @@
       "original_title": "Google Launches Upgraded Gemini Pro with Larger Context Window",
       "url": "https://example.com/gemini-pro-update",
       "source": "TechCrunch",
-      "published_date": "2026-10-13",
+      "published_date": "2026-10-14",
       "summary": "Google resmi merilis pembaruan untuk model Gemini Pro yang kini mendukung pemrosesan dokumen panjang hingga jutaan token secara bersamaan. Pembaruan ini secara dramatis meningkatkan akurasi dalam menganalisis kode pemrograman kompleks dan laporan keuangan panjang.",
       "takeaways": [
         "Context window Gemini Pro diperluas untuk mendukung analisis data skala besar.",
@@ -63,7 +63,7 @@
       "original_title": "Full Genome Sequencing Unlocks Secrets of Ancient Rice Evolution",
       "url": "https://example.com/rice-genome",
       "source": "Genomics Journal",
-      "published_date": "2026-10-13",
+      "published_date": "2026-10-14",
       "summary": "Para peneliti genetika berhasil memetakan sekuens genom lengkap dari sampel padi purba berusia 3.000 tahun yang ditemukan di situs arkeologi. Data genetik ini mengungkap bagaimana nenek moyang kita melakukan seleksi tanaman terhadap kekeringan dan hama.",
       "takeaways": [
         "Pemetaan genom padi purba memberikan wawasan tentang adaptasi iklim masa lalu.",
@@ -77,7 +77,7 @@
       "original_title": "Future Supercomputing: Large-scale Quantum Computing Experiment Succeeds",
       "url": "https://example.com/quantum-success",
       "source": "MIT Technology Review",
-      "published_date": "2026-10-13",
+      "published_date": "2026-10-14",
       "summary": "Fisikawan berhasil menjalankan algoritma koreksi kesalahan kuantum yang stabil pada sistem 100-qubit untuk pertama kalinya. Hasil ini menunjukkan bahwa komputer kuantum komersial yang bebas dari error tingkat tinggi kini semakin dekat menjadi kenyataan.",
       "takeaways": [
         "Algoritma koreksi kesalahan kuantum berhasil menstabilkan sistem qubit dari gangguan luar.",
@@ -91,7 +91,7 @@
       "original_title": "AI Detects Early-Stage Lung Cancer Using Standard Chest X-rays",
       "url": "https://example.com/ai-lung-cancer",
       "source": "The Lancet Digital Health",
-      "published_date": "2026-10-13",
+      "published_date": "2026-10-14",
       "summary": "Sebuah sistem kecerdasan buatan baru yang dilatih pada jutaan radiografi dada mampu mendeteksi tanda-tanda awal kanker paru dengan akurasi 94%. Sistem ini dapat mendeteksi nodul kecil yang sering terlewatkan oleh radiolog manusia pada pemeriksaan rutin.",
       "takeaways": [
         "Sistem AI melampaui rata-rata akurasi deteksi radiolog manusia dalam skrining awal.",
@@ -105,7 +105,7 @@
       "original_title": "Ancient DNA Technology Reveals Migration Patterns of First Americans",
       "url": "https://example.com/ancient-dna-america",
       "source": "Science Magazine",
-      "published_date": "2026-10-13",
+      "published_date": "2026-10-14",
       "summary": "Studi terhadap sisa-sisa DNA kuno berusia 12.000 tahun menunjukkan bahwa pemukim pertama Amerika bermigrasi dalam beberapa gelombang yang berbeda secara genetik. Analisis ini meluruskan teori migrasi tunggal yang selama ini diyakini oleh para arkeolog.",
       "takeaways": [
         "Analisis genom kuno membuktikan adanya rute migrasi maritim di samping jembatan darat Beringia.",
@@ -119,7 +119,7 @@
       "original_title": "New Sodium-ion Battery Offers Cheap Alternative for Green Energy Storage",
       "url": "https://example.com/sodium-battery",
       "source": "Bloomberg Green",
-      "published_date": "2026-10-13",
+      "published_date": "2026-10-14",
       "summary": "Para peneliti berhasil mengembangkan baterai sodium-ion (garam) berkapasitas tinggi dengan siklus hidup yang menyamai baterai lithium-ion. Karena sodium sangat melimpah dan murah, teknologi ini dapat mempercepat transisi ke penyimpanan energi surya dan angin skala besar.",
       "takeaways": [
         "Baterai berbasis garam menawarkan biaya produksi 40% lebih murah dibanding lithium.",
@@ -133,7 +133,7 @@
       "original_title": "Advancement in Automatic Music Generation Using Pitch-Specific LLMs",
       "url": "https://example.com/music-llm",
       "source": "Wired",
-      "published_date": "2026-10-13",
+      "published_date": "2026-10-14",
       "summary": "Model bahasa besar (LLM) terbaru yang dikonfigurasi khusus untuk memahami teori musik dapat menghasilkan aransemen orkestra lengkap secara instan berdasarkan deskripsi teks. Model ini memahami harmoni dan transisi instrumen secara organik layaknya komposer profesional.",
       "takeaways": [
         "LLM musik baru menghasilkan musik dengan pemahaman struktural harmoni yang mendalam.",
@@ -2269,76 +2269,6 @@
         "Isu-isu etika dan keselamatan kini memiliki konsekuensi finansial riil bagi rantai pasok teknologi dunia."
       ],
       "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Rival Terbesar di Industri AI Sepakat Perlunya Menurunkan Tempo Pengembangan",
-      "original_title": "Biggest AI Rivals Agree They Need to Slow It Down",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPc044MVJrTFhxOFJSaHVGUUQySWtORFVvVmRSc19sWFNGYjRzYkpvVDJ4U0laZ0dKVTJ5MXp5YzdGNnMxcTYtWFBOdkJJcm9oWkk3T0ZhdlVaRDIxN2Rxem93VUU4OURNVWFZWTZHT0ZaQWJNMlExOFhpdkhrYkluN0pwZE55QWZ5Qm51LUhHNm5hQQ?oc=5",
-      "source": "WSJ",
-      "published_date": "2026-09-13",
-      "summary": "Para pemimpin dari perusahaan AI yang saling bersaing ketat kini mulai menyuarakan kekhawatiran yang sama mengenai laju perkembangan teknologi mereka yang dinilai terlalu cepat. Mereka menyerukan perlunya menahan laju rilis model AI terbaru guna memberikan waktu bagi pengembangan sistem keamanan yang memadai. Kesepakatan tidak biasa ini mencerminkan tingginya risiko yang membayangi jika teknologi ini tidak terkendali.",
-      "takeaways": [
-        "Perusahaan AI terkemuka mulai bersatu dalam mengadvokasi perlambatan tempo pengembangan teknologi generasi berikutnya.",
-        "Kekhawatiran utama berpusat pada ketidaksiapan sistem keamanan dan regulasi dalam mengimbangi kemampuan model AI terbaru.",
-        "Langkah kolektif ini menandai titik balik penting di mana keselamatan mulai diprioritaskan di atas persaingan pasar murni."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Persaingan AS-Tiongkok dalam Mengembangkan 'AI yang Mampu Memperbaiki Diri': Apa Taruhannya?",
-      "original_title": "The US and China are racing to build ‘self-improving AI’. Here’s what’s at stake",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeXF3Q0NKcGdYeHFEWUI3R0Z5QkxLT0ljbTRqUUZlcDVRQThNaW1WdDlkb0RrV3pJWkM1Yk5LTVg0RHloY0Rjb2RzVGgzUEl3VTI0V29hVXVkQ19ld2xabkxwWVE0UVpvalRIbWF5ZnNKU2lxVmg1azRVR21nblFteE9TSVU5Nk9iamJieThGS1ZsNUJHNUFIcmVaT2xNU05KbjN0Q1FpeHpUdzdnU3l4QnlOUDhFQ2PSAbcBQVVfeXFMTkkyQ2E5WU9xTWNHeU1CbVl2UkxhVlJvSDRIVkZwUkh1LWhHaDhoVk91X0JDN1VPRnRSZ0FjOHVmQ2lnWjBnQk9TZ0NRNzFCTWd3VXBOSzdRd2J4dGR6S3VPRzR6bDhnSUFFREx4VGw1UVBJLWk4VzNRLVNLVHRncVlYV0c3V2Nnb1M0d2tXX1ZpMUNrWTJsLV9nVXluRVlLQ0t2eUc1NHhJQlZMdUU0MndPclJxZVVz?oc=5",
-      "source": "South China Morning Post",
-      "published_date": "2026-09-13",
-      "summary": "Amerika Serikat dan Tiongkok saat ini tengah bersaing ketat untuk menciptakan kecerdasan buatan yang memiliki kemampuan belajar dan meningkatkan kinerjanya sendiri tanpa campur tangan manusia. Teknologi 'self-improving AI' ini menjanjikan lompatan kapabilitas yang masif namun juga membawa risiko eksistensial karena sulit dikendalikan setelah aktif. Dominasi atas teknologi ini dinilai akan mendefinisikan peta kekuatan geopolitik dan militer masa depan.",
-      "takeaways": [
-        "Teknologi AI yang mampu memperbaiki diri (self-improving) menjadi fokus utama perlombaan teknologi baru antara AS dan Tiongkok.",
-        "Otonomi penuh dari sistem AI semacam ini menimbulkan kekhawatiran besar terkait hilangnya kendali manusia atas jalannya algoritma.",
-        "Hasil dari persaingan ini akan sangat memengaruhi keunggulan strategis, stabilitas ekonomi, dan taktik militer secara global."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Khawatir Masalah Keamanan AI, Sam Altman Nyatakan OpenAI Batal IPO di Tahun 2026",
-      "original_title": "OpenAI IPO will not happen in 2026 amid AI safety fears, Altman says",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWjVEYVZWbmVRUmFvRnRCQ1hCSmJMZzNlb2VFa0FQTVZvNUQzZC1VMEJ0WDZUTllUUGgtVklZSDN2SXFKZ0U0bFU0UE9mcng4VzZKQURJVmNhTE1EVm1COWpXa096RkdIQUxmOUt2MUFzZng3UHZJV3FRVTYzT29GdHZtN1dtb3VNcDFWLWh2LTdvZw?oc=5",
-      "source": "SRN News",
-      "published_date": "2026-09-13",
-      "summary": "CEO OpenAI, Sam Altman, mengonfirmasi bahwa perusahaannya tidak akan melangsungkan penawaran umum perdana (IPO) pada tahun 2026 karena fokus penuh dialihkan pada isu keamanan AI. Langkah ini diambil untuk menghindari tekanan dari pasar saham yang berpotensi memaksa perusahaan mengorbankan standar keselamatan demi profit jangka pendek. Keputusan ini menunjukkan komitmen OpenAI dalam menanggapi kecemasan publik atas risiko model AI generatif generasi berikutnya.",
-      "takeaways": [
-        "OpenAI menunda rencana melantai di bursa saham guna mempertahankan independensi dalam mengutamakan keselamatan pengembangan teknologi.",
-        "Tekanan profitabilitas dari pasar publik dinilai berisiko mengganggu fokus perusahaan dalam melakukan mitigasi bahaya AI.",
-        "Langkah ini menetapkan standar baru bagi industri teknologi dalam menyeimbangkan target finansial dengan tanggung jawab sosial."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Akankah Kecerdasan Buatan Umum (AGI) Benar-benar Menjadi 'Penemuan Terakhir' Manusia?",
-      "original_title": "Will artificial general intelligence really be the ‘last invention’?",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcFVYUWhUcjV2NDhfci1kS3E4V19RYWJiTjdmdkZ5d0t3N2RqdVRod1NOcHAxWEJ1aC1mc2RVRzlwODJjcXpyRUlPUUNzc1hjeGZwREZCT25EUElSOHJXeU5xN28yb3YzS0htSkI4NTVWTWMyQXhydUJIczRpYlpMREdMQkU4OWUtM2JfMk9RTjVVdVRoV01LUjJHV0FpQmJQWE5Dd3NMdGtNMFU?oc=5",
-      "source": "アラブニュース",
-      "published_date": "2026-09-13",
-      "summary": "Artikel ini mengulas konsep Artificial General Intelligence (AGI) sebagai pencapaian teknologi tertinggi yang dapat mengambil alih peran manusia dalam berinovasi. Begitu AGI terwujud, kecerdasan buatan tersebut akan mampu merancang dan menciptakan penemuan baru secara mandiri dengan kecepatan yang melampaui kemampuan berpikir manusia. Hal ini memicu pertanyaan filosofis mendalam tentang apa peran manusia selanjutnya di era pasca-AGI.",
-      "takeaways": [
-        "Konsep AGI sebagai 'penemuan terakhir' merujuk pada potensi AI untuk melakukan inovasi tanpa memerlukan intervensi manusia lagi.",
-        "Skenario ini berpotensi mendisrupsi seluruh sistem ekonomi, metodologi sains, dan struktur sosial yang kita kenal saat ini.",
-        "Transisi menuju era AGI memerlukan persiapan etika, regulasi, dan filosofis yang matang dari sekarang untuk menghindari krisis eksistensial."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Lagu Buatan Kecerdasan Buatan Berhasil Menembus Tangga Lagu Top 100 Melon",
-      "original_title": "AI-generated music breaks into Melon's Top 100",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE40Rm5qUTFxb2hldDNaRHNIcFhtUVBaSHQ2RU1HMjNUVVJGcUE3N2RrX2JfakZ5enkzNXJSUnhXYUxmTGZiQWxYYWdhajI5dXpsd0gzb2p0VQ?oc=5",
-      "source": "The Korea Herald",
-      "published_date": "2026-09-13",
-      "summary": "Untuk pertama kalinya, sebuah lagu yang sepenuhnya dihasilkan oleh teknologi kecerdasan buatan berhasil masuk ke dalam jajaran tangga lagu terpopuler Melon di Korea Selatan. Pencapaian ini menandai babak baru dalam industri musik di mana AI tidak lagi sekadar alat bantu, melainkan pencipta karya yang kompetitif secara komersial. Fenomena ini sekaligus mempercepat perdebatan terkait hak cipta artistik dan masa depan para musisi manusia.",
-      "takeaways": [
-        "AI generatif membuktikan kemampuannya memproduksi karya seni yang memiliki daya tarik komersial tinggi di industri musik arus utama.",
-        "Masuknya lagu buatan AI ke tangga lagu bergengsi menantang definisi tradisional mengenai kreativitas dan kepemilikan karya.",
-        "Industri hiburan global perlu segera merumuskan regulasi royalti dan hak cipta yang adil bagi kreator manusia dan teknologi."
-      ],
-      "category": "Sains & Teknologi"
     }
   ]
 }
