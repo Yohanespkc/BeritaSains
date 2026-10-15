@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-10-14T04:08:17.827978+00:00",
-  "total_articles": 162,
+  "last_updated": "2026-10-15T03:50:44.861737+00:00",
+  "total_articles": 156,
   "articles": [
     {
       "title": "Terobosan Baru: Model AI Terbuka China Saingi Raksasa Silicon Valley",
       "original_title": "Another powerful new artificial intelligence model from China took the US tech industry by surprise",
       "url": "https://example.com/ai-china-model",
       "source": "LinkedIn News",
-      "published_date": "2026-10-14",
+      "published_date": "2026-10-15",
       "summary": "Startup AI asal China meluncurkan model open-source baru yang mengejutkan industri teknologi AS karena kemampuannya yang sangat kompetitif. Model ini menantang dominasi perusahaan besar Silicon Valley dengan performa tinggi yang dapat diakses secara gratis oleh pengembang.",
       "takeaways": [
         "Model open-source baru dari China menunjukkan kemajuan pesat dalam penelitian AI.",
@@ -21,7 +21,7 @@
       "original_title": "First CRISPR Gene Therapy for Rare Genetic Disorder Approved by FDA",
       "url": "https://example.com/crispr-approval",
       "source": "Nature Biotechnology",
-      "published_date": "2026-10-14",
+      "published_date": "2026-10-15",
       "summary": "FDA secara resmi menyetujui terapi pengeditan gen berbasis CRISPR untuk mengobati kelainan genetik langka yang merusak sel saraf. Keputusan bersejarah ini membuka jalan bagi penyembuhan penyakit genetik kronis lainnya yang sebelumnya tidak dapat disembuhkan.",
       "takeaways": [
         "FDA memberikan persetujuan untuk terapi berbasis CRISPR pertama yang menyasar penyakit sel saraf.",
@@ -35,7 +35,7 @@
       "original_title": "Scientists Create Hybrid Brain Network Using Silicon Chips and Neurons",
       "url": "https://example.com/hybrid-brain",
       "source": "Science Daily",
-      "published_date": "2026-10-14",
+      "published_date": "2026-10-15",
       "summary": "Tim peneliti gabungan berhasil menghubungkan sel saraf biologis hidup dengan chip silikon komputer menggunakan antarmuka bio-elektronik baru. Teknologi ini berpotensi digunakan untuk memulihkan fungsi sensorik pasien lumpuh serta mempercepat komputasi neuromorfik.",
       "takeaways": [
         "Integrasi sel saraf hidup dengan silikon membuka jalan bagi komputer biologis.",
@@ -49,7 +49,7 @@
       "original_title": "Google Launches Upgraded Gemini Pro with Larger Context Window",
       "url": "https://example.com/gemini-pro-update",
       "source": "TechCrunch",
-      "published_date": "2026-10-14",
+      "published_date": "2026-10-15",
       "summary": "Google resmi merilis pembaruan untuk model Gemini Pro yang kini mendukung pemrosesan dokumen panjang hingga jutaan token secara bersamaan. Pembaruan ini secara dramatis meningkatkan akurasi dalam menganalisis kode pemrograman kompleks dan laporan keuangan panjang.",
       "takeaways": [
         "Context window Gemini Pro diperluas untuk mendukung analisis data skala besar.",
@@ -63,7 +63,7 @@
       "original_title": "Full Genome Sequencing Unlocks Secrets of Ancient Rice Evolution",
       "url": "https://example.com/rice-genome",
       "source": "Genomics Journal",
-      "published_date": "2026-10-14",
+      "published_date": "2026-10-15",
       "summary": "Para peneliti genetika berhasil memetakan sekuens genom lengkap dari sampel padi purba berusia 3.000 tahun yang ditemukan di situs arkeologi. Data genetik ini mengungkap bagaimana nenek moyang kita melakukan seleksi tanaman terhadap kekeringan dan hama.",
       "takeaways": [
         "Pemetaan genom padi purba memberikan wawasan tentang adaptasi iklim masa lalu.",
@@ -77,7 +77,7 @@
       "original_title": "Future Supercomputing: Large-scale Quantum Computing Experiment Succeeds",
       "url": "https://example.com/quantum-success",
       "source": "MIT Technology Review",
-      "published_date": "2026-10-14",
+      "published_date": "2026-10-15",
       "summary": "Fisikawan berhasil menjalankan algoritma koreksi kesalahan kuantum yang stabil pada sistem 100-qubit untuk pertama kalinya. Hasil ini menunjukkan bahwa komputer kuantum komersial yang bebas dari error tingkat tinggi kini semakin dekat menjadi kenyataan.",
       "takeaways": [
         "Algoritma koreksi kesalahan kuantum berhasil menstabilkan sistem qubit dari gangguan luar.",
@@ -91,7 +91,7 @@
       "original_title": "AI Detects Early-Stage Lung Cancer Using Standard Chest X-rays",
       "url": "https://example.com/ai-lung-cancer",
       "source": "The Lancet Digital Health",
-      "published_date": "2026-10-14",
+      "published_date": "2026-10-15",
       "summary": "Sebuah sistem kecerdasan buatan baru yang dilatih pada jutaan radiografi dada mampu mendeteksi tanda-tanda awal kanker paru dengan akurasi 94%. Sistem ini dapat mendeteksi nodul kecil yang sering terlewatkan oleh radiolog manusia pada pemeriksaan rutin.",
       "takeaways": [
         "Sistem AI melampaui rata-rata akurasi deteksi radiolog manusia dalam skrining awal.",
@@ -105,7 +105,7 @@
       "original_title": "Ancient DNA Technology Reveals Migration Patterns of First Americans",
       "url": "https://example.com/ancient-dna-america",
       "source": "Science Magazine",
-      "published_date": "2026-10-14",
+      "published_date": "2026-10-15",
       "summary": "Studi terhadap sisa-sisa DNA kuno berusia 12.000 tahun menunjukkan bahwa pemukim pertama Amerika bermigrasi dalam beberapa gelombang yang berbeda secara genetik. Analisis ini meluruskan teori migrasi tunggal yang selama ini diyakini oleh para arkeolog.",
       "takeaways": [
         "Analisis genom kuno membuktikan adanya rute migrasi maritim di samping jembatan darat Beringia.",
@@ -119,7 +119,7 @@
       "original_title": "New Sodium-ion Battery Offers Cheap Alternative for Green Energy Storage",
       "url": "https://example.com/sodium-battery",
       "source": "Bloomberg Green",
-      "published_date": "2026-10-14",
+      "published_date": "2026-10-15",
       "summary": "Para peneliti berhasil mengembangkan baterai sodium-ion (garam) berkapasitas tinggi dengan siklus hidup yang menyamai baterai lithium-ion. Karena sodium sangat melimpah dan murah, teknologi ini dapat mempercepat transisi ke penyimpanan energi surya dan angin skala besar.",
       "takeaways": [
         "Baterai berbasis garam menawarkan biaya produksi 40% lebih murah dibanding lithium.",
@@ -133,7 +133,7 @@
       "original_title": "Advancement in Automatic Music Generation Using Pitch-Specific LLMs",
       "url": "https://example.com/music-llm",
       "source": "Wired",
-      "published_date": "2026-10-14",
+      "published_date": "2026-10-15",
       "summary": "Model bahasa besar (LLM) terbaru yang dikonfigurasi khusus untuk memahami teori musik dapat menghasilkan aransemen orkestra lengkap secara instan berdasarkan deskripsi teks. Model ini memahami harmoni dan transisi instrumen secara organik layaknya komposer profesional.",
       "takeaways": [
         "LLM musik baru menghasilkan musik dengan pemahaman struktural harmoni yang mendalam.",
@@ -2183,90 +2183,6 @@
         "Keamanan siber dan regulasi etis tidak boleh dipandang sebagai penghambat inovasi dalam perebutan dominasi teknologi global.",
         "Kepemimpinan AS di bidang AI masa depan akan dinilai berdasarkan seberapa aman dan andalnya sistem yang diciptakan, bukan sekadar kecepatan rilisnya.",
         "Diperlukan kemitraan strategis internasional antarnegara sekutu untuk menetapkan standar keselamatan AI yang dapat menandingi model otoriter."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Langkah Antisipasi China Menghadapi Risiko Kecerdasan Buatan yang Lepas Kendali",
-      "original_title": "How China is preparing for the risk of AI escaping human control",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM1FUWERnbmM3dlBucFJQMmJmSEp5UVlXUVp0UEI0eU9aV1VzSnVoX3pNZUtWcFZsXzAtNUVXQmdOakFVNUYzZWVwSm9laXBTU2pvRXVaendNSFU3XzJmeGxrdDlKN0N3OUwxd1VSSEhfcWVTQTRNMV9hRnZkVk9WaUowMmtPdC1HTmhIOG9BRHpucDZHTk1KTnVLdXRfU1NVclVibTlCU1hjQQ?oc=5",
-      "source": "Reuters",
-      "published_date": "2026-09-14",
-      "summary": "Pemerintah China mulai merumuskan strategi dan regulasi ketat untuk menghadapi skenario terburuk di mana teknologi AI dapat lepas dari kendali manusia. Langkah ini mencakup pengawasan algoritma secara lebih ketat serta pengujian keamanan tingkat tinggi pada model-model AI mutakhir. Kebijakan ini mencerminkan kekhawatiran global yang mendalam mengenai keselamatan eksistensial akibat perkembangan AI yang terlalu masif.",
-      "takeaways": [
-        "China memperketat regulasi terhadap model AI generasi terbaru guna meminimalkan risiko hilangnya kontrol manusia.",
-        "Fokus keamanan AI di China kini bergeser dari penyaringan konten ke mitigasi risiko eksistensial sistemik.",
-        "Regulasi ini berpotensi memengaruhi lanskap kompetisi serta standarisasi teknologi global antara Timur dan Barat."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Mundurnya Peneliti Anthropic Picu Kekhawatiran Sektor Finansial Terhadap Risiko Kemanusiaan AI",
-      "original_title": "CalPERS leaders air AI fears after Anthropic researcher’s resignation: ‘This is humanity’",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOXZtTWRsSEwtSE9XanlGNnlZUzZMcW9KdTlQZ1EtWlVDSWZVVmtlaFZjd2R5RU1jNm5fR1VIbjJXaTA0THZxRWh0SEdXcjJjS0JUdFZ6M0pqaWxuWkRTMGFXTDUxZTRtbjh0MnlXUGFhVHRBRXhXbTBGTUNWWmtSaEdB?oc=5",
-      "source": "CalMatters",
-      "published_date": "2026-09-14",
-      "summary": "Dewan direksi CalPERS, salah satu dana pensiun terbesar di AS, menyatakan kekhawatiran mendalam terkait isu keselamatan AI menyusul pengunduran diri seorang peneliti terkemuka dari Anthropic. Keputusan pengunduran diri karena masalah etika tersebut memicu diskusi luas mengenai tanggung jawab sosial investor institusi dalam mendanai teknologi berisiko tinggi. Hal ini menyoroti bahwa dampak eksistensial AI kini mulai merambah perhatian serius sektor keuangan global.",
-      "takeaways": [
-        "Pengunduran diri peneliti etika di Anthropic memicu kekhawatiran serius di kalangan investor institusi besar dunia.",
-        "Sektor keuangan global mulai mempertimbangkan aspek risiko kemanusiaan AI dalam keputusan investasi masa depan mereka.",
-        "Isu keselamatan AI kini dipandang bukan sekadar masalah teknis internal, melainkan ancaman nyata bagi masa depan peradaban."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Obama Desak Demokrat Tempatkan Pengawasan AI Sebagai Agenda Utama Politik",
-      "original_title": "Obama Urges Democrats to Move A.I. Oversight to the Center of Their Agenda",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4wV0pYQmdFdDdtdzZyUExENUJfM18tUEJud2Y2aUpNeG9SV2loa3FwMFFQWEhoTktGQnBkQWwxY1gtU0UyYWFYX24wNVMwZnlJbHIzRkFGbDBONlFvdlNJUHhrY01VdU5MSndvUUdkdmdMODF2UEdENG1n?oc=5",
-      "source": "The New York Times",
-      "published_date": "2026-09-14",
-      "summary": "Mantan Presiden AS Barack Obama menyerukan kepada Partai Demokrat untuk menjadikan regulasi dan pengawasan kecerdasan buatan sebagai prioritas utama dalam agenda politik mereka. Menurutnya, tanpa kontrol yang memadai, penyebaran disinformasi bertenaga AI dapat merusak fondasi demokrasi dan stabilitas pemilu mendatang. Langkah ini menegaskan bahwa tata kelola teknologi canggih kini telah bergeser menjadi komoditas politik yang krusial di Amerika Serikat.",
-      "takeaways": [
-        "Barack Obama menekankan bahwa ancaman AI terhadap proses demokrasi memerlukan tindakan legislatif yang cepat.",
-        "Ada dorongan kuat untuk menempatkan tata kelola teknologi cerdas sebagai salah satu isu sentral dalam strategi politik nasional.",
-        "Pengawasan terhadap potensi manipulasi informasi oleh AI menjadi fokus utama kekhawatiran para pemimpin politik menjelang pemilu."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Jerman Tegaskan Penghentian Pengembangan AI Bukan Solusi yang Realistis bagi Eropa",
-      "original_title": "Germany says halting AI development not 'viable' as Europe weighs safety of new tech",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMUxwdHN5dDgxNEpDZFYzNVJtZFFrSHhmRkYweEpkUVd5N3BuY0UxQ0gtYkl4bGZIRWVQLUhlbG5PVE9vT0FBSlZBWFplM3RVLUhxbkoxaUtjcC1xdXdEam1IZHFPbUlDUVB5Y2VXNVRRX2tEY05sRDYtbVFlY0hycG9NRXgtZ2FGd1NIZ1dTekhYN3VwUE0yUkpDZHVYbmdvNXEwZDJkLW5KLUNDODBaZWU5VHk4OThNZi05MEVsN1RFMmJP?oc=5",
-      "source": "Reuters",
-      "published_date": "2026-09-14",
-      "summary": "Pemerintah Jerman menyatakan bahwa menghentikan atau menjeda pengembangan kecerdasan buatan secara sepihak bukanlah langkah yang layak bagi Eropa di tengah persaingan global yang ketat. Meskipun masalah keselamatan tetap menjadi prioritas utama, Jerman menilai pendekatan regulasi berbasis risiko jauh lebih efektif daripada pelarangan total. Sikap ini mencerminkan perdebatan internal Uni Eropa dalam menyeimbangkan antara perlindungan etika dan daya saing inovasi teknologi.",
-      "takeaways": [
-        "Jerman menolak gagasan moratorium pengembangan AI karena khawatir tertinggal secara teknologi dan ekonomi.",
-        "Eropa terus berupaya merumuskan regulasi yang mampu memitigasi risiko tanpa mematikan inovasi industri lokal.",
-        "Pendekatan pragmatis dinilai lebih realistis dalam menghadapi dinamika geopolitik persaingan teknologi global."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Peningkatan Kemampuan AI Picu Kekhawatiran Badan Intelijen China",
-      "original_title": "Expanding power of AI alarms China’s intelligence agency",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYkFOcXQyMlNlR2lLSUg3Ui1oMEdfS1ZiaW5wbWV6Y3gtOWxxaXA3ZFdkZ0Z5RXNyY2xBQXpPLTFva2tKS1Q5VWk5bV9INUdQS19HeFV6SFFYaEJ4UDhkNmpLTVVyYzg1NVhKeVU1ZDZmNDVrdTB0dXRSdFJOS1N2cVg5ODdpNjVpbUFsRmU0MGZJbFVlQm5n?oc=5",
-      "source": "dw.com",
-      "published_date": "2026-09-14",
-      "summary": "Badan keamanan dan intelijen China menyuarakan kekhawatiran mendalam atas peningkatan pesat kemampuan kecerdasan buatan yang dinilai dapat mengancam keamanan nasional mereka. AI dipandang berpotensi digunakan untuk serangan siber canggih, spionase taktis, dan sabotase infrastruktur penting jika tidak diawasi secara sangat ketat. Peringatan ini menunjukkan bahwa teknologi AI kini diposisikan sebagai variabel risiko militer dan politik yang sangat sensitif bagi negara-negara besar.",
-      "takeaways": [
-        "Badan intelijen melihat perkembangan AI otonom sebagai ancaman asimetris baru terhadap keamanan siber negara.",
-        "Teknologi AI yang semakin cerdas mempersulit deteksi aktivitas spionase siber dan manipulasi jaringan digital.",
-        "Sektor keamanan nasional di berbagai negara kini mempercepat adopsi pertahanan berbasis AI untuk menangkal ancaman serupa."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Isu Moratorium AI Tekan Saham Nvidia, AMD, dan Intel di Tengah Kekhawatiran Skenario Buruk Teknologi",
-      "original_title": "Talk of AI pause slams Nvidia, AMD and Intel as fears of doomsday scenarios spread",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTTloQ09lMHhaTGZRU0s3NG1aZDRLNWt1ZWl3Znp0dk5FX0laVm04SjJkand2T2pNUGhWZXJtZHdTMUJmWnp6dHpmdmlfdzdfZTR6YmZ3SGsybXpMSkhkWk1iZnA0TC0yeUZvTDJIalB2bDVsRmR6Z3hIakx1STJheFlJaWk2REl3N1VkSjRLQVduYTRTUHE2YVJCM3VQRWt1eGF1THFrSQ?oc=5",
-      "source": "Los Angeles Times",
-      "published_date": "2026-09-14",
-      "summary": "Rumor dan desakan mengenai potensi jeda atau moratorium pengembangan kecerdasan buatan telah berdampak negatif pada pasar modal, menyebabkan jatuhnya nilai saham raksasa semikonduktor seperti Nvidia, AMD, dan Intel. Para investor merespons negatif ketidakpastian regulasi dan kekhawatiran publik terhadap potensi bahaya AI yang tidak terkendali. Hal ini menunjukkan ketergantungan erat industri perangkat keras komputer global terhadap momentum pertumbuhan sektor AI.",
-      "takeaways": [
-        "Ketakutan publik dan wacana regulasi ketat langsung berdampak pada valuasi perusahaan pembuat chip AI global.",
-        "Sektor perangkat keras komputer mengalami volatilitas tinggi akibat ketergantungannya pada proyeksi pertumbuhan AI.",
-        "Isu-isu etika dan keselamatan kini memiliki konsekuensi finansial riil bagi rantai pasok teknologi dunia."
       ],
       "category": "Artificial Intelligence"
     }
