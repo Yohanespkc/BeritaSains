@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-10-15T03:50:44.861737+00:00",
-  "total_articles": 156,
+  "last_updated": "2026-10-16T03:46:20.861136+00:00",
+  "total_articles": 146,
   "articles": [
     {
       "title": "Terobosan Baru: Model AI Terbuka China Saingi Raksasa Silicon Valley",
       "original_title": "Another powerful new artificial intelligence model from China took the US tech industry by surprise",
       "url": "https://example.com/ai-china-model",
       "source": "LinkedIn News",
-      "published_date": "2026-10-15",
+      "published_date": "2026-10-16",
       "summary": "Startup AI asal China meluncurkan model open-source baru yang mengejutkan industri teknologi AS karena kemampuannya yang sangat kompetitif. Model ini menantang dominasi perusahaan besar Silicon Valley dengan performa tinggi yang dapat diakses secara gratis oleh pengembang.",
       "takeaways": [
         "Model open-source baru dari China menunjukkan kemajuan pesat dalam penelitian AI.",
@@ -21,7 +21,7 @@
       "original_title": "First CRISPR Gene Therapy for Rare Genetic Disorder Approved by FDA",
       "url": "https://example.com/crispr-approval",
       "source": "Nature Biotechnology",
-      "published_date": "2026-10-15",
+      "published_date": "2026-10-16",
       "summary": "FDA secara resmi menyetujui terapi pengeditan gen berbasis CRISPR untuk mengobati kelainan genetik langka yang merusak sel saraf. Keputusan bersejarah ini membuka jalan bagi penyembuhan penyakit genetik kronis lainnya yang sebelumnya tidak dapat disembuhkan.",
       "takeaways": [
         "FDA memberikan persetujuan untuk terapi berbasis CRISPR pertama yang menyasar penyakit sel saraf.",
@@ -35,7 +35,7 @@
       "original_title": "Scientists Create Hybrid Brain Network Using Silicon Chips and Neurons",
       "url": "https://example.com/hybrid-brain",
       "source": "Science Daily",
-      "published_date": "2026-10-15",
+      "published_date": "2026-10-16",
       "summary": "Tim peneliti gabungan berhasil menghubungkan sel saraf biologis hidup dengan chip silikon komputer menggunakan antarmuka bio-elektronik baru. Teknologi ini berpotensi digunakan untuk memulihkan fungsi sensorik pasien lumpuh serta mempercepat komputasi neuromorfik.",
       "takeaways": [
         "Integrasi sel saraf hidup dengan silikon membuka jalan bagi komputer biologis.",
@@ -49,7 +49,7 @@
       "original_title": "Google Launches Upgraded Gemini Pro with Larger Context Window",
       "url": "https://example.com/gemini-pro-update",
       "source": "TechCrunch",
-      "published_date": "2026-10-15",
+      "published_date": "2026-10-16",
       "summary": "Google resmi merilis pembaruan untuk model Gemini Pro yang kini mendukung pemrosesan dokumen panjang hingga jutaan token secara bersamaan. Pembaruan ini secara dramatis meningkatkan akurasi dalam menganalisis kode pemrograman kompleks dan laporan keuangan panjang.",
       "takeaways": [
         "Context window Gemini Pro diperluas untuk mendukung analisis data skala besar.",
@@ -63,7 +63,7 @@
       "original_title": "Full Genome Sequencing Unlocks Secrets of Ancient Rice Evolution",
       "url": "https://example.com/rice-genome",
       "source": "Genomics Journal",
-      "published_date": "2026-10-15",
+      "published_date": "2026-10-16",
       "summary": "Para peneliti genetika berhasil memetakan sekuens genom lengkap dari sampel padi purba berusia 3.000 tahun yang ditemukan di situs arkeologi. Data genetik ini mengungkap bagaimana nenek moyang kita melakukan seleksi tanaman terhadap kekeringan dan hama.",
       "takeaways": [
         "Pemetaan genom padi purba memberikan wawasan tentang adaptasi iklim masa lalu.",
@@ -77,7 +77,7 @@
       "original_title": "Future Supercomputing: Large-scale Quantum Computing Experiment Succeeds",
       "url": "https://example.com/quantum-success",
       "source": "MIT Technology Review",
-      "published_date": "2026-10-15",
+      "published_date": "2026-10-16",
       "summary": "Fisikawan berhasil menjalankan algoritma koreksi kesalahan kuantum yang stabil pada sistem 100-qubit untuk pertama kalinya. Hasil ini menunjukkan bahwa komputer kuantum komersial yang bebas dari error tingkat tinggi kini semakin dekat menjadi kenyataan.",
       "takeaways": [
         "Algoritma koreksi kesalahan kuantum berhasil menstabilkan sistem qubit dari gangguan luar.",
@@ -91,7 +91,7 @@
       "original_title": "AI Detects Early-Stage Lung Cancer Using Standard Chest X-rays",
       "url": "https://example.com/ai-lung-cancer",
       "source": "The Lancet Digital Health",
-      "published_date": "2026-10-15",
+      "published_date": "2026-10-16",
       "summary": "Sebuah sistem kecerdasan buatan baru yang dilatih pada jutaan radiografi dada mampu mendeteksi tanda-tanda awal kanker paru dengan akurasi 94%. Sistem ini dapat mendeteksi nodul kecil yang sering terlewatkan oleh radiolog manusia pada pemeriksaan rutin.",
       "takeaways": [
         "Sistem AI melampaui rata-rata akurasi deteksi radiolog manusia dalam skrining awal.",
@@ -105,7 +105,7 @@
       "original_title": "Ancient DNA Technology Reveals Migration Patterns of First Americans",
       "url": "https://example.com/ancient-dna-america",
       "source": "Science Magazine",
-      "published_date": "2026-10-15",
+      "published_date": "2026-10-16",
       "summary": "Studi terhadap sisa-sisa DNA kuno berusia 12.000 tahun menunjukkan bahwa pemukim pertama Amerika bermigrasi dalam beberapa gelombang yang berbeda secara genetik. Analisis ini meluruskan teori migrasi tunggal yang selama ini diyakini oleh para arkeolog.",
       "takeaways": [
         "Analisis genom kuno membuktikan adanya rute migrasi maritim di samping jembatan darat Beringia.",
@@ -119,7 +119,7 @@
       "original_title": "New Sodium-ion Battery Offers Cheap Alternative for Green Energy Storage",
       "url": "https://example.com/sodium-battery",
       "source": "Bloomberg Green",
-      "published_date": "2026-10-15",
+      "published_date": "2026-10-16",
       "summary": "Para peneliti berhasil mengembangkan baterai sodium-ion (garam) berkapasitas tinggi dengan siklus hidup yang menyamai baterai lithium-ion. Karena sodium sangat melimpah dan murah, teknologi ini dapat mempercepat transisi ke penyimpanan energi surya dan angin skala besar.",
       "takeaways": [
         "Baterai berbasis garam menawarkan biaya produksi 40% lebih murah dibanding lithium.",
@@ -133,7 +133,7 @@
       "original_title": "Advancement in Automatic Music Generation Using Pitch-Specific LLMs",
       "url": "https://example.com/music-llm",
       "source": "Wired",
-      "published_date": "2026-10-15",
+      "published_date": "2026-10-16",
       "summary": "Model bahasa besar (LLM) terbaru yang dikonfigurasi khusus untuk memahami teori musik dapat menghasilkan aransemen orkestra lengkap secara instan berdasarkan deskripsi teks. Model ini memahami harmoni dan transisi instrumen secara organik layaknya komposer profesional.",
       "takeaways": [
         "LLM musik baru menghasilkan musik dengan pemahaman struktural harmoni yang mendalam.",
@@ -2043,146 +2043,6 @@
         "Peringatan analogi senjata nuklir menggarisbawahi tingkat kedaruratan yang dirasakan oleh sebagian elit politik terhadap perkembangan AI.",
         "Fokus utama kekhawatiran Sanders terletak pada ketimpangan ekonomi baru akibat otomatisasi pekerjaan skala besar tanpa kompensasi sosial.",
         "Kebijakan perlindungan pekerja harus diintegrasikan langsung ke dalam setiap rancangan undang-undang pengembangan AI di masa mendatang."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Dilema Bos AI: Mengaku Perlu Memperlambat Kecepatan Pengembangan, Namun Sulit Terealisasi",
-      "original_title": "AI CEOs say they need to slow the pace of development. But will they?",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5XQlp1T0FKUFNtVnFFME44cGFabC1iYlp4YXVWaWtXaWtfR0l3b1FRbEh1NTd2RmxjazNmcGIzX1lJQm1Ub2pMNDR3R0VYbG8tUGpOUXFuTUZXQWpiSERMOUdscExGZS05NzA3cWtmZWFjODFRZzg3YlFEWWNEQQ?oc=5",
-      "source": "The Guardian",
-      "published_date": "2026-09-15",
-      "summary": "Para pemimpin perusahaan teknologi terkemuka menyuarakan kekhawatiran bahwa laju pengembangan kecerdasan buatan saat ini terlalu cepat dan berisiko bagi keamanan global. Meskipun ada konsensus teoritis mengenai perlunya jeda, persaingan bisnis yang ketat membuat komitmen memperlambat laju riset sulit diwujudkan secara mandiri. Situasi ini menunjukkan perlunya intervensi regulasi eksternal yang mengikat bagi seluruh pelaku industri.",
-      "takeaways": [
-        "Ada kesadaran kolektif di kalangan eksekutif AI bahwa teknologi ini berkembang lebih cepat daripada kemampuan hukum untuk mengawasinya.",
-        "Tekanan pasar dan persaingan ketat antar-perusahaan menghambat penerapan jeda pengembangan secara sukarela.",
-        "Para pengamat menilai intervensi pemerintah adalah satu-satunya jalan efektif untuk menegakkan batasan keamanan AI."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Pemanfaatan Kecerdasan Buatan dalam Revolusi Prakiraan Cuaca Global",
-      "original_title": "Artificial intelligence makes inroads into weather forecasting",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSzF6V3NEM282cmNMNm1kSzQ5c2hiUDBUbE41RVR0RndvZ3FFaXl6SE9oQ3BCTkpkZDFNQ2hmQTNTSVpNbTlrUmdCaktULVowbGhwdEhZNnViNWUwaVJwTE5DYkJ6bVZfNkFOajlFa2FBLXAtUVJBeURBdmdleFBEVkh2LUpCZ05ERWxZbQ?oc=5",
-      "source": "The Japan Times",
-      "published_date": "2026-09-15",
-      "summary": "Teknologi kecerdasan buatan kini mulai diterapkan secara luas dalam industri meteorologi untuk meningkatkan akurasi prakiraan cuaca ekstrem. Model berbasis AI mampu memproses data atmosfer raksasa dalam hitungan detik, jauh lebih cepat dan hemat energi dibandingkan metode simulasi komputer super konvensional. Inovasi ini sangat penting dalam membantu dunia bersiap menghadapi bencana alam di tengah ancaman perubahan iklim global.",
-      "takeaways": [
-        "Model prakiraan cuaca bertenaga AI menawarkan kecepatan komputasi dan akurasi yang jauh melampaui sistem tradisional.",
-        "AI dapat membantu memitigasi dampak bencana alam dengan memberikan peringatan dini cuaca ekstrem yang lebih presisi.",
-        "Adopsi teknologi ini menandai pergeseran paradigma besar dalam ilmu kebumian dan pemantauan iklim global."
-      ],
-      "category": "Sains & Teknologi"
-    },
-    {
-      "title": "Sikap Trump Membela Perkembangan AI Berseberangan dengan Kekhawatiran Pemilih Jelang Pemilu",
-      "original_title": "Trump’s AI defense defies voter unease heading into midterms",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOck9lNlZQUlB3WGtYOVkzSEdNY2dtY2lCR29XdGo0d3FNcl80MW5zOTVVV1dKZnZNUDRJR2l1TFJ6T01HbXcyVUZLZDZGX1B1a1cxX1c3ZDgzZ3hMX24zZEJLVnJyLXdYWm1SZXJWMktJeVZrbzd2eWZhUDI2eWxFenpZdG4tTmw1cFdMOVhJaUNkOFE?oc=5",
-      "source": "The Japan Times",
-      "published_date": "2026-09-15",
-      "summary": "Donald Trump secara terbuka membela kelanjutan pengembangan AI tanpa regulasi ketat, menganggap peringatan bahaya teknologi sebagai kepanikan yang berlebihan. Sikap ini memicu polarisasi politik baru karena sebagian besar pemilih justru menyatakan kekhawatiran terhadap ancaman otomatisasi pekerjaan dan hilangnya privasi akibat AI menjelang pemilu paruh waktu. Perbedaan pandangan ini menyoroti bagaimana arah kebijakan teknologi kini menjadi komoditas politik yang sensitif bagi masyarakat.",
-      "takeaways": [
-        "Donald Trump menentang regulasi ketat AI karena dinilai dapat menghambat daya saing industri teknologi Amerika Serikat.",
-        "Sebagian besar pemilih mengekspresikan kecemasan riil terhadap dampak sosial-ekonomi dari otomatisasi teknologi AI.",
-        "Kebijakan mengenai kecerdasan buatan kini resmi menjadi salah satu isu perdebatan penting dalam kampanye pemilu modern."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Gates Foundation Kucurkan 1 Miliar Dolar AS untuk Akses AI Adil di Tengah Pengawasan Ketat Industri",
-      "original_title": "Gates Foundation pledges $1B investment in AI access as industry faces scrutiny",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPT0FlYU1ERlNPcEJ2bkQxd01MS2tXdnFSV0M5Q0ZSeW5VVkNYVU5pRG5YS2pELWdtTEtnUFRoNzdfT2U4S2p4NXEtVENCaElxTnNzVWhvSldFODZPNU11Yk1fMGZGU3BBZ3NCdk51WVpNNHhBRFdFS3Y0TUtHZllleDdlcXA1QktFR1JQbklVRUM4aUdtUmRSMjZJVnJkWnphTTJrR2tmUE85TmxQ?oc=5",
-      "source": "krcrtv.com",
-      "published_date": "2026-09-15",
-      "summary": "Yayasan milik Bill & Melinda Gates berkomitmen menginvestasikan satu miliar dolar AS guna memperluas akses teknologi AI bagi negara-negara berkembang. Langkah ini diambil di tengah meningkatnya kekhawatiran global dan pengawasan ketat terhadap monopoli industri kecerdasan buatan. Investasi ini diharapkan dapat menjembatani kesenjangan digital secara global di bidang kesehatan dan pendidikan.",
-      "takeaways": [
-        "Gates Foundation berupaya memastikan manfaat AI dapat diakses secara merata oleh negara berkembang, bukan hanya negara kaya.",
-        "Investasi besar ini difokuskan untuk memecahkan masalah kesehatan global dan ketimpangan pendidikan melalui bantuan AI.",
-        "Langkah filantropi ini terjadi di tengah desakan regulasi yang semakin ketat terhadap raksasa teknologi AI dunia."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "OpenAI Dukung Langkah Bipartisan AS untuk Atasi Ancaman Senjata Biologis Berbasis AI",
-      "original_title": "OpenAI backs bipartisan push to address AI biothreats",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSWtzLXBobVZlbEl3NjhNWmoyeXZsMnZRbk80Yi1iWTNFNUdFR1Y3SlkwSktxWlNFcGFUNmN1WWdvOVJuaW9Kcmt0dkN5Vm42OXR6OW5XSk04QTE2TXZCajBlMEp1UVNhZjRxOXNfYUJ4ZTI2YWpsbmM0T0lDeHpPdkNYemlaWHN4UmpKcHRCeFd5SEVERlFlQTV1LWI4Mk5Leng0RXhn?oc=5",
-      "source": "Politico",
-      "published_date": "2026-09-15",
-      "summary": "OpenAI menyatakan dukungannya terhadap inisiatif hukum bipartisan di Kongres AS yang bertujuan mencegah penyalahgunaan AI untuk menciptakan senjata biologis. Langkah ini menjadi tonggak penting dalam upaya memitigasi ancaman keamanan nasional akibat integrasi kecerdasan buatan dengan bioteknologi berbahaya. Inisiatif ini menekankan pentingnya pengawasan ketat pada model AI berskala besar.",
-      "takeaways": [
-        "OpenAI berkolaborasi dengan politisi AS untuk merancang undang-undang pencegahan ancaman bioterorisme berbasis AI.",
-        "Risiko integrasi kecerdasan buatan dengan sintesis patogen berbahaya kini menjadi prioritas utama keamanan nasional.",
-        "Langkah ini menunjukkan kesediaan industri AI untuk tunduk pada regulasi ketat demi mencegah potensi penyalahgunaan teknologi genetik."
-      ],
-      "category": "Genom & Biotek"
-    },
-    {
-      "title": "Mungkinkah AI Memusnahkan Umat Manusia? Enam Pakar Jelaskan Skenario Risikonya",
-      "original_title": "Could AI really wipe out humanity – six experts spell out the risks",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa3puUXRFSE5YY01MaFJkQkNjYXh3QkJKMWVUdUJmcHNaeHRxWm5Nd3AwZzRwVTMxa2Iya1ZyX0ozV0hoNEtyVjJzWnFoN1dKZ2JRaDl6Nk54ZmNwQlZFRmE4MVZWSGx5R0F5bUZqczJPSDhSd19OZXhTbHNoek5XRGVuUVN0MHVCdV82VUhNZmQzcmNralltaEpvUnZ6NmNhVldqaVFtdXZENWc5?oc=5",
-      "source": "theguardian.com",
-      "published_date": "2026-09-15",
-      "summary": "Enam pakar teknologi terkemuka memberikan analisis mendalam mengenai potensi risiko eksistensial yang ditimbulkan oleh kecerdasan buatan jika tidak dikendalikan dengan baik. Mereka menggarisbawahi skenario bahaya mulai dari hilangnya kontrol atas sistem otonom hingga penyalahgunaan oleh aktor jahat. Diskusi ini memperjelas jurang antara narasi fiksi ilmiah dan risiko nyata yang sedang kita hadapi saat ini.",
-      "takeaways": [
-        "Hilangnya kontrol manusia atas kecerdasan buatan tingkat lanjut (AGI) diidentifikasi sebagai salah satu ancaman terbesar.",
-        "Risiko nyata jangka pendek mencakup penyebaran disinformasi massal secara otomatis dan destabilisasi sistem pertahanan keamanan global.",
-        "Para ahli menekankan perlunya kesepakatan global mengenai protokol penghentian darurat untuk sistem AI otonom."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Para Bos Teknologi Desak Regulasi AI, Namun Donald Trump dan Kongres AS Tak Ingin Terburu-buru",
-      "original_title": "Tech CEOs call for AI regulation. Trump and Congress are not rushing to act",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObldBQ2IzYkhjT3hhUm1OdXozSTV0bnRwTUZlZVg3WXVfc3IwdmhqbTRHdXRfQ1NodmEwWGtSQ3VDaldqbC0xc2RGYjUzSVlWXzJuMVpuV2hRWTBTMk9Fd0dCYS1WUFJvMkVxOXh3Q0ZwRUs0UXVlb0VIdEtHVThic2tHbTQ2ZUVBX3B2QW5hTW5NTFNJSGlfM2YwX2tfSkswYmdIbWFJaFBNUURtX254dDJB?oc=5",
-      "source": "PBS",
-      "published_date": "2026-09-15",
-      "summary": "Meskipun para pemimpin industri teknologi secara terbuka meminta pemerintah AS untuk mengeluarkan regulasi ketat terkait AI, respons politik dari Donald Trump dan Kongres masih tergolong lamban. Perbedaan prioritas ini berisiko menciptakan kekosongan hukum yang berbahaya bagi perlindungan konsumen. Hal ini memicu kekhawatiran tentang lambatnya respons legislatif dalam mengantisipasi laju cepat inovasi kecerdasan buatan.",
-      "takeaways": [
-        "Terdapat ketidakselarasan antara tuntutan regulasi dari pelaku industri teknologi dengan respons para pembuat kebijakan di AS.",
-        "Sikap politik yang berhati-hati dipengaruhi oleh kekhawatiran bahwa regulasi terburu-buru dapat menghambat dominasi teknologi AS terhadap kompetitor global.",
-        "Lambatnya tindakan legislatif berpotensi meningkatkan risiko eksploitasi data pribadi dan hilangnya lapangan kerja tanpa jaring pengaman sosial."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Mengapa Para Kompetitor Terbesar AI Tiba-Tiba Menyerukan Batasan dan Pengendalian Diri",
-      "original_title": "Why AI’s Biggest Rivals Are Suddenly Calling for Restraint",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUXdhUHVFdTY0X05rQTRNLVpuaVMtSUVwMjJlaU5lZXNsOUJqdnpPY0ozblhzaDZSUHQzWGwyUlJudmg5ZS1zam1fcldwOVM0Q0VQYWFUR0Ezc293V0x2dDk3X09raWFGWU9iODkwWHp2dU1OT2JBdWNjUE1PVmVVcnRVMjNjZ2h0dXR5c1d2SQ?oc=5",
-      "source": "Council on Foreign Relations",
-      "published_date": "2026-09-15",
-      "summary": "Fenomena menarik terjadi ketika perusahaan-perusahaan teknologi yang saling bersaing ketat dalam pengembangan AI justru secara serentak menyerukan pengendalian diri dan regulasi internasional. Laporan ini mengeksplorasi alasan di balik perubahan sikap kolektif ini, termasuk ketakutan akan skenario terburuk teknologi serta taktik untuk membatasi pemain baru di pasar. Hal ini menunjukkan bahwa persaingan tanpa kendali dalam AI berisiko tinggi menciptakan bencana sistemik.",
-      "takeaways": [
-        "Perusahaan besar bersatu menyuarakan regulasi guna mencegah perlombaan pengembangan AI yang tidak aman dan merugikan reputasi industri.",
-        "Sebagian analis menduga desakan regulasi oleh raksasa teknologi juga berfungsi sebagai taktik menghalangi inovator skala kecil masuk ke pasar.",
-        "Konsensus global mengenai standar minimum keamanan AI kini menjadi kebutuhan mendesak bagi stabilitas geopolitik."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "AI Tidak Hanya Hidup di Cloud: Perdagangan Global Fisik di Balik Keberadaan Kecerdasan Buatan",
-      "original_title": "Artificial Intelligence Doesn't Live Only in the Cloud: The Global Trade That Makes It Possible",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUjZyT3dXdkZJZHpMaEd3eFRQSVlWdzJQWkJDbnd4NkVPODBBRURrWlNwZGVlVEw2MjRhOW9fLXY1YndwUGFuTzVEd01uN24wd1d4bkpzYXB2RnZNSkhVeklPZWpoZ1l4cktiX3VLbFFYQUdLbkZIdWFJTkxBbnJQUGVwTDlRNlFuZVdVOW42bThTVEJKTDBVdlJVeEZYaWprNEJieHlOb240bkh3WU9TeWg1WDNzakVzYmozYnF5R0pQZkpTYnc?oc=5",
-      "source": "Inter-American Development Bank",
-      "published_date": "2026-09-15",
-      "summary": "Laporan dari Bank Pembangunan Antar-Amerika mengungkapkan bahwa keberadaan AI sangat bergantung pada infrastruktur fisik dan rantai pasok perdagangan global yang kompleks. Mulai dari penambangan mineral langka hingga perakitan semikonduktor canggih, aspek fisik AI memiliki dampak ekonomi dan geopolitik yang nyata di seluruh dunia. Tanpa infrastruktur perdagangan fisik, kemajuan perangkat lunak AI tidak akan dapat terealisasi.",
-      "takeaways": [
-        "Di balik kecanggihan perangkat lunak AI, terdapat ketergantungan besar pada rantai pasok manufaktur dan perdagangan fisik global.",
-        "Ketersediaan infrastruktur energi, pusat data, dan mikroprosesor canggih menjadi penentu utama dominasi sebuah negara di era digital.",
-        "Kebijakan perdagangan internasional harus mempertimbangkan aspek geopolitik bahan baku semikonduktor demi kestabilan industri teknologi masa depan."
-      ],
-      "category": "Sains & Teknologi"
-    },
-    {
-      "title": "Senator Mark Warner: AS Bisa Perkuat Keamanan AI Tanpa Harus Kalah dalam Persaingan Melawan China",
-      "original_title": "Sen. Mark Warner says U.S. can strengthen AI safety without losing race to China",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTGEtNUlvUFhGazBEWGxwVTQ2YXI5OUFJUzNOREU3YXhsZ29DcUVsU0hTdUNHLVU5ZHk5b0xLRkhBQkFhdXk4U01wVGtGc2tPRXYzTUFnOHdhVHZLR25QWUh4eTBIOGhXR2I4ZXdFR2huX2ljMFRxVC1oTVBPQnZtX1U1Vk5xLVIxQnRsczBxa2tXZmFnUXVzYXJtUnIwREFHaV9BcXZKZU5ZTERackI3Z1hB?oc=5",
-      "source": "PBS",
-      "published_date": "2026-09-15",
-      "summary": "Senator Mark Warner menegaskan bahwa Amerika Serikat tidak perlu mengorbankan standar keselamatan AI demi mengejar ketertinggalan atau mempertahankan dominasi atas kompetitor utamanya, China. Menurutnya, penerapan standar etika dan keamanan yang kokoh justru akan menjadi keunggulan kompetitif jangka panjang bagi teknologi Barat. Keseimbangan antara regulasi ketat dan inovasi agresif dinilai sebagai kunci keberhasilan.",
-      "takeaways": [
-        "Keamanan siber dan regulasi etis tidak boleh dipandang sebagai penghambat inovasi dalam perebutan dominasi teknologi global.",
-        "Kepemimpinan AS di bidang AI masa depan akan dinilai berdasarkan seberapa aman dan andalnya sistem yang diciptakan, bukan sekadar kecepatan rilisnya.",
-        "Diperlukan kemitraan strategis internasional antarnegara sekutu untuk menetapkan standar keselamatan AI yang dapat menandingi model otoriter."
       ],
       "category": "Artificial Intelligence"
     }
