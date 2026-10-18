@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-10-17T03:36:59.683631+00:00",
-  "total_articles": 144,
+  "last_updated": "2026-10-18T03:43:06.804561+00:00",
+  "total_articles": 138,
   "articles": [
     {
       "title": "Terobosan Baru: Model AI Terbuka China Saingi Raksasa Silicon Valley",
       "original_title": "Another powerful new artificial intelligence model from China took the US tech industry by surprise",
       "url": "https://example.com/ai-china-model",
       "source": "LinkedIn News",
-      "published_date": "2026-10-17",
+      "published_date": "2026-10-18",
       "summary": "Startup AI asal China meluncurkan model open-source baru yang mengejutkan industri teknologi AS karena kemampuannya yang sangat kompetitif. Model ini menantang dominasi perusahaan besar Silicon Valley dengan performa tinggi yang dapat diakses secara gratis oleh pengembang.",
       "takeaways": [
         "Model open-source baru dari China menunjukkan kemajuan pesat dalam penelitian AI.",
@@ -21,7 +21,7 @@
       "original_title": "First CRISPR Gene Therapy for Rare Genetic Disorder Approved by FDA",
       "url": "https://example.com/crispr-approval",
       "source": "Nature Biotechnology",
-      "published_date": "2026-10-17",
+      "published_date": "2026-10-18",
       "summary": "FDA secara resmi menyetujui terapi pengeditan gen berbasis CRISPR untuk mengobati kelainan genetik langka yang merusak sel saraf. Keputusan bersejarah ini membuka jalan bagi penyembuhan penyakit genetik kronis lainnya yang sebelumnya tidak dapat disembuhkan.",
       "takeaways": [
         "FDA memberikan persetujuan untuk terapi berbasis CRISPR pertama yang menyasar penyakit sel saraf.",
@@ -35,7 +35,7 @@
       "original_title": "Scientists Create Hybrid Brain Network Using Silicon Chips and Neurons",
       "url": "https://example.com/hybrid-brain",
       "source": "Science Daily",
-      "published_date": "2026-10-17",
+      "published_date": "2026-10-18",
       "summary": "Tim peneliti gabungan berhasil menghubungkan sel saraf biologis hidup dengan chip silikon komputer menggunakan antarmuka bio-elektronik baru. Teknologi ini berpotensi digunakan untuk memulihkan fungsi sensorik pasien lumpuh serta mempercepat komputasi neuromorfik.",
       "takeaways": [
         "Integrasi sel saraf hidup dengan silikon membuka jalan bagi komputer biologis.",
@@ -49,7 +49,7 @@
       "original_title": "Google Launches Upgraded Gemini Pro with Larger Context Window",
       "url": "https://example.com/gemini-pro-update",
       "source": "TechCrunch",
-      "published_date": "2026-10-17",
+      "published_date": "2026-10-18",
       "summary": "Google resmi merilis pembaruan untuk model Gemini Pro yang kini mendukung pemrosesan dokumen panjang hingga jutaan token secara bersamaan. Pembaruan ini secara dramatis meningkatkan akurasi dalam menganalisis kode pemrograman kompleks dan laporan keuangan panjang.",
       "takeaways": [
         "Context window Gemini Pro diperluas untuk mendukung analisis data skala besar.",
@@ -63,7 +63,7 @@
       "original_title": "Full Genome Sequencing Unlocks Secrets of Ancient Rice Evolution",
       "url": "https://example.com/rice-genome",
       "source": "Genomics Journal",
-      "published_date": "2026-10-17",
+      "published_date": "2026-10-18",
       "summary": "Para peneliti genetika berhasil memetakan sekuens genom lengkap dari sampel padi purba berusia 3.000 tahun yang ditemukan di situs arkeologi. Data genetik ini mengungkap bagaimana nenek moyang kita melakukan seleksi tanaman terhadap kekeringan dan hama.",
       "takeaways": [
         "Pemetaan genom padi purba memberikan wawasan tentang adaptasi iklim masa lalu.",
@@ -77,7 +77,7 @@
       "original_title": "Future Supercomputing: Large-scale Quantum Computing Experiment Succeeds",
       "url": "https://example.com/quantum-success",
       "source": "MIT Technology Review",
-      "published_date": "2026-10-17",
+      "published_date": "2026-10-18",
       "summary": "Fisikawan berhasil menjalankan algoritma koreksi kesalahan kuantum yang stabil pada sistem 100-qubit untuk pertama kalinya. Hasil ini menunjukkan bahwa komputer kuantum komersial yang bebas dari error tingkat tinggi kini semakin dekat menjadi kenyataan.",
       "takeaways": [
         "Algoritma koreksi kesalahan kuantum berhasil menstabilkan sistem qubit dari gangguan luar.",
@@ -91,7 +91,7 @@
       "original_title": "AI Detects Early-Stage Lung Cancer Using Standard Chest X-rays",
       "url": "https://example.com/ai-lung-cancer",
       "source": "The Lancet Digital Health",
-      "published_date": "2026-10-17",
+      "published_date": "2026-10-18",
       "summary": "Sebuah sistem kecerdasan buatan baru yang dilatih pada jutaan radiografi dada mampu mendeteksi tanda-tanda awal kanker paru dengan akurasi 94%. Sistem ini dapat mendeteksi nodul kecil yang sering terlewatkan oleh radiolog manusia pada pemeriksaan rutin.",
       "takeaways": [
         "Sistem AI melampaui rata-rata akurasi deteksi radiolog manusia dalam skrining awal.",
@@ -105,7 +105,7 @@
       "original_title": "Ancient DNA Technology Reveals Migration Patterns of First Americans",
       "url": "https://example.com/ancient-dna-america",
       "source": "Science Magazine",
-      "published_date": "2026-10-17",
+      "published_date": "2026-10-18",
       "summary": "Studi terhadap sisa-sisa DNA kuno berusia 12.000 tahun menunjukkan bahwa pemukim pertama Amerika bermigrasi dalam beberapa gelombang yang berbeda secara genetik. Analisis ini meluruskan teori migrasi tunggal yang selama ini diyakini oleh para arkeolog.",
       "takeaways": [
         "Analisis genom kuno membuktikan adanya rute migrasi maritim di samping jembatan darat Beringia.",
@@ -119,7 +119,7 @@
       "original_title": "New Sodium-ion Battery Offers Cheap Alternative for Green Energy Storage",
       "url": "https://example.com/sodium-battery",
       "source": "Bloomberg Green",
-      "published_date": "2026-10-17",
+      "published_date": "2026-10-18",
       "summary": "Para peneliti berhasil mengembangkan baterai sodium-ion (garam) berkapasitas tinggi dengan siklus hidup yang menyamai baterai lithium-ion. Karena sodium sangat melimpah dan murah, teknologi ini dapat mempercepat transisi ke penyimpanan energi surya dan angin skala besar.",
       "takeaways": [
         "Baterai berbasis garam menawarkan biaya produksi 40% lebih murah dibanding lithium.",
@@ -133,7 +133,7 @@
       "original_title": "Advancement in Automatic Music Generation Using Pitch-Specific LLMs",
       "url": "https://example.com/music-llm",
       "source": "Wired",
-      "published_date": "2026-10-17",
+      "published_date": "2026-10-18",
       "summary": "Model bahasa besar (LLM) terbaru yang dikonfigurasi khusus untuk memahami teori musik dapat menghasilkan aransemen orkestra lengkap secara instan berdasarkan deskripsi teks. Model ini memahami harmoni dan transisi instrumen secara organik layaknya komposer profesional.",
       "takeaways": [
         "LLM musik baru menghasilkan musik dengan pemahaman struktural harmoni yang mendalam.",
@@ -1933,90 +1933,6 @@
         "Hasil penelitian ini diharapkan dapat melahirkan solusi AI yang lebih andal untuk kebutuhan keamanan nasional."
       ],
       "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Perusahaan Biotek Virtual Kerahkan Ribuan Agen Ilmuwan AI untuk Mempercepat Penemuan Obat",
-      "original_title": "Virtual biotech company puts thousands of AI scientist agents to work on drug discovery",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRnFHYlZsNzYwS2NwYWtleUtJSC13SUJCTlJQelk4ZFd2OHEydmdPQjB5R2F0ZXl4UWhYS2pjc213S3RPemJaUWQ3bHlGQzlRZlFENUhjZ3hDelBmOGtTbFRfTXlqVHpSSzJnRVl0UXFWMUl6ZXpSd1B3OTU4NnFRMA?oc=5",
-      "source": "Stanford Medicine",
-      "published_date": "2026-09-17",
-      "summary": "Sebuah perusahaan bioteknologi virtual telah menciptakan ribuan agen AI otonom yang bekerja bersama layaknya ilmuwan manusia untuk mendesain dan menguji obat baru. Terobosan ini menggabungkan kecerdasan buatan dengan biologi komputasional untuk memangkas waktu penelitian obat yang biasanya memakan waktu bertahun-tahun. Keberhasilan kolaborasi agen AI ini menandai era baru dalam industri farmasi dan rekayasa genetika.",
-      "takeaways": [
-        "Ribuan agen AI otonom dikerahkan untuk berkolaborasi dalam merancang molekul obat baru secara mandiri.",
-        "Metode ini secara signifikan memangkas biaya dan waktu pra-uji klinis dibandingkan metode laboratorium tradisional.",
-        "Teknologi ini membuka jalan bagi penemuan terapi medis personal dan analisis genomik yang jauh lebih efisien."
-      ],
-      "category": "Genom & Biotek"
-    },
-    {
-      "title": "‘Godfather of AI’ Peringatkan Kongres AS Hanya Punya Waktu Satu Tahun untuk Meregulasi AI",
-      "original_title": "‘Godfather of AI’ warns Congress has ‘maybe a year’ left to regulate AI",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTGhqbWpUNXgwTDNFQjBVNmkzc0Roa1A0akhTVjUzS3puS21YZnVuOXB4a2pmWVVUdnFsazRFZ01HbzZlZHRuZF8xejhPNnJYYXQtOW4zdVY0SmhxRWZLeS0xeEdDN2F4dTBCNm5FQ0NEdm1fSXlYWXRRSnN0a3FGYi1yX2FUWXBvbWk2dlNlcnplbFpncGs1eGRSLVMxUzNUdFlWd3hzVlFhM3Nv?oc=5",
-      "source": "NBC News",
-      "published_date": "2026-09-17",
-      "summary": "Geoffrey Hinton, pelopor teknologi deep learning yang dikenal sebagai salah satu 'Godfather of AI', memberikan peringatan keras kepada Kongres AS mengenai urgensi regulasi kecerdasan buatan. Ia menyatakan bahwa pemerintah hanya memiliki waktu sekitar satu tahun sebelum kemampuan AI melampaui kendali manusia secara signifikan. Regulasi yang lambat dinilai dapat memicu ancaman serius bagi keamanan global, stabilitas ekonomi, dan integritas informasi.",
-      "takeaways": [
-        "Geoffrey Hinton mendesak tindakan legislatif segera untuk mencegah skenario di luar kendali akibat sistem AI yang terlalu otonom.",
-        "Ia menekankan potensi bahaya penyalahgunaan AI dalam kampanye disinformasi masif dan pembuatan senjata digital.",
-        "Kerangka waktu satu tahun menjadi target kritis bagi para pembuat kebijakan sebelum teknologi ini berkembang di luar jangkauan pemantauan."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Raja Charles III Peringatkan Para Pemimpin Teknologi tentang Bahaya Eksistensial AI",
-      "original_title": "King Charles warns tech leaders of 'existential dangers' from AI",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdFdPV3JrbjNYMUd3RXlUY3NwOU5RMTVheVM2eHRUQ2VFWnBVU2w2SnFqR05iaHBiZzE5MHlyc1ZhX1NSeWxHMmNLMEx4YkxBQjVZY1A4MllpU19lM0c5RHhnV3JTRkQzWGlDME1Cam9WdlVzTTVNclhxZm90akpuUHFkeW9INXdGbmdiUTBTNHBnZEVSNmxtRDNLUWNPQTh4N05qVmh4c01JUWM?oc=5",
-      "source": "Reuters",
-      "published_date": "2026-09-17",
-      "summary": "Raja Charles III mengadakan pertemuan penting dengan para eksekutif puncak industri teknologi global guna membahas risiko besar dari pengembangan kecerdasan buatan yang tidak terkendali. Beliau menekankan perlunya kolaborasi internasional yang erat untuk menciptakan batas pengamanan yang kuat demi melindungi masa depan umat manusia. Pertemuan ini mempertegas bahwa keprihatinan atas dampak sosial dan etis AI kini telah mendapat perhatian serius di tingkat kepemimpinan global tertinggi.",
-      "takeaways": [
-        "Raja Charles III menyuarakan kekhawatiran global mengenai ancaman etis dan keselamatan akibat laju perkembangan AI yang sangat pesat.",
-        "Pertemuan tersebut mendorong pembentukan pengawasan independen lintas negara serta keterlibatan aktif pemerintah.",
-        "Para pengembang teknologi didesak untuk memprioritaskan etika kemanusiaan dan keselamatan di atas keuntungan komersial semata."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Amazon Turut Suarakan Keamanan AI, Desak Pengujian Ketat dan Perlindungan Maksimal",
-      "original_title": "Amazon enters AI safety fray, calls for \"rigorous testing,\" safeguards",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZlc0aEIyZmgxVURSZXZnVWNic05GQW9SVmI1Y1JvbGVtYzR6RmFvMTFKUTBFNWNOaENqckFIdjY3NXh2dWNkZF9UUUY3VXpNbEVPYnZhZnk0N2kwWFNfWS1lNzlEdXNvTlkzRXFmM1dpTHMyOG9GTVdwZ3FkZGt1UXUwUklrWEtaeUdSdVR0WWxCTHdYNi00WFVKbmZRMWJXRFhDblNNM01HQXpGVHVrVFhUUlpHUDRiT1pVbHMyVlc?oc=5",
-      "source": "Reuters",
-      "published_date": "2026-09-17",
-      "summary": "Raksasa teknologi Amazon secara resmi mengambil sikap dalam isu tata kelola kecerdasan buatan dengan menyerukan perlunya prosedur pengujian yang lebih ketat sebelum model AI diluncurkan. Perusahaan menekankan bahwa evaluasi independen yang komprehensif sangat penting untuk mendeteksi potensi kerentanan sistem dan risiko penyalahgunaan data. Langkah Amazon ini menambah panjang daftar korporasi teknologi global yang berupaya memformulasikan standar keselamatan mandiri.",
-      "takeaways": [
-        "Amazon mengusulkan metodologi evaluasi ketat yang wajib dilakukan sebelum teknologi AI dirilis untuk konsumsi publik.",
-        "Inisiatif ini dirancang guna memulihkan kepercayaan konsumen terhadap keamanan produk berbasis algoritma generatif.",
-        "Sikap aktif korporasi besar mencerminkan bahwa penegakan standar keamanan mandiri dinilai krusial di tengah lambatnya legislasi pemerintah."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Masa Depan Teknologi: Dari Sekadar Kecerdasan Buatan Menuju Komunitas Sosial Buatan",
-      "original_title": "The Next Frontier Is Not Artificial Intelligence, It’s Artificial Societies",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQV0xnOU9qVi16elBuMHBWbk9pbGpSNWRELWx4RU5ZWXc1RFQ5VTlhV2pGZEZ5eThYYzdrcGFzMm1YeEhfYmZNVUpwekp5Z25rbkN6OVoxMVR6SFFNWEtIaEM3YmZLRGlsdVgyUnhEcjFZOWkyMXg1UzhaZEJxY2lCRkNXMFdYZ0lUNEF6VGMxMFFDZ3V4ODU3MldZS3JscEo4V3l2b2E1OHlCaUFEQmx5YmNR?oc=5",
-      "source": "SingularityHub",
-      "published_date": "2026-09-17",
-      "summary": "Artikel ini mengulas pergeseran paradigma teknologi komputasi dari pengembangan agen AI tunggal menjadi pembentukan 'Artificial Societies' (komunitas sosial buatan) di mana ribuan AI berinteraksi secara mandiri. Simulasi sosial berskala raksasa ini dimanfaatkan peneliti untuk memproyeksikan dinamika ekonomi, tren sosiologis, hingga pola penyebaran epidemi di dunia nyata secara presisi. Pendekatan revolusioner ini membuka cakrawala baru dalam pemecahan masalah sosial makro menggunakan teknologi simulasi pintar.",
-      "takeaways": [
-        "Interaksi kolektif antarsistem AI dalam suatu ekosistem menghasilkan data prediktif yang jauh lebih kompleks dibanding analisis model tunggal.",
-        "Teknologi ini mempermudah uji coba kebijakan publik dan model ekonomi secara virtual sebelum diimplementasikan di dunia nyata.",
-        "Munculnya komunitas sosial buatan ini memicu perdebatan etis baru terkait privasi data perilaku dan batas manipulasi sosial."
-      ],
-      "category": "Sains & Teknologi"
-    },
-    {
-      "title": "Peran Strategis AI dalam Meningkatkan Efisiensi Perawatan Klinis di Seluruh Jaringan Rumah Sakit",
-      "original_title": "AI’s Evolving Role in Clinical Care Enterprise-Wide",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRnB2VmZoWlpOOEZEX0FBa0w3bWFld3FRNlZCN3h2ZE4xLTRrRlUzTEtmQVFyTnAzMDJQNl94TjllaVRxaTBkbU45bmJtOGtNczF5R0o3X1p5Y3hDY0M0Z1MwV2pOYU1Ba2lSSWJLUlQzMTZ6TFRTR0Q0bGpjUDgybnRuOFJURU1UZjdIaEExMEs2bVBGWGxscQ?oc=5",
-      "source": "The ASCO Post",
-      "published_date": "2026-09-17",
-      "summary": "Implementasi kecerdasan buatan dalam perawatan medis klinis kini tidak lagi sebatas proyek uji coba, melainkan telah terintegrasi secara menyeluruh dalam sistem manajemen rumah sakit. Mulai dari onkologi hingga layanan darurat, teknologi AI digunakan untuk memproses data rekam medis pasien secara real-time guna membantu mempercepat akurasi keputusan klinis dokter. Langkah integrasi ini terbukti mengoptimalkan efisiensi waktu kerja staf medis sekaligus meminimalisir risiko kelalaian operasional.",
-      "takeaways": [
-        "AI kini bertransisi menjadi bagian tak terpisahkan dari infrastruktur pelayanan kesehatan rumah sakit modern.",
-        "Algoritma analisis prediktif membantu dokter mendiagnosis penyakit kronis lebih dini dengan tingkat ketepatan tinggi.",
-        "Penerapan teknologi berskala besar ini menuntut penyelarasan regulasi perlindungan data medis pasien serta pelatihan terstruktur bagi para dokter."
-      ],
-      "category": "Sains & Teknologi"
     }
   ]
 }
