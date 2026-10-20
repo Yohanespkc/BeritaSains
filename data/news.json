@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-10-19T03:52:47.466218+00:00",
-  "total_articles": 128,
+  "last_updated": "2026-10-20T04:04:45.786610+00:00",
+  "total_articles": 120,
   "articles": [
     {
       "title": "Terobosan Baru: Model AI Terbuka China Saingi Raksasa Silicon Valley",
       "original_title": "Another powerful new artificial intelligence model from China took the US tech industry by surprise",
       "url": "https://example.com/ai-china-model",
       "source": "LinkedIn News",
-      "published_date": "2026-10-19",
+      "published_date": "2026-10-20",
       "summary": "Startup AI asal China meluncurkan model open-source baru yang mengejutkan industri teknologi AS karena kemampuannya yang sangat kompetitif. Model ini menantang dominasi perusahaan besar Silicon Valley dengan performa tinggi yang dapat diakses secara gratis oleh pengembang.",
       "takeaways": [
         "Model open-source baru dari China menunjukkan kemajuan pesat dalam penelitian AI.",
@@ -21,7 +21,7 @@
       "original_title": "First CRISPR Gene Therapy for Rare Genetic Disorder Approved by FDA",
       "url": "https://example.com/crispr-approval",
       "source": "Nature Biotechnology",
-      "published_date": "2026-10-19",
+      "published_date": "2026-10-20",
       "summary": "FDA secara resmi menyetujui terapi pengeditan gen berbasis CRISPR untuk mengobati kelainan genetik langka yang merusak sel saraf. Keputusan bersejarah ini membuka jalan bagi penyembuhan penyakit genetik kronis lainnya yang sebelumnya tidak dapat disembuhkan.",
       "takeaways": [
         "FDA memberikan persetujuan untuk terapi berbasis CRISPR pertama yang menyasar penyakit sel saraf.",
@@ -35,7 +35,7 @@
       "original_title": "Scientists Create Hybrid Brain Network Using Silicon Chips and Neurons",
       "url": "https://example.com/hybrid-brain",
       "source": "Science Daily",
-      "published_date": "2026-10-19",
+      "published_date": "2026-10-20",
       "summary": "Tim peneliti gabungan berhasil menghubungkan sel saraf biologis hidup dengan chip silikon komputer menggunakan antarmuka bio-elektronik baru. Teknologi ini berpotensi digunakan untuk memulihkan fungsi sensorik pasien lumpuh serta mempercepat komputasi neuromorfik.",
       "takeaways": [
         "Integrasi sel saraf hidup dengan silikon membuka jalan bagi komputer biologis.",
@@ -49,7 +49,7 @@
       "original_title": "Google Launches Upgraded Gemini Pro with Larger Context Window",
       "url": "https://example.com/gemini-pro-update",
       "source": "TechCrunch",
-      "published_date": "2026-10-19",
+      "published_date": "2026-10-20",
       "summary": "Google resmi merilis pembaruan untuk model Gemini Pro yang kini mendukung pemrosesan dokumen panjang hingga jutaan token secara bersamaan. Pembaruan ini secara dramatis meningkatkan akurasi dalam menganalisis kode pemrograman kompleks dan laporan keuangan panjang.",
       "takeaways": [
         "Context window Gemini Pro diperluas untuk mendukung analisis data skala besar.",
@@ -63,7 +63,7 @@
       "original_title": "Full Genome Sequencing Unlocks Secrets of Ancient Rice Evolution",
       "url": "https://example.com/rice-genome",
       "source": "Genomics Journal",
-      "published_date": "2026-10-19",
+      "published_date": "2026-10-20",
       "summary": "Para peneliti genetika berhasil memetakan sekuens genom lengkap dari sampel padi purba berusia 3.000 tahun yang ditemukan di situs arkeologi. Data genetik ini mengungkap bagaimana nenek moyang kita melakukan seleksi tanaman terhadap kekeringan dan hama.",
       "takeaways": [
         "Pemetaan genom padi purba memberikan wawasan tentang adaptasi iklim masa lalu.",
@@ -77,7 +77,7 @@
       "original_title": "Future Supercomputing: Large-scale Quantum Computing Experiment Succeeds",
       "url": "https://example.com/quantum-success",
       "source": "MIT Technology Review",
-      "published_date": "2026-10-19",
+      "published_date": "2026-10-20",
       "summary": "Fisikawan berhasil menjalankan algoritma koreksi kesalahan kuantum yang stabil pada sistem 100-qubit untuk pertama kalinya. Hasil ini menunjukkan bahwa komputer kuantum komersial yang bebas dari error tingkat tinggi kini semakin dekat menjadi kenyataan.",
       "takeaways": [
         "Algoritma koreksi kesalahan kuantum berhasil menstabilkan sistem qubit dari gangguan luar.",
@@ -91,7 +91,7 @@
       "original_title": "AI Detects Early-Stage Lung Cancer Using Standard Chest X-rays",
       "url": "https://example.com/ai-lung-cancer",
       "source": "The Lancet Digital Health",
-      "published_date": "2026-10-19",
+      "published_date": "2026-10-20",
       "summary": "Sebuah sistem kecerdasan buatan baru yang dilatih pada jutaan radiografi dada mampu mendeteksi tanda-tanda awal kanker paru dengan akurasi 94%. Sistem ini dapat mendeteksi nodul kecil yang sering terlewatkan oleh radiolog manusia pada pemeriksaan rutin.",
       "takeaways": [
         "Sistem AI melampaui rata-rata akurasi deteksi radiolog manusia dalam skrining awal.",
@@ -105,7 +105,7 @@
       "original_title": "Ancient DNA Technology Reveals Migration Patterns of First Americans",
       "url": "https://example.com/ancient-dna-america",
       "source": "Science Magazine",
-      "published_date": "2026-10-19",
+      "published_date": "2026-10-20",
       "summary": "Studi terhadap sisa-sisa DNA kuno berusia 12.000 tahun menunjukkan bahwa pemukim pertama Amerika bermigrasi dalam beberapa gelombang yang berbeda secara genetik. Analisis ini meluruskan teori migrasi tunggal yang selama ini diyakini oleh para arkeolog.",
       "takeaways": [
         "Analisis genom kuno membuktikan adanya rute migrasi maritim di samping jembatan darat Beringia.",
@@ -119,7 +119,7 @@
       "original_title": "New Sodium-ion Battery Offers Cheap Alternative for Green Energy Storage",
       "url": "https://example.com/sodium-battery",
       "source": "Bloomberg Green",
-      "published_date": "2026-10-19",
+      "published_date": "2026-10-20",
       "summary": "Para peneliti berhasil mengembangkan baterai sodium-ion (garam) berkapasitas tinggi dengan siklus hidup yang menyamai baterai lithium-ion. Karena sodium sangat melimpah dan murah, teknologi ini dapat mempercepat transisi ke penyimpanan energi surya dan angin skala besar.",
       "takeaways": [
         "Baterai berbasis garam menawarkan biaya produksi 40% lebih murah dibanding lithium.",
@@ -133,7 +133,7 @@
       "original_title": "Advancement in Automatic Music Generation Using Pitch-Specific LLMs",
       "url": "https://example.com/music-llm",
       "source": "Wired",
-      "published_date": "2026-10-19",
+      "published_date": "2026-10-20",
       "summary": "Model bahasa besar (LLM) terbaru yang dikonfigurasi khusus untuk memahami teori musik dapat menghasilkan aransemen orkestra lengkap secara instan berdasarkan deskripsi teks. Model ini memahami harmoni dan transisi instrumen secara organik layaknya komposer profesional.",
       "takeaways": [
         "LLM musik baru menghasilkan musik dengan pemahaman struktural harmoni yang mendalam.",
@@ -1679,118 +1679,6 @@
         "AI memungkinkan pelaku kejahatan siber mengotomatisasi pembuatan pesan phishing personal tanpa kehilangan sentuhan persuasifnya.",
         "Metode pelatihan keamanan konvensional bagi karyawan perlu segera ditingkatkan agar mampu mengenali konten manipulatif buatan AI.",
         "Penerapan pertahanan siber berbasis kecerdasan buatan defensif menjadi krusial untuk menangkal serangan ofensif serupa."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Anthropic Tunjuk Konsultan Independen untuk Awasi Keamanan AI dan Siapkan Dana Rp15 Triliun",
-      "original_title": "Anthropic picks consulting firm to monitor AI safety, pledges to spend $1 billion",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSnN4LUdjc1JEOHpBaU9kc2hlb3BmX2Nmb1NodlYwbnZ0R1BlRWtxWld2cW1ZdWlMZnQwYWk3bGl0d0JlR3RuZU5PaTE3YkhmRm1JamZfcndhcWZCM3RlN1ZXb09qQ1RJUjRKSmFKS2lxNk9PMTZoR3lfMkVTOXVpaVdpY2JVX3k3N1hiSGREQ3ZtZFdudUkzYm9JLUdiZG1Bc05FSXZR?oc=5",
-      "source": "The Washington Post",
-      "published_date": "2026-09-19",
-      "summary": "Perusahaan rintisan AI terkemuka, Anthropic, mengumumkan kemitraan dengan firma konsultan eksternal untuk memantau standar keselamatan sistem AI mereka. Langkah ini disertai dengan komitmen investasi sebesar 1 milyar dolar AS (sekitar Rp15 triliun) yang khusus dialokasikan untuk riset keamanan jangka panjang. Inisiatif ini diambil guna membangun kepercayaan publik dan memastikan model AI mereka tidak disalahgunakan untuk tujuan berbahaya.",
-      "takeaways": [
-        "Anthropic berkomitmen secara finansial dalam skala besar untuk menempatkan keamanan AI sebagai prioritas utama perusahaan.",
-        "Pelibatan konsultan independen menandai pergeseran ke arah akuntabilitas eksternal dalam pengembangan teknologi AI yang sensitif.",
-        "Langkah ini diharapkan dapat menekan pengembang AI kompetitor untuk turut mengadopsi standar transparansi yang setara."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Penggunaan AI di Pengadilan Jadi Bumerang, Saksi Ahli Dipertanyakan Akibat Bias Data",
-      "original_title": "Use of AI backfires on an expert witness at trial: \"They have biases\"",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ONk1vR29XLXhmZmt4SGVLX0NUOFY5Tk1SNHVYUUF3M20zbFRjQjNZUzVXcEMzb1lSaEdlWjZTYUdHSklfcVItMHpaNVRGLU5MYXNHRHNQUUc5c2tBXzN0dEM5N0xTNWRiOE9nZ1Bn?oc=5",
-      "source": "CBS News",
-      "published_date": "2026-09-19",
-      "summary": "Dalam sebuah persidangan, penggunaan analisis berbasis AI oleh seorang saksi ahli justru menjadi bumerang setelah pengacara lawan berhasil membuktikan adanya bias inheren dalam algoritma tersebut. Kasus ini menyoroti risiko hukum serius ketika data yang dihasilkan AI digunakan sebagai bukti kunci dalam sistem peradilan tanpa verifikasi yang memadai. Hakim pun mulai memperketat aturan mengenai diterimanya kesaksian ilmiah berbasis kecerdasan buatan.",
-      "takeaways": [
-        "Bias data pada AI dapat merusak kredibilitas kesaksian hukum dan merugikan proses pencarian keadilan di pengadilan.",
-        "Para profesional hukum kini dituntut untuk memahami cara kerja algoritma guna menguji validitas bukti berbasis teknologi di persidangan.",
-        "Perlunya standar forensik digital baru untuk menguji keandalan hasil analisis kecerdasan buatan sebelum diajukan ke meja hijau."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Gugatan Hukum Tuding Anthropic, OpenAI, SpaceXAI, dan Google Lakukan Kesepakatan Ilegal untuk Perlambat Pengembangan AI",
-      "original_title": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI development slowdown",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZjdid0ZUUExzNkFYWGRyNkxFanc2QnB6YmtPbGxUaEV0TU9ZWmhyT25qXy1LRmMzNGUzZlJ4ZzVoOTdqWWVpbmdHNVlGRk1XR0xIYWFPdW1DdzdMbW1DS2d6TEMzbFdQbFB0MmFiekprN1RBMWNTd1dodlNHOWxzQk1MR21VNlpxRVh2a1k0amxYeW0taUpEd0VKTmVVYmloNG9KVWtqYmhURWNleFpsN3hteVBTNzlSYmJTZW9MaVRDWWNmYWZN0gHMAUFVX3lxTFBzNC1lUW81VmRPd2ZfdThlSnBwVGktUlFiMVVMWDBDWjJ0WDZ2WlN1cC1wYVdFS01pSG1mY2JhMlpXWlVvaFNsc0x2Vk00Q0hGRjUtbU1rMncxTDFTbVlXMDFoamtuSE9vMjlGZW5kdS1QVjJaTDJsZHpSUkJqblh5UUV6dC0xSW1WS0ljbGozS1pBZUQweGZ3YVJEeUNyaGkxTThkbGhobm16UG1GdVdwRDk5S2ZMeUVPaU5KNGhEYW9ad2hmelgyOXUydA?oc=5",
-      "source": "ABC7 Bay Area",
-      "published_date": "2026-09-19",
-      "summary": "Sebuah gugatan hukum baru menuduh raksasa teknologi termasuk OpenAI, Google, Anthropic, dan SpaceXAI melakukan kartel ilegal untuk memperlambat pengembangan AI. Para penggugat mengklaim bahwa kesepakatan rahasia ini membatasi persaingan sehat dan berpotensi memanipulasi pasar teknologi global dengan dalih keselamatan AI. Kasus ini menyoroti gesekan hukum yang semakin meningkat terkait kontrol atas teknologi masa depan.",
-      "takeaways": [
-        "Raksasa teknologi dituduh melakukan kolusi anti-persaingan untuk mengendalikan laju inovasi AI.",
-        "Gugatan ini mempertanyakan apakah narasi 'keamanan AI' digunakan sebagai kedok untuk monopoli pasar.",
-        "Hasil dari kasus hukum ini dapat mendefinisikan ulang regulasi persaingan usaha di sektor teknologi tinggi."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Politisi Demokrat Desak Penyelidikan Atas Laporan Intelijen Cacat Berbasis AI yang Nyaris Picu Konflik AS-Tiongkok",
-      "original_title": "Democrats call for investigation into faulty AI-assisted intel report",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbHYwdnhtaXRLd203TmJBQl9mclAzVEJGUDFvRmt6WVZFcmJ1VWtXalJFY1JFZmFQczJLb0dyVVp3dWVzVW9yRU1PUE1wZ3ZTSzgtQm9pWWhhOVVrTl9PNEVNaTl2VzByU2ZhNW5mRVBueFpmUFpPR3pDdGRrbll1cFFCbE5aT09SSGc?oc=5",
-      "source": "CNN",
-      "published_date": "2026-09-19",
-      "summary": "Sejumlah anggota parlemen dari Partai Demokrat mendesak dilakukannya penyelidikan mendalam setelah laporan intelijen militer yang dibantu AI terbukti memuat informasi palsu yang berbahaya. Kesalahan analisis AI ini dilaporkan hampir memicu konfrontasi militer langsung antara Amerika Serikat dan Tiongkok. Insiden ini menjadi alarm keras mengenai bahaya mempercayakan keputusan militer dan geopolitik sensitif sepenuhnya kepada sistem kecerdasan buatan.",
-      "takeaways": [
-        "Kesalahan interpretasi atau data palsu dari AI dalam laporan intelijen hampir memicu krisis militer global.",
-        "Para politisi menuntut akuntabilitas ketat dan protokol verifikasi manusia dalam penggunaan AI oleh militer.",
-        "Kasus ini menegaskan risiko 'halusinasi AI' yang dapat berdampak fatal pada perdamaian dunia."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Sepuluh Hari yang Mengubah Arah Perkembangan Industri AI Selamanya",
-      "original_title": "Ten days that changed the course of AI",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxON2xmamNtUmNHeDRtbGtQS0FQWnJSZF9uWG1MVHNQRTBkMmt0Q3dkN1A1N1ZoSWo1MHBKQVhJZFB3aEhUQ3MtYmVfaTRPZ09DZzBKVWpUMjFTVktCNGxoSEFhbnhCb3lyclgxS2RfM3BpQjVCaVBPNzBOdkxEU1JCOWhpMnVjeE1MbXhRczNDNldCeXp2?oc=5",
-      "source": "Reuters",
-      "published_date": "2026-09-19",
-      "summary": "Sebuah analisis mendalam dari Reuters memetakan periode krusial sepuluh hari yang dinilai telah mendefinisikan ulang peta persaingan dan regulasi kecerdasan buatan global. Selama masa singkat tersebut, serangkaian rilis produk revolusioner, pergulatan ruang sidang, dan pergeseran kebijakan politik terjadi secara simultan. Kejadian-kejadian beruntun ini mempercepat kedatangan era kecerdasan buatan umum (AGI) ke realitas publik.",
-      "takeaways": [
-        "Dinamika industri AI bergerak sangat cepat, di mana keputusan dalam hitungan hari dapat mengubah peta persaingan global.",
-        "Peristiwa teknologi, hukum, dan politik kini saling bertautan erat dalam membentuk masa depan AI.",
-        "Transisi menuju sistem AI yang lebih maju kini tidak lagi menjadi fiksi ilmiah, melainkan realitas bisnis harian."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Menjawab Ketakutan Kiamat AI: Apa yang Bisa Dilakukan Masyarakat Biasa Menghadapinya?",
-      "original_title": "Your AI doomsday questions answered: ‘What, if anything, can people like me do about it?’",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSENEUXI1b25uRmY4US1ZeGlnM0RlVFRtOFhfVFZocXRJa2U2d1Z1eUJ1TzdEblFQSmkwTmxEYnFtZG1fVlBDdnNmTjhrLUlqb1RVdzdmQXIwZW16Rk43d1B1V2IxaUtNeU00WHpSOHJFNVY3VzZvUEtPSWNHVExPMXYyQWVKM0lZRDAxYS10TGEzLU1vLVUtQ21ReEg4bjhaczcwRmNyR3VvRi1hd29Mc2JUblZxOFF4QXZfM1FHR0kxdnA1?oc=5",
-      "source": "The Guardian",
-      "published_date": "2026-09-19",
-      "summary": "Artikel interaktif dari The Guardian membahas kecemasan publik yang kian meningkat mengenai skenario buruk atau 'kiamat' akibat hilangnya kendali atas AI. Melalui panduan praktis, para ahli memberikan saran mengenai langkah konkret yang dapat diambil oleh individu, mulai dari peningkatan literasi digital hingga desakan hak atas transparansi data. Fokusnya adalah mengubah kecemasan pasif masyarakat menjadi aksi nyata dalam mengawal pengembangan teknologi.",
-      "takeaways": [
-        "Ketakutan masyarakat terhadap dominasi AI yang tidak terkendali adalah fenomena psikologis dan sosial yang nyata saat ini.",
-        "Individu dapat berperan aktif dengan menyuarakan pentingnya etika AI dan menuntut transparansi dari korporasi teknologi.",
-        "Pendidikan digital dan literasi kritis menjadi pertahanan utama masyarakat dalam menyaring bias dan disinformasi AI."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Rancangan Undang-Undang Bipartisan AS Desak Pembatasan dan Pengawasan Ketat Terhadap Teknologi AI",
-      "original_title": "N.J. Rep. Josh Gottheimer calls for artificial intelligence guardrails with bipartisan bill",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaXNKRGktalE0NV9Ud0EzUGV3UUFIRi1zNmRJRWFocUNsaTNZd2RXM3Jjb1pveDZuV0xweXg4V0xwN2pqX3lldnI0dmxiYWVscGs4ejhuSmRSVVZKVm5YWHBkOVNpR2lsWW5wbVVMSzdrcUlvQnVOazVwSWxIbkJjUTFjaw?oc=5",
-      "source": "CBS News",
-      "published_date": "2026-09-19",
-      "summary": "Anggota Kongres AS Josh Gottheimer memperkenalkan rancangan undang-undang bipartisan yang bertujuan menciptakan koridor hukum dan batasan aman bagi pengembangan AI. Langkah legislatif ini diambil menyusul kekhawatiran atas meluasnya bias algoritma, ancaman privasi data, serta potensi disrupsi lapangan kerja secara masif. Dukungan dari kedua kubu politik menunjukkan bahwa regulasi AI kini dipandang sebagai isu mendesak nasional.",
-      "takeaways": [
-        "Rancangan undang-undang bipartisan ini dirancang untuk menciptakan pedoman hukum yang jelas bagi industri AI.",
-        "Fokus regulasi meliputi perlindungan data konsumen, akuntabilitas algoritma, dan mitigasi dampak ekonomi.",
-        "Inisiatif legislatif ini menandai komitmen politik yang lebih kuat untuk mengendalikan ekosistem teknologi."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Donald Trump Usulkan Penggantian Nama 'AI' dan Umumkan Pembentukan Satuan Tugas AI Khusus",
-      "original_title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX3NnU2pZZDZOWU9VMHU5dWh1ekYxbTg1XzRGek0yVGJNS0REaVZ2SXFNQXpDNExfeGFyMklsRDYyZV82b05GSFZzQUo1U01RRkZsT19XbTQyemItNDBhSHhtaXB3Wmd1UWtEa1FrcWk1alhVTnVsYzhCODJkTU1MSk1uVHdhY1kzZ21TdkszQU5fWjZMdk9reUpZdl9JaXpCYzVmWG1aa0hZNUNibm5zT1MyM3c?oc=5",
-      "source": "TechCrunch",
-      "published_date": "2026-09-19",
-      "summary": "Donald Trump menyatakan keinginannya untuk mengganti nama 'Artificial Intelligence' karena menganggap istilah tersebut tidak akurat dan kurang elok didengar. Selain wacana penamaan baru ini, ia juga mematangkan rencana pembentukan satuan tugas militer 'AI Force' guna memastikan dominasi teknologi dan pertahanan nasional AS. Pernyataan ini menuai beragam tanggapan dari industri teknologi yang menilai langkah penamaan ulang ini tidak biasa.",
-      "takeaways": [
-        "Trump mengusulkan penamaan ulang istilah 'AI' agar mencerminkan fungsionalitas teknologi secara lebih akurat.",
-        "Upaya 'rebranding' ini berjalan paralel dengan pembentukan 'AI Force' untuk memperkuat pertahanan nasional AS.",
-        "Wacana ini menunjukkan bagaimana persepsi politik dapat mempengaruhi cara pandang publik terhadap istilah teknis global."
       ],
       "category": "Artificial Intelligence"
     }
