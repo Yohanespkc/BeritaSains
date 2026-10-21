@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-10-20T04:04:45.786610+00:00",
-  "total_articles": 120,
+  "last_updated": "2026-10-21T03:53:42.146960+00:00",
+  "total_articles": 113,
   "articles": [
     {
       "title": "Terobosan Baru: Model AI Terbuka China Saingi Raksasa Silicon Valley",
       "original_title": "Another powerful new artificial intelligence model from China took the US tech industry by surprise",
       "url": "https://example.com/ai-china-model",
       "source": "LinkedIn News",
-      "published_date": "2026-10-20",
+      "published_date": "2026-10-21",
       "summary": "Startup AI asal China meluncurkan model open-source baru yang mengejutkan industri teknologi AS karena kemampuannya yang sangat kompetitif. Model ini menantang dominasi perusahaan besar Silicon Valley dengan performa tinggi yang dapat diakses secara gratis oleh pengembang.",
       "takeaways": [
         "Model open-source baru dari China menunjukkan kemajuan pesat dalam penelitian AI.",
@@ -21,7 +21,7 @@
       "original_title": "First CRISPR Gene Therapy for Rare Genetic Disorder Approved by FDA",
       "url": "https://example.com/crispr-approval",
       "source": "Nature Biotechnology",
-      "published_date": "2026-10-20",
+      "published_date": "2026-10-21",
       "summary": "FDA secara resmi menyetujui terapi pengeditan gen berbasis CRISPR untuk mengobati kelainan genetik langka yang merusak sel saraf. Keputusan bersejarah ini membuka jalan bagi penyembuhan penyakit genetik kronis lainnya yang sebelumnya tidak dapat disembuhkan.",
       "takeaways": [
         "FDA memberikan persetujuan untuk terapi berbasis CRISPR pertama yang menyasar penyakit sel saraf.",
@@ -35,7 +35,7 @@
       "original_title": "Scientists Create Hybrid Brain Network Using Silicon Chips and Neurons",
       "url": "https://example.com/hybrid-brain",
       "source": "Science Daily",
-      "published_date": "2026-10-20",
+      "published_date": "2026-10-21",
       "summary": "Tim peneliti gabungan berhasil menghubungkan sel saraf biologis hidup dengan chip silikon komputer menggunakan antarmuka bio-elektronik baru. Teknologi ini berpotensi digunakan untuk memulihkan fungsi sensorik pasien lumpuh serta mempercepat komputasi neuromorfik.",
       "takeaways": [
         "Integrasi sel saraf hidup dengan silikon membuka jalan bagi komputer biologis.",
@@ -49,7 +49,7 @@
       "original_title": "Google Launches Upgraded Gemini Pro with Larger Context Window",
       "url": "https://example.com/gemini-pro-update",
       "source": "TechCrunch",
-      "published_date": "2026-10-20",
+      "published_date": "2026-10-21",
       "summary": "Google resmi merilis pembaruan untuk model Gemini Pro yang kini mendukung pemrosesan dokumen panjang hingga jutaan token secara bersamaan. Pembaruan ini secara dramatis meningkatkan akurasi dalam menganalisis kode pemrograman kompleks dan laporan keuangan panjang.",
       "takeaways": [
         "Context window Gemini Pro diperluas untuk mendukung analisis data skala besar.",
@@ -63,7 +63,7 @@
       "original_title": "Full Genome Sequencing Unlocks Secrets of Ancient Rice Evolution",
       "url": "https://example.com/rice-genome",
       "source": "Genomics Journal",
-      "published_date": "2026-10-20",
+      "published_date": "2026-10-21",
       "summary": "Para peneliti genetika berhasil memetakan sekuens genom lengkap dari sampel padi purba berusia 3.000 tahun yang ditemukan di situs arkeologi. Data genetik ini mengungkap bagaimana nenek moyang kita melakukan seleksi tanaman terhadap kekeringan dan hama.",
       "takeaways": [
         "Pemetaan genom padi purba memberikan wawasan tentang adaptasi iklim masa lalu.",
@@ -77,7 +77,7 @@
       "original_title": "Future Supercomputing: Large-scale Quantum Computing Experiment Succeeds",
       "url": "https://example.com/quantum-success",
       "source": "MIT Technology Review",
-      "published_date": "2026-10-20",
+      "published_date": "2026-10-21",
       "summary": "Fisikawan berhasil menjalankan algoritma koreksi kesalahan kuantum yang stabil pada sistem 100-qubit untuk pertama kalinya. Hasil ini menunjukkan bahwa komputer kuantum komersial yang bebas dari error tingkat tinggi kini semakin dekat menjadi kenyataan.",
       "takeaways": [
         "Algoritma koreksi kesalahan kuantum berhasil menstabilkan sistem qubit dari gangguan luar.",
@@ -91,7 +91,7 @@
       "original_title": "AI Detects Early-Stage Lung Cancer Using Standard Chest X-rays",
       "url": "https://example.com/ai-lung-cancer",
       "source": "The Lancet Digital Health",
-      "published_date": "2026-10-20",
+      "published_date": "2026-10-21",
       "summary": "Sebuah sistem kecerdasan buatan baru yang dilatih pada jutaan radiografi dada mampu mendeteksi tanda-tanda awal kanker paru dengan akurasi 94%. Sistem ini dapat mendeteksi nodul kecil yang sering terlewatkan oleh radiolog manusia pada pemeriksaan rutin.",
       "takeaways": [
         "Sistem AI melampaui rata-rata akurasi deteksi radiolog manusia dalam skrining awal.",
@@ -105,7 +105,7 @@
       "original_title": "Ancient DNA Technology Reveals Migration Patterns of First Americans",
       "url": "https://example.com/ancient-dna-america",
       "source": "Science Magazine",
-      "published_date": "2026-10-20",
+      "published_date": "2026-10-21",
       "summary": "Studi terhadap sisa-sisa DNA kuno berusia 12.000 tahun menunjukkan bahwa pemukim pertama Amerika bermigrasi dalam beberapa gelombang yang berbeda secara genetik. Analisis ini meluruskan teori migrasi tunggal yang selama ini diyakini oleh para arkeolog.",
       "takeaways": [
         "Analisis genom kuno membuktikan adanya rute migrasi maritim di samping jembatan darat Beringia.",
@@ -119,7 +119,7 @@
       "original_title": "New Sodium-ion Battery Offers Cheap Alternative for Green Energy Storage",
       "url": "https://example.com/sodium-battery",
       "source": "Bloomberg Green",
-      "published_date": "2026-10-20",
+      "published_date": "2026-10-21",
       "summary": "Para peneliti berhasil mengembangkan baterai sodium-ion (garam) berkapasitas tinggi dengan siklus hidup yang menyamai baterai lithium-ion. Karena sodium sangat melimpah dan murah, teknologi ini dapat mempercepat transisi ke penyimpanan energi surya dan angin skala besar.",
       "takeaways": [
         "Baterai berbasis garam menawarkan biaya produksi 40% lebih murah dibanding lithium.",
@@ -133,7 +133,7 @@
       "original_title": "Advancement in Automatic Music Generation Using Pitch-Specific LLMs",
       "url": "https://example.com/music-llm",
       "source": "Wired",
-      "published_date": "2026-10-20",
+      "published_date": "2026-10-21",
       "summary": "Model bahasa besar (LLM) terbaru yang dikonfigurasi khusus untuk memahami teori musik dapat menghasilkan aransemen orkestra lengkap secara instan berdasarkan deskripsi teks. Model ini memahami harmoni dan transisi instrumen secara organik layaknya komposer profesional.",
       "takeaways": [
         "LLM musik baru menghasilkan musik dengan pemahaman struktural harmoni yang mendalam.",
@@ -1581,104 +1581,6 @@
         "'AI Force' dibentuk untuk memastikan AS tetap memimpin perlombaan militer berbasis kecerdasan buatan global.",
         "Kebijakan ini menandai pergeseran pertahanan nasional ke arah perang modern berbasis data dan sistem otonom.",
         "Momentum ini menunjukkan bahwa AI telah bertransformasi dari sekadar alat industri menjadi aset keamanan nasional yang vital."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Donald Trump Berencana Bentuk 'AI Force' dan Tunjuk Kepala AI Nasional, Namun Tolak Pembatasan Industri",
-      "original_title": "Trump to form ‘AI Force,’ name AI czar but rejects calls for constraints",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVWdwLUY4cGVyaDVQcXdGb1Rfa2J4X1VkQ2UyakVBQk5sbzMtTG1PZk1rMk9ZbHRXclA1ZlpveTlrLUQ5R0V5VUphbENyM29Bc0w4YlUxVVRyQk9DT1g0ZlY1S0d4a1hPVXVXWGVXRzFoWEt0Qi1iNGVCQ3JKWTRJV1UxU3dMTjZUZ2tabkVaRU9iR0xodjZaLU5iU2xlb1JsenpnQ2lqcl9CbzNXZURV?oc=5",
-      "source": "The Washington Post",
-      "published_date": "2026-09-20",
-      "summary": "Donald Trump mengumumkan rencana pembentukan badan baru bernama 'AI Force' dan penunjukan seorang penasihat khusus ('AI czar') untuk mengawasi perkembangan teknologi ini. Meskipun langkah ini menunjukkan perhatian besar pemerintah terhadap AI, Trump menegaskan penolakannya terhadap pembatasan regulasi yang ketat agar AS tetap memimpin persaingan global. Kebijakan ini memicu perdebatan sengit antara pendukung inovasi bebas dan para aktivis keselamatan teknologi.",
-      "takeaways": [
-        "Rencana pembentukan 'AI Force' bertujuan untuk memantau kemajuan teknologi kecerdasan buatan di AS.",
-        "Pemerintahan Trump menentang regulasi ketat yang dianggap dapat menghambat daya saing inovasi AS.",
-        "Langkah ini menunjukkan bahwa AI kini menjadi prioritas utama keamanan nasional dan geopolitik Amerika."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Sinyal Bahaya Kecerdasan Buatan Mulai Dorong Beijing Fokus pada Risiko Keamanan Nasional",
-      "original_title": "AI ‘warning shots’ focus Beijing on national security risks",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQd2N6ZzdCR2tUTmx0R3RzTlpUMnJJd0lwOG9xWGpJNHNJVTBfQVJJLUxyTVpZSzNkZVFEZDlZVk02c3ZRaHNPMzh3Y0hTVmt5OVZuNmstSDhHUjFVdlFJanZTdF94aXViLXVKeC1MWnBtaXhibzZrWGtpLUk1Tl93QWtWX0xyeXJ4dy1MbUFsQ2prOGVDR3c?oc=5",
-      "source": "The Japan Times",
-      "published_date": "2026-09-20",
-      "summary": "Serangkaian insiden malafungsi AI di tingkat global telah mendorong pemerintah Tiongkok untuk memperketat pengawasan terhadap risiko keamanan nasional yang ditimbulkan oleh teknologi ini. Beijing kini dilaporkan lebih waspada terhadap potensi ancaman stabilitas sosial dan kedaulatan negara akibat infiltrasi atau disinformasi berbasis AI. Langkah ini dapat mengarah pada pengetatan kontrol teknologi domestik dan perubahan pola kolaborasi internasional.",
-      "takeaways": [
-        "Beijing meningkatkan prioritas pertahanan siber dan analisis risiko AI demi keamanan nasional.",
-        "Adanya kekhawatiran bahwa teknologi AI dapat disalahgunakan untuk mengganggu stabilitas sosial Tiongkok.",
-        "Kebijakan ini berpotensi memperdalam fragmentasi ekosistem AI global antara Barat dan Timur."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "CEO Anthropic Serukan Perlambatan Laju Industri AI, Langkah yang Kini Didukung Sam Altman",
-      "original_title": "Anthropic's CEO urges the industry to slow down, and Sam Altman agrees",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOV1B1cmVxVWc5Nkl5NHFmOWtuaHZHejN6TzBYb2QtRHlva1hUcGRpc2lPVmZIeDc1T1ppcHg0dF9raWcxcGpEVExjS1RhLU9OdmZUWlFwWGVtYzZoWTZBS1VyTTI3d3RIS0dtbDdSS3RQMEtNQlVocUVfNVlsLVhPODdtTQ?oc=5",
-      "source": "Mashable",
-      "published_date": "2026-09-20",
-      "summary": "CEO Anthropic secara terbuka meminta para pelaku industri untuk memperlambat pengembangan kecerdasan buatan demi keselamatan, pandangan yang kini juga disetujui oleh CEO OpenAI, Sam Altman. Seruan ini mencerminkan kekhawatiran di kalangan pemimpin teknologi mengenai kecepatan perilisan model baru yang melampaui kemampuan regulasi. Keselarasan pandangan dari dua tokoh kunci ini memberikan sinyal kuat mengenai perlunya evaluasi keselamatan yang lebih ketat.",
-      "takeaways": [
-        "Para pemimpin teknologi mulai menyadari bahaya persaingan inovasi AI yang mengesampingkan uji keselamatan.",
-        "Dukungan Sam Altman mengindikasikan adanya pergeseran fokus dari kecepatan rilis ke tata kelola risiko yang matang.",
-        "Seruan ini diharapkan memicu kolaborasi global untuk menetapkan batas keselamatan sebelum meluncurkan teknologi AI generasi berikutnya."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Perusahaan Pengembang 'World Model' AI Dituding Sembunyikan Banyak Informasi Rahasia",
-      "original_title": "World model companies are keeping a lot of secrets",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbFhYcDZOSmF6eU8xTmkwVi1MdFdMWHZ0T2xrSmI5UWR5TUxtZ3lLWXJ4Z2JVYnhiMEtIbGdOd2dTdHA2VURhUUR1S3kyLWJmejltUXUwN1ctNER2eUlOU0ExaFdJZFV4X1R1TkY3cV9TM1lwNi1VZzZXcDlOQ1dzX2c5R2Fndlc3amxIUnp3?oc=5",
-      "source": "TechCrunch",
-      "published_date": "2026-09-20",
-      "summary": "Laporan terbaru menyoroti kurangnya transparansi dari perusahaan-perusahaan teknologi yang tengah mengembangkan 'world model' berbasis kecerdasan buatan tingkat lanjut. Sifat tertutup ini memicu kekhawatiran terkait aspek keamanan, etika penggunaan data, serta monopoli pengetahuan dalam lanskap kecerdasan buatan. Ketertutupan ini dinilai dapat menghambat upaya komunitas peneliti independen untuk mengevaluasi risiko keselamatan AI secara objektif.",
-      "takeaways": [
-        "Komunitas peneliti mendesak pengembang 'world model' untuk lebih terbuka mengenai data pelatihan dan arsitektur sistem mereka.",
-        "Ketiadaan transparansi menyulitkan proses audit independen dalam mendeteksi bias serta potensi bahaya model AI skala besar.",
-        "Dilema antara perlindungan hak kekayaan intelektual perusahaan dan aspek keselamatan publik kini menjadi perdebatan hangat."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Kendala Pengendalian: Mengapa Sistem Kecerdasan Buatan Semakin Sulit Dikontrol?",
-      "original_title": "Houston, We Have a Problem: Artificial Intelligence Is Becoming Harder to Control",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUUVfM241RUxKNE5FblVrN3BRaXN1a2JRS0VHcEpSOWMtRllNdGswcy15T3FjUzJDOE9nQUFuczNGOVhnQXNqYy1NVV9vUzFUVVdnRENIdVpoREpGbHFCbnlQMVhJa09PSFZfOFVrMzJ0R0JFdldmZDFHdFFVejZmelZrRGcxaVdQZ28yUEg0N0s0NjUxVmtCOENGNU1Gb2dkUUdXQQ?oc=5",
-      "source": "HackerNoon",
-      "published_date": "2026-09-20",
-      "summary": "Kompleksitas arsitektur kecerdasan buatan generasi terbaru membuat sistem tersebut semakin sulit diprediksi dan dikendalikan oleh para penciptanya sendiri. Artikel ini membahas tantangan teknis dalam memitigasi perilaku tak terduga AI yang dapat berujung pada kegagalan sistemik. Fenomena ini mendesak perlunya pendekatan baru dalam metodologi penyelarasan kecerdasan buatan agar tetap patuh pada nilai-nilai kemanusiaan.",
-      "takeaways": [
-        "Model AI modern menunjukkan perilaku darurat (emergent behaviors) yang sulit diantisipasi oleh para insinyur pengembangnya.",
-        "Metode kontrol konvensional dinilai tidak lagi memadai untuk menangani kompleksitas kecerdasan buatan tingkat lanjut.",
-        "Riset mengenai penyelarasan AI (AI alignment) harus menjadi prioritas utama guna mencegah kegagalan sistem yang merugikan."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Kekhawatiran terhadap AI Masuk Agenda Pertemuan Trump-Xi, Namun Tantangan Regulasi Masih Besar",
-      "original_title": "AI fears burst onto Trump-Xi agenda, but challenges abound",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaEtJLWtrTzRQWVV5SjBNLXJkclk2WTdJX0xidjVwMUl3blpYZG5UbENLOHI5c21jMWVZYTdEVlA5SG5fWGxzQjVCNWVucHZ5MjBjQUtoaXBQUWF1QWN5TWc5UjdZWDh5cHdURHVHeGRsb3MzbjJqVzdMZzVaMnZwRVdR0gGHAUFVX3lxTE1rNE1EZWNEbDBtbUdYYUVXNWFVYklFdnpYamN1Z1ZCQUgybHAxQWE5dThIYVV0LVJXa0hhMjJETDJ6ZHFZMnNNNmh2Nlp2QnU2M3FFOWNRQXEwNXJZRzFtZTVyRXpuTndEV3BfUmprdk10RVlYNkFCWkZTcjVUYV9haTk3UXVoUQ?oc=5",
-      "source": "thehill.com",
-      "published_date": "2026-09-20",
-      "summary": "Isu risiko kecerdasan buatan secara resmi masuk ke dalam agenda pembicaraan tingkat tinggi antara Donald Trump dan Xi Jinping di tengah ketegangan geopolitik yang berlangsung. Kendati kedua pemimpin sepakat mengenai pentingnya tata kelola AI, perbedaan visi politik dan kepentingan ekonomi menjadi hambatan besar untuk mencapai kesepakatan global yang konkret. Pertemuan ini menunjukkan bahwa regulasi AI kini telah bergeser menjadi instrumen diplomasi tingkat tertinggi.",
-      "takeaways": [
-        "Masuknya isu AI dalam agenda Trump-Xi menegaskan status teknologi ini sebagai prioritas keamanan global utama.",
-        "Perbedaan mendasar dalam sistem politik AS dan China menyulitkan harmonisasi standar regulasi AI secara internasional.",
-        "Meskipun kolaborasi sulit tercapai, dialog konstan diperlukan untuk menghindari perlombaan senjata AI yang tidak terkendali."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Riset BYU Temukan AI Tingkatkan Keberhasilan Serangan Siber Berbasis 'Spear Phishing'",
-      "original_title": "AI is making spear phishing scams more successful, BYU research finds",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa284QnBReHJXeF9SZlJIdW9MQmxvZ1lXa1FTOS03WlJhMVM1T2FFb3l5Z1ZHSkpKbzZrLVFqbXZlWk9COVJ5X2FrWlpybDh3Y09MUFVQbk9nbG9vTm45Nmc4SzJ6VDg5V0tBZ0JYNUFsNDA4WXpSdlJQWTM3amFxMTEtUEVOTlcxaTJydWNOQ3BGUVZPUU5icW93cEJKVjdqel9GWXVNdUw?oc=5",
-      "source": "ksl.com",
-      "published_date": "2026-09-20",
-      "summary": "Penelitian dari Universitas Brigham Young (BYU) menunjukkan bahwa penggunaan AI telah secara signifikan meningkatkan tingkat keberhasilan penipuan siber jenis spear phishing. Dengan memanfaatkan kemampuan pemrosesan bahasa alami AI, penyerang kini dapat membuat pesan jebakan yang sangat personal dan meyakinkan dalam skala besar. Temuan ini menjadi peringatan keras bagi sektor keamanan digital untuk segera memperbarui sistem pertahanan mereka terhadap ancaman berbasis kecerdasan buatan.",
-      "takeaways": [
-        "AI memungkinkan pelaku kejahatan siber mengotomatisasi pembuatan pesan phishing personal tanpa kehilangan sentuhan persuasifnya.",
-        "Metode pelatihan keamanan konvensional bagi karyawan perlu segera ditingkatkan agar mampu mengenali konten manipulatif buatan AI.",
-        "Penerapan pertahanan siber berbasis kecerdasan buatan defensif menjadi krusial untuk menangkal serangan ofensif serupa."
       ],
       "category": "Artificial Intelligence"
     }
