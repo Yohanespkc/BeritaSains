@@ -1,7 +1,63 @@
 {
-  "last_updated": "2026-10-22T03:54:00.685240+00:00",
-  "total_articles": 112,
+  "last_updated": "2026-10-23T03:58:16.919156+00:00",
+  "total_articles": 117,
   "articles": [
+    {
+      "title": "Microsoft Luncurkan Kerangka Kerja AI Baru untuk Tingkatkan Akurasi Prediksi Cuaca Jangka Menengah",
+      "original_title": "New AI framework bridges a critical gap in mid-range weather forecasts",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVENVYkFuNV9XZWh5dTRjZG5EaXM3WktvMGg5dEItdkNaRjhFUmhvSXhtWVdsWGJ2VXhVbTlha0dsWkRwbGxjWUhoOFdDakR5Z094X0tnVEU0bHNYcVpuRnJxa3phaWZvVDdpZzRORk9vTUt2ZjF2eDdWLWI0b3lqNEZNUHBINXg1WFBPeHMzcTBYbkQ2LWFjZGE1Sk4xRG1zUGJQb1ZUVUhORnpYclJvMlMycjNJTHgwRHc?oc=5",
+      "source": "Microsoft",
+      "published_date": "2026-10-23",
+      "summary": "Microsoft memperkenalkan kerangka kerja berbasis kecerdasan buatan yang mampu mengatasi celah pemodelan utama dalam prakiraan cuaca jangka menengah. Teknologi ini memadukan pemrosesan data historis yang kaya dengan simulasi atmosfer modern untuk memprediksi perubahan iklim secara lebih akurat. Inovasi ini sangat penting untuk mitigasi bencana alam dan perencanaan sektor pertanian serta energi.",
+      "takeaways": [
+        "Kerangka AI baru dari Microsoft meningkatkan keandalan prediksi cuaca jangka menengah.",
+        "Integrasi AI membantu memperhitungkan kompleksitas dinamika atmosfer yang sebelumnya sulit dimodelkan secara konvensional.",
+        "Inovasi ini mendukung efisiensi mitigasi bencana dan respons cepat terhadap pemanasan global."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Cal Poly Resmikan Superkomputer 'AI Factory' senilai $3 Juta demi Mendorong Inovasi Mahasiswa",
+      "original_title": "Cal Poly Unveils $3 Million ‘AI Factory’ Supercomputer to Help Drive Student Innovation",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNekU2V3FlanFNZVVRTk5aaXNnV1dQaGZVSXJDWnJ6QTBSSjktRWRQVHBta0k4R1cyazNSWGJOUFJFYUY4Q1BiNUVxcnhWTHJENFQwT24wVkJYUERnU2JNVDdOWHZoS05lOExsTUVkdmdOWUF0QUxDWXJCdk1fb25kUjJiUXBtWW5laG9Sb2c1QXpnTXhJU25MMXVSSmxYQkRkUzRkX3hVdlZvbkY1WkZwZElfbkoya0drcHpqSFc3WWUtZnNDMU1B?oc=5",
+      "source": "News Channel 3-12",
+      "published_date": "2026-10-23",
+      "summary": "California Polytechnic State University meluncurkan fasilitas superkomputer 'AI Factory' senilai 3 juta dolar AS untuk mendukung riset dan inovasi akademis. Superkomputer ini memberikan akses komputasi tingkat tinggi bagi mahasiswa dan peneliti untuk melatih model AI skala besar. Inisiatif ini diharapkan dapat melahirkan talenta baru yang siap bersaing di industri teknologi masa depan.",
+      "takeaways": [
+        "Cal Poly menghadirkan infrastruktur superkomputer bernilai miliaran rupiah untuk penelitian AI.",
+        "Fasilitas ini memberikan pengalaman praktis bagi mahasiswa dalam melatih model AI berkinerja tinggi.",
+        "Meningkatkan kolaborasi antara dunia akademis dan industri dalam pengembangan teknologi canggih."
+      ],
+      "category": "Sains & Teknologi"
+    },
+    {
+      "title": "Institut AI Georgia Tech Raih Pendanaan $38,4 Juta untuk Dorong Riset Kecerdasan Buatan",
+      "original_title": "Georgia Tech’s NSF AI Institutes Enter New Era With $38.4 Million in Renewed Support | Newswise",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZVVZNnZPdEw4aFdZVnJmT0ZUWVh4R0RQejR4dnhFSHlsSlpfVWltOHhhb2RSOVdTMW9oQVZtRk1ONUowSTk5clNwNm5uMmtlUUF3aXhKdjBSZUljV0d2UzJPdUVBcG9LbDN0Tzl4SVdKMTdMOWdhRWU2a1BxNUViS1ViN0J1VFBrb1JneUJEOV9LcTFCOGxZbzM3cm01My1Yc1BjVGlINjZiVTV2U25SQVE?oc=5",
+      "source": "Newswise",
+      "published_date": "2026-10-23",
+      "summary": "Institut AI Yayasan Sains Nasional (NSF) di Georgia Tech menerima perpanjangan dana riset sebesar $38,4 juta untuk memperluas penelitian AI. Fokus utama riset mencakup pemodelan AI mutakhir, optimalisasi rantai pasok, dan pembuatan keputusan otomatis. Pendanaan ini memperkuat posisi Georgia Tech sebagai pusat penelitian dan inovasi AI global.",
+      "takeaways": [
+        "Georgia Tech memperoleh dukungan dana $38,4 juta dari NSF untuk pengembangan Institut AI.",
+        "Fokus penelitian diarahkan pada solusi AI nyata untuk mengatasi masalah optimasi dan sistem kompleks.",
+        "Langkah ini mendorong kemajuan riset fundamental AI dan pendidikan talenta masa depan."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Laporan Ungkap AI Tingkatkan Efisiensi Kerja Sekaligus Memicu Beban Kesehatan Mental Pekerja",
+      "original_title": "AI boosts efficiency but fuels workplace mental health strain, report finds",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMFE5WXB4Sk41ZEE2NklfWXhlSlp5VzdWbGo0RHRGaFZGUzVtNndBWFR5Q2JwWnN6VDVwcXVHTFdoejZCZGp4RDZkVXFGT3VUNGI5cEIybFE4eEQ1TUM1SVpsYXBRNVZLQ1lUOTcweFVjVnJCaUJKeXRKZ0pxOEpkVkhtZF85QloyQThYME1vMlZFcF9sNEFORmNrOExhLTdFOHlmYmNCcU0?oc=5",
+      "source": "KSNV",
+      "published_date": "2026-10-23",
+      "summary": "Riset terbaru menunjukkan bahwa meskipun AI mampu meningkatkan efisiensi operasional tempat kerja, teknologi ini juga memicu stres dan tekanan mental bagi para karyawan. Ekspektasi produktivitas yang semakin tinggi dan kekhawatiran akan penggantian tenaga kerja menjadi faktor utama peningkatan beban mental. Laporan tersebut mengimbau perusahaan untuk memperhatikan kesejahteraan mental pekerja seiring penerapan AI.",
+      "takeaways": [
+        "Penggunaan AI di tempat kerja meningkatkan efisiensi namun menambah tekanan psikologis pada karyawan.",
+        "Tuntutan produktivitas yang terus melonjak berisiko memicu kecemasan dan kelelahan kerja (burnout).",
+        "Perusahaan diimbau menerapkan strategi mitigasi untuk menjaga kesejahteraan tenaga kerja."
+      ],
+      "category": "Artificial Intelligence"
+    },
     {
       "title": "Perintah FASCSA Wajibkan Penghapusan dan Larangan Penggunaan DeepSeek AI",
       "original_title": "FASCSA Orders Require Exclusion and Removal of DeepSeek AI",
@@ -41,6 +97,90 @@
         "Penerbit mengambil tindakan tegas membatalkan kontrak akibat keterlibatan AI tanpa izin.",
         "Mempertegas batas etika dan orisinalitas dalam industri kreatif dan kesusastraan.",
         "Isu hak cipta dan autentisitas karya makin krusial seiring pesatnya perkembangan AI generatif."
+      ],
+      "category": "Sains & Teknologi"
+    },
+    {
+      "title": "Presiden Donald Trump Umumkan Pembentukan Satgas AI 'Super Intelligence Force'",
+      "original_title": "President Donald Trump announces creation of 'Super Intelligence Force' AI task force",
+      "url": "https://news.google.com/rss/articles/CBMipgtBVV_5cUxNdXlNSjhqb1EwdVRlV0RPQUJ0ekRUazRkcld3VkFQZ2JfcG5ucnMwaDRsV0dNNUV5LWVWUDRuRndOQzNzakRIUW1rY0VHTmtJVTI0VVZtenpibjFMNnpUV3U3b0pDUnc1UWJqSEFlaFNfWjV6cElKeFRCei1pMjhNYnJhWWxWaVl3SVJGSHNTa3djZWNxV2M1a0JJdVdLeVhUcG85OFVxN0ZlaUNsZWowZ0ZSQWx5di1jcDBXa1ZrdEoyQkdZLWJNNFBoN2Z2YVl0Z3dlZ3drVndCeUNYZWxVcFFnY3FWRGRpcjlrWTJ5NWQ4NmJiWmRFdkF3a0N3U2dqMjlmcDQ2YnFsYVdqR25QTG9ZbHlYSmJ3Z1JJS1ZXUlNXajJnVGNMWnRoeEwwaGd2c29iX3FUN0lEN2lrMHlmbGdicGN5QVB1SEFabXZqejU2NEtEQUZlQ1lmNTlfaU1PMFhCcDNEOVQ3d1VubUpodmVxLUdjNGl2NENkTENiaHMwbVkyNEdFdng3X2w5TGt1eldUamhSQVRmTDNKczdQRWVYODgxajlhcndCcU1JUi0yNHZVUk5TRk1ERThDTHlvZ3NCcms2QnRqSFFnaV9vWHhCd1VYZ1AySlBzZTAxSURDRW42Q3otWTlKeHNmVEZYQ3h3OEtrRVgxVHVJQWc2NWUxemVNYnFqOHAzcmJwcTliVHN3ZU5nMjQxVGJVUDlLVVJmUFFVdDdPRUVzN1hLRkFLeEtKMWV5TGFoeXBNMlRtc2lTQXVsdi0tRjB6d18xWkJxWjM0UEhkZTdWVEtlLVlkV2lDRDJuSW41QTJxSnVuWU0yVURXaVp6aVFHczJUTWNnekJRakRsUmtSdG5yT3JtNXU4eWFsY1dpVlZSQV9JeWtPYWZhdEEzQTA2ZDN1OGM0cl9oOWgtV2JkYXlsenZmY1ZhNXh5LTZMR1VZeVVUY3BKdnhBNHFKMTFCYnpSX2JVbElXTDdZRTVUVmQtcXgydDUwWkJUbUd4cW91LThIYVpLQ3pSRkY3ZHlyc2dHUTh6X09LX0Jxd2ptOVl0YUtmNXdWZnlSck5ENU5lbm1OR01vWWdNUkpueG1CMUQzMkdqSzVhcHpnVEFmQWFCOHd5LTk1NmhJUHBER1lfWndKMGFZY2JpYkZBd01ydW90aHFobkIzRHhrTnBraHhsNVJpbkJ2ZW9vbEtuWTBwdmZQYngteXI4WVNJZ1JwYi1vektTOUFLSGhlTUlibU9sdzU2bGJ6Y2F3c2tGXy03a2YyejBTV0FjQmdnbEFLZFBvWmlreHVQUmUzakdzREFkeDhIZjZKNUtyR2RRM1BBcnhDeFJFWExHY212amZKUGduMTN0TWtRdDdtYjN4SjBvSjlCMDhxVkxNcDlsd1I2WWRuSnBwS2s3WkExNHFLaHl3RTQ3bnpjeG5BbUU5b3dkREZmQWFyT2xITHl1T0ZNUEdPWVVYTkJJMVpwOTQwMmVvczM3NXROVUxoaVVGbjRmNHNobmc2ancwenN3UnliMnZDRFVjVEJNclRzbEFicjd3cUtraXJYcXV4ei1XSUM4em1Camo5bHJKVmp3MXRxZzJjMUo2RlZvRVF2T0llMzVVNWFITWNDNEQ2OVV2a2Qzc0VzclZTNjBjTWRkdWNRRFRSMEhWUGtIY1ppSkNQVFBfSDlIS2JCbjJaRVpVZnpodTRoUExqZEJRUklkbXNCQW1rVkE0dzFCel9uNGM3ck9kYjEwZ3hvbFNKWnZvTy0zRUdCb2pCcERxTTRqQVVuSWRKbWxqOHBHejRZQ29tMjAwaGZvUDRDT3VuSGtsSXNXdDJnWEl1T05zbkhJcndjZ2paZWh6bGY1dTg3S1BSLUhFSXRDQjVCMXBTYjNYS0c1UnBRUDhtenZvQWQ2Y2FXZ09zdjIwb2c?oc=5",
+      "source": "ABC30 Fresno",
+      "published_date": "2026-10-22",
+      "summary": "Presiden Donald Trump secara resmi mengumumkan pembentukan satuan tugas kecerdasan buatan baru yang diberi nama 'Super Intelligence Force'. Inisiatif ini bertujuan untuk mempercepat pengembangan AI di tingkat nasional serta menjaga keunggulan strategis AS di bidang teknologi canggih. Langkah ini diprediksi akan mengubah lanskap kebijakan dan regulasi teknologi di Amerika Serikat.",
+      "takeaways": [
+        "Pemerintah AS membentuk tim khusus 'Super Intelligence Force' untuk mempercepat riset dan implementasi AI.",
+        "Langkah ini bertujuan menjaga dominasi dan keamanan nasional AS dalam kompetisi AI global.",
+        "Kebijakan ini diperkirakan mendorong investasi masif pada infrastruktur dan teknologi AI tingkat lanjut."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Etsy Larang Penjualan Resep dan Pola Buatan AI di Platform Pasar Online",
+      "original_title": "Etsy bans AI-generated recipes and patterns from its online marketplace",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTTdYYVdqODdCNU5BbmVvekNKRGdZanduWXpncXVDZHdORm5HRGZCU1lSZ25jbk5jT1lkVFpjay1uRk5nWDR6SC1qYjItRGxIYlFyckg3eDVMcEZPdC1UUjVJODRVRDl3MGpLWEVnRDllUG1FLThjcXpCMnBfRnplb0dpcE85ZU82SER6MEZqc1hmQnROdlVrQWpWcEphZGlWS3d6bHY2c9IBrAFBVV95cUxPQ0gydG9zSThVYWlzWHlhUDF2ZFFrVF9nMEpnTHl4dVZtNHJDNEZTZWxrbWRXdzRhRjN0a0R6NTV6blE3WTV6YWZuUEhCalNjUnRiOUJWYkNjelNBZkpBVFVrblpFMlZWSjhPS29RaVVLaUdLVFZFcDFfbFJmUXBsSXNhWWhKZy1KV25FS25VTU1ZQXh1T3gyRTZaa3lfeUMxLUVxdWs2YkZ0c28x?oc=5",
+      "source": "CNBC",
+      "published_date": "2026-10-22",
+      "summary": "Etsy resmi melarang konten yang dihasilkan sepenuhnya oleh AI, seperti resep masakan dan pola kerajinan tangan, dijual di platformnya. Kebijakan ini diambil untuk menjaga keaslian produk dan melindungi kreativitas serta hak cipta para pengrajin manusia. Keputusan Etsy menyoroti dinamika persaingan antara karya asli manusia dan konten sintetis buatan AI di industri kreatif.",
+      "takeaways": [
+        "Etsy melarang konten digital berbasis AI untuk memprioritaskan karya autentik kreasi manusia.",
+        "Langkah ini merespons keluhan pembeli terkait penurunan kualitas produk akibat otomatisasi generatif.",
+        "Menjadi preseden penting dalam perlindungan hak cipta bagi kreator independen di era kecerdasan buatan."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Jaksa Agung New Mexico Peringatkan Industri AI Pasca Putusan Hukum $25 Miliar Terhadap Meta",
+      "original_title": "‘Just the beginning’: New Mexico AG warns AI industry after $25B Meta ruling",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOb3VTZHhhbHJIbTZuRHlZd1IwQVlra19BTGpjVXZaQ2lacDE3cVExRE5iNy1xRlVmS0lyY0FFS19HaEdRdy1LQ0VqU1ZzRURUUlNRQzQ5TlZqeHg2THNpN1JoNE9Ld3duY3ZOTDBnQ0QwZ3Z3QU9PdTBia1M4OEpaQkFra3hoSFhfSC1WUWNYNXhVOWJaRnoyR0otSzAwbWRxdHl4bi1Idl9aM2ZhQmV2NThBTUlOdmlvUnpFUFRZVQ?oc=5",
+      "source": "Politico",
+      "published_date": "2026-10-22",
+      "summary": "Jaksa Agung New Mexico memberikan peringatan keras kepada raksasa teknologi berikutan keputusan hukum bernilai $25 miliar terkait penggunaan data dan keselamatan anak pada platform Meta. Peringatan ini merupakan sinyal tegas agar industri AI mematuhi standar perlindungan data pengguna. Tindakan penegakan hukum ini diperkirakan memicu pengawasan lebih ketat terhadap pengembangan model AI generatif.",
+      "takeaways": [
+        "Putusan hukum $25 miliar terhadap Meta menjadi peringatan besar bagi seluruh industri AI.",
+        "Pemerintah meningkatkan pengawasan legal terhadap praktik pengumpulan data dan keamanan anak.",
+        "Regulasi yang lebih ketat diperkirakan akan memengaruhi strategi pengembangan kecerdasan buatan komersial."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Transformasi AI dalam Pelayanan Pasien: Tantangan dan Perubahan Peran Tenaga Medis",
+      "original_title": "As AI transforms patient experience, clinicians see changes too",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaXZfang5ZURUMnIyTmpaT0FWMFZlakVxVmJZMHVVREZQakxpNVkxcHhxOWFVV3hNX3dONXB3U0pLOUdtQldOcUNzN29kTFpJZ2M0am4wMHJoOTh0YnJQSW5rdGx4UXI1QllRTXROTTVwcE1USFctMDJRT1ZEcEF3cXBuNk03NjdqamlOaFNfbktvcFZhek9NZlY2STJJNkU?oc=5",
+      "source": "Healthcare IT News",
+      "published_date": "2026-10-22",
+      "summary": "Penerapan AI dalam layanan kesehatan tidak hanya mengubah cara pasien berinteraksi dengan sistem medis, tetapi juga mengubah alur kerja para dokter dan klinisi. Otomatisasi tugas administratif membantu mengurangi beban kerja, namun juga menuntut penyesuaian peran tenaga kesehatan dalam mengambil keputusan medis. Para ahli mendorong integrasi AI yang tetap mengedepankan empati dan pengawasan manusia.",
+      "takeaways": [
+        "AI mempercepat proses administrasi medis dan meningkatkan pengalaman perawatan bagi pasien.",
+        "Dokter dan klinisi harus beradaptasi dengan alat diagnostik berbasis AI tanpa mengurangi kualitas perawatan langsung.",
+        "Keseimbangan antara otomatisasi AI dan keputusan klinis manusia menjadi kunci efektivitas medis."
+      ],
+      "category": "Genom & Biotek"
+    },
+    {
+      "title": "Amazon Hadirkan Layanan Peluncuran AI Ramah Komputasi Medis Berstandar HIPAA",
+      "original_title": "Deploy AI in a HIPAA-eligible environment with Amazon Quick",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWVFkZUNsS2NwUUFTTkRHWHE2eDJaR3diUzhTZVdURUYzeVJyMFdVRjhPOVJ0cVFxM01hMkY4SUh2andkeVhOT09vZElTeDNOb3BGQkF3Q1hCQUdVZUdEbkpoZXdqMzF1X1RXdDV6UUkxWUJLaDNiOHpRMnlhRnZQMnBOVDR3aU9OMlpPRy1Kd1BMSlBocjBMRUFGeHhtSV9QbUt4M0F0RnpCZw?oc=5",
+      "source": "Amazon Web Services (AWS)",
+      "published_date": "2026-10-22",
+      "summary": "Amazon Web Services memperkenalkan solusi penempatan AI pada lingkungan cloud yang memenuhi standar HIPAA untuk industri kesehatan. Layanan ini memungkinkan rumah sakit dan perusahaan bioteknologi mengolah data pasien secara aman tanpa melanggar privasi. Langkah ini diprediksi akan mempercepat adopsi AI di sektor kesehatan dan riset genomik.",
+      "takeaways": [
+        "AWS menyediakan lingkungan infrastruktur AI yang aman dan mematuhi regulasi ketat HIPAA.",
+        "Mempermudah rumah sakit dan institusi medis mengimplementasikan model AI untuk data pasien.",
+        "Mendorong keamanan data yang lebih baik dalam pemrosesan aplikasi kesehatan dan bioteknologi."
+      ],
+      "category": "Genom & Biotek"
+    },
+    {
+      "title": "Dapatkah AI Menyelamatkan Nyawa Manusia Sebelum Bencana Banjir Berikutnya?",
+      "original_title": "Can AI Save Lives Before the Next Flood?",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdwNMpE1VY2p2aHBhTFM5TDIxMUlmc1R5bTBmVGlyVjBuYk9mQ2RBeUlvVFBDVTUxYlZkYktUSkIxRHQ3TW5yWHZ2elpWQmo5cHZIa3V2bmdpZU5sX3BYX09ub1RoMjhua084Rm9LR2V2bzhDYnRCN1psQm14aExNbWdRVGI1MnM?oc=5",
+      "source": "Global Policy Journal",
+      "published_date": "2026-10-22",
+      "summary": "Artikel ini membahas potensi penerapan pemodelan prediktif berbasis AI untuk sistem peringatan dini banjir di daerah rawan bencana. Dengan menganalisis citra satelit dan data iklim secara real-time, AI dapat memprediksi risiko luapan air jauh sebelum terjadi. Penerapan teknologi ini dapat meminimalkan kerugian jiwa dan kerusakan infrastruktur di wilayah rentan.",
+      "takeaways": [
+        "AI dimanfaatkan untuk mendeteksi dan memprediksi risiko bencana banjir secara lebih cepat dan akurat.",
+        "Analisis data iklim real-time membantu mempercepat proses evakuasi dan mitigasi darurat.",
+        "Teknologi ini menjadi alat krusial bagi pemerintah dalam menghadapi dampak perubahan iklim ekstrem."
       ],
       "category": "Sains & Teknologi"
     },
@@ -1499,76 +1639,6 @@
         "Implementasi ini menggarisbawahi efisiensi yang dapat ditawarkan oleh AI dalam mengoptimalkan layanan publik di sektor keamanan."
       ],
       "category": "Sains & Teknologi"
-    },
-    {
-      "title": "PBB Berupaya Menjaga Relevansinya di Tengah Polarisasi Kompetisi AI Global antara AS dan Tiongkok",
-      "original_title": "U.N. Seeks Relevance on A.I. as the U.S. and China Race Ahead",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWnYwQWVnNS1PejZ6VXFCRjRzcVZrcnh6S3hzZldtUGR3TWdSTmRsbVVvdWFUaHdwSHZqX2lpaV9pWlNRYmVjUk45czNacGlJR29BcGdjUnB5MzRfOXhkcDlfNE00ZEx5SjRZNlpEOXliSzZVRDZYeUlFdGlZUG1BbzNkWnVvV1dWNmJJUmEtM3ZPNTdmNTE5N1o1NVlUS3A1?oc=5",
-      "source": "The New York Times",
-      "published_date": "2026-09-22",
-      "summary": "Perserikatan Bangsa-Bangsa (PBB) berjuang keras untuk mengambil peran dalam tata kelola AI global di tengah persaingan ketat antara Amerika Serikat dan Tiongkok. Tanpa adanya konsensus global, terdapat kekhawatiran besar bahwa standar keselamatan AI akan terfragmentasi berdasarkan kepentingan geopolitik kedua negara adidaya tersebut. Upaya multilateral ini krusial demi memastikan perkembangan AI yang inklusif bagi negara-negara berkembang.",
-      "takeaways": [
-        "PBB berusaha memposisikan diri sebagai penengah di tengah dominasi AS dan Tiongkok dalam teknologi AI.",
-        "Persaingan geopolitik berisiko menghambat terciptanya standar regulasi AI global yang seragam.",
-        "Negara-negara berkembang membutuhkan wadah multilateral agar tidak tertinggal dalam adopsi dan regulasi AI."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Sebut Pemerintah Federal Gagal, California Terbitkan Instruksi Gubernur untuk Keamanan AI",
-      "original_title": "California presses ahead with executive order for AI safeguards, cites federal government “abject failure”",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQeWc4MXNBRTN2WjlPeG1DcnV1ZTlpRXEyUTQxaVYtTFZXTnduYWlNVHdQN3hfQjVaUG9vVEdveW9DaXh0azdJWE01aUg3RDFmRjdNRkt2WlM1V0NXcVJsczV1dUZnY2VFdEVpa3ZNRGxLeVV4Q3lKM1ZEaHdhc0JndjZHampEUm1IdktMdTh3cFBwMXh5SFV2akJmTDNRSy1TOTZFa1FEX2xKSlUtSDFiblR2cWt3MWpzVjBWS1cxb0JMVWFpUGFMZlJSWms0MzRtZGI1RWNhblg5Nkkzd0tsZ3IwdzR1aHlXVW85Rl9hNjU?oc=5",
-      "source": "Compliance Week",
-      "published_date": "2026-09-22",
-      "summary": "California mengambil langkah tegas dengan merilis instruksi gubernur terkait perlindungan keamanan kecerdasan buatan secara mandiri. Langkah ini diambil sebagai respons atas kekecewaan negara bagian tersebut terhadap kelambatan pemerintah federal AS dalam menerbitkan undang-undang regulasi AI yang komprehensif. Sebagai pusat inovasi teknologi global, California berambisi menetapkan standar etika dan keselamatan AI yang ketat bagi industri.",
-      "takeaways": [
-        "California berinisiatif memimpin regulasi AI di tengah lambatnya respons legislatif di tingkat nasional AS.",
-        "Instruksi gubernur baru ini berfokus pada mitigasi risiko AI generatif terhadap privasi dan keamanan publik.",
-        "Regulasi mandiri dari California berpotensi menjadi acuan de facto bagi perusahaan teknologi global yang berbasis di sana."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Trump Perintahkan Penggunaan Istilah 'Super Intelligence' untuk Menggantikan AI di Dokumen Resmi AS",
-      "original_title": "Trump says AI will be renamed ‘super intelligence’ in all US documents",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTHFSRVlHOGRzQlVzcWRvcHlCU2pyMGhSXzlPLUxvNnFqaldRVnpIYWJWMHpvRHY5OUR3UmV1eGtCS29LbHlHUFFDaHc5YjVhN1owS0RfT2Y1X0FSVVJsZ09WZUNNOUV4MGtZLTRMeS01bVJ2MHdaaE5VMEI3M3laVEZGejJCNHZSWDFuNWZ1NjBHd9IBlwFBVV95cUxQTnJVNkJmdXZuX2pHN0pqd1JKczNfM21JVHFLaHU5QVFHN1VERkxtNUhqQVZuZi1xaUZrZms3SzFWU201SUs2Y0cySEN2SG4wUmQ1TnVOMEo5T2lacDJpMzVoS2RwQWdUOUV2cG93bkZURUxNb2JhRkE1R1RyZlk1dkhvS1k2cGxSTjRlallVRzF4RzB4RkJr?oc=5",
-      "source": "The Hill",
-      "published_date": "2026-09-22",
-      "summary": "Presiden Donald Trump mengumumkan rencana untuk mengganti istilah 'Artificial Intelligence' (AI) menjadi 'Super Intelligence' dalam seluruh dokumen resmi pemerintah Amerika Serikat. Langkah ini dinilai sebagai upaya rebranding strategis untuk mencerminkan kekuatan teknologi masa depan dan memperkokoh posisi AS di kancah global. Kebijakan ini memicu berbagai tanggapan mengenai implikasi terminologi tersebut terhadap persepsi publik dan regulasi teknologi ke depan.",
-      "takeaways": [
-        "Presiden Trump menginstruksikan seluruh lembaga AS untuk menggunakan istilah 'super intelligence' alih-alih AI dalam dokumen pemerintahan.",
-        "Langkah rebranding ini mencerminkan upaya politik untuk membingkai ulang kekuatan teknologi kecerdasan buatan di bawah kepemimpinan AS.",
-        "Penggunaan istilah baru ini menimbulkan perdebatan di kalangan pengamat mengenai dampak komunikasi publik dan standardisasi istilah teknologi secara global."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Trump Nyatakan Departemen Kehakiman AS Siap Menertibkan Perusahaan AI Jika Diperlukan",
-      "original_title": "Trump says US Justice Department could rein in AI companies if needed",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYkFwcnFpOFFycEx0SEwwNUxZazVuTTh6aUNKZ0pUUHlPU2toMkk2WXAyc3RkYTdKWlVsTEVoTmR5VGJaZlhaU21OdHp2aXRWZ0VGNGtJdERKVGUtWXBiMWdKRm9JY04zTnZ3YXp5akdBU2RsS0tHZG9ESTVmR0hOWUYyaWpjYVNCcFF3c3RBVk53NC1SanNTaXpxOHdMei1SNUJPWnhLLTkzU2VOaUE?oc=5",
-      "source": "Reuters",
-      "published_date": "2026-09-22",
-      "summary": "Presiden Donald Trump menyatakan bahwa Departemen Kehakiman AS memiliki kesiapan dan wewenang untuk menindak perusahaan-perusahaan kecerdasan buatan jika terbukti merugikan publik atau melanggar hukum. Meskipun mendukung inovasi, ia menegaskan pentingnya pengawasan ketat guna mencegah penyalahgunaan data serta monopoli oleh raksasa teknologi. Langkah ini memberikan sinyal adanya potensi pengetatan regulasi terhadap industri kecerdasan buatan yang tengah tumbuh pesat.",
-      "takeaways": [
-        "Departemen Kehakiman AS diposisikan sebagai pengawas utama yang siap melakukan intervensi terhadap industri AI demi keamanan publik.",
-        "Fokus intervensi ditujukan untuk mengantisipasi potensi monopoli pasar dan pelanggaran privasi data oleh korporasi teknologi.",
-        "Sikap ini menunjukkan pergeseran ke arah regulasi yang lebih agresif dari pemerintah meskipun tetap berupaya menjaga iklim inovasi lokal."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Memahami Dampak dan Potensi Besar Kecerdasan Buatan bagi Negara-Negara Berkembang",
-      "original_title": "Decoding AI — What the promise of artificial intelligence means for developing economies",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRGJtZmowQWFGVFZnOUpjVHFTVERRUjdLUE9yZlM2ejhvRy1kbm1ia2lTU0VoMnVVNmJCc3ZWeGY5Qkg5R2Z2U0xqM25BZDlxbzhZc2wtTkZoUC11UmFSaEJvU3FZYzl5THhWSVlmeVBHMHVHSGRGYjdKMVlibU54SDVxd2pVNzRyMkJMOUZOeDBsaEFLaDVOdExRNzRYb3JjTGtyanB3eElla0tKVHRTSg?oc=5",
-      "source": "World Bank Blogs",
-      "published_date": "2026-09-22",
-      "summary": "Laporan Bank Dunia mengulas tentang potensi besar dan tantangan unik yang dihadapi oleh negara-negara berkembang dalam gelombang adopsi kecerdasan buatan. AI dipercaya mampu mengakselerasi pertumbuhan ekonomi, merevolusi layanan medis, serta meningkatkan ketahanan pangan melalui sektor pertanian modern. Kendati demikian, minimnya infrastruktur teknologi dan keterbatasan keterampilan digital masih menjadi jurang pemisah yang harus segera diatasi.",
-      "takeaways": [
-        "Teknologi AI menawarkan lompatan kemajuan bagi negara berkembang dalam sektor ekonomi, kesehatan, serta agrikultur.",
-        "Kesenjangan infrastruktur digital berisiko membuat negara berpenghasilan rendah semakin tertinggal jika tidak segera ditangani.",
-        "Investasi yang fokus pada peningkatan keterampilan digital (digital literacy) sangat mendesak dilakukan demi menyambut era otomatisasi global."
-      ],
-      "category": "Artificial Intelligence"
     }
   ]
 }
