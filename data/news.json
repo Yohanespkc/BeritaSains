@@ -1,7 +1,147 @@
 {
-  "last_updated": "2026-10-23T03:58:16.919156+00:00",
-  "total_articles": 117,
+  "last_updated": "2026-10-24T03:52:25.955249+00:00",
+  "total_articles": 110,
   "articles": [
+    {
+      "title": "Terobosan Baru: Model AI Terbuka China Saingi Raksasa Silicon Valley",
+      "original_title": "Another powerful new artificial intelligence model from China took the US tech industry by surprise",
+      "url": "https://example.com/ai-china-model",
+      "source": "LinkedIn News",
+      "published_date": "2026-10-24",
+      "summary": "Startup AI asal China meluncurkan model open-source baru yang mengejutkan industri teknologi AS karena kemampuannya yang sangat kompetitif. Model ini menantang dominasi perusahaan besar Silicon Valley dengan performa tinggi yang dapat diakses secara gratis oleh pengembang.",
+      "takeaways": [
+        "Model open-source baru dari China menunjukkan kemajuan pesat dalam penelitian AI.",
+        "Perusahaan-perusahaan Silicon Valley menghadapi tekanan kompetitif yang lebih besar.",
+        "Aksesbilitas model ini mempercepat inovasi global di tingkat pengembang."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Terapi Gen CRISPR Pertama untuk Penyakit Genetik Langka Disetujui",
+      "original_title": "First CRISPR Gene Therapy for Rare Genetic Disorder Approved by FDA",
+      "url": "https://example.com/crispr-approval",
+      "source": "Nature Biotechnology",
+      "published_date": "2026-10-24",
+      "summary": "FDA secara resmi menyetujui terapi pengeditan gen berbasis CRISPR untuk mengobati kelainan genetik langka yang merusak sel saraf. Keputusan bersejarah ini membuka jalan bagi penyembuhan penyakit genetik kronis lainnya yang sebelumnya tidak dapat disembuhkan.",
+      "takeaways": [
+        "FDA memberikan persetujuan untuk terapi berbasis CRISPR pertama yang menyasar penyakit sel saraf.",
+        "Teknologi pengeditan gen terbukti aman dan efektif dalam uji klinis fase akhir.",
+        "Persetujuan ini menandai era baru dalam kedokteran presisi dan terapi genetik."
+      ],
+      "category": "Genom & Biotek"
+    },
+    {
+      "title": "Ilmuwan Ciptakan Jaringan Otak Hibrida Menggunakan Chip Silikon dan Sel Saraf",
+      "original_title": "Scientists Create Hybrid Brain Network Using Silicon Chips and Neurons",
+      "url": "https://example.com/hybrid-brain",
+      "source": "Science Daily",
+      "published_date": "2026-10-24",
+      "summary": "Tim peneliti gabungan berhasil menghubungkan sel saraf biologis hidup dengan chip silikon komputer menggunakan antarmuka bio-elektronik baru. Teknologi ini berpotensi digunakan untuk memulihkan fungsi sensorik pasien lumpuh serta mempercepat komputasi neuromorfik.",
+      "takeaways": [
+        "Integrasi sel saraf hidup dengan silikon membuka jalan bagi komputer biologis.",
+        "Sistem bio-elektronik ini bekerja dengan mentransmisikan sinyal listrik dua arah secara real-time.",
+        "Aplikasi masa depan berfokus pada prostetik canggih dan pemulihan cedera sumsum tulang belakang."
+      ],
+      "category": "Sains & Teknologi"
+    },
+    {
+      "title": "Google Meluncurkan Gemini Pro Terbaru dengan Konteks Window Lebih Besar",
+      "original_title": "Google Launches Upgraded Gemini Pro with Larger Context Window",
+      "url": "https://example.com/gemini-pro-update",
+      "source": "TechCrunch",
+      "published_date": "2026-10-24",
+      "summary": "Google resmi merilis pembaruan untuk model Gemini Pro yang kini mendukung pemrosesan dokumen panjang hingga jutaan token secara bersamaan. Pembaruan ini secara dramatis meningkatkan akurasi dalam menganalisis kode pemrograman kompleks dan laporan keuangan panjang.",
+      "takeaways": [
+        "Context window Gemini Pro diperluas untuk mendukung analisis data skala besar.",
+        "Peningkatan efisiensi waktu pemrosesan dokumen teks dan video berdurasi panjang.",
+        "Fitur baru ini mempermudah developer dalam membangun aplikasi AI tingkat enterprise."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Sekuens Genom Lengkap Membuka Rahasia Evolusi Tanaman Padi Purba",
+      "original_title": "Full Genome Sequencing Unlocks Secrets of Ancient Rice Evolution",
+      "url": "https://example.com/rice-genome",
+      "source": "Genomics Journal",
+      "published_date": "2026-10-24",
+      "summary": "Para peneliti genetika berhasil memetakan sekuens genom lengkap dari sampel padi purba berusia 3.000 tahun yang ditemukan di situs arkeologi. Data genetik ini mengungkap bagaimana nenek moyang kita melakukan seleksi tanaman terhadap kekeringan dan hama.",
+      "takeaways": [
+        "Pemetaan genom padi purba memberikan wawasan tentang adaptasi iklim masa lalu.",
+        "Ditemukan gen ketahanan kekeringan spesifik yang hilang dalam varietas padi modern.",
+        "Penemuan ini dapat membantu insinyur pertanian menciptakan padi modern yang lebih tangguh."
+      ],
+      "category": "Genom & Biotek"
+    },
+    {
+      "title": "Superkomputer Masa Depan: Eksperimen Komputasi Kuantum Skala Besar Berhasil",
+      "original_title": "Future Supercomputing: Large-scale Quantum Computing Experiment Succeeds",
+      "url": "https://example.com/quantum-success",
+      "source": "MIT Technology Review",
+      "published_date": "2026-10-24",
+      "summary": "Fisikawan berhasil menjalankan algoritma koreksi kesalahan kuantum yang stabil pada sistem 100-qubit untuk pertama kalinya. Hasil ini menunjukkan bahwa komputer kuantum komersial yang bebas dari error tingkat tinggi kini semakin dekat menjadi kenyataan.",
+      "takeaways": [
+        "Algoritma koreksi kesalahan kuantum berhasil menstabilkan sistem qubit dari gangguan luar.",
+        "Sistem 100-qubit mampu memecahkan kalkulasi kimia kompleks dalam hitungan detik.",
+        "Langkah krusial menuju komputer kuantum skala industri yang andal."
+      ],
+      "category": "Sains & Teknologi"
+    },
+    {
+      "title": "AI Deteksi Dini Kanker Paru Melalui Pemindaian X-ray Biasa",
+      "original_title": "AI Detects Early-Stage Lung Cancer Using Standard Chest X-rays",
+      "url": "https://example.com/ai-lung-cancer",
+      "source": "The Lancet Digital Health",
+      "published_date": "2026-10-24",
+      "summary": "Sebuah sistem kecerdasan buatan baru yang dilatih pada jutaan radiografi dada mampu mendeteksi tanda-tanda awal kanker paru dengan akurasi 94%. Sistem ini dapat mendeteksi nodul kecil yang sering terlewatkan oleh radiolog manusia pada pemeriksaan rutin.",
+      "takeaways": [
+        "Sistem AI melampaui rata-rata akurasi deteksi radiolog manusia dalam skrining awal.",
+        "Meningkatkan peluang kesembuhan pasien secara dramatis melalui penanganan dini.",
+        "Akan diintegrasikan ke klinik-klinik dengan sumber daya medis terbatas."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Teknologi DNA Kuno Ungkap Pola Migrasi Manusia Pertama ke Amerika",
+      "original_title": "Ancient DNA Technology Reveals Migration Patterns of First Americans",
+      "url": "https://example.com/ancient-dna-america",
+      "source": "Science Magazine",
+      "published_date": "2026-10-24",
+      "summary": "Studi terhadap sisa-sisa DNA kuno berusia 12.000 tahun menunjukkan bahwa pemukim pertama Amerika bermigrasi dalam beberapa gelombang yang berbeda secara genetik. Analisis ini meluruskan teori migrasi tunggal yang selama ini diyakini oleh para arkeolog.",
+      "takeaways": [
+        "Analisis genom kuno membuktikan adanya rute migrasi maritim di samping jembatan darat Beringia.",
+        "Hubungan genetik terdeteksi antara populasi Siberia kuno dan suku asli Amerika Utara.",
+        "Mengubah narasi sejarah prasejarah benua Amerika secara signifikan."
+      ],
+      "category": "Genom & Biotek"
+    },
+    {
+      "title": "Baterai Garam Baru Menawarkan Alternatif Murah untuk Penyimpanan Energi Hijau",
+      "original_title": "New Sodium-ion Battery Offers Cheap Alternative for Green Energy Storage",
+      "url": "https://example.com/sodium-battery",
+      "source": "Bloomberg Green",
+      "published_date": "2026-10-24",
+      "summary": "Para peneliti berhasil mengembangkan baterai sodium-ion (garam) berkapasitas tinggi dengan siklus hidup yang menyamai baterai lithium-ion. Karena sodium sangat melimpah dan murah, teknologi ini dapat mempercepat transisi ke penyimpanan energi surya dan angin skala besar.",
+      "takeaways": [
+        "Baterai berbasis garam menawarkan biaya produksi 40% lebih murah dibanding lithium.",
+        "Memiliki keamanan termal yang sangat baik dan ramah lingkungan untuk didaur ulang.",
+        "Solusi ideal untuk penyimpanan energi stasioner pada jaringan listrik kota."
+      ],
+      "category": "Sains & Teknologi"
+    },
+    {
+      "title": "Perkembangan Pengkodean Musik Otomatis Menggunakan LLM Khusus Nada",
+      "original_title": "Advancement in Automatic Music Generation Using Pitch-Specific LLMs",
+      "url": "https://example.com/music-llm",
+      "source": "Wired",
+      "published_date": "2026-10-24",
+      "summary": "Model bahasa besar (LLM) terbaru yang dikonfigurasi khusus untuk memahami teori musik dapat menghasilkan aransemen orkestra lengkap secara instan berdasarkan deskripsi teks. Model ini memahami harmoni dan transisi instrumen secara organik layaknya komposer profesional.",
+      "takeaways": [
+        "LLM musik baru menghasilkan musik dengan pemahaman struktural harmoni yang mendalam.",
+        "Mampu menghasilkan file MIDI multi-instrumen yang dapat diedit secara profesional.",
+        "Membuka perdebatan baru mengenai hak cipta karya seni yang dihasilkan oleh kecerdasan buatan."
+      ],
+      "category": "Artificial Intelligence"
+    },
     {
       "title": "Microsoft Luncurkan Kerangka Kerja AI Baru untuk Tingkatkan Akurasi Prediksi Cuaca Jangka Menengah",
       "original_title": "New AI framework bridges a critical gap in mid-range weather forecasts",
@@ -183,146 +323,6 @@
         "Teknologi ini menjadi alat krusial bagi pemerintah dalam menghadapi dampak perubahan iklim ekstrem."
       ],
       "category": "Sains & Teknologi"
-    },
-    {
-      "title": "Terobosan Baru: Model AI Terbuka China Saingi Raksasa Silicon Valley",
-      "original_title": "Another powerful new artificial intelligence model from China took the US tech industry by surprise",
-      "url": "https://example.com/ai-china-model",
-      "source": "LinkedIn News",
-      "published_date": "2026-10-21",
-      "summary": "Startup AI asal China meluncurkan model open-source baru yang mengejutkan industri teknologi AS karena kemampuannya yang sangat kompetitif. Model ini menantang dominasi perusahaan besar Silicon Valley dengan performa tinggi yang dapat diakses secara gratis oleh pengembang.",
-      "takeaways": [
-        "Model open-source baru dari China menunjukkan kemajuan pesat dalam penelitian AI.",
-        "Perusahaan-perusahaan Silicon Valley menghadapi tekanan kompetitif yang lebih besar.",
-        "Aksesbilitas model ini mempercepat inovasi global di tingkat pengembang."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Terapi Gen CRISPR Pertama untuk Penyakit Genetik Langka Disetujui",
-      "original_title": "First CRISPR Gene Therapy for Rare Genetic Disorder Approved by FDA",
-      "url": "https://example.com/crispr-approval",
-      "source": "Nature Biotechnology",
-      "published_date": "2026-10-21",
-      "summary": "FDA secara resmi menyetujui terapi pengeditan gen berbasis CRISPR untuk mengobati kelainan genetik langka yang merusak sel saraf. Keputusan bersejarah ini membuka jalan bagi penyembuhan penyakit genetik kronis lainnya yang sebelumnya tidak dapat disembuhkan.",
-      "takeaways": [
-        "FDA memberikan persetujuan untuk terapi berbasis CRISPR pertama yang menyasar penyakit sel saraf.",
-        "Teknologi pengeditan gen terbukti aman dan efektif dalam uji klinis fase akhir.",
-        "Persetujuan ini menandai era baru dalam kedokteran presisi dan terapi genetik."
-      ],
-      "category": "Genom & Biotek"
-    },
-    {
-      "title": "Ilmuwan Ciptakan Jaringan Otak Hibrida Menggunakan Chip Silikon dan Sel Saraf",
-      "original_title": "Scientists Create Hybrid Brain Network Using Silicon Chips and Neurons",
-      "url": "https://example.com/hybrid-brain",
-      "source": "Science Daily",
-      "published_date": "2026-10-21",
-      "summary": "Tim peneliti gabungan berhasil menghubungkan sel saraf biologis hidup dengan chip silikon komputer menggunakan antarmuka bio-elektronik baru. Teknologi ini berpotensi digunakan untuk memulihkan fungsi sensorik pasien lumpuh serta mempercepat komputasi neuromorfik.",
-      "takeaways": [
-        "Integrasi sel saraf hidup dengan silikon membuka jalan bagi komputer biologis.",
-        "Sistem bio-elektronik ini bekerja dengan mentransmisikan sinyal listrik dua arah secara real-time.",
-        "Aplikasi masa depan berfokus pada prostetik canggih dan pemulihan cedera sumsum tulang belakang."
-      ],
-      "category": "Sains & Teknologi"
-    },
-    {
-      "title": "Google Meluncurkan Gemini Pro Terbaru dengan Konteks Window Lebih Besar",
-      "original_title": "Google Launches Upgraded Gemini Pro with Larger Context Window",
-      "url": "https://example.com/gemini-pro-update",
-      "source": "TechCrunch",
-      "published_date": "2026-10-21",
-      "summary": "Google resmi merilis pembaruan untuk model Gemini Pro yang kini mendukung pemrosesan dokumen panjang hingga jutaan token secara bersamaan. Pembaruan ini secara dramatis meningkatkan akurasi dalam menganalisis kode pemrograman kompleks dan laporan keuangan panjang.",
-      "takeaways": [
-        "Context window Gemini Pro diperluas untuk mendukung analisis data skala besar.",
-        "Peningkatan efisiensi waktu pemrosesan dokumen teks dan video berdurasi panjang.",
-        "Fitur baru ini mempermudah developer dalam membangun aplikasi AI tingkat enterprise."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Sekuens Genom Lengkap Membuka Rahasia Evolusi Tanaman Padi Purba",
-      "original_title": "Full Genome Sequencing Unlocks Secrets of Ancient Rice Evolution",
-      "url": "https://example.com/rice-genome",
-      "source": "Genomics Journal",
-      "published_date": "2026-10-21",
-      "summary": "Para peneliti genetika berhasil memetakan sekuens genom lengkap dari sampel padi purba berusia 3.000 tahun yang ditemukan di situs arkeologi. Data genetik ini mengungkap bagaimana nenek moyang kita melakukan seleksi tanaman terhadap kekeringan dan hama.",
-      "takeaways": [
-        "Pemetaan genom padi purba memberikan wawasan tentang adaptasi iklim masa lalu.",
-        "Ditemukan gen ketahanan kekeringan spesifik yang hilang dalam varietas padi modern.",
-        "Penemuan ini dapat membantu insinyur pertanian menciptakan padi modern yang lebih tangguh."
-      ],
-      "category": "Genom & Biotek"
-    },
-    {
-      "title": "Superkomputer Masa Depan: Eksperimen Komputasi Kuantum Skala Besar Berhasil",
-      "original_title": "Future Supercomputing: Large-scale Quantum Computing Experiment Succeeds",
-      "url": "https://example.com/quantum-success",
-      "source": "MIT Technology Review",
-      "published_date": "2026-10-21",
-      "summary": "Fisikawan berhasil menjalankan algoritma koreksi kesalahan kuantum yang stabil pada sistem 100-qubit untuk pertama kalinya. Hasil ini menunjukkan bahwa komputer kuantum komersial yang bebas dari error tingkat tinggi kini semakin dekat menjadi kenyataan.",
-      "takeaways": [
-        "Algoritma koreksi kesalahan kuantum berhasil menstabilkan sistem qubit dari gangguan luar.",
-        "Sistem 100-qubit mampu memecahkan kalkulasi kimia kompleks dalam hitungan detik.",
-        "Langkah krusial menuju komputer kuantum skala industri yang andal."
-      ],
-      "category": "Sains & Teknologi"
-    },
-    {
-      "title": "AI Deteksi Dini Kanker Paru Melalui Pemindaian X-ray Biasa",
-      "original_title": "AI Detects Early-Stage Lung Cancer Using Standard Chest X-rays",
-      "url": "https://example.com/ai-lung-cancer",
-      "source": "The Lancet Digital Health",
-      "published_date": "2026-10-21",
-      "summary": "Sebuah sistem kecerdasan buatan baru yang dilatih pada jutaan radiografi dada mampu mendeteksi tanda-tanda awal kanker paru dengan akurasi 94%. Sistem ini dapat mendeteksi nodul kecil yang sering terlewatkan oleh radiolog manusia pada pemeriksaan rutin.",
-      "takeaways": [
-        "Sistem AI melampaui rata-rata akurasi deteksi radiolog manusia dalam skrining awal.",
-        "Meningkatkan peluang kesembuhan pasien secara dramatis melalui penanganan dini.",
-        "Akan diintegrasikan ke klinik-klinik dengan sumber daya medis terbatas."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Teknologi DNA Kuno Ungkap Pola Migrasi Manusia Pertama ke Amerika",
-      "original_title": "Ancient DNA Technology Reveals Migration Patterns of First Americans",
-      "url": "https://example.com/ancient-dna-america",
-      "source": "Science Magazine",
-      "published_date": "2026-10-21",
-      "summary": "Studi terhadap sisa-sisa DNA kuno berusia 12.000 tahun menunjukkan bahwa pemukim pertama Amerika bermigrasi dalam beberapa gelombang yang berbeda secara genetik. Analisis ini meluruskan teori migrasi tunggal yang selama ini diyakini oleh para arkeolog.",
-      "takeaways": [
-        "Analisis genom kuno membuktikan adanya rute migrasi maritim di samping jembatan darat Beringia.",
-        "Hubungan genetik terdeteksi antara populasi Siberia kuno dan suku asli Amerika Utara.",
-        "Mengubah narasi sejarah prasejarah benua Amerika secara signifikan."
-      ],
-      "category": "Genom & Biotek"
-    },
-    {
-      "title": "Baterai Garam Baru Menawarkan Alternatif Murah untuk Penyimpanan Energi Hijau",
-      "original_title": "New Sodium-ion Battery Offers Cheap Alternative for Green Energy Storage",
-      "url": "https://example.com/sodium-battery",
-      "source": "Bloomberg Green",
-      "published_date": "2026-10-21",
-      "summary": "Para peneliti berhasil mengembangkan baterai sodium-ion (garam) berkapasitas tinggi dengan siklus hidup yang menyamai baterai lithium-ion. Karena sodium sangat melimpah dan murah, teknologi ini dapat mempercepat transisi ke penyimpanan energi surya dan angin skala besar.",
-      "takeaways": [
-        "Baterai berbasis garam menawarkan biaya produksi 40% lebih murah dibanding lithium.",
-        "Memiliki keamanan termal yang sangat baik dan ramah lingkungan untuk didaur ulang.",
-        "Solusi ideal untuk penyimpanan energi stasioner pada jaringan listrik kota."
-      ],
-      "category": "Sains & Teknologi"
-    },
-    {
-      "title": "Perkembangan Pengkodean Musik Otomatis Menggunakan LLM Khusus Nada",
-      "original_title": "Advancement in Automatic Music Generation Using Pitch-Specific LLMs",
-      "url": "https://example.com/music-llm",
-      "source": "Wired",
-      "published_date": "2026-10-21",
-      "summary": "Model bahasa besar (LLM) terbaru yang dikonfigurasi khusus untuk memahami teori musik dapat menghasilkan aransemen orkestra lengkap secara instan berdasarkan deskripsi teks. Model ini memahami harmoni dan transisi instrumen secara organik layaknya komposer profesional.",
-      "takeaways": [
-        "LLM musik baru menghasilkan musik dengan pemahaman struktural harmoni yang mendalam.",
-        "Mampu menghasilkan file MIDI multi-instrumen yang dapat diedit secara profesional.",
-        "Membuka perdebatan baru mengenai hak cipta karya seni yang dihasilkan oleh kecerdasan buatan."
-      ],
-      "category": "Artificial Intelligence"
     },
     {
       "title": "Eksklusif: AI Temukan Celah Keamanan yang Mengancam 70% Situs Web di Seluruh Dunia",
@@ -1541,104 +1541,6 @@
         "Penggunaan istilah baru ini berpotensi memengaruhi pendekatan legislatif federal dalam mengatur industri kecerdasan buatan."
       ],
       "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Era AI yang Penuh Gejolak Telah Tiba: Keputusan Kita Saat Ini Sangat Krusial",
-      "original_title": "The turbulent AI era is here. The choices we make now are critical.",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
-      "source": "Gates Notes",
-      "published_date": "2026-09-23",
-      "summary": "Bill Gates menekankan bahwa dunia telah memasuki era kecerdasan buatan (AI) yang penuh tantangan sekaligus peluang besar bagi peradaban. Keputusan etis dan regulasi yang diambil oleh para pemimpin global saat ini akan sangat menentukan apakah teknologi ini membawa kemaslahatan atau risiko bagi masa depan kemanusiaan. Oleh karena itu, penting untuk segera menetapkan arah pemanfaatan AI agar dapat mengatasi tantangan global seperti kesehatan dan pendidikan.",
-      "takeaways": [
-        "Keputusan kebijakan yang dibuat sekarang akan berdampak jangka panjang bagi arah masa depan perkembangan teknologi AI.",
-        "Pemanfaatan AI harus secara aktif diarahkan untuk mengatasi kesenjangan sosial, terutama di sektor kesehatan dan pendidikan global.",
-        "Kolaborasi antara sektor publik dan swasta sangat penting dalam menavigasi risiko era teknologi baru yang bergerak sangat cepat."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Gubernur Illinois Bentuk Kabinet Khusus untuk Kelola Perkembangan Kecerdasan Buatan",
-      "original_title": "Pritzker signs executive order establishing Illinois Artificial Intelligence Cabinet",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOUVRiVVJLYzZaV25kVEpER3VUQjFXZTd1ODhYZjZvTWJrU2JmSGZzLVc3eUlUVlZnaV82T0NzUzkzZEpnZ1FVejhBVEVmWXFta2pRaXRLcjFUcTZ5VUdWaDdoTVJ6dzcyWnpJZjJDbE1NZHRyLXBqdmE4VWIyTkNNeXQ3SHlTcHFNWkVMdnY0ZWctOUthaGZ6U2lPNTlWTm5rVzVTYzN0UEM5QVB1UGRNeGtCZXh0eVAxX1dFRW5zQmFUaXdTdmZySkJFR3l0QXFFUS12YlZIcWdMeS1XOXF1UWdpeVFidWlJUDQwcmV1UDNOOUNYb3l6aGlB?oc=5",
-      "source": "WPSD Local 6",
-      "published_date": "2026-09-23",
-      "summary": "Gubernur Illinois, JB Pritzker, menandatangani perintah eksekutif untuk mendirikan Kabinet Artificial Intelligence tingkat negara bagian. Badan baru ini ditugaskan untuk merancang kebijakan komprehensif guna memastikan pemanfaatan AI yang aman, etis, dan efisien di seluruh instansi pemerintah daerah. Langkah ini menunjukkan keseriusan pemerintah dalam mengantisipasi disrupsi teknologi serta mengoptimalkan layanan publik masa depan.",
-      "takeaways": [
-        "Illinois resmi membentuk Kabinet AI khusus lewat keputusan gubernur untuk mengintegrasikan teknologi ke dalam tata kelola pemerintahan.",
-        "Tugas utama kabinet baru ini adalah menyusun pedoman penggunaan AI yang etis dan aman di instansi pelayanan publik.",
-        "Inisiatif ini memposisikan Illinois sebagai salah satu wilayah yang proaktif merespons tantangan dan peluang disrupsi AI tingkat daerah."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Dua Siswa SMA di Idaho Buktikan AI Dapat Membantu Industri Pertanian Menghemat Air",
-      "original_title": "Can artificial intelligence help the agriculture industry save water? Two high schoolers in Idaho say 'yes'",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeUEtcnFUN0tZZmZ0ZzJnRnV1X1dZVWdNT1VwYmFXblplSFVPcHVXdk5pMGdtTWVXejRTVDM3LUZoYnN6V2ViaDF0OURVZGhVSUhVT0lOSF9KMlkycUNsNFp3UHFmOXhwM3ZMaEVjUThVY2pnTHRmYXo3T2Z2YTFtUmE0bmdIXzJOUjBvWHpIUTk0ZVZya3lrMERXSU1sbVhFNllMYXprSWVzd01BcDQzZlp0MXc1SjFoYU1RSVNyV0xIdGl3Y2dOblhOWVJvQjN3ZWV1UlMwZzM?oc=5",
-      "source": "KSL.com",
-      "published_date": "2026-09-23",
-      "summary": "Dua siswa sekolah menengah atas di Idaho berhasil mengembangkan solusi berbasis kecerdasan buatan untuk membantu industri pertanian mengoptimalkan penggunaan air. Sistem inovatif ciptaan mereka mampu menganalisis kelembapan tanah secara real-time demi mencegah pemborosan irigasi di lahan tani. Proyek luar biasa ini membuktikan bahwa teknologi AI dapat dimanfaatkan oleh siapa saja untuk memecahkan masalah lingkungan yang nyata.",
-      "takeaways": [
-        "Dua pelajar SMA di Idaho sukses merancang kecerdasan buatan yang berfokus pada penghematan air untuk sektor pertanian lokal.",
-        "Sistem ini bekerja dengan memantau kondisi tanah secara akurat sehingga penyiraman tanaman dapat disesuaikan secara otomatis.",
-        "Inovasi ini menjadi bukti nyata potensi besar penerapan AI praktis dalam pelestarian lingkungan dan keberlanjutan industri agrikultur."
-      ],
-      "category": "Sains & Teknologi"
-    },
-    {
-      "title": "Paus Leo XIV: Teknologi AI Harus Mengabdi pada Martabat Manusia dan Perdamaian Dunia",
-      "original_title": "Pope Leo XIV: AI must serve human dignity and strengthen peace",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVTcwdVpYcFJUUDdmcVR5WEhTR1h6YXlSVzJzX2J0ZXZZaFhoMWY4aEMtOVN0ZXdsS0FLMlBWVU9qUUpsSkVYVDRXUHBmSjR0a2ZiZzJydG9GY19LMWR1UFVnTzVHNXE0UFMtM00nMmU2cUN2SjlxMm13MnBiOFlMXzJzeDFzWkFXcGNBUFBrUU55WnFLeG81dllrVWs2WGRkdGc?oc=5",
-      "source": "Vatican News",
-      "published_date": "2026-09-23",
-      "summary": "Paus Leo XIV menegaskan kembali bahwa perkembangan pesat kecerdasan buatan harus selalu berjalan beriringan dengan nilai kemanusiaan, keadilan, dan perdamaian. Pemimpin Gereja Katolik tersebut menyerukan kepada para pengembang agar teknologi ini tidak memicu penindasan atau kesenjangan sosial yang lebih dalam. Pesan moral ini menjadi pengingat krusial mengenai pentingnya regulasi etis berbasis kemanusiaan di tengah gelombang modernisasi.",
-      "takeaways": [
-        "Paus Leo XIV menyerukan agar pengembangan teknologi AI memprioritaskan martabat kemanusiaan sebagai pilar utamanya.",
-        "Sistem kecerdasan buatan didesain untuk memperkuat perdamaian global serta menghindari potensi polarisasi masyarakat.",
-        "Pernyataan ini mempertegas peran pemimpin spiritual dalam mengawal etika dan regulasi kemanusiaan di era digital."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Langkah Serikat Pekerja Menghadapi Ancaman Disrupsi AI di Lingkungan Kerja",
-      "original_title": "How Unions Are Confronting A.I. Threats in the Workplace",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQd0pSano3UHdiZGNha3VFUVVueXQ0dTRzY2dPc21uTEhOTkI5cEdsOVdDdG4xbWloTll4MktPTzMwaF9BYUtlMVU3M1BobENyWFVadnROTUNubWtJZzZWcWVfUDE3RkhGY20tejBaZ2ZSSlRrUjh3XzNmdERfeXNTaTJvM3Nidw?oc=5",
-      "source": "The New York Times",
-      "published_date": "2026-09-23",
-      "summary": "Berbagai serikat pekerja kini mulai mengambil langkah tegas dan melakukan negosiasi ketat untuk meminimalkan dampak otomatisasi berbasis kecerdasan buatan terhadap lapangan kerja. Mereka menuntut adanya jaminan pelatihan ulang bagi pekerja yang terdampak serta transparansi dalam penggunaan AI untuk evaluasi kinerja. Upaya ini dinilai sangat krusial dalam menjaga keseimbangan antara efisiensi bisnis korporasi dan kesejahteraan para karyawan.",
-      "takeaways": [
-        "Serikat pekerja secara aktif menuntut perlindungan konkret bagi tenaga kerja dari ancaman pemutusan kerja akibat adopsi AI.",
-        "Tuntutan utama berfokus pada penyediaan program pelatihan ulang (upskilling) serta transparansi algoritma evaluasi di tempat kerja.",
-        "Perjuangan serikat pekerja ini menggambarkan tensi yang kian meningkat antara otomatisasi industri dan hak-hak dasar buruh."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Penn Engineering Luncurkan Program Magister Bersama di Bidang AI dan Sains Data",
-      "original_title": "Penn Engineering announces joint master’s degree in AI, data science",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQa1lFMXNXcFVWeUw3cHp2Q3ZnZ2F3d0J1Uzc3WlNWVEFFNEVtNnpVa1lIbElfWGJaVGx4WlRPbVNPbXd0YUJTOU00SUdELVFwVlFtRG9fWkg2R3h4Tkg3LTJSaTFsenVCYnRHLU8zMTNIWFdsZjgzVjBpcE9DQW9QZmloREg?oc=5",
-      "source": "The Daily Pennsylvanian",
-      "published_date": "2026-09-23",
-      "summary": "Fakultas Teknik Universitas Pennsylvania (Penn Engineering) resmi meluncurkan program gelar magister bersama baru yang mengintegrasikan kecerdasan buatan dan sains data. Kurikulum ini dirancang khusus untuk mencetak lulusan yang tidak hanya unggul secara teknis, tetapi juga paham mengenai etika penerapan AI dalam industri. Inisiatif akademis ini merespons langsung tingginya kebutuhan pasar global akan talenta ahli teknologi mutakhir.",
-      "takeaways": [
-        "Penn Engineering membuka program magister bersama baru untuk mengawinkan studi kecerdasan buatan dan sains data.",
-        "Kurikulum berfokus pada penguasaan keahlian teknis tingkat lanjut serta pemahaman kritis seputar etika implementasi teknologi.",
-        "Langkah akademis ini mencerminkan tingginya permintaan industri akan ahli AI bersertifikasi tinggi dalam menghadapi transformasi digital."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Kepolisian Colorado Springs Operasikan Sistem AI untuk Tangani Panggilan Non-Darurat",
-      "original_title": "Colorado Springs Police Department launches AI system to enhance emergency and non-emergency call response",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQLTA3UlBQVFZhcTMtWmlqX18xVUxreFJGUTJRV25xTTdINUJ2ZFNvNWVWd0FxbXFsV25xaTd2UW1KUmNxNzFvX0ZMN0xtbURBcnJLcnV4MVZSVTd4QmRVUTB2TVphMHFqdmx4R0hjWi1KQUE3ZmZNM1AwY0FER2NFUlRNd3ROV3FHS2oteU1yWEk4R2RWMUdyQ0o3THZBY04wdWRjTW5xRmdwRmZOUlNpSkY5VXdUT3hEZUNWRTBUVWtZZG9hX3VVQWhFMm7SAeABQVVfeXFMTzRKaW4zb0l3TnB3bFZwQ3laczE1U2U4OFpGX2xTaU1iWW1EZ01pOUhTSHN5ZTVrR1ZNRjJYam9pV2xfRUM3aXRqeWxCWElmVEVfSFVPeGhmMkZ2SzFoeUlLNFl0bkQ0dnBETFRjUS1ES1EtMktfZEpEU2c2a1VrcnpwZXNKNXVQV0ZvSDNNNklLb1VpRUVneXl4eVhKbW96TGZUSm9nRG05QmJYN2JXX3Q3bzFjb1hIRkc3WjhoQWNIb21XX0JzSUVDNUxCNEJTV2FjajhCeTRLMDdYUUpxUlk?oc=5",
-      "source": "KKTV",
-      "published_date": "2026-09-23",
-      "summary": "Departemen Kepolisian Colorado Springs resmi meluncurkan asisten virtual bertenaga kecerdasan buatan untuk mengelola panggilan telepon warga yang bersifat non-darurat. Sistem cerdas ini diimplementasikan untuk memangkas waktu tunggu masyarakat sekaligus mengoptimalkan alokasi operator manusia agar fokus pada penanganan kasus kritis. Terobosan ini menjadi contoh nyata modernisasi layanan publik menggunakan teknologi pintar demi peningkatan efisiensi kerja.",
-      "takeaways": [
-        "Kepolisian Colorado Springs mulai menggunakan AI untuk memproses panggilan telepon non-darurat dari warga secara otomatis.",
-        "Langkah ini bertujuan meringankan beban kerja operator manusia agar dapat merespons situasi darurat dengan lebih cepat.",
-        "Implementasi ini menggarisbawahi efisiensi yang dapat ditawarkan oleh AI dalam mengoptimalkan layanan publik di sektor keamanan."
-      ],
-      "category": "Sains & Teknologi"
     }
   ]
 }
