@@ -1,7 +1,77 @@
 {
-  "last_updated": "2026-10-25T03:50:57.968493+00:00",
-  "total_articles": 110,
+  "last_updated": "2026-10-26T03:55:33.571245+00:00",
+  "total_articles": 114,
   "articles": [
+    {
+      "title": "SpaceX Amankan Pinjaman Rp630 Triliun demi Borong Chip AI, Tegaskan Ambisi Besar Elon Musk",
+      "original_title": "SpaceX closes $40 billion debt deal for AI chips, Elon Musk says",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVTJ4MWVBeEtEdjR1T3U3TDJvZnFSd1UtTVJ5RFljSG90MUs3OW0xRUFTZ2p3T3FjRGZINFUzY1Qwa2MyZWZ3cmlYbkQwd09xTzF1cEdZSFkzTHdpNGhaNno5bW13RXdmaldaSlpBYTN4djJnTUF0YXRsX0ZaX0FQYXlfQnBWSzU4bWJweC1CcjNPNGVKNV9MMHhqTdIBoAFBVV95cUxNOExaVU8tRkNSSVpLS19wVmxBMzl3a2tvYVJfQy1PTzBoTUlGc21yQ2pHNWpnSWxxN1IzN0RiSHZROFBqNFlTR2dfeS11T1BWMUxKMktpMHVlbFRmTjVGdmxqbFBBeUJHelM0eU8tSWQyRDhEVGc3cmdnbGxlSDVDbE1hc3BqNUlNUktNUUR5SGNNT3poc1k4QUxOczJNNm5j?oc=5",
+      "source": "CNBC",
+      "published_date": "2026-10-26",
+      "summary": "SpaceX dilaporkan telah menyelesaikan kesepakatan utang senilai $40 miliar yang dialokasikan khusus untuk pembiayaan infrastruktur chip kecerdasan buatan. Langkah bernilai fantastis ini menunjukkan ekspansi agresif Elon Musk dalam mengintegrasikan komputasi AI tingkat tinggi ke dalam ekosistem teknologinya. Hal ini berpotensi mempercepat otomatisasi sistem luar angkasa dan proyek satelit Starlink.",
+      "takeaways": [
+        "SpaceX meraih kesepakatan pembiayaan fantastis sebesar $40 miliar untuk pengadaan chip AI.",
+        "Investasi skala masif ini akan memperkuat kapabilitas komputasi dan pemrosesan data perusahaan secara signifikan.",
+        "Langkah ini mempertegas persaingan sengit antar raksasa teknologi dalam mengamankan pasokan perangkat keras AI."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Persaingan Blok AI AS vs China: Negara-Negara Dunia Terjebak di Antara Dua Raksasa",
+      "original_title": "As the US and China form AI blocs, countries are increasingly torn between them",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUm9pTWdQaGEzaFRYSlMtdWxiMk9NZ3F0Qy1oUE54Vkh3RVF6WEN6WUVnLVQ4a2dZbkd4aGx1ZTVkLXIyejUyQ1loUlAyRUZ4Y01PM2xzWEZXZU1XMFR6a2NwM3VqLXdYR2ZzV2pXMml3bEwyOFdyYUZBeEI2RXdhbnQzalpjTVFndjBXdDYwbWFBT1NkbE55ZHRXelBhNjdTU2U1ZVZoUU00UTNGZDRoTmFLeHFFclVheE9RYmd2elRSNHN6dGkxQUF3QTY0eGtxTkNKVNIB2gFBVV95cUxOaXhjaU10UTdsMjBhdGhXMjc5Z1JiRk1pS0l2UHNpX3AzU0xxY2JmWERFdERyUm11YkNlWmZHRVU0R3BLYjRwMG1UcjlnQzhPdTM4SXJWTWJYVjJHQ1p5TjdJREI4OUlGcm1IdDZpSVZYMWZDakRhOFBSV0ptU1V2bHJJVm1ibUxBRHV4STllRlRxT2VSMFNWTGtONks5U0d4R2tlWGZzXzhacW5hbmxON3RkM2dGTzJ2VGNPUFFuSXU1aVB3Uk9LQU5yazR3dEtZNlVQSGpRWFpSUQ?oc=5",
+      "source": "FourStatesHomepage.com",
+      "published_date": "2026-10-26",
+      "summary": "Lanskap teknologi global kini kian terbelah menjadi dua blok AI utama yang dipimpin oleh Amerika Serikat dan China. Kondisi geopolitik ini memaksa banyak negara terjebak dalam dilema untuk memilih standar, infrastruktur, dan regulasi AI yang saling berlawanan. Polarisasi ini dikhawatirkan memicu fragmentasi internet serta memperlambat kolaborasi riset sains internasional.",
+      "takeaways": [
+        "AS dan China terus memperkuat ekosistem serta aliansi AI masing-masing secara terpisah.",
+        "Negara-negara berkembang menghadapi tekanan politik dan ekonomi dalam menentukan mitra teknologi AI.",
+        "Persaingan blok ini berisiko memecah standar teknologi global dan memperlambat inovasi yang inklusif."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Senjata atau Pelindung? Debat Panas Pengembangan AI Open-Weight Asal China",
+      "original_title": "Weapon or armour? The contentious debate over China’s open-weight AI",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNExKTlJVTVJnVHhfQUdtZzhXWWxJQThQMmJhLW9vXzk4R2szSnBIaUdZdUhpRzE5Tk02MmprQmQyT3BSd09zdVVGX0RLLUlVTGhGMW1FbmRPUGp2bDNBUWJWczh6dHBGVnV4U2VDV242Y1Y1c0N1Z21RRG14RWFiMXJ6M2hIRmhuMm83QWR6dkExb2dQZXNVYXp5M3NaeGpxQy1TRFVXNVNydWhBQ1FxYXdrdHRPVkXSAbcBQVVfeXFMUG85SVp5MGNCOXhxWERXeUU1VkMwdmFjcmtwb3JKZWxENGY4NXFBLW14V2xVZkdIbDR6TVJIN3hiSE9rT0g5azhVZVhheTVqbG5rZGZJT0JVnk1xeVpleUVUSzJUYlBXTnJfY0p2cmdzSzgyeWN4cTlyWmYtVkgzbUpaT1FfeWpjbHN1RGxwOGNtZzlucTRVVUUxYWFSZXlNU3kxMl91aXFidFRiVjI5ZlBDQzFBbkdZ?oc=5",
+      "source": "South China Morning Post",
+      "published_date": "2026-10-26",
+      "summary": "Keputusan peneliti dan perusahaan AI China untuk mempublikasikan model AI open-weight memicu perdebatan sengit di tingkat global. Di satu sisi, transparansi bobot model mendukung demokratisasi riset, namun di sisi lain menimbulkan kecemasan atas potensi penyalahgunaan keamanan. Para pakar kini memperdebatkan apakah akses terbuka ini berfungsi sebagai perisai pertahanan atau justru senjata kejahatan siber.",
+      "takeaways": [
+        "Model AI open-weight dari China memicu dilema antara keterbukaan riset dan risiko keamanan.",
+        "Pendukung mengklaim akses terbuka membantu identifikasi celah keamanan dengan lebih cepat.",
+        "Kritikus khawatir model terbuka mempermudah aktor jahat menyebarkan disinformasi atau serangan siber."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Laporan Apollo Sebut Investasi AI Belum Berikan Imbal Hasil Nyata di Luar Sektor Teknologi",
+      "original_title": "Apollo Says AI Has Shown ‘Zero’ Payoff Outside Tech",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQV9LZC10MURRcHdvRTRzRTNyUGhnR2tYZ3ZaOEl4Vk9NN3lzMVFOLWx1eDdSZmxLQi1hajdPSHBuV3JMUk5uUUdzRjhjS0wxMC1adDVpSlEzQ0QtaVF4bjY4WmtTY25BVW51QjFhcDE1Ykd6Q0FSUFJ5ZmdhVV9yY1c3MXF0NmNTX0x0SVAxZWhkdkZwSXN0Z2VicWZlMHNSWXdLYU1uaXVwVzQ?oc=5",
+      "source": "PYMNTS.com",
+      "published_date": "2026-10-26",
+      "summary": "Perusahaan investasi Apollo mengungkapkan bahwa adopsi AI sejauh ini belum memberikan peningkatan produktivitas yang signifikan bagi industri di luar sektor teknologi. Meskipun modal besar telah digelontorkan, bisnis konvensional masih kesulitan mengonversi alat AI menjadi keuntungan finansial langsung. Analisis ini menjadi peringatan bagi investor agar lebih realistis terhadap periode pengembalian modal AI.",
+      "takeaways": [
+        "Dampak finansial dari pengadopsian AI dinilai belum terasa nyata pada industri di luar sektor teknologi.",
+        "Banyak perusahaan non-teknologi mengalami kendala dalam mengintegrasikan AI ke dalam alur kerja harian.",
+        "Investor diimbau untuk lebih kritis mengevaluasi klaim efisiensi yang ditawarkan oleh pengembang AI."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Robot AI Senilai Rp1,4 Miliar Diuji Coba di Taman NYC demi Pelajari Perilaku Manusia",
+      "original_title": "$89K AI robot unleashed in NYC park to learn human behavior -- and eventually become a babysitter",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQXlVdlEzQWEwTHJuVVZVaXl3YmJaa2stdHBUMmM3RUo2VWNUOXRRN2ZlR1ZlZ0p2RnlfV1VlbDhrYmJ3ZWNxQTV1M3k5QXNjUzdCTFZldTRTZmhRWWQ1b04zVzhVcDNvblhtRmoyTi1USU53a1BSYjJ1MnExdmdMbFZ6ZVR3d2NmYjhDMXNIaTA4RDl4S083QTJuVzJLZw?oc=5",
+      "source": "New York Post",
+      "published_date": "2026-10-26",
+      "summary": "Sebuah robot canggih berbasis AI seharga $89.000 dilepaskan di taman kota New York untuk mengamati serta mempelajari interaksi manusia secara langsung. Pengembangnya merancang robot ini agar memiliki pemahaman sosial dan kepekaan empati sehingga kelak dapat menjalankan peran pengasuh anak. Uji coba ruang publik ini memicu antusiasme sekaligus diskusi hangat terkait privasi warga.",
+      "takeaways": [
+        "Robot humanoid AI seharga $89.000 menjalani pengujian lapangan langsung di area publik New York.",
+        "Pengumpulan data interaksi sosial bertujuan mengasah kecerdasan emosional robot untuk peran domestik.",
+        "Eksperimen ini membuka diskursus baru mengenai etika dan privasi pengawasan robotik di tempat umum."
+      ],
+      "category": "Sains & Teknologi"
+    },
     {
       "title": "Terobosan Baru: Model AI Terbuka China Saingi Raksasa Silicon Valley",
       "original_title": "Another powerful new artificial intelligence model from China took the US tech industry by surprise",
@@ -139,6 +209,76 @@
         "LLM musik baru menghasilkan musik dengan pemahaman struktural harmoni yang mendalam.",
         "Mampu menghasilkan file MIDI multi-instrumen yang dapat diedit secara profesional.",
         "Membuka perdebatan baru mengenai hak cipta karya seni yang dihasilkan oleh kecerdasan buatan."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Microsoft Bangun Ulang Ekosistem Merek demi Agen AI yang Bekerja Mandiri untuk Pengguna",
+      "original_title": "Satya Nadella Says Microsoft Is Rebuilding Around AI Agents as Trump Pushes ‘Super Intelligence’ — From 11,000 Models to Agents That Work on Your Behalf",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSktxVGNHWWl6RDMxRDBsSnlqMXljdXd0UFV0LWpLNVA1SGtGbG1fbGpycVN2c0pqN013WmxqM3JvWE9aU0tYckJmUEVOaDNiNmNsUlpsSkRhZno2NkJHZjNhM2JHdUh1UmxVRjBIMkFqV0lqS2R2endBaUxVRWZnQzAwb3RnZnAwLW53Qm04aTVsZGJXXzJsSlNIdmtCVjh2dWtjYm9n?oc=5",
+      "source": "Yahoo Finance",
+      "published_date": "2026-10-25",
+      "summary": "CEO Microsoft Satya Nadella mengumumkan pergeseran strategi besar-besaran dengan merestrukturisasi infrastruktur perusahaan berfokus pada Agen AI otonom. Dibandingkan hanya menyediakan ribuan model statis, fokus masa depan adalah AI yang dapat mengeksekusi tugas kompleks secara mandiri atas nama pengguna. Langkah ini sejalan dengan percepatan persaingan menuju pencapaian kapabilitas kecerdasan buatan super.",
+      "takeaways": [
+        "Microsoft mengalihkan fokus dari model AI generatif biasa ke sistem Agen AI yang dapat beraksi secara otonom.",
+        "Agen AI dirancang untuk mengeksekusi alur kerja rumit dan mengambil keputusan atas perintah pengguna.",
+        "Perubahan strategi ini menandai babak baru dalam otomatisasi pekerjaan dan peningkatan produktivitas digital."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Jurang Persepsi AI di Tempat Kerja: Direksi Puas, Karyawan Merasa Tertekan",
+      "original_title": "C.E.O.s Say the A.I. Rollout Is Going Well. Employees Feel Differently.",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWWdVcmp6Vm8xaTlHbXhmRUp2bnU1Q2hlMUY1eG05ekVJSWFPRjRZWGcyODNDeUV4dW5IUndhM2NtWlJDSE1QSmhlekNNVUotb2NHRjBwRTc4dkR0Y3RNeUIwWlZNUk1hOTc2dEJYTEVUUlVhSXFmeUx1RlZWNjJ0ZmhINTRHcXZac0NtOUd2RE9oTUU1Rk9TLWJmSlpFTWxfaVlSdUhkZ2p3ZVB3LXhWSVZSS004ZkNzRlFWUzVjVQ?oc=5",
+      "source": "The New York Times",
+      "published_date": "2026-10-25",
+      "summary": "Sebuah laporan mengungkapkan kontras tajam antara pandangan para eksekutif dan pekerja lapangan terkait adopsi kecerdasan buatan di perusahaan. Sementara para CEO menilai penerapan AI berjalan sangat sukses dan meningkatkan efisiensi, para karyawan justru merasa beban kerja meningkat tanpa pelatihan yang memadai. Ketimpangan persepsi ini mengancam ketahanan budaya kerja dan efektivitas efisiensi perusahaan.",
+      "takeaways": [
+        "Terdapat jurang komunikasi dan persepsi yang signifikan antara manajemen puncak dan karyawan terkait dampak AI.",
+        "Karyawan mengeluhkan kurangnya pelatihan memadai di tengah ekspektasi produktivitas yang makin tinggi.",
+        "Keberhasilan integrasi AI membutuhkan investasi pada sumber daya manusia, bukan hanya pengadaan alat."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Jaga Keamanan Data, OpenAI Latih AI dalam Sistem Terisolasi Tanpa Akses Internet",
+      "original_title": "OpenAI Training AI in Systems Shut Off From Web Access",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZUpDV0tUemtrRklOVENMNjBQVjQ5YXFrXzY5Z2pZYWVrYkFKbVJGMFJHWVE4TjBDUXp5Z2F0T2JRWTRPYlozbHdMaTM1NUZKUGdPcU1jYWhxalgxem9sT2xTbWpydVFYYWZBdEJnZkw2OEwwXzluMWVzVVlvM19nUVRSbmZpeXQ2aDFPOFVFS0c5NDUyQWo4ZGhtRXVlMHBBZjNmaVVEcUZnaFQtaHlrU1hR?oc=5",
+      "source": "PYMNTS.com",
+      "published_date": "2026-10-25",
+      "summary": "OpenAI mulai menerapkan metode pelatihan model kecerdasan buatan dalam lingkungan tertutup yang terputus sepenuhnya dari jaringan internet publik. Pendekatan ketat ini diambil untuk mencegah potensi kebocoran data sensitif serta menghindari peretasan dari pihak luar selama proses pembuatan model mutakhir. Langkah ini menetapkan standar baru dalam protokol keselamatan pengembangan AI skala besar.",
+      "takeaways": [
+        "OpenAI menggunakan sistem pelatihan terisolasi (air-gapped) tanpa koneksi internet untuk model terbarunya.",
+        "Langkah ini dirancang untuk meminimalkan risiko pencurian kekayaan intelektual dan serangan siber eksternal.",
+        "Protokol keselamatan fisik dan digital kini menjadi prioritas utama pengembang AI terdepan."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Demi Bangun AI Beretika, Perusahaan Teknologi Mulai Libatkan Nilai-Nilai Agama",
+      "original_title": "To make AI morally good, tech companies are turning to religion. But some say it isn't that simple",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObXBhUVVyVGdmdjJJVDc0ZHR2QVlwSV9CZWpaSS1PWWpSN2VXZThCTW1VdXVoNGJTQWFpbVZOZjg5WjczQ083cFhEMmNRZ0YxWXNDel9QWnJQVlJVeFRJenF6OTZBVEtoRjA4dVpCMzJoYXNIT0pGZ1VGUklVWVRvTmJ4R3lRNFpXTlFtV0RkUGRfX0J3SmxGbkJ0WVpVZTdaTk5GMVc4QmpGT1pH?oc=5",
+      "source": "AP News",
+      "published_date": "2026-10-25",
+      "summary": "Perusahaan-perusahaan teknologi mulai berdiskusi dengan tokoh agama dan ahli etika spiritual untuk menyuntikkan norma moral ke dalam algoritma AI. Pendekatan ini bertujuan agar AI memiliki pertimbangan etis yang lebih bijak saat mengambil keputusan yang berdampak pada masyarakat. Namun, para kritikus mengingatkan bahwa keberagaman dogma lintas agama dapat memunculkan bias baru jika tidak dikelola dengan hati-hati.",
+      "takeaways": [
+        "Pengembang teknologi memanfaatkan prinsip-prinsip moral agama untuk membimbing keputusan etis AI.",
+        "Inisiatif ini berupaya menciptakan kecerdasan buatan yang lebih humanis dan sensitif terhadap kebudayaan.",
+        "Tantangan utama terletak pada penyesuaian interpretasi nilai moral yang sangat bervariasi antar keyakinan."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Studi Pembelajaran Berbasis AI Buktikan Peningkatan Keterampilan Praktis Mahasiswa Keperawatan",
+      "original_title": "Artificial Intelligence-Supported Learning and Its Effect on Knowledge Acquisition and Practical Performance Among Nursing Students: A Systematic Review and Meta-Analysis",
+      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPWGRxTmZ2akZrZXB6TjhyQWdLeHoyTUdnV2ZHSFdVVnkydHVEYS1Ndkk4TWxBN3FobElBX1dDTFc4alZmVjcyd1pVTVZ6RzhQVE1vel9iVmM2VENDNk12dzR1WEVWUVROdHNwLVJzRWN1ZEJFRlRHa0VLQ0pzS2I3enNDQmRKSFdNc3BaZUo2TXlDT0F6dmpSWmM0dUg4WHBmRDVyQ1VFQ28wd1lWY2JLZkhmdmZsQkhJeTVqRUFKMnNzTVZkeHpSVE1qalNxZHpJeDF4djJ2d25lbFJiZFVwRWsxb3NwRWRPbU9nTTBJbnlUdWM4QWtrVmZUZHZRbFVWTi1sTTVMQnJkbEhuSWNfZ1FaTjE5Z2p6MzBfY2xubHVmZ0QwMHZkemt2aVFqZWVuekE?oc=5",
+      "source": "Cureus",
+      "published_date": "2026-10-25",
+      "summary": "Sebuah tinjauan sistematis dan meta-analisis mengonfirmasi bahwa penggunaan teknologi pembelajaran berbasis AI secara signifikan meningkatkan penguasaan teori dan keterampilan praktis mahasiswa keperawatan. Simulasi interaktif AI membantu mahasiswa melatih tindakan medis kompleks dalam lingkungan aman sebelum berinteraksi langsung dengan pasien. Temuan ini memperkuat urgensi modernisasi kurikulum pendidikan medis.",
+      "takeaways": [
+        "Meta-analisis ilmiah membuktikan efektivitas platform AI dalam mengasah performa praktis mahasiswa keperawatan.",
+        "Simulasi berbasis AI memberikan ruang latihan klinis yang aman tanpa risiko terhadap pasien nyata.",
+        "Riset ini mendorong percepatan adopsi teknologi simulasi cerdas pada instansi pendidikan kesehatan."
       ],
       "category": "Artificial Intelligence"
     },
@@ -1455,90 +1595,6 @@
         "AI memiliki potensi ganda untuk merevolusi efisiensi belajar atau merusak integritas akademis.",
         "Pengelolaan yang bijak dan panduan etis sangat krusial agar siswa tidak bergantung pada jalan pintas teknologi.",
         "Sektor pendidikan tinggi dituntut adaptif dalam menyusun kurikulum yang selaras dengan perkembangan AI."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Peretasan oleh Agen AI Otonom Picu Pertanyaan Rumit Terkait Tanggung Jawab Hukum",
-      "original_title": "Hacks by autonomous AI agents raise thorny questions of legal accountability",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQmJFa201dzhreXJVQkNRZHdVWGw2RVNwZFRmb0pZbXA3dXRHMzdrZ1FEUUJPNHdraHQxWVo0eGpGRm1OYnROTjV2Y2h0ZmNJWG5yVjlIYXVBN21pVTByMHp4Q1dmWVdGWW1vdUFpNXppeG92c2FRb3pvYlB1ZVptT2ZHdDJfeXQ4UnhOVVk1aUVpTG1MU19WVkxHWUY5dHRQU1lLSkRjSjFsYkg0RnZsa0xqa9IBuAFBVV95cUxOMGhiRDBVMEtUUlBhSWlKRExkUlFMalVzM0dHTXpvdW9qWUllaTR5LXl6dzJtQW9WNWRxbHMwRktqcUJBT2RVVzZvaXhMY2tEQUdaVm9pRzhTX2FjQzRiZWFGX1NUcmlYc0pVbjV0RjFTa2p1RGdReGRQV0xlWThuUzFjZUdkYV9NLVlOd0hDX2VzbGFDQUpMTW9sbWJsaXM2a1R5aDdySmZ6TU9sU3BjVzZRbTk4ODFx?oc=5",
-      "source": "PBS",
-      "published_date": "2026-09-25",
-      "summary": "Kemampuan agen AI otonom dalam melakukan aktivitas siber, termasuk potensi peretasan, menciptakan ketidakpastian hukum yang rumit mengenai pihak yang harus bertanggung jawab atas kerusakan yang ditimbulkan. Para ahli hukum kini memperdebatkan apakah pembuat program, pemilik AI, atau teknologi itu sendiri yang harus dituntut di pengadilan. Isu ini mendesak dilakukannya pembaruan hukum yang signifikan seiring makin mandirinya sistem AI dalam mengambil keputusan.",
-      "takeaways": [
-        "Peretasan yang dilakukan oleh AI otonom menimbulkan kekosongan hukum mengenai pertanggungjawaban pidana.",
-        "Kerangka hukum tradisional dinilai belum siap menghadapi skenario di mana mesin bertindak mandiri di luar perintah langsung manusia.",
-        "Para ahli menyerukan regulasi baru untuk mendefinisikan tanggung jawab hukum atas tindakan ilegal yang dipicu oleh algoritma otonom."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Pejabat Fed Schmid: Kita Harus Memastikan Apakah Ekosistem AI Menjadi 'Terlalu Besar untuk Gagal'",
-      "original_title": "Fed's Schmid: Need to understand if AI \"ecosystem\" getting too big to fail",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMHpWaDBIbTVNdXdEbkZOanBGSHNtdXM5WmdtcjNiNVNLVnFlM1VHWlJSM0duSmJhbVVldGZZWlB3RUhYUS1iOFliNWxwU0t5Vkt3T2tnVjJjUlZscWdtZkhWVGE0bkhYcEprMmhlYmxNLVl6RUc4eHlDT2FDX1lyakE0TXZDMEhFUElUSFA1ODhCYjBfYXdQTWdVVG1ITFpkS0ZWT1ZwaXNQUE1DSHAyRUZ4NEJLQzlM?oc=5",
-      "source": "reuters.com",
-      "published_date": "2026-09-25",
-      "summary": "Pejabat Federal Reserve, Schmid, memperingatkan bahwa ketergantungan ekonomi yang berkembang pesat pada ekosistem kecerdasan buatan dapat menimbulkan risiko sistemik yang mirip dengan institusi keuangan raksasa. Jika infrastruktur AI utama menjadi 'too big to fail', gangguan teknis atau finansial pada teknologi ini dapat melumpuhkan sektor ekonomi global secara luas. Kekhawatiran ini menuntut otoritas keuangan dunia untuk mulai mengawasi dan mengevaluasi dampak makroekonomi dari adopsi AI.",
-      "takeaways": [
-        "Federal Reserve mengkhawatirkan konsentrasi kekuatan pada beberapa penyedia layanan AI dapat memicu risiko sistemik global.",
-        "Ketergantungan industri keuangan pada AI memicu analogi kasus 'too big to fail' layaknya krisis perbankan masa lalu.",
-        "Regulator diimbau untuk segera mengintegrasikan risiko teknologi kecerdasan buatan ke dalam analisis stabilitas ekonomi makro."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Oregon Jadi Negara Bagian Terbaru di AS yang Mengatur Regulasi AI Garis Depan",
-      "original_title": "Oregon Is Latest State to Move on Frontier AI Regulation",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWUtESzN4VU5MbkV0NWhCRUJQb1hKTGlGZDVzY0tqRE9NbTdIZUhwMGktaGllTDdOMURqd0doc1ZpQ3hmdFFNRngzSEtRbWdsZF9KZUl6NHJsSllackV0bXpVVVJieUNnRnY3ZDFPVXEzb042c2JkVm0yQ1UtREo5UmZUMndmUzlmbHJUNG9WWUJOVmEzb2tnZWh5b2JHc2p4ZDBpVG0zYw?oc=5",
-      "source": "GovTech",
-      "published_date": "2026-09-25",
-      "summary": "Negara bagian Oregon telah mengambil langkah hukum proaktif dengan merancang undang-undang baru untuk mengendalikan teknologi kecerdasan buatan paling mutakhir (frontier AI). Langkah ini bertujuan meminimalkan potensi risiko keamanan siber dan sosial sebelum sistem AI skala besar dirilis secara komersial ke publik. Kebijakan ini menegaskan tren di mana pemerintah daerah di AS bergerak lebih cepat dibanding pemerintah federal dalam hal legislasi teknologi.",
-      "takeaways": [
-        "Oregon mulai menyusun draf regulasi ketat untuk memantau pengembangan model kecerdasan buatan tingkat lanjut (frontier AI).",
-        "Fokus aturan mencakup mitigasi bahaya kebocoran data sensitif serta penyebaran disinformasi massal berbasis algoritma.",
-        "Inisiatif legislatif di tingkat lokal ini mencerminkan lambatnya pengambilan keputusan undang-undang di tingkat federal."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Jaksa Agung Oklahoma Desak Kongres AS Segera Ambil Langkah Hukum Atur Industri AI",
-      "original_title": "Oklahoma attorney general calls on Congress to regulate the artificial intelligence industry",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORWR0NHYyNmpCNDl4ZFloMG5ZM2E3M0FDUUNwOGlEZHpaS012M1ZGczNlZ0RscEJuSlBMRWpUbFkxRk12aXMxSmZtYkd6SjAyU3Bxa04yOC1FdjdnTkgyUk1UbVhsRm1MdVNKTWRqV2xaRTZ1NzZMd2NhdERmcVFCbnJScjdoQXdqNE80Q3FoMmVPdFVlN09kaU9hVGdQTHdGNW9iU1ZYRFhWRTd0dFNwLUx4dWx6Z9IBygFBVV95cUxPdTNlRXI3T245MlNmRTM1Z3FobmxhV2lUQmxieGV1LW8tcEFPSzB3NXU0ekJjV0pNbjdtWGJfTVNmYVdvTndBMlZVSWZzSHVsZGROOUlsU3JScVlHQnE5N0dYTDhXNG9jX19JU2dGb2RtYmpESFNHVHVUSm13bFUycDN3YzZXSm03cHM2S0VyeHNOMVBIT2owRUR2aUE0VE0tRENNT3p3ci11R1NvbWxDdTBrRFd5WXlrVmViMnNjN0pyTURidTVwV0Jn?oc=5",
-      "source": "KSWO 7News",
-      "published_date": "2026-09-25",
-      "summary": "Jaksa Agung Oklahoma telah melayangkan permintaan resmi kepada Kongres Amerika Serikat untuk segera merumuskan regulasi komprehensif bagi industri kecerdasan buatan. Kekhawatiran utama penegak hukum ini berpusat pada maraknya penipuan menggunakan klon suara AI (deepfake) dan ancaman privasi data pribadi. Langkah ini menunjukkan bahwa kekhawatiran dampak destruktif AI tanpa kontrol hukum sudah sangat dirasakan di tingkat pemerintahan daerah.",
-      "takeaways": [
-        "Pemerintah daerah Oklahoma mendesak adanya undang-undang AI federal yang tegas guna melindungi keamanan publik.",
-        "Deepfake suara dan penyalahgunaan data pribadi diidentifikasi sebagai ancaman kriminal berbasis AI yang paling mendesak.",
-        "Desakan ini mencerminkan tingginya tuntutan agar ada batasan hukum yang jelas bagi korporasi pengembang teknologi kecerdasan buatan."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Di Tengah Peringatan Risiko dari Tokoh Teknologi, Mahasiswa yang Mengambil Jurusan AI Justru Melonjak",
-      "original_title": "As tech leaders warn of risks, more college students major in artificial intelligence",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNFBBM01PR3pUTk5nNkc5Zm1WMS1yUzZLMGprOXVCVC1yNkplNzVPQllTYmdadFR5SzVQVy1UamtsTjN5ZVdYakNsak1YUDFXZnVwNXp6ak1KT0g4aXRQOVcwQ0pBU2t2TW1hZlFGVklSWnhSbmZmZXdqbVhQRVp2Y0ZlekgxQnJWVmJ3YmRhUnpYOVdjT2dWbQ?oc=5",
-      "source": "Spectrum News",
-      "published_date": "2026-09-25",
-      "summary": "Meskipun para tokoh industri gencar menyuarakan kekhawatiran atas dampak negatif dan risiko otomatisasi pekerjaan akibat kecerdasan buatan, jumlah mahasiswa perguruan tinggi yang memilih jurusan AI justru mengalami lonjakan tajam. Banyak mahasiswa melihat AI sebagai keahlian paling krusial agar tetap bersaing di era digital dan pasar kerja masa depan. Pergeseran tren akademis ini membuktikan besarnya minat generasi muda untuk memegang kendali atas perkembangan teknologi ini.",
-      "takeaways": [
-        "Minat generasi muda untuk mendalami studi kecerdasan buatan melonjak signifikan di berbagai institusi pendidikan tinggi.",
-        "Mahasiswa melihat penguasaan teknologi AI sebagai peluang karier strategis alih-alih ancaman pengangguran.",
-        "Institusi akademis merespons tren ini dengan mempercepat kurikulum dan fasilitas penelitian khusus AI."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Mampukah Trump Mengubah Citra AI? Para Ahli Menyoroti Upaya Penggunaan Istilah 'Super Intelligence'",
-      "original_title": "Can Trump Rebrand AI? Experts Weigh President’s ‘Super Intelligence’ Push",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWFVzMVdYcG9aZVVzeE5vVFJkSHU1d29sT3FZYWRFZlhqSmhyZEo5LUNtajRFMC1BVG04bmtpbGJ2RldvSFBFRGZmMVpJWEZ1SW8zeE9FajhtTEFYVkh6bzRGOXNiakt2V1V0WXBiazlKN1MyTjAtUXlhaE4ycW5XajVUQ2tEX3VuZjlMNEprbFdCYkFtdm1RQTA0NmpneUJzeWdVc3Bn?oc=5",
-      "source": "Newsweek",
-      "published_date": "2026-09-25",
-      "summary": "Upaya Donald Trump untuk mempromosikan frasa 'super intelligence' guna menggantikan istilah 'Artificial Intelligence' (AI) kini menjadi sorotan para pakar teknologi dan politik. Langkah rebranding ini dinilai sebagai bagian dari strategi untuk membangun persepsi keunggulan geopolitik dan teknologi Amerika Serikat di kancah internasional. Para pengamat terus mengkaji apakah perubahan narasi ini akan berdampak signifikan pada kebijakan regulasi dan pendanaan teknologi nasional.",
-      "takeaways": [
-        "Trump berupaya memopulerkan istilah 'super intelligence' untuk memberikan kesan superioritas teknologi domestik.",
-        "Para ahli menilai perubahan nomenklatur ini bertujuan memenangkan narasi kompetisi teknologi global melawan Tiongkok.",
-        "Penggunaan istilah baru ini berpotensi memengaruhi pendekatan legislatif federal dalam mengatur industri kecerdasan buatan."
       ],
       "category": "Artificial Intelligence"
     }
