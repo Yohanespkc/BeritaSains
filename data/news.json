@@ -1,7 +1,63 @@
 {
-  "last_updated": "2026-10-30T04:57:25.923020+00:00",
-  "total_articles": 120,
+  "last_updated": "2026-10-31T04:44:52.230083+00:00",
+  "total_articles": 130,
   "articles": [
+    {
+      "title": "Biosekuritas dan AI: Memilah Risiko, Mitos, dan Peluang di Era Bioteknologi",
+      "original_title": "Biosecurity and Artificial Intelligence—Risk, Myths, and Opportunities",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSWdDZGRhaFpXTGhSb2IwM2Zyb1lUdW9Rdmw4TkstendpVTNmY1E3VTh6bU9BdTAydHMxY2xjZVVzb1pvUm1qSDZyTE1PQzhXSGdYekI0UnlLUVJJb3g3dENWR3hxQ3FyaDhiLUFHdjc5dHhmMzVabmRtOGtWTTRqOVZJN3RabFpPbnVKYUdQS2RhZUFTcy1lT2U1YWl3aGxKUmpraDdEUQ?oc=5",
+      "source": "Nixon Peabody",
+      "published_date": "2026-10-31",
+      "summary": "Pengembangan kecerdasan buatan kini bersinggungan erat dengan risiko keselamatan biologis dan tata kelola genomik. Isu biosekuritas menjadi perhatian utama seiring kemampuan AI merancang molekul biologis baru yang dapat disalahgunakan atau memicu bahaya biologis. Memahami batas antara ancaman nyata dan mitos sangat krusial bagi penyusunan regulasi bioteknologi masa depan.",
+      "takeaways": [
+        "AI mempercepat inovasi bioteknologi sekaligus memunculkan tantangan tata kelola biosekuritas baru.",
+        "Penting untuk membedakan antara skenario ancaman biologis yang realistis dan mitos spekulatif.",
+        "Kolaborasi antara pembuat kebijakan dan ilmuwan diperlukan untuk menjaga keamanan pengembangan AI biologis."
+      ],
+      "category": "Genom & Biotek"
+    },
+    {
+      "title": "Masa Depan Perusahaan di Era Kecerdasan Buatan Menurut Pandangan OpenAI",
+      "original_title": "The future of the firm",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjWGg5TktPMGtkSmtIVjRPM3c5ek1TcUtpOTBYaGFLYzBoZ1pLQkNLRDQzSHhuRkZkcFUycHFlV04yRlREeHdFX1pJVEhfVW5OUGIxUG5fUGlJR3Yw?oc=5",
+      "source": "OpenAI",
+      "published_date": "2026-10-31",
+      "summary": "OpenAI merilis analisis mengenai bagaimana struktur organisasi bisnis akan bertransformasi secara radikal seiring integrasi agen AI otonom ke dalam alur kerja perusahaan. Perusahaan di masa depan diperkirakan akan beroperasi dengan efisiensi yang jauh lebih tinggi dan struktur hierarki yang lebih ramping. Perubahan mendasar ini menuntut kepemimpinan bisnis untuk mendefinisikan ulang peran tenaga kerja manusia.",
+      "takeaways": [
+        "Agen AI otonom akan mengubah struktur operasional dan efisiensi perusahaan secara signifikan.",
+        "Peran pekerja manusia akan bergeser ke pengawasan strategis, kepemimpinan, dan pengambilan keputusan kompleks.",
+        "Perusahaan yang adopsi integrasi AI secara efektif akan mendominasi daya saing pasar masa depan."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Grafik Terpenting Dunia Menurut Pakar AI: Mengukur Laju Perkembangan Kecerdasan Buatan",
+      "original_title": "The Smartest People in AI Believe This Is the World’s Most Important Chart",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdlRTSktsR1lfYmNBOURrNzZSbDJRcG55dmhHQ2E3d1JQSXNQMjRrdVpHdTlUcHotNF9UaVdnX0QzRlVONWtPSmsteUtQSTc0cTRxRjVjOXM1WWExcTdkdkJqLTdmc19seXlxYXd3ZGlZejREMTJTeUsxWFVaVHFjemkwQVVZTk0?oc=5",
+      "source": "WSJ",
+      "published_date": "2026-10-31",
+      "summary": "Para pakar terkemuka di bidang AI menyoroti satu bagan grafik yang dianggap menjadi indikator paling krusial bagi eksponensialitas laju komputasi dan kemampuan kecerdasan buatan. Grafik ini menunjukkan hubungan antara daya komputasi, dana investasi, dan peningkatan kapasitas model AI secara eksponensial. Memahami tren grafik ini menjadi kunci bagi industri dan pemerintah dalam mengantisipasi kedatangan AGI.",
+      "takeaways": [
+        "Hukum skala (scaling laws) dan komputasi tetap menjadi pendorong utama peningkatan kemampuan AI.",
+        "Grafik pertumbuhan AI menjadi panduan teknis mendasar untuk memprediksi pencapaian AGI.",
+        "Implikasi tren eksponensial ini menuntut penyesuaian infrastruktur dan regulasi global secara lebih cepat."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Hollywood Hadapi Dilema AI: Penggunaan Teknologi Meluas Namun Dianggap Tabu",
+      "original_title": "Hollywood's battered dreams confronts AI: 'Everybody uses it, but nobody wants to talk about it'",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOOFpFamg1UVpQN3RxQlVYX19mT3ozOVZvdHpSRUk5eDBRd2hFeVZGYVM3WnhselpiUnhaWGg3ODNmNXFXMTlFUW1tOHdBaVo5Q29TS2lUZWRZaDZjYUphRHRKb3dqZnIxaGk2RDNtUkJ0d29ULXU2NjhSWGhPNW1VTjlPcVBKOXVGMjlheXg4c05WMHcxMEc5WHFnZ0U1WHJVaEktSXVxNTNPMHg5MFNVYUwzS0ItcjBuaThWb3BJOVBRN1NkREpucjZCMmNuWTVDclVaWnQ1cWk3R2ZNUlZ3SnR6Z2FEMzRjb0Q1dklpN2FYNF8zVUVNYVR3?oc=5",
+      "source": "Le Monde.fr",
+      "published_date": "2026-10-31",
+      "summary": "Industri perfilman Hollywood kini berada dalam posisi dilematis akibat adopsi AI generatif yang makin masif di tahap produksi namun enggan diakui secara terbuka. Kekhawatiran akan penolakan publik, hak cipta, dan konflik dengan serikat pekerja membuat pelaku industri menggunakannya secara sembunyi-sembunyi. Fenomena ini menunjukkan adanya transformasi budaya kerja di sektor kreatif yang terpaksa beradaptasi dengan efisiensi teknologi.",
+      "takeaways": [
+        "Penggunaan perangkat AI generatif dalam produksi film telah meluas meskipun dilakukan secara tertutup.",
+        "Isu hak cipta dan perlindungan tenaga kerja kreatif menjadi alasan utama keengganan studio untuk bertransparansi.",
+        "Ketegangan terus berlangsung antara tuntutan efisiensi biaya produksi dan nilai otentisitas karya seni."
+      ],
+      "category": "Sains & Teknologi"
+    },
     {
       "title": "Terobosan Baru: Model AI Terbuka China Saingi Raksasa Silicon Valley",
       "original_title": "Another powerful new artificial intelligence model from China took the US tech industry by surprise",
@@ -139,6 +195,90 @@
         "LLM musik baru menghasilkan musik dengan pemahaman struktural harmoni yang mendalam.",
         "Mampu menghasilkan file MIDI multi-instrumen yang dapat diedit secara profesional.",
         "Membuka perdebatan baru mengenai hak cipta karya seni yang dihasilkan oleh kecerdasan buatan."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Sam Altman Kritik Penggunaan Model AI Lokal di Rumah, Picu Perdebatan Hak Komputasi Mandiri",
+      "original_title": "Sam Altman Absolutely Hates the Idea of People Running Their Own AI Models at Home, Argues They Shouldn't Own Computers",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUkZ6TklhOVUtME5HbWptQ2lRZ093djBXay1aMVZqa1U2WFQ0RC1FcFl0TmVHNEoyRWVacVdseUJHajFvX3pSbFBCNjEyZU1TNjUxbkJITUdCS1cxenFzNVVCektvV0dvWC1ZZDZTOU9nRVVsZHNwWWVXTllEQXBndE16X1gxal9Nb05EajNScU0?oc=5",
+      "source": "Futurism",
+      "published_date": "2026-10-30",
+      "summary": "CEO OpenAI, Sam Altman, menyuarakan kekhawatiran terkait tren pengguna yang menjalankan model AI secara independen di perangkat pribadi mereka. Pernyataan ini memicu kontroversi luas di kalangan komunitas open-source dan aktivis hak digital yang memperjuangkan privasi serta kebebasan komputasi lokal. Perdebatan ini mempertegas persaingan mendasar antara ekosistem AI cloud terpusat dan model mandiri yang terdesentralisasi.",
+      "takeaways": [
+        "Sam Altman menyoroti risiko keamanan dan kendali jika model AI dijalankan secara mandiri oleh publik.",
+        "Komunitas open-source menilai pandangan tersebut sebagai ancaman terhadap kebebasan komputasi dan privasi data.",
+        "Perselisihan ini mempertegas ketegangan antara model AI terpusat milik korporasi dan model AI terdesentralisasi."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Rumah Sakit Methodist Manfaatkan AI untuk Deteksi Dini Penyakit Katup Jantung Parah",
+      "original_title": "Methodist uses AI to flag severe heart valve cases sooner",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbGF1cmhRUzJGRHZfVC1tT2xvMHRudWgwSzVadXloNVk4bjEzR1VfVVB2bGNFUUZoT3hFa0VfdExNc0pXVTZpcFFQZFFRVGxlcG5ieThBZ1VmWXh5QmRwUzNjSUVKaXYzcTlPclVMeVZFUjhXSGdvdGVub1Vrb0VyLUg2R0VYZEJJdTU0SXFrSTjSAaQBQVVfeXFMT3ZCQmpFNkhkbWJNRXFqYVhfSmhCbm40TUFwRjVkUm5QWnM1Njd5Z2diY2JEVVhsNnFna250M2J6Zi1wczJadkRoeHd5WGxVSGlTMUlZWXFDSjZfalJMaWdEUHVlbzZZcGFrVUNhM3d4TV8zVVdtOHR2anRXTWZSa1pBNUw3XzBudURFdjNTOGV4dmRKX3Z4SWZaVlBvOEhJYmhkenM?oc=5",
+      "source": "WOWT",
+      "published_date": "2026-10-30",
+      "summary": "Jaringan rumah sakit Methodist mulai menerapkan kecerdasan buatan untuk mendeteksi indikasi awal penyakit katup jantung secara cepat dan akurat. Algoritma AI ini mampu mengevaluasi data medis pasien guna menandai kasus-kasus berisiko tinggi sebelum gejalanya makin memburuk. Penerapan teknologi ini terbukti mempercepat penanganan medis kritis dan menyelamatkan nyawa pasien.",
+      "takeaways": [
+        "AI mampu menganalisis pola medis halus untuk mendeteksi kerusakan katup jantung lebih awal dari metode standar.",
+        "Intervensi medis lebih cepat berpotensi meningkatkan angka harapan hidup pasien secara signifikan.",
+        "Penggunaan AI klinis membantu mengurangi beban kerja dokter dan mempercepat proses diagnosis rumah sakit."
+      ],
+      "category": "Sains & Teknologi"
+    },
+    {
+      "title": "UU Keselamatan AI Disahkan: Fitur Chatbot Berbahaya Bagi Anak Resmi Dilarang",
+      "original_title": "Senator Kristen Gonzalez Bans Unsafe Chatbot Feature for Minors, Leading AI Safety Bill Signed Into Law",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUx PbTF0SVdxTlFmUGhlQ2pXMFlYeTJsb2t2UUMwTlBuNkw4aUQxXzZ4bHRJRmpfYWszTHlOVUhObTlkdGFfTTNBckxwSzdLeGpDUXVYallrN0pOLVZReGNrNVdpQ3FBZGl6Q2t2NGVPTEs2bXAtZ09ZU0o5SzZmZGExRjgyQ3A2WXdjaVBtMk5hc3pfZVhOTXhDd1pZalpkdzlnZkJmMm9TY3YxdjZHWHdQOVhtMHY2TG4wcE9UR1lYRDg?oc=5",
+      "source": "The New York State Senate (.gov)",
+      "published_date": "2026-10-30",
+      "summary": "Rancangan Undang-Undang Keselamatan AI yang dipelopori Senator Kristen Gonzalez resmi disahkan menjadi hukum, melarang fitur chatbot AI yang berisiko bagi anak di bawah umur. Regulasi ini dirancang untuk melindungi kesehatan mental dan privasi anak dari potensi manipulasi psikologis oleh kecerdasan buatan. Pengesahan hukum ini menjadi tonggak penting dalam pembentukan standar perlindungan konsumen di sektor AI.",
+      "takeaways": [
+        "Hukum baru melarang pengembang AI menyertakan fitur chatbot yang tidak aman bagi pengguna di bawah umur.",
+        "Fokus utama regulasi adalah pencegahan manipulasi emosional serta perlindungan data pribadi anak.",
+        "Langkah regulasi New York ini diprediksi akan menjadi acuan bagi pembuatan UU keselamatan AI di daerah lain."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Musk dan Zuckerberg Kompak Ubah Istilah AI Menjadi 'Super Intelligence' dalam Laporan Keuangan",
+      "original_title": "Musk and Zuckerberg echo Trump's push to rebrand AI as 'super intelligence' on earnings calls. Others do not",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZXZlRGxMZ3BzTFB6M2kxdWMtZDNTQUZqRmRSRTVUTnN5OUxycXdjSFNveEEwR3ZNVnFqZzlsVWhQbVB6emVRT29mUEhyd0g1am1zb1VGTTFGeXItRklfUVphc19JcTlsVFNWWmxhaHQzcUQxMkRXUFNNMW9ObFhFbER3VUg5UmxZSWthbUo4MVF2akIxcUQwZWNXUEoxU1IxSnVkNm5B0gGrAUFVX3lxTE1OR0kySFBiZEQ4eTZPTDR2MEpmMXlVbmVqVVFGbWpBTXBWM252d2wtWFRBYUE3M3dvWHloWHF5bU9penBtQkVkYXVFaTRSb0dtaTdQSTEzT2dtcUJyaktfYk55VU5aT0VSVFRSYlZVWF9oLU5yUDFfb1ZoUW0yVXk1elpWQnU2NTR0Y2E2MnBQWTFjYlN1cERNOUdiQU9Gc0thdkpMYWFMOWlRYw?oc=5",
+      "source": "CNBC",
+      "published_date": "2026-10-30",
+      "summary": "Para pemimpin raksasa teknologi seperti Elon Musk dan Mark Zuckerberg mulai mengadopsi istilah 'Super Intelligence' dalam sesi laporan keuangan mereka kepada investor. Langkah pengubahan branding ini bertujuan untuk membentuk narasi pasar tentang lompatan kemampuan AI generasi berikutnya. Meskipun demikian, sebagian perusahaan teknologi lain memilih tetap menggunakan terminologi standar karena menilai klaim tersebut terlalu berlebihan.",
+      "takeaways": [
+        "Pimpinan Big Tech mulai mengganti istilah AI menjadi 'super intelligence' dalam komunikasi pasar modal.",
+        "Strategi dorongan branding ini bertujuan memikat antusiasme investor terhadap prospek teknologi masa depan.",
+        "Sebagian pelaku industri memilih bersikap skeptis dan menghindari penggunaan istilah yang hiperbolis."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Aksi Jual Saham AI Picu Kekhawatiran Melambatnya Pertumbuhan Finansial Raksasa Teknologi",
+      "original_title": "AI stock selloffs fuel fears Big Tech’s best quarters are over",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTURmZTNlejNMcUxUZFJlZm9WY2t5VVpyOU5XdHNFWmx5ajRKSkxJTmRILWR0ZUVyT2RTdVFESGV5NTJmbC1QMkNHdVh4LVFpQkNoQVllLWlLQnNoSDliaWNQTUJaeDZPMVgtdUp0QnVLLVNyTWVNUDVPelVUOURvM1Nfd2Q0eUtKNmdJR3J5aHVWcnJvOV9pbV81MUpjQk5GdVplNXlLT0YxSHZuUjBCZjVLeFJINHdXS0U0?oc=5",
+      "source": "Los Angeles Times",
+      "published_date": "2026-10-30",
+      "summary": "Gelombang aksi jual saham di sektor kecerdasan buatan memicu kekhawatiran bahwa masa keemasan pertumbuhan pendapatan Big Tech mulai memuncak. Para investor mulai mempertanyakan besarnya belanja modal infrastruktur AI yang belum sebanding dengan peningkatan laba bersih nyata. Fenomena ini menandai perubahan sikap pasar yang kini lebih menuntut bukti profitabilitas ketimbang narasi optimisme.",
+      "takeaways": [
+        "Pasar merespons negatif besarnya belanja modal AI yang belum menghasilkan imbal hasil keuangan setimpal.",
+        "Kekhawatiran investor meningkat terkait potensi melambatnya margin keuntungan perusahaan teknologi utama.",
+        "Fokus industri bergeser dari ekspansi infrastruktur masif menuju monetisasi nyata produk AI."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Gugatan Hukum Terhadap Alat Perekam AI Medis Atas Dugaan Pelanggaran Privasi Pasien",
+      "original_title": "Lawsuit: AI recording tool used by AHN, Highmark violates patient rights",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbFJBdXRuMVlJMTdoWGc5blc2d0sweC1wOUdLNldwa0Yxc1VvODVqdFRncnh0RWN2RGF0Q0U1MmxfYTB6cXNacWdfS1FRSzMwQWlXQ3JBWVlOT1hnWXFXWUo2am5lcGxqd3h5bmFkd1loTzVDOEpNbmJBeDBrclQ4RVRnYklXbzhSa0hkQ0IySzZzZkFzaW9TeWM2cGsweFExSkExSUhNWVBnQlJC?oc=5",
+      "source": "TribLIVE.com",
+      "published_date": "2026-10-30",
+      "summary": "Sebuah gugatan hukum resmi diajukan terhadap penyedia layanan kesehatan atas penggunaan perangkat perekam dan transkripsi AI yang diduga melanggar privasi pasien. Gugatan tersebut menuduh bahwa percakapan medis sensitif direkam dan diolah tanpa persetujuan eksplisit dari pihak pasien. Kasus ini mendesak perlunya regulasi etika dan kepatuhan hukum yang jauh lebih ketat dalam integrasi AI medis.",
+      "takeaways": [
+        "Penggunaan alat perekam AI di rumah sakit memicu perselisihan hukum terkait hak privasi dan persetujuan pasien.",
+        "Kerahasiaan data medis menjadi isu krusial saat diolah oleh perangkat lunak AI pihak ketiga.",
+        "Gugatan ini diperkirakan akan memperketat standar tata kelola privasi data dalam teknologi kesehatan."
       ],
       "category": "Artificial Intelligence"
     },
