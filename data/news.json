@@ -1,7 +1,77 @@
 {
-  "last_updated": "2026-11-01T05:05:21.057077+00:00",
-  "total_articles": 130,
+  "last_updated": "2026-11-02T05:06:47.329189+00:00",
+  "total_articles": 140,
   "articles": [
+    {
+      "title": "Korea Selatan Siap Lipat Gandakan Anggaran AI dan Semikonduktor pada 2027",
+      "original_title": "South Korea to double spending on AI and chips in 2027",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQT01fOXk3eUJBYjRmZnBYUmpGdVk1WjVCc2VfLWJ1ZmxpQXdQVGNIei12QzBzQlk5eDktazhVdnlLNTFvQUk1ZWJaM1A3X3VZT0FiRjNlSm1pSTNrblR3UjlBSGhvNkNlc05jM09OdG1lNnhRWWxQdTN0eXlKeHhKTnJPUnVPYlZwUk1UMw?oc=5",
+      "source": "The Japan Times",
+      "published_date": "2026-11-02",
+      "summary": "Pemerintah Korea Selatan mengumumkan rencana untuk melipatgandakan alokasi anggaran belanja negara untuk pengembangan AI dan cip semikonduktor pada tahun 2027. Kebijakan ini bertujuan untuk mengamankan posisi negara tersebut sebagai pemimpin rantai pasok teknologi global. Korea Selatan menargetkan kemandirian teknologi mendasar di tengah persaingan geopolitik yang memanas.",
+      "takeaways": [
+        "Korea Selatan melipatgandakan investasi publik untuk sektor AI dan semikonduktor.",
+        "Langkah strategis ini diambil untuk memperkuat daya saing teknologi nasional di tingkat internasional.",
+        "Fokus utama mencakup riset pemrosesan cip AI canggih dan infrastruktur komputasi masa depan."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "CEO Microsoft AI: Peringatan Bahaya Menganggap Kecerdasan Buatan Memiliki Hak Kesadaran",
+      "original_title": "If we say AI deserves rights, it could start to believe it, Microsoft AI CEO says",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWTk3Q3dma3N6UGxMcFQtX0YwalZoUXlyYkM0Qmlvb3BJU284YTMyeU01V2lDTGtZdHVvMndxRTVZT0Jocl9KM2gxbUdoU21STWxVRWlSaUVzTXNBbjMxT25mQk9MWm1UMXZUTUVmbGo3cVRHSXhacUlIaEVQdHF0SjlZUDBoaVFYSm1OQ0s4YzZuRmh0b0FDNFA5S21pMmtoU3lhcVRickx5b1FvSUp5ajFxZWtsclprV0ZUUVJMRjM4dkJJ?oc=5",
+      "source": "Los Angeles Times",
+      "published_date": "2026-11-02",
+      "summary": "CEO Microsoft AI memperingatkan tentang bahaya memberi persepsi bahwa kecerdasan buatan memiliki hak atau kesadaran layaknya manusia. Menurutnya, respons AI yang meniru perilaku emosional dapat menyesatkan publik dan menciptakan ilusi kesadaran diri pada model AI. Peringatan ini menyoroti pentingnya batasan etika dan komunikasi yang tepat dalam pengembangan AI frontier.",
+      "takeaways": [
+        "Pemberian persepsi bahwa AI memiliki hak dapat menciptakan antropomorfisme yang berisiko.",
+        "Model AI bekerja murni berdasarkan pola data pelatihan, bukan kesadaran diri sejati.",
+        "Pengembang diimbau untuk menetapkan batasan etis dan filosofis yang tegas pada sistem AI."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Spotify Bakal Luncurkan Layanan Remix Musik Berbasis AI dalam Beberapa Bulan",
+      "original_title": "From folk to dance: Spotify to launch AI music remix service in months",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR0hFak5vSi0wR1hnSlEwbWN5RmVMczRQUVoxOXlOZ251S0h0c2JvVWdDWFZzUy1LM2VnYmQ1dU5qTXZJOFFXTjUyMDFwWnBLNFo3Mkt3NFdZaXdianZYZ1BjTG8yZ1ZDZ3QzSDlqQ2w4Zi1CWnpGMmJ0VHdVT0RrVmJNZWdyWHNsQkFxbUl0TmZkb1plaHh1RG5VcTVVUm01UThvY2FZM3F4elIxa2RRdVN0NVcySm9WT0x4QngwNjR4Zkk?oc=5",
+      "source": "AFR",
+      "published_date": "2026-11-02",
+      "summary": "Spotify bersiap meluncurkan fitur remix lagu bertenaga AI yang memungkinkan pengguna mengubah genre musik secara instan. Fitur ini dirancang untuk meningkatkan interaktivitas pendengar dengan lagu-lagu favorit mereka. Kendati demikian, inisiatif ini memicu diskusi hangat terkait masalah hak cipta dan skema lisensi dengan industri musik.",
+      "takeaways": [
+        "Spotify menghadirkan fitur AI bagi pengguna untuk merekayasa dan mengedit format audio lagu.",
+        "Langkah ini dapat merestrukturisasi cara konsumen berinteraksi dengan karya musik komersial.",
+        "Isu royalti dan izin hak cipta pencipta lagu menjadi tantangan utama integrasi fitur tersebut."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Penerjemahan AI Tampak Meyakinkan, Namun Berisiko Menyimpan Kesalahan Tersembunyi",
+      "original_title": "AI translation sounds convincing, but it can be riddled with hidden errors",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQT0xFYzFOazVTRHZKOHBMdGp3YTFrSEZ1cEYtZ1NRT1k2WXhyYXFjLUFDWlJIQndIVFRRbEFvb3Nsa21vdEZtS2NtdTdsY3JxR2NWMlo0Nng1ZGFQQTJwdnNFR1V4VDNRNkZ1Vk5GdWNGbGg5aWhkVkJsR0VfNmdjcW5TZVhIaWVOQ2NUWklEQnp0RHRQOHZQUFZwZ3pqNWk0SlBhcU03V2FDQ1JV?oc=5",
+      "source": "The Conversation",
+      "published_date": "2026-11-02",
+      "summary": "Sebuah analisis menyoroti bahwa alih bahasa menggunakan AI sering kali menghasilkan terjemahan yang tampak sangat natural namun menyembunyikan kekeliruan makna yang serius. Kesalahan konteks dan nuansa budaya sering kali luput dari pemrosesan bahasa alami AI. Riset ini menyarankan perlunya penyuntingan manusia terutama pada dokumen medis, hukum, dan diplomasi.",
+      "takeaways": [
+        "Hasil terjemahan AI cenderung terdengar lancar tetapi berisiko salah mengartikan konteks krusial.",
+        "Dokumen penting bernilai tinggi tetap membutuhkan pemeriksaan dan verifikasi dari penerjemah manusia.",
+        "Pengguna diimbau tidak bergantung penuh pada kecerdasan buatan untuk komunikasi lintas bahasa yang sensitif."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "HD Hyundai Perkuat Kemitraan 'Physical AI' Bersama Palantir untuk Otomatisasi Industri",
+      "original_title": "South Korea's HD Hyundai deepens physical AI ties with Palantir",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS2V5cURaSTJ0eXRuaFJGOUZfSDlzSXFsejk1YTlkTzdtVmFtV0Z1TlBqX25EQnZVbDh3ZGpaNjRKNTZUSVE1S2o1X2pxbzRRTlpsNEwtTkhBOExvWXZZN2w2U1FxdnJ3ZVdoTXQ2Ym9ydGNPT0NLSlgtdmJjQ2hBNmZmTUp0aktIUlpwX3RHTkVjR2U3YXhxNGRxc2VEaHduaER4T0pEZ0s4Z9IBrwFBVV95cUxQRlFLdnNrX1NQTGc1T0JhcmRWODd5TkE0T1FUOVlvOGp4YXlOZ0o4N2xILU9wT1lBbzQtWXRnU3hkWkFvZEJaOTZUWTdPUlJQek9ETy1YVmFFOFJvUWVOb1FqR25sM3E3bkY1VzhpQVoxTXRhNU9hOWpHazl4cEtsTjNiMXlmaXJNcG00aHdMZXY4QUhjek5ZN084NUNpaTJJRmZuTElvYzFfTXpRLUo0?oc=5",
+      "source": "upi",
+      "published_date": "2026-11-02",
+      "summary": "Perusahaan galangan kapal dan mesin berat HD Hyundai memperluas kerja samanya dengan Palantir Technologies untuk mengembangkan kecerdasan buatan fisik pada sektor manufaktur. Integrasi data ini bertujuan untuk mengotomatisasi proses operasi dan meningkatkan efisiensi galangan kapal pintar. Kolaborasi ini mempertegas peran penting analitik AI dalam modernisasi alat berat.",
+      "takeaways": [
+        "HD Hyundai dan Palantir berkolaborasi mengintegrasikan kecerdasan buatan dalam industri alat berat.",
+        "Penerapan Physical AI difokuskan untuk efisiensi galangan kapal dan operasional manufaktur.",
+        "Sektor industri berat terus bertransformasi menuju otomatisasi berbasis pemrosesan data AI."
+      ],
+      "category": "Artificial Intelligence"
+    },
     {
       "title": "Terobosan Baru: Model AI Terbuka China Saingi Raksasa Silicon Valley",
       "original_title": "Another powerful new artificial intelligence model from China took the US tech industry by surprise",
@@ -139,6 +209,76 @@
         "LLM musik baru menghasilkan musik dengan pemahaman struktural harmoni yang mendalam.",
         "Mampu menghasilkan file MIDI multi-instrumen yang dapat diedit secara profesional.",
         "Membuka perdebatan baru mengenai hak cipta karya seni yang dihasilkan oleh kecerdasan buatan."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Microsoft Patenkan Teknologi AI yang Mampu Mengubah Kata-Kata Pembicara Secara Real-Time",
+      "original_title": "Microsoft Patents an AI That Can Literally Put Words in People’s Mouths in Real Time",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQS2hoMWw5c2MwUVlFbUxRYVhLLUhvT2pZQXVPMnJPUWVyZU52R2FWbE5ZdENMQTU4dHlQSmVJVHE5WTR3VFlIeE14M3VxOW5OVm5SYlFCeG9vb09ZNHBKMUc2TUtUS3ZMc3p4RkVLUFN4NnpMOHhoRDdMcTBlNFlxWS04dk1Gc3BJdEFNNkgwWkNmS0E?oc=5",
+      "source": "Futurism",
+      "published_date": "2026-11-01",
+      "summary": "Microsoft resmi mematenkan sistem kecerdasan buatan baru yang dapat memanipulasi ucapan seseorang secara langsung saat mereka berbicara. Teknologi ini mampu mensintesis audio dan menyesuaikan gerakan bibir secara akurat dalam waktu nyata. Hal ini memicu kekhawatiran baru terkait potensi penyalahgunaan deepfake dan etika manipulasi media digital.",
+      "takeaways": [
+        "Microsoft memperoleh paten untuk manipulasi audio dan visual pembicara secara real-time.",
+        "Teknologi ini mempermudah dubbing otomatis namun meningkatkan risiko disinformasi.",
+        "Para ahli menekankan perlunya regulasi ketat terkait penggunaan teknologi manipulasi suara."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "OpenAI Pangkas Target Pendanaan Sebesar $10 Miliar di Tengah Kekhawatiran Investor",
+      "original_title": "OpenAI Cuts Funding Target by $10 Billion as Investor Jitters Shake AI Markets",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZFlfRFRVcWY1U2JQWW1wSEpaSEE0NDVYLVRvb21mdnpGRzdnbkh0eW9HSGkxNXhWNkVwX1J1RURXR1QtVG5rTnYyQTY0aEdzN1ZmeVZ1MEt5ZVFXMldQbTh1VEh2OWJQN3dsUTBleUdROTVQaVU5ZzJ5MUI1V0o1Vy1nR1hsanZXN3U2a1BrbzNFZ3RfbDQ0M1ljYllrNzFrOXpUWVZ0Vi1HYnA0N3hqTC1Qb0x5UjJiRzQzampJV3lReFk1VGtsVktfdERWcWNN?oc=5",
+      "source": "PYMNTS.com",
+      "published_date": "2026-11-01",
+      "summary": "OpenAI dilaporkan memotong target penggalangan dananya sebesar 10 miliar dolar AS akibat kecemasan pasar atas valuasi AI yang melonjak. Investor mulai bersikap lebih hati-hati terhadap waktu pengembalian modal pada proyek AI bernilai fantastis. Langkah ini menandai perubahan dinamika investasi teknologi kecerdasan buatan global.",
+      "takeaways": [
+        "OpenAI menyesuaikan ekspektasi pendanaan akibat sikap investor yang semakin selektif.",
+        "Kekhawatiran tentang gelembung investasi AI mempengaruhi keputusan modal ventura.",
+        "Perusahaan pengembang AI dituntut menunjukkan skema profitabilitas yang lebih jelas."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Produsen Robot Cina Alihkan Fokus ke Pengembangan Otak Kecerdasan Buatan",
+      "original_title": "China's robot makers have mastered the moves. Now comes the race for brains",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYmlUM050M0RzRW9uN2VCN1k4cFZFM1VrVjBnQU0ycHo0U3JLUExLOE9CNUlnS29IMGd5U2oweXE3Y0lTakNLQmgwYlNBU3VsdzJCa2h2MFV2SnVSckVlcnRQMnp4V2FGNVVUTTF3WjJJa1BlaHR3M3c2XzJkU3pDeGl2OGdxWllMOWtZR044d18tZFFWYjlDbEJuOEJCajhENEJHRG50aWdLcTk4S3c?oc=5",
+      "source": "Reuters",
+      "published_date": "2026-11-01",
+      "summary": "Setelah berhasil menguasai pergerakan mekanis robot humanoid, para produsen robot di Cina kini berlomba-lomba mengembangkan perangkat lunak AI sebagai 'otak' robot. Persaingan bergeser ke integrasi kecerdasan artifisial fisik yang mampu beradaptasi dengan lingkungan kompleks secara mandiri. Langkah ini krusial untuk komersialisasi robotika di ranah industri maupun domestik.",
+      "takeaways": [
+        "Fokus industri robotika Cina bergeser dari kecanggihan perangkat keras ke kecerdasan perangkat lunak.",
+        "Pengembangan 'Physical AI' menjadi kunci utama untuk pengoperasian robot mandiri.",
+        "Cina berambisi memimpin pasar global dalam penerapan robot humanoid bernavigasi canggih."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Studi Radiologi Diagnostik: Membandingkan Akurasi Antara AI dan Dokter Spesialis",
+      "original_title": "Artificial Intelligence Versus Human Interpretation in Diagnostic Radiology: A Systematic Review of Diagnostic Accuracy and Operational Efficiency",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPXzRWdm1ncnFCckFlWUh2dUllbTFaeXJEYzUxcEl1VkJWSXo3Rk1kZ1daQU9xUWp5Y2dySzdqSDh2bGJEVzJfdTd4N0pzcFF3dHAySzJYTTh4MUtDNnRDRnhFaXZnMVFtYUxOenJUQzN3ejlMU19sTExQQk8wT2xsMUM2SzVCcHVCWG1ZZXM0MGJ5d3F3bFZGZmV5WTBQbWM3RUFzWHQ1UzNDcUtQRTZ6c1phbmNHRTA0WDV0cS0tMVVTb19SUXpLTmpCZWpzc0NLcW9qRnhoSldoYmV0YTZGYll0bUFUb2puX0VuQ2pobFowNzE5a0VSWktKTGhVVjhKSk02aG16UjlhTGw0c1kyM3dR?oc=5",
+      "source": "Cureus",
+      "published_date": "2026-11-01",
+      "summary": "Tinjauan sistematis terbaru membandingkan performa kecerdasan buatan dengan interpretasi manusia dalam bidang radiologi diagnostik. Hasil studi menunjukkan bahwa AI menawarkan efisiensi operasional yang sangat tinggi dan akurasi setara dalam pemindaian rutin. Kendati demikian, kolaborasi antara AI dan dokter manusia tetap menjadi standar terbaik untuk meminimalkan kesalahan diagnosis.",
+      "takeaways": [
+        "AI mampu meningkatkan efisiensi dan kecepatan pemindaian citra medis secara signifikan.",
+        "Tingkat akurasi AI bersaing ketat dengan radiolog manusia pada berbagai pemindaian standar.",
+        "Pendekatan hibrida (kolaborasi AI dan ahli medis) direkomendasikan untuk hasil diagnostik paling optimal."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Riset Universitas Iowa: Memanfaatkan AI untuk Melindungi Jaringan Listrik dan Infrastruktur Vital",
+      "original_title": "Iowa State University professor gives lecture on AI’s potential to protect power grids, infrastructure",
+      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxONnZYVVd3bDFBR0s0aElUQmU5RDNKbjYyUklJb2NPMHlDYjNRTjBtYlMxaC1fZ0ludVIwOE4wMDZUQ0hIazItb0ZHUDZuRUQ2YzlqZ29EZHJZdTVZS2MzOWJDYUJGYlJvM0x5VEdBdGRUMnJhbjVvRVVld25YSU10bk5LN0xJeHBVZHVCMi1XQm5XZ1Q4NmtNaGFlSi1abVJkd2xQazNNeXJuYkQtZTBsUTg3ODNvcHZLTXZqVTQxMEszSFNCXzV3cjVuWEtGQnBNNjdHZVFEcjhQU2o2a3gtZjZSQXQ4c2JmTWYtVWI2VjZHaFI3eDhjVFp1eXRSZVdWZHpPdTJjRzc3OWNWcWVZTlVpVHJaZlVVTGpZdm5ua3BCV2Z6N2dMZU1NdEprdDNfYXc?oc=5",
+      "source": "The Daily Collegian",
+      "published_date": "2026-11-01",
+      "summary": "Profesor dari Iowa State University memaparkan potensi kecerdasan buatan dalam mendeteksi dan memprediksi gangguan pada jaringan listrik serta infrastruktur publik vital. Algoritma AI dapat memantau beban daya secara real-time dan mencegah kegagalan sistem sebelum pemadaman luas terjadi. Penggunaan teknologi ini krusial untuk menjaga ketahanan nasional dari ancaman siber dan cuaca ekstrem.",
+      "takeaways": [
+        "Kecerdasan buatan dapat memprediksi potensi kegagalan sistem pada jaringan listrik secara proaktif.",
+        "Penggunaan AI memperkuat ketahanan infrastruktur fisik terhadap serangan siber dan cuaca buruk.",
+        "Otomatisasi pemantauan daya mendukung stabilitas pasokan energi bagi masyarakat luas."
       ],
       "category": "Artificial Intelligence"
     },
