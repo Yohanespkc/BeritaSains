@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-11-03T05:52:34.175967+00:00",
-  "total_articles": 136,
+  "last_updated": "2026-11-04T05:28:29.615376+00:00",
+  "total_articles": 127,
   "articles": [
     {
       "title": "Terobosan Baru: Model AI Terbuka China Saingi Raksasa Silicon Valley",
       "original_title": "Another powerful new artificial intelligence model from China took the US tech industry by surprise",
       "url": "https://example.com/ai-china-model",
       "source": "LinkedIn News",
-      "published_date": "2026-11-03",
+      "published_date": "2026-11-04",
       "summary": "Startup AI asal China meluncurkan model open-source baru yang mengejutkan industri teknologi AS karena kemampuannya yang sangat kompetitif. Model ini menantang dominasi perusahaan besar Silicon Valley dengan performa tinggi yang dapat diakses secara gratis oleh pengembang.",
       "takeaways": [
         "Model open-source baru dari China menunjukkan kemajuan pesat dalam penelitian AI.",
@@ -21,7 +21,7 @@
       "original_title": "First CRISPR Gene Therapy for Rare Genetic Disorder Approved by FDA",
       "url": "https://example.com/crispr-approval",
       "source": "Nature Biotechnology",
-      "published_date": "2026-11-03",
+      "published_date": "2026-11-04",
       "summary": "FDA secara resmi menyetujui terapi pengeditan gen berbasis CRISPR untuk mengobati kelainan genetik langka yang merusak sel saraf. Keputusan bersejarah ini membuka jalan bagi penyembuhan penyakit genetik kronis lainnya yang sebelumnya tidak dapat disembuhkan.",
       "takeaways": [
         "FDA memberikan persetujuan untuk terapi berbasis CRISPR pertama yang menyasar penyakit sel saraf.",
@@ -35,7 +35,7 @@
       "original_title": "Scientists Create Hybrid Brain Network Using Silicon Chips and Neurons",
       "url": "https://example.com/hybrid-brain",
       "source": "Science Daily",
-      "published_date": "2026-11-03",
+      "published_date": "2026-11-04",
       "summary": "Tim peneliti gabungan berhasil menghubungkan sel saraf biologis hidup dengan chip silikon komputer menggunakan antarmuka bio-elektronik baru. Teknologi ini berpotensi digunakan untuk memulihkan fungsi sensorik pasien lumpuh serta mempercepat komputasi neuromorfik.",
       "takeaways": [
         "Integrasi sel saraf hidup dengan silikon membuka jalan bagi komputer biologis.",
@@ -49,7 +49,7 @@
       "original_title": "Google Launches Upgraded Gemini Pro with Larger Context Window",
       "url": "https://example.com/gemini-pro-update",
       "source": "TechCrunch",
-      "published_date": "2026-11-03",
+      "published_date": "2026-11-04",
       "summary": "Google resmi merilis pembaruan untuk model Gemini Pro yang kini mendukung pemrosesan dokumen panjang hingga jutaan token secara bersamaan. Pembaruan ini secara dramatis meningkatkan akurasi dalam menganalisis kode pemrograman kompleks dan laporan keuangan panjang.",
       "takeaways": [
         "Context window Gemini Pro diperluas untuk mendukung analisis data skala besar.",
@@ -63,7 +63,7 @@
       "original_title": "Full Genome Sequencing Unlocks Secrets of Ancient Rice Evolution",
       "url": "https://example.com/rice-genome",
       "source": "Genomics Journal",
-      "published_date": "2026-11-03",
+      "published_date": "2026-11-04",
       "summary": "Para peneliti genetika berhasil memetakan sekuens genom lengkap dari sampel padi purba berusia 3.000 tahun yang ditemukan di situs arkeologi. Data genetik ini mengungkap bagaimana nenek moyang kita melakukan seleksi tanaman terhadap kekeringan dan hama.",
       "takeaways": [
         "Pemetaan genom padi purba memberikan wawasan tentang adaptasi iklim masa lalu.",
@@ -77,7 +77,7 @@
       "original_title": "Future Supercomputing: Large-scale Quantum Computing Experiment Succeeds",
       "url": "https://example.com/quantum-success",
       "source": "MIT Technology Review",
-      "published_date": "2026-11-03",
+      "published_date": "2026-11-04",
       "summary": "Fisikawan berhasil menjalankan algoritma koreksi kesalahan kuantum yang stabil pada sistem 100-qubit untuk pertama kalinya. Hasil ini menunjukkan bahwa komputer kuantum komersial yang bebas dari error tingkat tinggi kini semakin dekat menjadi kenyataan.",
       "takeaways": [
         "Algoritma koreksi kesalahan kuantum berhasil menstabilkan sistem qubit dari gangguan luar.",
@@ -91,7 +91,7 @@
       "original_title": "AI Detects Early-Stage Lung Cancer Using Standard Chest X-rays",
       "url": "https://example.com/ai-lung-cancer",
       "source": "The Lancet Digital Health",
-      "published_date": "2026-11-03",
+      "published_date": "2026-11-04",
       "summary": "Sebuah sistem kecerdasan buatan baru yang dilatih pada jutaan radiografi dada mampu mendeteksi tanda-tanda awal kanker paru dengan akurasi 94%. Sistem ini dapat mendeteksi nodul kecil yang sering terlewatkan oleh radiolog manusia pada pemeriksaan rutin.",
       "takeaways": [
         "Sistem AI melampaui rata-rata akurasi deteksi radiolog manusia dalam skrining awal.",
@@ -105,7 +105,7 @@
       "original_title": "Ancient DNA Technology Reveals Migration Patterns of First Americans",
       "url": "https://example.com/ancient-dna-america",
       "source": "Science Magazine",
-      "published_date": "2026-11-03",
+      "published_date": "2026-11-04",
       "summary": "Studi terhadap sisa-sisa DNA kuno berusia 12.000 tahun menunjukkan bahwa pemukim pertama Amerika bermigrasi dalam beberapa gelombang yang berbeda secara genetik. Analisis ini meluruskan teori migrasi tunggal yang selama ini diyakini oleh para arkeolog.",
       "takeaways": [
         "Analisis genom kuno membuktikan adanya rute migrasi maritim di samping jembatan darat Beringia.",
@@ -119,7 +119,7 @@
       "original_title": "New Sodium-ion Battery Offers Cheap Alternative for Green Energy Storage",
       "url": "https://example.com/sodium-battery",
       "source": "Bloomberg Green",
-      "published_date": "2026-11-03",
+      "published_date": "2026-11-04",
       "summary": "Para peneliti berhasil mengembangkan baterai sodium-ion (garam) berkapasitas tinggi dengan siklus hidup yang menyamai baterai lithium-ion. Karena sodium sangat melimpah dan murah, teknologi ini dapat mempercepat transisi ke penyimpanan energi surya dan angin skala besar.",
       "takeaways": [
         "Baterai berbasis garam menawarkan biaya produksi 40% lebih murah dibanding lithium.",
@@ -133,7 +133,7 @@
       "original_title": "Advancement in Automatic Music Generation Using Pitch-Specific LLMs",
       "url": "https://example.com/music-llm",
       "source": "Wired",
-      "published_date": "2026-11-03",
+      "published_date": "2026-11-04",
       "summary": "Model bahasa besar (LLM) terbaru yang dikonfigurasi khusus untuk memahami teori musik dapat menghasilkan aransemen orkestra lengkap secara instan berdasarkan deskripsi teks. Model ini memahami harmoni dan transisi instrumen secara organik layaknya komposer profesional.",
       "takeaways": [
         "LLM musik baru menghasilkan musik dengan pemahaman struktural harmoni yang mendalam.",
@@ -1777,132 +1777,6 @@
         "Kehadiran GLM 5.3 di Amazon Bedrock memberikan pilihan variatif bagi developer untuk menyesuaikan kebutuhan komputasi cerdas mereka.",
         "AWS menjanjikan kapabilitas pemrosesan bahasa alami yang lebih canggih dan aman untuk memitigasi risiko kebocoran data sensitif.",
         "Langkah ekspansif ini merefleksikan tren integrasi model AI pihak ketiga ke dalam ekosistem raksasa teknologi untuk menjangkau pasar B2B."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Eksklusif: Kepala AI Baru AS Ungkap Target dan Anggota Satgas Gedung Putih",
-      "original_title": "Exclusive | New AI Czar Unveils Goals, Members of White House Task Force",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVzllZ3FlUmNzR3pPMkNlbDRWSU5yT2lZLXA0bnpMZjI5VmxNTG5KZFBfZEp3elVXSG1XOU5jckVlRVA1M05oRHNtMDdhVDQyY0pLdXlScG54OXJpZlZJSTFtZkMxVVBHOWlaM2hKVmpuaFpwR3c3c05ITDU1N19IcnhENHQwdTAxeGtmRnVpNDdSc0IwWFowTmlxREVocURBVFppVFRoaVdLYXpsbXBmSUxqUTZ6MG1GSjE3RHRmVQ?oc=5",
-      "source": "WSJ",
-      "published_date": "2026-10-04",
-      "summary": "Kepala AI (AI Czar) baru bentukan pemerintah AS mengumumkan struktur anggota dan target kerja dari Satuan Tugas (Satgas) Gedung Putih yang baru dibentuk. Satgas ini dirancang untuk merumuskan kebijakan nasional guna menyeimbangkan risiko keamanan dan peluang ekonomi dari perkembangan AI. Langkah ini menandai babak baru regulasi teknologi di bawah pemerintahan yang baru.",
-      "takeaways": [
-        "Satgas AI bentukan Gedung Putih merumuskan strategi nasional terkait risiko dan peluang kecerdasan buatan.",
-        "Kepala AI yang baru ditunjuk memimpin tim ahli untuk mempercepat integrasi teknologi yang aman.",
-        "Kebijakan ini bertujuan menjaga kepemimpinan AS di bidang AI sekaligus memitigasi potensi ancaman keamanan nasional."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Ketika AI Mulai Tak Terkendali: Siapa yang Harus Bertanggung Jawab?",
-      "original_title": "A.I. Is Going Rogue. Who Should Be Held Responsible?",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTUhrakN2TGFTTmdhM0VtY2s5UjBjOVB5cnRRM1NHOWxPV1FGYTdfYjRrQkNZeFFBeHVkSXI1Q29DOE96WmNnSndCb1hwU1c4UGpxanNmMlJsNkJkYVRZNEpBSzdLdG55cXN5Z3hBYWVZSVVkQ1B2OV81Q1hEbExJUUJR?oc=5",
-      "source": "The New York Times",
-      "published_date": "2026-10-04",
-      "summary": "Seiring dengan semakin otonomnya sistem kecerdasan buatan, perdebatan mengenai akuntabilitas hukum dan etika saat AI melakukan kesalahan fatal kini menjadi isu mendesak. Artikel ini membahas celah hukum dalam menentukan siapa yang harus disalahkan: pengembang, pengguna, atau sistem AI itu sendiri. Diskusi ini penting untuk merumuskan kerangka hukum masa depan sebelum AI otonom sepenuhnya terintegrasi ke masyarakat.",
-      "takeaways": [
-        "Peningkatan otonomitas AI mempersulit penentuan tanggung jawab hukum atas kegagalan sistem.",
-        "Para ahli hukum menyerukan adanya standar regulasi baru yang mendefinisikan tanggung jawab pengembang.",
-        "Terdapat desakan etis untuk tidak membiarkan sistem kecerdasan buatan beroperasi tanpa pengawasan manusia."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Atasi Frustrasi Kuliah Kedokteran, Alumnus UCLA Ciptakan Aplikasi Belajar Berbasis AI 'Neural Consult'",
-      "original_title": "UCLA alumnus turns medical school frustrations into AI study app ‘Neural Consult’",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZFFPUHNmVXFsOWNWbDZXejk2RmdsUUMwQk5lZVBtbmRBMUNQSUJIbUlmTHZoZDBuaENCUklWYk5KdmJIVDdzMExnTHdlNTlNSjE5QWNEbmIwU2RNX0M2em5wYnVPNmhPUTlkbFNLWkdOaW1vZWFZVlJyNmdvZklxb1dZMUxuQjFhX3I2Z180X2h4OUlndzJ3Mm9XTUFTcTFDR1d2MlVFRFBCWnlYWWlKTWo1Vks?oc=5",
-      "source": "Daily Bruin",
-      "published_date": "2026-10-04",
-      "summary": "Seorang lulusan UCLA berhasil mengembangkan aplikasi belajar inovatif bernama 'Neural Consult' yang menggunakan teknologi AI untuk menyederhanakan materi kuliah kedokteran yang rumit. Aplikasi ini dirancang berdasarkan pengalamannya sendiri dalam menghadapi beban studi kedokteran yang sangat berat. Langkah ini membuktikan potensi AI dalam merevolusi metode pendidikan medis menjadi lebih interaktif dan efisien.",
-      "takeaways": [
-        "Neural Consult memanfaatkan kecerdasan buatan untuk mengonversi materi medis yang kompleks menjadi bahan studi yang mudah dipahami.",
-        "Aplikasi ini lahir dari kebutuhan nyata untuk mengurangi tingkat kelelahan mental (burnout) di kalangan mahasiswa kedokteran.",
-        "Teknologi ini memperlihatkan peran AI dalam mendukung pendidikan profesional yang membutuhkan pemahaman klinis mendalam."
-      ],
-      "category": "Sains & Teknologi"
-    },
-    {
-      "title": "Alasan Mengapa Universitas di Asia Sebaiknya Tidak Menggunakan Detektor AI",
-      "original_title": "Why universities in Asia shouldn’t be reaching for AI detectors",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNclRJVTVCTFdUS3I4bTdvSlpvck5MaklWdjBVcU9od1A4MWxsZVhkQUhOY1B3TmxKeDh0TnkzcERIOTFRZXJYTW4xR3QwZG00MDlycExVOXBzblRiTnQ3N19LMmNqc29GeWstNkY1ampwMTF0M1d2WUF1R1VUMGNrd0J4dkxEQ1U4ZmdkSUhFWDJUYjVMenBwRW81TzQtalVKVGJfZ3g2cEk0b3ZG0gGsAUFVX3lxTE1JNlBQLUNJNzNGaXNTX0NUYWUtWmg3TWRUdGRRUnFTME1LbWk5TnZ1X0xWMm1FY3NxaEdGejZQbV80NVZVbTlVUDN6c3JlVG15TkpBWXJISVhxcktBTUNubXkxMmgtSEJqbXJCcGFybHMxYmgwalFlUm9WNXlwRlFfYUprT3gyWEhaM2ZkYjZ1UDJQbLIwdDB1dm16aklxSjY0bnNRVllqT00xWDE?oc=5",
-      "source": "South China Morning Post",
-      "published_date": "2026-10-04",
-      "summary": "Artikel opini ini menyoroti kekeliruan universitas-universitas di Asia yang terlalu bergantung pada alat pendeteksi AI untuk memeriksa tugas mahasiswa, mengingat tingkat kesalahan (false positives) alat tersebut masih sangat tinggi. Penggunaan alat deteksi yang tidak akurat ini justru berisiko merugikan mahasiswa, terutama yang menggunakan bahasa Inggris sebagai bahasa kedua. Para akademisi disarankan untuk mengubah metode asesmen daripada berfokus memburu plagiarisme AI.",
-      "takeaways": [
-        "Detektor AI sering kali tidak akurat dan memiliki bias tinggi terhadap tulisan dari penutur bahasa Inggris non-asli.",
-        "Ketergantungan pada alat pendeteksi dapat merusak kepercayaan akademis antara dosen dan mahasiswa.",
-        "Universitas perlu mengadopsi metode evaluasi baru yang lebih berfokus pada pemikiran kritis daripada sekadar mendeteksi teks buatan AI."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Pengadilan AS Tangguhkan Larangan 'Nudifikasi' Berbasis AI di Minnesota Terkait Gugatan xAI",
-      "original_title": "Federal Appeals Court Blocks Minnesota's AI “Nudification” Ban While xAI Constitutional Challenge Continues | MinneapoliMedia",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQnMtXzRtN2puN09FcXR4a3RxVVRrSG10YzNUWXdEZFpOejktcmhtLUREMGpjVnk5S1BFTl9KN25tWktTQjNsV09vRkU1cElvWEx6RVQ5Z19jOVl6NTczRVFLOFdiRlZyU1BPV29oSVplUkVMTS1RcndYRmdDci12Z3NkekdnMnNGYTBrdjdiTHlES0IwQ1Fqa0ZRWXNEMEdaWlZ1X0g2N1xlc29UQ3ZhenFSbHFRaWU3TDM0ZmxVVFg?oc=5",
-      "source": "MinneapoliMedia",
-      "published_date": "2026-10-04",
-      "summary": "Pengadilan Banding Federal Amerika Serikat menangguhkan undang-undang larangan pembuatan konten telanjang palsu (nudification) berbasis AI di Minnesota akibat gugatan konstitusional dari xAI milik Elon Musk. Pihak penantang mengklaim larangan tersebut berpotensi melanggar kebebasan berpendapat di bawah Amandemen Pertama konstitusi AS. Kasus ini menjadi sorotan penting mengenai sulitnya menyeimbangkan perlindungan privasi individu dari ancaman deepfake dengan hak konstitusional.",
-      "takeaways": [
-        "Undang-undang larangan deepfake pornografi di Minnesota menghadapi hambatan hukum akibat isu kebebasan berbicara.",
-        "Gugatan dari xAI menunjukkan ketegangan antara regulasi keamanan AI dan kebebasan berekspresi secara digital.",
-        "Putusan akhir kasus ini akan berdampak besar pada regulasi konten seksual hasil rekayasa AI di tingkat nasional."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Gavin Newsom Kritik Pendekatan Longgar Pemerintah Terhadap Regulasi AI",
-      "original_title": "Gavin Newsom Mocks 'Golden Age of Super Intelligence,' Calls President’s 'Let It Rip' Approach to AI 'Reckless'",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWm9tejV3ek93dHBPRzVvdF9adVp2cG91Q2lqb0FuY3gzaW1VQUFWX0tLb0ZkRnBaMUpndk9nbHVOUzFFc1VaT1ktWUdHVFVjYS1aUWZIeVhmdUx6X3Zwd19OMGJlWE5PbWpKV2lVQjYwV3dIWFR3Qmd2d2J1UlhSN1BDdTM5Ym9wOV9SOUxQck1LLVk?oc=5",
-      "source": "yahoo.com",
-      "published_date": "2026-10-04",
-      "summary": "Gubernur California Gavin Newsom mengkritik keras visi masa depan pemerintah federal yang terlalu optimis mengenai kecerdasan super, serta menyebut pendekatan tanpa regulasi ketat sebagai tindakan yang ceroboh. Newsom memperingatkan bahwa membiarkan industri AI berkembang tanpa aturan yang jelas dapat memicu ancaman keamanan siber dan hilangnya lapangan pekerjaan secara massal. Debat politik ini memperlihatkan perpecahan mendalam mengenai cara terbaik dalam mengatur inovasi teknologi tanpa mematikan pertumbuhan ekonomi.",
-      "takeaways": [
-        "Pendekatan tanpa intervensi regulasi dinilai berisiko menciptakan instabilitas sosial dan ekonomi.",
-        "California mendorong adanya aturan hukum yang lebih tegas guna melindungi pekerja dan hak cipta dari dampak buruk AI.",
-        "Ketegangan regulasi antara pemerintah daerah dan federal dapat memicu ketidakpastian hukum bagi industri teknologi."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Evolusi Kecerdasan Buatan dalam Onkologi: Dampak pada Uji Klinis, Alur Kerja, dan Hasil Pengobatan",
-      "original_title": "The Evolution of Artificial Intelligence in Oncology: Impact on Trials, Workflows, and Outcomes",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYm1lZ0NhYlBxdXFfTEpXWWlETF9WVWtqSjZPU2FuaEwxVzRHNVlLVS1OaUNmVlJBdEYwWFhHRFNDZXdqcXMyYmZYaTI2ay1WaFFiSEZRVzdfVWtPUUpNZWF6NERwQVJRdC1nV2pMOHdldDZ2RkpNM0FzRE1Gc3NzLU5RT2cyVjJFNFByYlFLbmxhR21oVkdNeUhFNl85QVJzUW0wdU1CQWdxVG9fRkhXaEJpalBDaGRRSXpqRWxVQk5vSGd0NEE?oc=5",
-      "source": "CancerNetwork",
-      "published_date": "2026-10-04",
-      "summary": "Penerapan kecerdasan buatan dalam disiplin onkologi dilaporkan mengalami perkembangan pesat, merevolusi cara para peneliti menganalisis data uji klinis kanker dan menyederhanakan birokrasi medis. Teknologi ini membantu dokter mendeteksi kanker lebih dini serta mempersonalisasikan rencana terapi berbasis profil genomik unik pasien. Integrasi AI yang matang ini diproyeksikan mampu menyelamatkan jutaan nyawa melalui efisiensi perawatan yang presisi.",
-      "takeaways": [
-        "AI secara drastis memangkas waktu analisis data uji klinis untuk penemuan obat kanker baru.",
-        "Teknologi ini mempermudah pencocokan terapi kustom berdasarkan susunan genomik spesifik pasien kanker.",
-        "Implementasi AI di rumah sakit meningkatkan efisiensi alur kerja dokter dan mengoptimalkan prognosis kesembuhan."
-      ],
-      "category": "Sains & Teknologi"
-    },
-    {
-      "title": "Trump Tunjuk Kepala Intelijen Jay Clayton Sebagai 'AI Czar' Baru Gedung Putih",
-      "original_title": "Trump names intelligence chief Jay Clayton as new White House AI czar",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSFFueFRZT3l3bzJFYWFUVmJ0Nk5CQ1NMam01eXBwemFWejgzcWxyclNvTFlOX3hRTk4zUDkwRnlubWtudHdwZG5JZzFJbjNlbFFsU0dITUJtdml4bGtSMjlQeVRpS2N6dTdVcXE3LUZWTzBKTGd1a0ZyeGFlUXhPaElFZzBPcEE3ellKZmVn?oc=5",
-      "source": "The Guardian",
-      "published_date": "2026-10-04",
-      "summary": "Presiden Donald Trump menunjuk kepala intelijen nasional Jay Clayton untuk memimpin kebijakan kecerdasan buatan federal sebagai 'AI Czar' di Gedung Putih. Langkah krusial ini menandakan pergeseran signifikan di mana pengembangan AI kini secara formal diposisikan setara dengan agenda intelijen dan pertahanan nasional tertinggi. Penunjukan Clayton diharapkan dapat menyinkronkan gerak badan-badan intelijen dalam mendeteksi dan memanfaatkan potensi AI.",
-      "takeaways": [
-        "Jay Clayton resmi memegang mandat sentral sebagai AI Czar untuk memimpin koordinasi teknologi lintas lembaga federal.",
-        "Keputusan ini mempertegas bahwa pemerintah AS memandang AI sebagai instrumen vital dalam keamanan nasional.",
-        "Integrasi kepemimpinan intelijen dan teknologi ini ditargetkan untuk mempercepat respons pertahanan siber AS."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "AI Sedang Dilatih Melakukan Pekerjaan Anda: Apakah Kita Akan Tergantikan atau Hanya Mengubah Cara Kerja?",
-      "original_title": "AI is being taught how to do your job. Will artificial intelligence replace us, or just change the way we work?",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVGR1UW82T0lfbHpsX3RoTEN5cDlWQXc4M2xVOFhnOVBpZloteEFMbmlqWUx5UWJ2cDJHMGxHb3A2TzlOY2RhQlotR3JZekh2Q213SVhhVHpLc3hySDNwRkozclJXUTNEQXRjZ3dISGVYM3Q0UVdwRWI4MmpqTk5qdGhYWmVxWTg1enV1T1U0YllHZUxFYmhVaQ?oc=5",
-      "source": "CBS News",
-      "published_date": "2026-10-04",
-      "summary": "Artikel mendalam ini mengupas fenomena di mana algoritma kecerdasan buatan secara masif dilatih untuk menyelesaikan tugas-tugas profesional yang sebelumnya dianggap membutuhkan keahlian manusia. Meski memicu kecemasan terkait potensi gelombang pengangguran massal, para pakar meyakini teknologi ini lebih berfungsi sebagai alat bantu produktivitas yang mengubah pola kerja tradisional. Kunci keberhasilan tenaga kerja masa kini terletak pada kemampuan adaptasi dan kolaborasi harmonis dengan sistem AI.",
-      "takeaways": [
-        "Pelatihan intensif AI untuk meniru tugas profesional memicu kekhawatiran nyata atas hilangnya pekerjaan tradisional.",
-        "Alih-alih pengganti total, AI diprediksi kuat bertindak sebagai asisten cerdas yang menuntut perubahan cara kerja.",
-        "Tenaga kerja dituntut untuk segera melakukan upskilling demi mempertahankan relevansi di tengah otomatisasi global."
       ],
       "category": "Artificial Intelligence"
     }
