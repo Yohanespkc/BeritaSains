@@ -1,7 +1,35 @@
 {
-  "last_updated": "2026-11-05T05:48:28.631924+00:00",
-  "total_articles": 114,
+  "last_updated": "2026-11-06T05:45:04.513888+00:00",
+  "total_articles": 115,
   "articles": [
+    {
+      "title": "Sindikat Kejahatan Manfaatkan AI Penyamaran Eksekutif Perusahaan untuk Penipuan Rp2 Triliun",
+      "original_title": "Trio used AI to impersonate corporate execs, defrauding companies of nearly $130 million: DOJ",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbk9teEswQnFheDJOb2dhZFdVOUFjM1UwaUFtNERMN0FLekk2QjllUmdmajhJaW9Ga0ZreklrNmRiNmZObnVQYkZZam1VcDBORC1PWGZ3eUkyaXA3NkxkVWJ5dDgwVk9GS01BRzItVFVQb2hDeEEyVmlrY2Vsd3huSGIzby14eTlCa0F2VzRnMFd6bUxkQjlPZWdOcXI1TDZJejJMZNIBqgFBVV95cUxQdUU2TkVGZmktVTFmVmRXX3lIQnNJamJFbGlMR2ZHa1lEcm5Bb0NaZ0FnZnBvWjA1TzNBbHBEb1A4cGJXVlQweFJfaWdjR2h2N2YtMXhiczJvQXBpTERNaUY5UXpOMno1YmdSOFN1OEp3NUV4TVB5bHhSS0tpeFFOcHdTT1Z6dk1iZk5LTk9jeHFvTnNuUXJWdGMtQjZlQ19NMWJwR29FS19fdw?oc=5",
+      "source": "Breaking News, Latest News and Videos",
+      "published_date": "2026-11-06",
+      "summary": "Departemen Kehakiman AS membongkar kasus penipuan besar di mana tiga pelaku menggunakan teknologi suara dan kloning berbasis AI untuk meniru identitas eksekutif tingkat atas. Melalui teknik rekayasa sosial ini, mereka berhasil mengelabuhi berbagai korporasi dan menguras dana hingga hampir 130 juta dolar AS. Penangkapan ini mempertegas ancaman nyata dari penyalahgunaan AI generatif di bidang siber.",
+      "takeaways": [
+        "Penggunaan AI generatif seperti suara tiruan (deepfake audio) mempercanggih kejahatan siber.",
+        "Sektor bisnis membutuhkan protokol verifikasi identitas internal yang lebih ketat.",
+        "Penegak hukum kian aktif mengusut kejahatan finansial berskala besar yang memanfaatkan AI."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Perkembangan AI Hadapi Regulasi Ketat dan Potensi Hambatan Usai Pemilu",
+      "original_title": "AI faces tighter guardrails and potential growth roadblocks after election",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRTJyNTNudDNwRXFGUnhIbEhZNVFxZWNlR2lKalc0dmh5bjIyYmp5cGJpd0d4N3BGaHZHRk0wNV9wbWk1U3NZMkg1aTM0YlBZMHNTYkJKTEROVVZjTU5FQ2dRZHBoM2RhRjFodWVDdEZqWk8zc1VlcEJuZEZBaXhPVEQ1ak1odmU0Zi1jV2EzOG1xZTIyX0d3aE9uc0NYZ28xZzRnT1FR0gG6AUFVX3lxTFBoU1JIaFp5SEc2d05McmNhby16cGR5NUlNVmN6WGZnTTNrX1A1aWFyZEhIT3BfNm1ENU9DX2dEeVVVdTAzT1JBUnRtVWtNVTRGczZuWmc3V0hXU0ViOTNZRmVmVXRhRjZUSXZkWHQ5UUlfNDFTUDJLLVp3UXNYLUh0YkxqdmhvU0RGamp2T2V2N2dHODVRRkhCU3RmN3FmQ1VOeXN0S1o1bjdybDFhYm5IYXJ6cFZBTGUwUQ?oc=5",
+      "source": "WKYT",
+      "published_date": "2026-11-06",
+      "summary": "Dinamika politik pasca-pemilu diperkirakan akan memperketat pengawasan dan aturan hukum terhadap industri kecerdasan buatan. Pemerintah dan regulator berencana memberlakukan batasan ketat untuk melindungi privasi data serta mencegah manipulasi informasi. Kebijakan baru ini diprediksi akan memperlambat laju laju pertumbuhan beberapa perusahaan AI yang belum siap beradaptasi.",
+      "takeaways": [
+        "Perubahan lanskap politik memicu pengawasan regulasi yang jauh lebih ketat bagi pengembang AI.",
+        "Perusahaan teknologi harus menyesuaikan strategi bisnis dengan aturan privasi dan etika baru.",
+        "Pertumbuhan eksponensial sektor AI berpotensi mengalami fase penyesuaian (slowdown)."
+      ],
+      "category": "Artificial Intelligence"
+    },
     {
       "title": "Terobosan Baru: Model AI Terbuka China Saingi Raksasa Silicon Valley",
       "original_title": "Another powerful new artificial intelligence model from China took the US tech industry by surprise",
@@ -139,6 +167,118 @@
         "LLM musik baru menghasilkan musik dengan pemahaman struktural harmoni yang mendalam.",
         "Mampu menghasilkan file MIDI multi-instrumen yang dapat diedit secara profesional.",
         "Membuka perdebatan baru mengenai hak cipta karya seni yang dihasilkan oleh kecerdasan buatan."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Pemanfaatan Genomik dan AI untuk Memprediksi, Mencegah, dan Mengobati Penyakit",
+      "original_title": "Using genomics, AI to predict, prevent, and treat disease",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNd200d0NXLWx0amRxUkhOdGkwVG5GN2U1QU1Ja05RczB2YmxRU3k0elVHV0N0cXlydDhmUDVWSmRaRjR5QnotM09jLTdnSEhmTkRfOVNCOFlHdmZqeExZdHFsdkg2SGtGZVZaRHdINVB1ZG9NOVVaM0Y3OTJsVlVKdUF5VmNQVXJWMkVrMzB3?oc=5",
+      "source": "Harvard T.H. Chan School of Public Health",
+      "published_date": "2026-11-05",
+      "summary": "Integrasi antara ilmu genomik dan kecerdasan buatan membuka era baru dalam dunia kedokteran presisi. Pendekatan ini memungkinkan peneliti dan tenaga medis menganalisis data genetik secara masif untuk mendeteksi potensi penyakit lebih dini dan merancang pengobatan yang dipersonalisasi. Langkah inovatif ini diharapkan dapat meningkatkan efektivitas perawatan medis serta menekan risiko komplikasi pada pasien.",
+      "takeaways": [
+        "Penggabungan AI dan genomik mempercepat analisis variasi genetik kompleks untuk pencegahan penyakit.",
+        "Memungkinkan pengembangan terapi medis presisi yang disesuaikan dengan profil genetik individu.",
+        "Mendorong pergeseran fokus kesehatan dari pengobatan kuratif menuju pencegahan proaktif."
+      ],
+      "category": "Genom & Biotek"
+    },
+    {
+      "title": "Kecerdasan Buatan Bantu Peneliti Temukan Target Penyakit Baru dalam Mitokondria",
+      "original_title": "Artificial intelligence points researchers toward new disease targets hidden in mitochondria",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMVJpd2hYUmNnOEFET2U1cjBuTzJWSWZVNy0yLWRYMlhDYWFSLVFOa2VHQWFpYUl4UHRnOE1OOURPMEJPWFVScVQ5ckZTNFZQM1ZSMzFXMnJiY0FmdnhFejNOblYzcklhc2hkUTF5cUNwcUlYY25xU1h0eFdxRkZ5MEJEeG5Mc3gxRmx1aDhlZDFVUjBvYVNCTFJHNTN4d0RDYzNaT0t2QW5MdVhRVVVJcWd5eFhQa2N0blFTY0pYeTh0Ulg5NzJENXpKYVhQaWJx?oc=5",
+      "source": "AgriLife Today",
+      "published_date": "2026-11-05",
+      "summary": "Para peneliti berhasil memanfaatkan kecerdasan buatan untuk mengungkap target molekuler penyakit yang tersembunyi di dalam mitokondria organel sel pembentuk energi. Penemuan ini membuka peluang baru dalam memahami mekanisme penyakit metabolik dan degeneratif yang selama ini sulit terdeteksi. Hasil studi ini diharapkan menjadi pijakan utama pengembangan obat baru yang lebih efektif.",
+      "takeaways": [
+        "Model AI canggih mampu memetakan interaksi molekuler kompleks di dalam mitokondria sel.",
+        "Target penyakit baru yang ditemukan berpotensi mengatasi gangguan metabolisme dan penuaan sel.",
+        "Mempercepat proses komputasi biologis dalam penemuan kandidat obat-obatan baru."
+      ],
+      "category": "Genom & Biotek"
+    },
+    {
+      "title": "Integrasi Kecerdasan Buatan dengan Instrumen Penelitian Astrofisika",
+      "original_title": "Connecting artificial intelligence with the tools of astrophysical research",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNallRdlVIcUh5WXhLMFJIQXRkcXJvM2ZrTzdxX2ppRHVwdmJROUVOeE5CeWs2YU8tMkJDYkV3QU50N3VXbXFtcEhLSF9GanRlenJCSXBnREdiZk1QOHFfcEFrbEJndGRXM3E0LVVRY0VBQ1A3V25JTW5rZ2tGU2NXUGtCZ1g?oc=5",
+      "source": "Phys.org",
+      "published_date": "2026-11-05",
+      "summary": "Sektor astrofisika kini mengadopsi perangkat AI untuk mengolah dan menganalisis observasi antariksa berukuran terabita dari teleskop modern. Teknologi ini membantu astronom mendeteksi pola kosmik yang sulit dijangkau analisis manual manusia. Sinergi ini mempercepat pemahaman ilmiah tentang evolusi galaksi dan fenomena alam semesta.",
+      "takeaways": [
+        "AI mengotomatisasi pemrosesan volume data raksasa hasil pengamatan teleskop modern.",
+        "Meningkatkan akurasi identifikasi objek antariksa baru dan fenomena astrofisika langka.",
+        "Meminimalkan waktu yang dibutuhkan ilmuwan dari pengumpulan data hingga publikasi temuan."
+      ],
+      "category": "Sains & Teknologi"
+    },
+    {
+      "title": "Ringkasan Pra-Kunjungan Berbasis AI Tingkatkan Efektivitas Komunikasi Konsultasi Bedah Saraf",
+      "original_title": "Artificial intelligence-generated pre-visit summaries improved communication outcomes in neurosurgical consultations",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObGFpRkFuLW5teTV6bkFUSm9rZ3o3Y04wcEhralFWR2didDZ2NW9xajR1bXR0UnlUbm1BbVJ3bGpJcGRHY2JjaUpOYWtpd25fRDMtVGg2eXNTd21jb1ZEWm5XV3ZFZDVjaHg4RWd4ZTJNQkdTNENvWFZfcEMwbnRSTHFjQUVqc2paMnM2RS1LdkQ2eGFNdDZLUGFlcVZMLVU0Z3ZfVVBsaFU3dEtsNkFhaVIyc3Vjb3lwpDI3SlhWdUh4WDNsUGt2Y3V5ZVBzN1lwemw5akFZcEFyX2ZtMWFEV2UwUQ?oc=5",
+      "source": "2 Minute Medicine",
+      "published_date": "2026-11-05",
+      "summary": "Studi terbaru menunjukkan bahwa pembuatan ringkasan riwayat medis pasien oleh AI sebelum konsultasi bedah saraf berhasil meningkatkan efisiensi komunikasi dokter-pasien. Sistem AI mengonsolidasikan informasi kompleks menjadi ringkasan yang jelas sehingga dokter dapat berfokus pada diskusi penanganan strategis. Hal ini terbukti mengurangi kesalahpahaman dan meningkatkan kepuasan pasien terhadap layanan kesehatan.",
+      "takeaways": [
+        "Ringkasan otomatis berbantuan AI menghemat waktu administrasi medis sebelum tindakan medis.",
+        "Komunikasi antara dokter spesialis dan pasien menjadi lebih terarah serta mudah dipahami.",
+        "Kualitas layanan dan pemahaman pasien terkait prosedur bedah saraf meningkat secara signifikan."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Panduan Standar Pemakaian Kecerdasan Buatan Secara Bertanggung Jawab",
+      "original_title": "Responsible use of artificial intelligence",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1MWNlUnlUc3NDTjV5dk5zQUZHYkU4aVk1N1B0ZFAxRVYyR3V4T2ttS2x2SEZhdXNfSnBrZElyM2J0OVJCUEdqX0pRaHhFa25MY2FxOGpodVZEX2ltYnVR?oc=5",
+      "source": "Nature",
+      "published_date": "2026-11-05",
+      "summary": "Jurnal ilmiah ternama Nature menyoroti pentingnya tata kelola dan prinsip etika dalam pengembangan serta penerapan sistem kecerdasan buatan di riset ilmiah. Makalah ini menekankan transparansi data, mitigasi bias, dan akuntabilitas algoritma agar tidak mencederai integritas penelitian. Peneliti dan pengembang diimbau mengadopsi standar etik ketat demi keselamatan publik.",
+      "takeaways": [
+        "Transparansi model dan kejelasan sumber data menjadi syarat utama AI etis dalam sains.",
+        "Mitigasi bias algoritma diperlukan untuk mencegah diskriminasi dan kesalahan konseptual.",
+        "Diperlukan standar regulasi global yang menyelaraskan inovasi AI dengan etika ilmiah."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Politisi ASO Desak Moratorium Pusat Data AI Terkait Lonjakan Konsumsi Energi",
+      "original_title": "Top Democrats call to rein in AI buildout after midterms sweep: 'National data center moratorium now'",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNG85QmJuZGVEWUIxSW4ybHJPVmN2RmR2VjBTdnkydmZSOGV6YllsWEUtbVpYclRTSWhQS09EZGxJSllyY0otS1QtQVdVY3BhY0ZqMWxfR25WeWo3Q3d5LUg5dVZrUGRneGh2LTRBQjY3SERxNTdLaXNkaU9VaHVPb0lKQW10WmvSAYwBQVVfeXFMTWdsc2pjdEpUS1NXdWRzcld3SFp2eVBhZkU2NWNOTXRsUS1WbTNRVlg3S0ZRalhiYnR5WTNKQUxiR1JXNkI3b3ItbnBsZkdoZE9lbWJkVFB1eTFwMFluVFNobUtfLU1sTUJPSlRVSU1IUnRhYXFPVzNEc0NRempsZGM3MTFTVFZSUGUzS0Y?oc=5",
+      "source": "CNBC",
+      "published_date": "2026-11-05",
+      "summary": "Sejumlah politisi senior di AS menyuarakan penghentian sementara (moratorium) pembangunan pusat data AI baru akibat beban jaringan listrik dan lonjakan emisi karbon. Kekhawatiran terhadap pasokan energi publik dan dampak lingkungan menjadi alasan utama desakan pembatasan ekspansi infrastruktur komputasi ini. Hal ini memicu perdebatan panas antara pelaku industri teknologi dan pembuat kebijakan.",
+      "takeaways": [
+        "Kebutuhan energi pusat data AI skala besar memicu kekhawatiran krisis listrik lokal.",
+        "Adanya tekanan politik untuk menerapkan moratorium infrastruktur AI demi kelestarian lingkungan.",
+        "Industri AI dituntut mencari solusi komputasi yang ramah lingkungan dan efisien energi."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Dampak Kecerdasan Buatan Terhadap Kesehatan Mental Generasi Muda Menurut Pakar",
+      "original_title": "American Psychological Association CEO Arthur C. Evans Jr. weighs how artificial intelligence will impact youth mental health",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQQ0dzWXgwaUVKTWtxOUdIUHBFdlpCdFYzejNSS29yeVV3SFA4X084eXN2dTE1ZWhsVTNHTnlmUlJTeWFYWEpnTk9zSW5TS1BSSzV1RXNsUUFVX2hyTjhfOFVmcUQtSjdqZEIzaVpRQTBiSTY0YW9GbGgybXRncVBBNnZfWmRGNGFQYmcyTlAtR2JDRjFPWmxqTWRfYU02VnhsM3BHMlA0WUZSR0xONHF0X1duNDIxWmdpWnNza3FTVkVQeHshYldRZTYzWEVndEpSRWpCNjNWWWZPWExkYXNlZ2ZYMDJjaDAzOGNRZ0UtenNJYXBMR3c?oc=5",
+      "source": "Clark University",
+      "published_date": "2026-11-05",
+      "summary": "CEO American Psychological Association, Arthur C. Evans Jr., memaparkan pengaruh interaksi AI dan media sosial terhadap perkembangan psikologis remaja. Meskipun AI menawarkan dukungan belajar dan pendampingan personal, ketergantungan berlebih dapat memicu isolasi sosial dan kecemasan. Pakar mendesak intervensi edukasi etika digital sejak dini untuk melindung anak-anak.",
+      "takeaways": [
+        "Penggunaan AI di kalangan remaja memiliki dampak ganda terhadap kesejahteraan mental.",
+        "Ketergantungan pada teman bicara berbasis AI berisiko mengurangi interaksi sosial nyata.",
+        "Diperlukan panduan penggunaan teknologi cerdas yang aman bagi tumbuh kembang anak."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Departemen Kehakiman AS Bentuk Satuan Tugas Khusus Pengawasan AI",
+      "original_title": "Department of Justice forms AI task force",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZ0c5Y0c2NDY4bnFQbWUxSkJFRi1SSWoxclNWQ0I3WUtUd2toR3dhcDVxTHdvbXN2VmRuS1hWMUxtaExSMXBPdGRXcGdPSDBaTzNwamlQNzVMZnN1UW9fNU9HR092OVZvalRGZVlrTWtCVXU3LUNOZ3BfRlJEeHlGS29zNGR3Q3Q3SEhmWXFwdTFXUkxPTkYwXzZadFh1Uml0VUM5Ug?oc=5",
+      "source": "Nextgov/FCW",
+      "published_date": "2026-11-05",
+      "summary": "Departemen Kehakiman AS resmi memunculkan satgas khusus untuk mengawasi implementasi dan risiko keamanan kecerdasan buatan. Satgas ini bertugas memantau potensi pelanggaran hukum, diskriminasi algoritma, serta penyalahgunaan AI dalam kejahatan siber. Langkah institusional ini menegaskan keseriusan pemerintah dalam mengawal perkembangan teknologi secara aman.",
+      "takeaways": [
+        "Satgas AI dibentuk khusus untuk menangani kejahatan berbasis teknologi canggih.",
+        "Fokus utama meliputi penegakan hukum terhadap bias algoritma dan pelanggaran hak cipta.",
+        "Menandai peningkatan peran pemerintah dalam meregulasi ekosistem AI secara langsung."
       ],
       "category": "Artificial Intelligence"
     },
@@ -1469,132 +1609,6 @@
         "Institut baru ini memfokuskan implementasi AI yang berpusat pada kolaborasi harmonis manusia dan mesin.",
         "Teknologi analisis gerak pintar membantu mempercepat evaluasi klinis yang objektif bagi pasien cedera.",
         "Langkah ini menjadi bukti nyata bagaimana kecerdasan buatan memperkuat, bukan menggantikan, keahlian profesi terapis medis."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Korea Selatan Bersiap Kembangkan Model AI Frontier Senilai USD 3,5 Miliar Mulai Tahun Depan",
-      "original_title": "South Korea plans to develop $3.5 billion frontier AI model starting next year",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVjdIYzN3RVFPcUozaWtycERxS2Z2LWxhclBEUmo1cVVtSkZXMWFHR2xOQUxLcmdka285NUVyVmFMZ1l4WWZuNFpsbFNocW5NWWN1RTgxcEU0YjZTQmt5WGJPUkFlRlBFREdfaHFhWFhZdkptSV9qdG81d1pibS12akVkTVpFblkzdWdqZ3JpdzM5MHpNSFZLaWQyUXQ1cTQzejRmMy1BTVFOblJGRjU2bEIwaTVDRm95bHpJb3lnZWJLUHdpQnNB?oc=5",
-      "source": "reuters.com",
-      "published_date": "2026-10-06",
-      "summary": "Pemerintah Korea Selatan mengumumkan megaproyek senilai 3,5 miliar dolar AS untuk memproduksi model AI berskala besar secara mandiri. Inisiatif ambisius ini dicanangkan demi mengamankan kedaulatan digital negara tersebut di tengah ketatnya persaingan teknologi dunia. Selain itu, proyek ini diproyeksikan mampu mendongkrak ekosistem industri teknologi dalam negeri secara berkelanjutan.",
-      "takeaways": [
-        "Korea Selatan menanamkan investasi jumbo untuk membangun model AI orisinal agar kompetitif di kancah internasional.",
-        "Langkah strategis ini dilakukan demi mereduksi ketergantungan teknologi nasional pada negara adidaya seperti AS dan Tiongkok.",
-        "Pemerintah akan bersinergi erat dengan sektor swasta, akademisi, dan raksasa teknologi domestik untuk menyukseskan proyek ini."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Anthropic Dukung Aturan Wajib Lapor Terkait Peretasan Agen AI di Australia",
-      "original_title": "Anthropic tells Australia it's open to laws requiring reporting of AI agent hacks",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPakluaktNLUFlZk8zejE5LUV6VWYtdkphTjB0UVpiYjJ2WVYwd2lXUC0xMTdPcFJXYUNMajk5MlMtcmNlSUxiUGY3T0plNzYxMG02X09jbkNlcDBldEdueENYdXhHVnd6TkVmVExyZGtzN0hqdUF5X2VsaEVMX3hWT21ob3VvWWE5UlNqbnZLb24yTXJlYWJiZGl1cjRWNnNad1ljTlF4WTVJREEza2Y0SmlmX0E0QzJfeVZjU1hFOXdYeDU2bEE?oc=5",
-      "source": "reuters.com",
-      "published_date": "2026-10-06",
-      "summary": "Perusahaan perintis AI ternama, Anthropic, secara terbuka mendukung kebijakan pemerintah Australia untuk memberlakukan undang-undang pelaporan wajib jika terjadi peretasan pada agen AI otonom. Intervensi regulasi ini dinilai sangat penting mengingat peran agen AI yang kian dalam mengelola aset digital dan data sensitif milik pengguna. Komitmen keterbukaan ini diharapkan mampu memperkuat standar kepatuhan siber di industri AI internasional.",
-      "takeaways": [
-        "Anthropic bersikap proaktif dalam mendukung pengawasan eksternal dari regulator siber guna mengamankan hak konsumen.",
-        "Perusahaan mengidentifikasi bahwa agen AI yang bersifat otonom menyimpan celah kerentanan baru yang butuh protokol tanggap darurat resmi.",
-        "Sikap kooperatif developer AI ini berpeluang menjadi cetak biru bagi negara lain yang sedang menyusun draf regulasi keamanan siber."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Mantan Karyawan Teknologi Peringatkan Dewan Kota New York bahwa Laju Perkembangan AI Terlalu Cepat",
-      "original_title": "Tech workers who resigned tell New York City Council that AI is moving too fast",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNUJlaXNhSDd3T0lpTHh3WGdMTXVMdFJNMV8zbG5YX1ZEakk4MTdCMW9sTklLUVVKYS1sTjVQYnVkZEVmR0RwOHB6X1JvbUlzSzhNdG1CanBMMHNtRVVmLXdWN2VzVzVsejVJSlpHSUtMQ1FOUG10MmQ1bWFWdDNlYXd0TEc0Y182MWduRF9jWDFKZUZBbndWNUs3V1dMUEFmdWVYMUtsakdZLVFXUlJWYw?oc=5",
-      "source": "The Washington Post",
-      "published_date": "2026-10-06",
-      "summary": "Para pekerja teknologi yang mengundurkan diri dari beberapa raksasa AI memberikan kesaksian mengkhawatirkan di hadapan Dewan Kota New York mengenai kecepatan adopsi AI yang tidak terkendali. Mereka menekankan bahwa jika tidak diiringi dengan pembatasan hukum yang nyata, akselerasi teknologi ini berisiko memperparah disinformasi dan memicu krisis pasar kerja. Kesaksian para pembocor (whistleblower) ini mendorong desakan perlunya pengawasan ketat dari level pemerintahan daerah.",
-      "takeaways": [
-        "Mantan profesional industri AI memperingatkan adanya pengabaian standar keamanan produk demi mengejar dominasi komersial pasar.",
-        "Dewan Kota New York didesak untuk memelopori pembuatan regulasi lokal guna menekan eksploitasi data publik oleh pengembang AI.",
-        "Fenomena mundurnya para ahli demi menyuarakan kebenaran (whistleblowing) mengonfirmasi adanya masalah etika mendalam di internal raksasa teknologi."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Pejabat Perusahaan AI Bungkam Saat Dicecar Pertanyaan Terkait Risiko Teknologi",
-      "original_title": "A.I. Officials Stonewall on Questions About Technology’s Risks",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5va0gwejN3VVJWMlNld3VLZDFlLUQ3TFlhbUtaOXNPUVlyUWNOYkNtb0QyOTYyOUdCczBYWVQ4Y2ttRzZLMG45SDBoMkNlQ0dsME4tVThsWEM3eGY2NG16alZTRDAwOHRadVJtQXpyMEdOdUhHTXhZTGxJUmE?oc=5",
-      "source": "The New York Times",
-      "published_date": "2026-10-06",
-      "summary": "Dalam sebuah sidang pengawasan, sejumlah eksekutif senior dari industri AI memilih bersikap defensif dan enggan memberikan jawaban konkret terkait ancaman jangka panjang produk mereka. Sikap tidak terbuka ini menyulut kejengkelan dari para pembuat undang-undang yang menghendaki akuntabilitas penuh terkait keamanan algoritma dan pemanfaatan data pribadi. Keengganan para eksekutif ini kian menguatkan kecurigaan bahwa industri tidak siap menghadapi dampak destruktif dari ciptaan mereka.",
-      "takeaways": [
-        "Para petinggi industri teknologi menghindari paparan transparan mengenai skenario kegagalan fatal teknologi AI di masa depan.",
-        "Jurang ketidakpercayaan antara publik dan raksasa pengembang AI otonom kian melebar akibat tidak adanya komitmen kepatuhan.",
-        "Para pembuat kebijakan kini condong mengabaikan desakan korporasi untuk melakukan swaregulasi internal."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Vanderbilt Terima Hibah Rp200 Miliar untuk Integrasikan Genomik dan AI dalam Layanan Klinis",
-      "original_title": "$12.8M grant to lead initiative to get genomics toward the clinic via machine learning and AI",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNR1QtSW15RlBPclVpal92Mko5bEFBMkZfR3FBNUp5Vnh2UE1TUG00SGxLUFVoZGl6M21YbURid2pqbUlaNlFfcDRxRFhTMmZJNnJhTFotckljR2N2Zy1DLXlWLUpZV01xQ1J6cmMxaEtPVGtvbGYxQ3Z1ZUIzMW9aNWZSVGE4UHFoY29YRG5PcHk1ZGU1eTB1NldlYjNRclJXeEpyX1FBTlA0QlhXMS1HRkxoeUgxWHUzMlEtY0c0UGExQ1dE?oc=5",
-      "source": "Vanderbilt Health News",
-      "published_date": "2026-10-06",
-      "summary": "Vanderbilt University mendapat dana hibah sebesar 12,8 juta dolar AS untuk memimpin inisiatif yang menerapkan pembelajaran mesin dan kecerdasan buatan dalam genomik klinis. Proyek ini bertujuan mempercepat diagnosis medis dengan menganalisis data genom pasien secara instan guna menentukan terapi terbaik. Penerapan AI ini diharapkan dapat menjembatani kesenjangan antara riset laboratorium dan perawatan pasien langsung di rumah sakit.",
-      "takeaways": [
-        "Pendanaan sebesar $12,8 juta dialokasikan untuk menyatukan AI dan genomik guna kebutuhan klinis.",
-        "Machine learning akan digunakan untuk mendeteksi penyakit genetik dengan lebih cepat dan akurat.",
-        "Langkah ini mempercepat implementasi kedokteran presisi (precision medicine) ke dalam sistem kesehatan nyata."
-      ],
-      "category": "Genom & Biotek"
-    },
-    {
-      "title": "Departemen Kehakiman AS Wajibkan Staf Sebut AI Sebagai 'Kecerdasan Super' Sesuai Perintah Trump",
-      "original_title": "US Justice Dept tells staff to call AI 'super intelligence' under Trump order",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN0M0T3dic0tvbGhzbmx3WVNKNm9iU2l0ZUNBUk5jbzZCM24zT0FOV3RFYXpVQ3NPS1BuMU1zOXNzSmdvbE9falZVOTZja2hqMGtVQWxpXzg2VE15T1FVT0pCc0NLRVowMnBKY0J4dTl0WkJTWUlsbXFOeE1VZjJTUlpEOHlldTE3MTdrMGVRQjF3NEo1aDZxUFNJa21Zb0hMdWFLSjY5dVA5YUlBQjltbmcwSDRZV1M1S2xPQUtWSXVGd2M?oc=5",
-      "source": "Reuters",
-      "published_date": "2026-10-06",
-      "summary": "Departemen Kehakiman Amerika Serikat menginstruksikan para stafnya untuk menggunakan istilah 'super intelligence' guna merujuk pada kecerdasan buatan dalam dokumen resmi dan pengadilan sesuai perintah eksekutif Presiden Trump. Kebijakan ini memicu perdebatan mengenai dampak hukum dan persepsi publik terhadap kemampuan AI saat ini. Rebranding ini dinilai sebagai langkah politis untuk mempertegas dominasi teknologi AS di kancah global.",
-      "takeaways": [
-        "Departemen Kehakiman AS kini diwajibkan menggunakan istilah 'kecerdasan super' untuk merujuk pada AI.",
-        "Langkah ini merupakan instruksi langsung di bawah pemerintahan Donald Trump yang mengubah nomenklatur resmi.",
-        "Perubahan istilah ini berpotensi memengaruhi interpretasi hukum dan regulasi terkait teknologi masa depan di pengadilan."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "OpenAI Bagikan Pencapaian Terbaru AI dalam Memecahkan Masalah Matematika Kompleks",
-      "original_title": "Sharing AI progress in mathematics",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HRmFiYm1mWTNPVTVGTk9faFRwRVZyTjhmejJwa0U3QjU3djh5SlpXT3ZhUlF2M0lXcV9jNkNka1kzY3RKNkRTTnpJVW16ZG1QdmdPU3owRXdCYzFLSkdTb3pIZWdJV0k1R3o3dw?oc=5",
-      "source": "OpenAI",
-      "published_date": "2026-10-06",
-      "summary": "OpenAI merilis laporan mengenai kemajuan pesat model kecerdasan buatan mereka dalam penalaran matematis yang rumit. Kemampuan ini menunjukkan bahwa AI tidak hanya mampu mengolah kata, tetapi juga melakukan logika formal tingkat tinggi untuk memecahkan teori matematika. Perkembangan ini penting karena penalaran matematika merupakan fondasi dasar menuju kecerdasan buatan umum (AGI).",
-      "takeaways": [
-        "OpenAI mendemonstrasikan peningkatan signifikan kemampuan model AI dalam menyelesaikan problem matematika tingkat lanjut.",
-        "Kemampuan penalaran matematika adalah kunci penting dalam pengembangan AI menuju tingkat kognitif yang menyerupai manusia.",
-        "Terobosan ini akan mempercepat riset ilmiah, kriptografi, dan rekayasa teknologi yang membutuhkan perhitungan presisi."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Kebijakan AS Semakin Terpaut dengan AI di Bawah Kendali Pemerintahan Trump",
-      "original_title": "Trump makes it clear his power is becoming entwined with AI",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVWJVc1I1ZnRhQnVpS1Bpbk5mc3pNeDM3Z3JGd3JzRDFNT0Etc3E0NVRnbVpDT3c5V0VXOVJIVkFkeVdnaFZyb2d3Y0R1Vk5xLUYwY2FGR2RGMGJrMFBOR0NGWmJYWWE1RGt5WFRQQmxER2s1bi0xaGFLM2FzSWR5Ug?oc=5",
-      "source": "The Guardian",
-      "published_date": "2026-10-06",
-      "summary": "Laporan dari The Guardian menyoroti bagaimana kekuasaan politik dan kebijakan luar negeri Amerika Serikat di bawah Donald Trump kini semakin terintegrasi dengan pengembangan kecerdasan buatan nasional. Trump melihat AI sebagai alat geopolitik utama untuk mengamankan dominasi ekonomi dan militer AS terhadap para kompetitor global seperti Tiongkok. Keterkaitan erat antara kekuasaan negara dan industri teknologi ini diperkirakan akan mempercepat deregulasi AI domestik.",
-      "takeaways": [
-        "Pemerintahan Trump mengintegrasikan kekuatan politiknya secara erat dengan arah industri kecerdasan buatan.",
-        "AI diposisikan sebagai pilar strategis bagi ketahanan nasional dan keunggulan kompetitif AS secara global.",
-        "Pendekatan ini berpotensi mempercepat komersialisasi teknologi AI dengan melonggarkan beberapa regulasi pengawasan."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Georgia Tech Buka Program Magister AI Online untuk Atasi Kelangkaan Ahli Teknologi",
-      "original_title": "Georgia Tech Announces New Online Master’s Degree in Artificial Intelligence",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcXRtclE5eHgxeG55N2gxTDlGbzI0d1EzTXVEOWRNSUxZRzdwb28wd1BaemhwY0JkRTBWcnV6Y3ZkTmRZZXhZeFd5ZmktUXZHdjNXT2NpeXpWSWlkUkhTYXJlOE5vYkdIbktpd29ocWZraFFGVm1ES3NwZWdNV0pEbjBEejNndjBKM29vajhWcWNsSnhsR0lRZTdmTF8yNnZxOWtmLTlGblA1cFhITEVuTXdn?oc=5",
-      "source": "Georgia Tech News Center",
-      "published_date": "2026-10-06",
-      "summary": "Georgia Institute of Technology mengumumkan peluncuran program studi Magister Online dalam bidang Kecerdasan Buatan untuk merespons tingginya permintaan industri akan ahli AI. Program terjangkau ini dirancang untuk memberikan akses pendidikan berkualitas tinggi bagi mahasiswa dari seluruh dunia tanpa harus meninggalkan pekerjaan mereka. Langkah akademis ini penting guna mempercepat regenerasi talenta global yang siap memimpin era inovasi masa depan.",
-      "takeaways": [
-        "Georgia Tech meluncurkan gelar Magister AI daring terjangkau untuk menjangkau basis mahasiswa global.",
-        "Inisiatif ini dirancang khusus demi menutup celah kesenjangan keterampilan tenaga kerja ahli AI di pasar industri saat ini.",
-        "Pendidikan tinggi formal kini semakin mengadopsi model fleksibel guna melatih profesional di sektor teknologi yang bergerak cepat."
       ],
       "category": "Artificial Intelligence"
     }
