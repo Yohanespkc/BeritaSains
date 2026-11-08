@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-11-07T05:15:04.490869+00:00",
-  "total_articles": 103,
+  "last_updated": "2026-11-08T05:11:40.240038+00:00",
+  "total_articles": 95,
   "articles": [
     {
       "title": "Terobosan Baru: Model AI Terbuka China Saingi Raksasa Silicon Valley",
       "original_title": "Another powerful new artificial intelligence model from China took the US tech industry by surprise",
       "url": "https://example.com/ai-china-model",
       "source": "LinkedIn News",
-      "published_date": "2026-11-07",
+      "published_date": "2026-11-08",
       "summary": "Startup AI asal China meluncurkan model open-source baru yang mengejutkan industri teknologi AS karena kemampuannya yang sangat kompetitif. Model ini menantang dominasi perusahaan besar Silicon Valley dengan performa tinggi yang dapat diakses secara gratis oleh pengembang.",
       "takeaways": [
         "Model open-source baru dari China menunjukkan kemajuan pesat dalam penelitian AI.",
@@ -21,7 +21,7 @@
       "original_title": "First CRISPR Gene Therapy for Rare Genetic Disorder Approved by FDA",
       "url": "https://example.com/crispr-approval",
       "source": "Nature Biotechnology",
-      "published_date": "2026-11-07",
+      "published_date": "2026-11-08",
       "summary": "FDA secara resmi menyetujui terapi pengeditan gen berbasis CRISPR untuk mengobati kelainan genetik langka yang merusak sel saraf. Keputusan bersejarah ini membuka jalan bagi penyembuhan penyakit genetik kronis lainnya yang sebelumnya tidak dapat disembuhkan.",
       "takeaways": [
         "FDA memberikan persetujuan untuk terapi berbasis CRISPR pertama yang menyasar penyakit sel saraf.",
@@ -35,7 +35,7 @@
       "original_title": "Scientists Create Hybrid Brain Network Using Silicon Chips and Neurons",
       "url": "https://example.com/hybrid-brain",
       "source": "Science Daily",
-      "published_date": "2026-11-07",
+      "published_date": "2026-11-08",
       "summary": "Tim peneliti gabungan berhasil menghubungkan sel saraf biologis hidup dengan chip silikon komputer menggunakan antarmuka bio-elektronik baru. Teknologi ini berpotensi digunakan untuk memulihkan fungsi sensorik pasien lumpuh serta mempercepat komputasi neuromorfik.",
       "takeaways": [
         "Integrasi sel saraf hidup dengan silikon membuka jalan bagi komputer biologis.",
@@ -49,7 +49,7 @@
       "original_title": "Google Launches Upgraded Gemini Pro with Larger Context Window",
       "url": "https://example.com/gemini-pro-update",
       "source": "TechCrunch",
-      "published_date": "2026-11-07",
+      "published_date": "2026-11-08",
       "summary": "Google resmi merilis pembaruan untuk model Gemini Pro yang kini mendukung pemrosesan dokumen panjang hingga jutaan token secara bersamaan. Pembaruan ini secara dramatis meningkatkan akurasi dalam menganalisis kode pemrograman kompleks dan laporan keuangan panjang.",
       "takeaways": [
         "Context window Gemini Pro diperluas untuk mendukung analisis data skala besar.",
@@ -63,7 +63,7 @@
       "original_title": "Full Genome Sequencing Unlocks Secrets of Ancient Rice Evolution",
       "url": "https://example.com/rice-genome",
       "source": "Genomics Journal",
-      "published_date": "2026-11-07",
+      "published_date": "2026-11-08",
       "summary": "Para peneliti genetika berhasil memetakan sekuens genom lengkap dari sampel padi purba berusia 3.000 tahun yang ditemukan di situs arkeologi. Data genetik ini mengungkap bagaimana nenek moyang kita melakukan seleksi tanaman terhadap kekeringan dan hama.",
       "takeaways": [
         "Pemetaan genom padi purba memberikan wawasan tentang adaptasi iklim masa lalu.",
@@ -77,7 +77,7 @@
       "original_title": "Future Supercomputing: Large-scale Quantum Computing Experiment Succeeds",
       "url": "https://example.com/quantum-success",
       "source": "MIT Technology Review",
-      "published_date": "2026-11-07",
+      "published_date": "2026-11-08",
       "summary": "Fisikawan berhasil menjalankan algoritma koreksi kesalahan kuantum yang stabil pada sistem 100-qubit untuk pertama kalinya. Hasil ini menunjukkan bahwa komputer kuantum komersial yang bebas dari error tingkat tinggi kini semakin dekat menjadi kenyataan.",
       "takeaways": [
         "Algoritma koreksi kesalahan kuantum berhasil menstabilkan sistem qubit dari gangguan luar.",
@@ -91,7 +91,7 @@
       "original_title": "AI Detects Early-Stage Lung Cancer Using Standard Chest X-rays",
       "url": "https://example.com/ai-lung-cancer",
       "source": "The Lancet Digital Health",
-      "published_date": "2026-11-07",
+      "published_date": "2026-11-08",
       "summary": "Sebuah sistem kecerdasan buatan baru yang dilatih pada jutaan radiografi dada mampu mendeteksi tanda-tanda awal kanker paru dengan akurasi 94%. Sistem ini dapat mendeteksi nodul kecil yang sering terlewatkan oleh radiolog manusia pada pemeriksaan rutin.",
       "takeaways": [
         "Sistem AI melampaui rata-rata akurasi deteksi radiolog manusia dalam skrining awal.",
@@ -105,7 +105,7 @@
       "original_title": "Ancient DNA Technology Reveals Migration Patterns of First Americans",
       "url": "https://example.com/ancient-dna-america",
       "source": "Science Magazine",
-      "published_date": "2026-11-07",
+      "published_date": "2026-11-08",
       "summary": "Studi terhadap sisa-sisa DNA kuno berusia 12.000 tahun menunjukkan bahwa pemukim pertama Amerika bermigrasi dalam beberapa gelombang yang berbeda secara genetik. Analisis ini meluruskan teori migrasi tunggal yang selama ini diyakini oleh para arkeolog.",
       "takeaways": [
         "Analisis genom kuno membuktikan adanya rute migrasi maritim di samping jembatan darat Beringia.",
@@ -119,7 +119,7 @@
       "original_title": "New Sodium-ion Battery Offers Cheap Alternative for Green Energy Storage",
       "url": "https://example.com/sodium-battery",
       "source": "Bloomberg Green",
-      "published_date": "2026-11-07",
+      "published_date": "2026-11-08",
       "summary": "Para peneliti berhasil mengembangkan baterai sodium-ion (garam) berkapasitas tinggi dengan siklus hidup yang menyamai baterai lithium-ion. Karena sodium sangat melimpah dan murah, teknologi ini dapat mempercepat transisi ke penyimpanan energi surya dan angin skala besar.",
       "takeaways": [
         "Baterai berbasis garam menawarkan biaya produksi 40% lebih murah dibanding lithium.",
@@ -133,7 +133,7 @@
       "original_title": "Advancement in Automatic Music Generation Using Pitch-Specific LLMs",
       "url": "https://example.com/music-llm",
       "source": "Wired",
-      "published_date": "2026-11-07",
+      "published_date": "2026-11-08",
       "summary": "Model bahasa besar (LLM) terbaru yang dikonfigurasi khusus untuk memahami teori musik dapat menghasilkan aransemen orkestra lengkap secara instan berdasarkan deskripsi teks. Model ini memahami harmoni dan transisi instrumen secara organik layaknya komposer profesional.",
       "takeaways": [
         "LLM musik baru menghasilkan musik dengan pemahaman struktural harmoni yang mendalam.",
@@ -1329,118 +1329,6 @@
         "OpenAI mempromosikan visi kolaboratif di mana AI bertindak sebagai perluasan potensi kognitif manusia.",
         "AI dirancang untuk menjadi mitra pemecah masalah, bukan kompetitor bagi eksistensi tenaga kerja manusia.",
         "Pengembangan teknologi masa depan wajib memprioritaskan keselamatan moral dan keselarasan nilai-nilai kemanusiaan."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Kesepakatan Tanggung Jawab AI Gedung Putih & Gugus Tugas 'Super Intelligence': Panduan Penting bagi Pelaku Bisnis",
-      "original_title": "White House AI Responsibility Accord & Super Intelligence Task Force: What Businesses Need to Know",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOVWUzWUt0cTJNd2E5OUVUN2NKYlJQaGNNekZMaVlRRWgxSWY4UUNKY3pHV2NGY1AyYi1CbURiV2JPQWs1Qmp5MzVjSkNpMmtUU01CamdlTXNWTFdxc1M0NUF5ajdoQVZNRlV2bGNCajlMOGRoU1c0ZmNLVTRMSUs0SVYxaC1WREYzbzhCMVFaNUxYTVhSNkk0YzRNOW1BUVBGdVFRc2pDd1RHSWcwcGt4UDV1a245aElHajFia0RncmMzZTF1OWJwWjR3cWJpa1hPQUFuTzFpMkM0cEw0ZjVzeg?oc=5",
-      "source": "Crowell & Moring LLP",
-      "published_date": "2026-10-08",
-      "summary": "Pemerintah Amerika Serikat memperkenalkan panduan kepatuhan baru berupa Kesepakatan Tanggung Jawab AI dan mendirikan Gugus Tugas Super Intelligence khusus. Kebijakan ini bertujuan untuk memastikan pengembangan kecerdasan buatan tetap mengedepankan aspek keselamatan, etika, dan mitigasi risiko keamanan nasional. Pelaku usaha di berbagai sektor kini dituntut untuk menyelaraskan peta jalan teknologi mereka dengan regulasi ketat ini.",
-      "takeaways": [
-        "Pemerintah AS memperketat pengawasan terhadap pengembangan teknologi kecerdasan buatan tingkat lanjut.",
-        "Pelaku bisnis harus mengantisipasi kewajiban audit etika dan kepatuhan dalam penerapan AI korporasi.",
-        "Gugus tugas baru dibentuk khusus untuk meminimalkan risiko eksistensial dan ancaman keamanan dari kecerdasan super."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Ledakan Tren AI Bawa Laba Operasional Samsung Lampaui Target 80 Miliar Dolar",
-      "original_title": "Samsung Sees Operating Profit Topping $80 Billion Amid AI Boom",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPT29pUjVPc09lVU1EU1ZfdkdTQ2NiYUxCWWdFUG56S2tIU2dIWGtiS2pGNVFHWTE2ajB6SURFU2VqODVsTlQ0eEgzU1g4MU4xdDA5Q3ZZUW9tb0ZVVzdwR2xuQVhuZzllbUJ6blZuN0owUFhPck1VMkR0TmhQbU40VlpEWDNvSzZmWk1QVVVaUzlleDNkbGJpWDY2VQ?oc=5",
-      "source": "WSJ",
-      "published_date": "2026-10-08",
-      "summary": "Samsung memproyeksikan lonjakan laba operasional tahunan hingga melebihi angka fantastis 80 miliar dolar AS, didorong oleh tingginya permintaan global untuk cip memori berperforma tinggi pendukung infrastruktur AI. Sebagai pemain kunci rantai pasok global, kesuksesan finansial ini menegaskan posisi tawar semikonduktor Samsung di era komputasi cerdas. Fenomena ini sekaligus membuktikan masifnya investasi korporasi dunia pada ekosistem AI.",
-      "takeaways": [
-        "Permintaan pasar global untuk cip memori berkecepatan tinggi menjadi mesin pertumbuhan utama laba Samsung.",
-        "Industri semikonduktor memegang peran krusial sebagai fondasi fisik dari revolusi kecerdasan buatan.",
-        "Investasi korporasi besar dalam infrastruktur AI global terus menunjukkan tren pertumbuhan yang eksponensial."
-      ],
-      "category": "Sains & Teknologi"
-    },
-    {
-      "title": "Rumah Sakit Masa Depan di Austin Dirancang Sepenuhnya Menggunakan Teknologi AI",
-      "original_title": "Austin’s 'Hospital of the Future’ Is Being Designed With AI From the Ground Up",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPV1Y2dTExWFRPWldzaG1JUkp1RDI0aldtQVR1cE0tR1Ftc290Rm5CbHlQcEdObmZFVkVrcldUTHFiQklLVXBndlhCenJSWUVpU1VsQ0UteVhTMlhWX3ZHelRKM0gyX0k0U3FwRDdUaGpsMmtBUFVNSllzb2lBX0NVc3FhZzZWZGhIamwxQ2JSRlJ5eTNHbE9wRkkySTFUVzJYT1RYOHJxT2xueU9EYmRmd1JlaFZ0cTQ?oc=5",
-      "source": "KEYE",
-      "published_date": "2026-10-08",
-      "summary": "Proyek pembangunan fasilitas medis modern di Austin, AS, menggunakan kecerdasan buatan sejak tahap cetak biru hingga operasional harian. AI dimanfaatkan untuk mengoptimalkan penempatan ruang perawatan, merancang rute evakuasi darurat tercepat, serta memprediksi kebutuhan alokasi staf klinis. Pendekatan inovatif ini diprediksi akan menjadi standar baru efisiensi pembangunan rumah sakit di tingkat global.",
-      "takeaways": [
-        "Integrasi AI sejak awal perancangan arsitektur fisik mampu mengoptimalkan fungsi ruang secara cerdas.",
-        "Teknologi ini membantu meminimalkan waktu tunggu pasien lewat optimalisasi alur kerja otomatis.",
-        "Penerapan sistem ini menjadi cetak biru bagi pembangunan infrastruktur medis modern di masa depan."
-      ],
-      "category": "Sains & Teknologi"
-    },
-    {
-      "title": "Edit Dokter pada Pesan Pasien Buatan AI Pengaruhi Efisiensi Waktu Respons",
-      "original_title": "Physician edits to artificial intelligence (AI)-generated messages to patients were associated with different response time burdens",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZWlocTM0X0VSLTh4SEVXTXZNejZxRERHR0NHVzNwRkl6bHRkYm1sRnJ2U1g5V1FEZkNlMmdDSmxycDFGdFJCWEpkTW44ZG9kTms3aUQ4REU0ME5Nek5fcEZROW5fM0Jzalg4OTJMMGZaR1RZa2U4WUdGOTdpU2RHT1dkcmx2UEpQVWtWWkkwQnBBSWRJNGFBUG5xLVpvaWVtUS1LNzgyUmJINTVfS1dKUnYzNmNqTW5UamRuQ3h5VkRQX0FxZGJJenNrVE1RclVtdjFGSGF5NjRFOGNjempkQ0lUWGc4UjFEZU0xVjU5WDE5bERi?oc=5",
-      "source": "2 Minute Medicine",
-      "published_date": "2026-10-08",
-      "summary": "Sebuah studi menunjukkan bahwa proses penyuntingan yang dilakukan dokter terhadap pesan otomatis buatan AI untuk pasien memengaruhi beban waktu respons medis secara bervariasi. Penggunaan draf AI bertujuan membantu komunikasi medis, namun penyesuaian manual oleh dokter tetap krusial untuk akurasi klinis. Hasil riset ini menggarisbawahi perlunya optimalisasi sistem AI agar tidak justru menambah beban kerja tenaga medis.",
-      "takeaways": [
-        "Penyuntingan pesan medis buatan AI oleh dokter berdampak signifikan pada efisiensi waktu komunikasi.",
-        "Integrasi AI dalam administrasi kesehatan ditujukan untuk mengurangi beban kerja, tetapi memerlukan kalibrasi yang tepat.",
-        "Akurasi klinis tetap bergantung pada pengawasan dan intervensi manual oleh dokter ahli."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Trump Ubah Istilah AI Menjadi 'Super Intelligence': Redefinisi Istilah yang Picu Perdebatan",
-      "original_title": "Trump renamed AI ‘super intelligence.’ But that term already means something else.",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQWttbWhqOXJoWFVqVHN5WjczWDVKaWgydXhGWWRGNW5lbWxwUURyZUs2N0hUOVlqNnBhS2pkd21TTW1mTmNsLUh2ajkxMWVqc245Q1NaQWplYXZaM3V1TlBMUHRSOTRuSkxHZFJyUXl5RkxxQWh6a0RYZ081WUo1VEJDbUE0WHJwc3NjNFRxVQ?oc=5",
-      "source": "Poynter",
-      "published_date": "2026-10-08",
-      "summary": "Donald Trump menarik perhatian setelah melabeli siapa pun yang enggan menggunakan istilah 'super intelligence' untuk AI sebagai musuh. Namun, para pakar teknologi memperingatkan bahwa istilah tersebut memiliki makna ilmiah spesifik tentang entitas yang melampaui kecerdasan manusia secara kognitif. Kontroversi terminologi ini berisiko membingungkan pemahaman publik tentang realitas kapabilitas kecerdasan buatan saat ini.",
-      "takeaways": [
-        "Trump mendesak penggunaan istilah 'super intelligence' alih-alih 'artificial intelligence' (AI).",
-        "Para akademisi menjelaskan bahwa 'super intelligence' adalah konsep teoritis masa depan, bukan AI komersial saat ini.",
-        "Politisasi istilah teknologi berpotensi memicu kesalahpahaman publik terkait regulasi dan ancaman AI."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Rancangan Undang-Undang Regulasi AI di Tingkat Negara Bagian Terhenti Pasca Ancaman Pemotongan Dana oleh Trump",
-      "original_title": "State A.I. regulation bills stalled after Trump funding threat",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNN3dUOEVfSjY1Z3o2eENBQ3RJX3RlbWhlS0dhN0pMNXFPakVBUUJlQnJXOGxDc1ZLNDRxS1RJU2cwcTlLbFRBczYtdWdLbWM2Y3BETDlRM094S21zQnZYanZ1ckVGRG05NnNWcFBlVlZwaWlJWGZvQzR4NjRpeWZWS0V4SEp1WFVTYmhwNjF0UkVJamNUVW5rVNIBrAFBVV95cUxNb0JIYVRRLXRTMFAyVU5sVUZKM2QxaDZWV18zU1JOOGVqQW8yaWtKal9iMDQ0OFZWdkRPLU90cDFBd0FTVzljNnVQY1JrVzlpZnQ3cWxnSlZocUZBRS1nSXU3LWZwaWtnSzVQZ0dHYmEwRXNPUXhqY0Y1R1BWSzhCWkRpdWdoR0tScVQxN0xBZURKVndCR1JNMU4yV1JQN0daUGxZaTNpTER4QWdE?oc=5",
-      "source": "WAFB",
-      "published_date": "2026-10-08",
-      "summary": "Upaya penyusunan regulasi AI di berbagai negara bagian AS terhambat menyusul ancaman pemangkasan anggaran oleh Donald Trump. RUU tersebut dirancang untuk mengendalikan bias algoritma dan pelanggaran privasi akibat meluasnya adopsi AI. Hambatan kebijakan ini memicu kekhawatiran dari para advokat keamanan digital mengenai potensi kekosongan hukum dalam pengawasan AI.",
-      "takeaways": [
-        "Rencana regulasi AI tingkat lokal menghadapi hambatan politik akibat tekanan anggaran federal.",
-        "Trump mengancam memotong pendanaan bagi negara bagian yang menerapkan pengawasan ketat terhadap AI.",
-        "Penundaan regulasi ini dikhawatirkan melonggarkan pengawasan etika penggunaan kecerdasan buatan."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Jajak Pendapat Terbaru AP-NORC: Mayoritas Warga AS Khawatir Perkembangan AI Terlalu Cepat",
-      "original_title": "Most Americans think artificial intelligence is developing too fast, a new AP-NORC poll finds",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUktxTDdUVUhnU0ZOdmxHY2NwODkxQzNhQmlRVlZJclBpbmF1TzdKVktxVjFNUTdJdGhCdmNMVmdteTRVUkV5eEZRNmtMSDFxWTN3Y2tFUFhLZndYeWpJZFg5ZUZyemY3SU9VMGxwVmxka1FOdXJMNmNxWGwxNXRENGswdGFObVM3Rnk4Vy1DeGdKYWlJSE9LLS1BY01mN05DUzRRTzhCYkZyS284TmtYb2E2ZmR4bHAxWFhn?oc=5",
-      "source": "AP News",
-      "published_date": "2026-10-08",
-      "summary": "Hasil survei terbaru menunjukkan bahwa sebagian besar warga Amerika Serikat merasa cemas dengan laju perkembangan teknologi AI yang dinilai terlalu cepat tanpa kontrol yang memadai. Kekhawatiran utama publik mencakup hilangnya lapangan pekerjaan, ancaman privasi data pribadi, dan penyebaran misinformasi yang masif. Hasil ini menuntut pihak pengembang teknologi dan pemerintah untuk lebih mendengarkan masukan masyarakat.",
-      "takeaways": [
-        "Mayoritas warga AS mendesak perlunya perlambatan atau regulasi yang lebih ketat terhadap inovasi AI.",
-        "Kecemasan utama masyarakat berakar dari potensi otomatisasi kerja dan pelanggaran hak privasi.",
-        "Hasil jajak pendapat ini mencerminkan adanya jurang pemisah antara antusiasme industri teknologi dan ketakutan publik."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Mengatasi Bias dan Menjamin Kesetaraan Penggunaan AI dalam Praktik Hukum",
-      "original_title": "Artificial Intelligence, Bias and Equity in Legal Practice",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTnFQZ3pVNXRCbWlqZXozQ2ZCX25tMG5rMEM1RmxoZzdTc2RrWXM3MHlTWHpoVFlSaTNQck43Y3JDQVVUYXZTTDdxTlN5WXQwVnFqRk9MMFF5M2JXVVBWN0RxOEZkMWo5MFR6SUVSeF9hZjNIQUV3djl5M01WVnRCck1jdlJGNWJHTl9V?oc=5",
-      "source": "New York State Bar Association",
-      "published_date": "2026-10-08",
-      "summary": "Asosiasi Pengacara Negara Bagian New York menyoroti urgensi dalam mengatasi bias algoritma demi menjamin keadilan dalam praktik hukum berbasis AI. Sistem kecerdasan buatan yang diadopsi untuk analisis dokumen hukum seringkali membawa bias implisit dari data pelatihan masa lalu yang tidak setara. Reformasi dan evaluasi rutin dianggap penting agar AI tidak memperlebar ketimpangan dalam sistem peradilan.",
-      "takeaways": [
-        "AI dalam dunia hukum berisiko mereproduksi bias historis yang merugikan kelompok marginal.",
-        "Praktisi hukum dituntut memahami cara kerja algoritma guna mendeteksi kecacatan dalam argumentasi otomatis.",
-        "Keadilan sistem hukum bergantung pada audit ketat terhadap perangkat lunak kepengacaraan komersial."
       ],
       "category": "Artificial Intelligence"
     }
