@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-11-08T05:11:40.240038+00:00",
-  "total_articles": 95,
+  "last_updated": "2026-11-09T05:22:37.790768+00:00",
+  "total_articles": 90,
   "articles": [
     {
       "title": "Terobosan Baru: Model AI Terbuka China Saingi Raksasa Silicon Valley",
       "original_title": "Another powerful new artificial intelligence model from China took the US tech industry by surprise",
       "url": "https://example.com/ai-china-model",
       "source": "LinkedIn News",
-      "published_date": "2026-11-08",
+      "published_date": "2026-11-09",
       "summary": "Startup AI asal China meluncurkan model open-source baru yang mengejutkan industri teknologi AS karena kemampuannya yang sangat kompetitif. Model ini menantang dominasi perusahaan besar Silicon Valley dengan performa tinggi yang dapat diakses secara gratis oleh pengembang.",
       "takeaways": [
         "Model open-source baru dari China menunjukkan kemajuan pesat dalam penelitian AI.",
@@ -21,7 +21,7 @@
       "original_title": "First CRISPR Gene Therapy for Rare Genetic Disorder Approved by FDA",
       "url": "https://example.com/crispr-approval",
       "source": "Nature Biotechnology",
-      "published_date": "2026-11-08",
+      "published_date": "2026-11-09",
       "summary": "FDA secara resmi menyetujui terapi pengeditan gen berbasis CRISPR untuk mengobati kelainan genetik langka yang merusak sel saraf. Keputusan bersejarah ini membuka jalan bagi penyembuhan penyakit genetik kronis lainnya yang sebelumnya tidak dapat disembuhkan.",
       "takeaways": [
         "FDA memberikan persetujuan untuk terapi berbasis CRISPR pertama yang menyasar penyakit sel saraf.",
@@ -35,7 +35,7 @@
       "original_title": "Scientists Create Hybrid Brain Network Using Silicon Chips and Neurons",
       "url": "https://example.com/hybrid-brain",
       "source": "Science Daily",
-      "published_date": "2026-11-08",
+      "published_date": "2026-11-09",
       "summary": "Tim peneliti gabungan berhasil menghubungkan sel saraf biologis hidup dengan chip silikon komputer menggunakan antarmuka bio-elektronik baru. Teknologi ini berpotensi digunakan untuk memulihkan fungsi sensorik pasien lumpuh serta mempercepat komputasi neuromorfik.",
       "takeaways": [
         "Integrasi sel saraf hidup dengan silikon membuka jalan bagi komputer biologis.",
@@ -49,7 +49,7 @@
       "original_title": "Google Launches Upgraded Gemini Pro with Larger Context Window",
       "url": "https://example.com/gemini-pro-update",
       "source": "TechCrunch",
-      "published_date": "2026-11-08",
+      "published_date": "2026-11-09",
       "summary": "Google resmi merilis pembaruan untuk model Gemini Pro yang kini mendukung pemrosesan dokumen panjang hingga jutaan token secara bersamaan. Pembaruan ini secara dramatis meningkatkan akurasi dalam menganalisis kode pemrograman kompleks dan laporan keuangan panjang.",
       "takeaways": [
         "Context window Gemini Pro diperluas untuk mendukung analisis data skala besar.",
@@ -63,7 +63,7 @@
       "original_title": "Full Genome Sequencing Unlocks Secrets of Ancient Rice Evolution",
       "url": "https://example.com/rice-genome",
       "source": "Genomics Journal",
-      "published_date": "2026-11-08",
+      "published_date": "2026-11-09",
       "summary": "Para peneliti genetika berhasil memetakan sekuens genom lengkap dari sampel padi purba berusia 3.000 tahun yang ditemukan di situs arkeologi. Data genetik ini mengungkap bagaimana nenek moyang kita melakukan seleksi tanaman terhadap kekeringan dan hama.",
       "takeaways": [
         "Pemetaan genom padi purba memberikan wawasan tentang adaptasi iklim masa lalu.",
@@ -77,7 +77,7 @@
       "original_title": "Future Supercomputing: Large-scale Quantum Computing Experiment Succeeds",
       "url": "https://example.com/quantum-success",
       "source": "MIT Technology Review",
-      "published_date": "2026-11-08",
+      "published_date": "2026-11-09",
       "summary": "Fisikawan berhasil menjalankan algoritma koreksi kesalahan kuantum yang stabil pada sistem 100-qubit untuk pertama kalinya. Hasil ini menunjukkan bahwa komputer kuantum komersial yang bebas dari error tingkat tinggi kini semakin dekat menjadi kenyataan.",
       "takeaways": [
         "Algoritma koreksi kesalahan kuantum berhasil menstabilkan sistem qubit dari gangguan luar.",
@@ -91,7 +91,7 @@
       "original_title": "AI Detects Early-Stage Lung Cancer Using Standard Chest X-rays",
       "url": "https://example.com/ai-lung-cancer",
       "source": "The Lancet Digital Health",
-      "published_date": "2026-11-08",
+      "published_date": "2026-11-09",
       "summary": "Sebuah sistem kecerdasan buatan baru yang dilatih pada jutaan radiografi dada mampu mendeteksi tanda-tanda awal kanker paru dengan akurasi 94%. Sistem ini dapat mendeteksi nodul kecil yang sering terlewatkan oleh radiolog manusia pada pemeriksaan rutin.",
       "takeaways": [
         "Sistem AI melampaui rata-rata akurasi deteksi radiolog manusia dalam skrining awal.",
@@ -105,7 +105,7 @@
       "original_title": "Ancient DNA Technology Reveals Migration Patterns of First Americans",
       "url": "https://example.com/ancient-dna-america",
       "source": "Science Magazine",
-      "published_date": "2026-11-08",
+      "published_date": "2026-11-09",
       "summary": "Studi terhadap sisa-sisa DNA kuno berusia 12.000 tahun menunjukkan bahwa pemukim pertama Amerika bermigrasi dalam beberapa gelombang yang berbeda secara genetik. Analisis ini meluruskan teori migrasi tunggal yang selama ini diyakini oleh para arkeolog.",
       "takeaways": [
         "Analisis genom kuno membuktikan adanya rute migrasi maritim di samping jembatan darat Beringia.",
@@ -119,7 +119,7 @@
       "original_title": "New Sodium-ion Battery Offers Cheap Alternative for Green Energy Storage",
       "url": "https://example.com/sodium-battery",
       "source": "Bloomberg Green",
-      "published_date": "2026-11-08",
+      "published_date": "2026-11-09",
       "summary": "Para peneliti berhasil mengembangkan baterai sodium-ion (garam) berkapasitas tinggi dengan siklus hidup yang menyamai baterai lithium-ion. Karena sodium sangat melimpah dan murah, teknologi ini dapat mempercepat transisi ke penyimpanan energi surya dan angin skala besar.",
       "takeaways": [
         "Baterai berbasis garam menawarkan biaya produksi 40% lebih murah dibanding lithium.",
@@ -133,7 +133,7 @@
       "original_title": "Advancement in Automatic Music Generation Using Pitch-Specific LLMs",
       "url": "https://example.com/music-llm",
       "source": "Wired",
-      "published_date": "2026-11-08",
+      "published_date": "2026-11-09",
       "summary": "Model bahasa besar (LLM) terbaru yang dikonfigurasi khusus untuk memahami teori musik dapat menghasilkan aransemen orkestra lengkap secara instan berdasarkan deskripsi teks. Model ini memahami harmoni dan transisi instrumen secara organik layaknya komposer profesional.",
       "takeaways": [
         "LLM musik baru menghasilkan musik dengan pemahaman struktural harmoni yang mendalam.",
@@ -1259,76 +1259,6 @@
         "Teknologi deepfake berbasis AI menjadi ancaman utama terhadap kepercayaan publik secara digital.",
         "Diperlukan sistem verifikasi identitas yang lebih canggih untuk menangkal penipuan AI.",
         "Edukasi keamanan siber sangat vital bagi masyarakat di era manipulasi media berbasis AI."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Kecerdasan Buatan Kini Membantu Pelacakan Badai yang Lebih Akurat",
-      "original_title": "Artificial intelligence helping track hurricanes",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUnkyS0xVYS1McC1aemluZnNMcEJRU0pmMFhHbmYtd0EtaHdJZ1VDSHVWR0ZjY05VaGYyT3FsQXRJN2JnQnZQZ3RsOG54amkwMHpCd18tRzA4eWp3a1JHRkpyQWtJVzFtdGVuUHZQY1FzdUNjMDhmUFY3RFNJOXp6aXA5cmhQWEYyUEhMMlpXQUM?oc=5",
-      "source": "WBRC",
-      "published_date": "2026-10-09",
-      "summary": "Teknologi kecerdasan buatan (AI) kini diandalkan untuk mendeteksi dan melacak pergerakan badai dengan presisi yang lebih tinggi. Dengan menganalisis data meteorologi dalam jumlah masif secara real-time, AI membantu mempercepat peringatan dini bagi wilayah terdampak. Langkah inovatif ini diharapkan dapat meminimalkan kerusakan material dan menyelamatkan lebih banyak nyawa.",
-      "takeaways": [
-        "AI mempercepat analisis data cuaca ekstrem untuk memberikan prediksi jalur badai yang lebih cepat.",
-        "Teknologi ini meminimalkan margin kesalahan dalam pelacakan badai konvensional.",
-        "Sistem peringatan dini bertenaga AI sangat krusial dalam mitigasi bencana global akibat perubahan iklim."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Berkeley Lab Tingkatkan Performa Akselerator Partikel Lewat Teknologi AI",
-      "original_title": "Berkeley Lab: Artificial Intelligence for Particle Accelerators Gets Another Boost",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVk5odGJMbEk2M0l4LUVXUEJzSUFodGIwcTFMNl9jQURrR3djeUdqM19tLVRicWxXYnVfeXBzeEZGTU9Jc1pTeG1Sd1BjRGJKMjdiUjd0S243LWFfR2Vkc2twYVhFWDNscWxUWkVRVk5PbGtWNDdXTHoybkJfZXM4T3Q3OU5ncGQtUF8xWWtTaFZ3c0I4Vk9YaDBJeElmbExYWkw4Mk16YV9CclRleHctQ2NUR2g2VTdBZzZN?oc=5",
-      "source": "HPCwire",
-      "published_date": "2026-10-09",
-      "summary": "Berkeley Lab kembali mendapatkan dukungan baru untuk mengintegrasikan kecerdasan buatan guna mengoptimalkan kinerja akselerator partikel. Pemanfaatan AI diharapkan dapat mengendalikan berkas partikel berkecepatan tinggi dengan akurasi mikro-detik yang sulit dicapai secara manual. Proyek ini membuka jalan baru bagi eksperimen fisika energi tinggi dan pengembangan material masa depan.",
-      "takeaways": [
-        "AI digunakan untuk otomatisasi dan kontrol presisi tinggi pada akselerator partikel Berkeley Lab.",
-        "Peningkatan sistem ini mendukung penemuan sains fundamental di bidang fisika kuantum dan sains material.",
-        "Teknologi komputasi mutakhir meminimalkan risiko kegagalan eksperimen operasional berbiaya tinggi."
-      ],
-      "category": "Sains & Teknologi"
-    },
-    {
-      "title": "Lembaga Amal AS Berencana Gunakan AI untuk Pantau Ujaran Kebencian di Kelas-Kelas Gaza",
-      "original_title": "A US charity plans to use AI to monitor its Gaza classrooms for 'hateful' speech",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT05YSGlNSWZwX2RJSmk2MHNEeGJIQVhYQ1F1SjhQWExhNm51bXJESFlVaVZmZGJGczlpd2hjYjdwTGU0T191WHlac2RpOURyTzV0MmwzNEMtZzI0b1B6ZXlWRXB1c1pCb0VnSEs0MEdmNnBBTzBCckU1Ym5ZR1V6ZUkxRW5tcFVWOWdUdU5nWXljSVpyZzc2SnFYS21OU05JVHVQMHpkNjN0VjNET3N2andsQXA?oc=5",
-      "source": "WRAL",
-      "published_date": "2026-10-09",
-      "summary": "Sebuah lembaga kemanusiaan asal Amerika Serikat merencanakan penggunaan kecerdasan buatan untuk mendeteksi potensi ujaran kebencian di dalam ruang kelas di Gaza. Penggunaan AI ini dirancang guna memastikan lingkungan belajar tetap netral, aman, dan bebas dari muatan ekstremisme politik. Meski demikian, rencana ini memicu perdebatan mengenai hak privasi siswa dan potensi bias dari teknologi pengenalan suara.",
-      "takeaways": [
-        "AI akan memantau percakapan di ruang kelas guna menyaring ujaran kebencian di zona konflik.",
-        "Inisiatif ini memicu polemik seputar privasi anak-anak dan etika pengawasan massal.",
-        "Akurasi algoritma bahasa daerah (Arab dialek Gaza) menjadi tantangan teknis utama dalam pengawasan ini."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Dewan Farmasi New Hampshire Ajukan Aturan Penggunaan AI dalam Praktik Apoteker",
-      "original_title": "New Hampshire Board of Pharmacy Proposes Rules Governing Artificial Intelligence in Pharmacy Practice",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZ2c5Y2VFNHBXdkh4RTN1clVJYlpnaTV1QnZRdndMaklxb3YtQmZQemNjXzB2eVFfM2ZYMWNlck53VjBIWFZUSGQ2RzZqRHJUN2NEaFhSU0pwTUNwc1NVSldnNzNvSE5kRDVvTDZuUmJmRTg2T3pmX2FaRVFjYXlpMmFBN2Y3MEdkdUZOXzhXOHB5Q2REMFk5Vy1tRTJGci1sYXZNWk5oWHdLNjFHRVF3dHBBQ0R5Z1V4Zzdzc1YxUWlmbW9RdHNDa3FyRHJmbnBfc2NmWm03dlZaUXg1Q1I0MA?oc=5",
-      "source": "Quarles & Brady",
-      "published_date": "2026-10-09",
-      "summary": "Dewan Farmasi New Hampshire mengusulkan draf regulasi baru guna memandu pemanfaatan kecerdasan buatan dalam praktik kefarmasian sehari-hari. Aturan ini bertujuan meminimalkan kesalahan peresepan obat berbasis algoritma dan melindungi keselamatan pasien dari disfungsi teknologi. Inisiatif ini menandai langkah proaktif pemerintah lokal dalam mengawal integrasi AI di sektor layanan kesehatan vital.",
-      "takeaways": [
-        "Regulasi diusulkan untuk menetapkan standar keselamatan operasional AI di apotek komersial.",
-        "Langkah ini bertujuan mencegah potensi salah dosis atau interaksi obat berbahaya akibat otomatisasi sistem.",
-        "Apoteker manusia tetap wajib memegang tanggung jawab penuh atas verifikasi akhir resep medis."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "The Eternal Complement: Visi OpenAI tentang Sinergi Abadi Manusia dan AI",
-      "original_title": "The eternal complement",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBVWmpWcUY1SVAtVWc2bnhmNHhSOWVFYnY4aGR3RG4xRHZwWlNNdFhwRS1aSUZhQk5kNUpGRnhBdU03T01rU0JXaWdnQ1hPck1RT0lCbE03V3Q5Ti05?oc=5",
-      "source": "OpenAI",
-      "published_date": "2026-10-09",
-      "summary": "OpenAI menerbitkan esai filosofis terbaru yang menggambarkan kecerdasan buatan bukan sebagai pengganti manusia, melainkan sebagai komplementer atau pelengkap abadi dalam peradaban. Kolaborasi ini dirancang untuk meningkatkan kapabilitas kreatif, intelektual, dan problem-solving manusia guna memecahkan tantangan global. Pendekatan ini menekankan pentingnya membangun kecerdasan buatan yang berpusat pada nilai kemanusiaan.",
-      "takeaways": [
-        "OpenAI mempromosikan visi kolaboratif di mana AI bertindak sebagai perluasan potensi kognitif manusia.",
-        "AI dirancang untuk menjadi mitra pemecah masalah, bukan kompetitor bagi eksistensi tenaga kerja manusia.",
-        "Pengembangan teknologi masa depan wajib memprioritaskan keselamatan moral dan keselarasan nilai-nilai kemanusiaan."
       ],
       "category": "Artificial Intelligence"
     }
