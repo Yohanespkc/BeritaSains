@@ -1,7 +1,105 @@
 {
-  "last_updated": "2026-11-10T06:35:07.163507+00:00",
-  "total_articles": 90,
+  "last_updated": "2026-11-11T05:21:52.865971+00:00",
+  "total_articles": 100,
   "articles": [
+    {
+      "title": "Konvergensi Kecerdasan Buatan dan Biologi Sintetis Dorong Percepatan Pemuliaan Tanaman",
+      "original_title": "Artificial Intelligence and Synthetic Biology Converge to Accelerate Crop Improvement",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVk1sYlZQVFBzN3VyajNWWTRlZ291T2w4eU1CMVE0MlR5VUVQNzF5VWM3WlBqODYtNUwwbkNXS0wxQTROU0tBNjFGaklYOEthWjlPNnBocFMxWUx5LVJodVlFOVRTOVd5YnFCbmtCaUxORXgyY0E5UkdzekUtYUY3ZlFCdDJFRWJZVXRjS0dhTnYwTEd0bHYyZGVpS25pZUNQZ0FYM2RSV19HOTFycU53?oc=5",
+      "source": "Bioengineer.org",
+      "published_date": "2026-11-11",
+      "summary": "Penggabungan teknologi kecerdasan buatan dan biologi sintetis kini mempercepat proses pemuliaan serta peningkatan kualitas tanaman pangan. Pendekatan ini memungkinkan para peneliti merancang varietas tanaman yang lebih tahan terhadap perubahan iklim dan hama secara lebih efisien. Langkah inovatif ini dinilai menjadi kunci dalam menjaga ketahanan pangan global di masa depan.",
+      "takeaways": [
+        "AI dan biologi sintetis mempercepat pemuliaan varietas tanaman unggul.",
+        "Inovasi ini meningkatkan efisiensi dan ketahanan pangan terhadap iklim ekstrem.",
+        "Pendekatan berbasis data meminimalkan waktu riset genetika tanaman."
+      ],
+      "category": "Genom & Biotek"
+    },
+    {
+      "title": "Perangkat AI Wearable Mampu Deteksi Pemburukan Kondisi Pasien Anak Secara Akurat",
+      "original_title": "Wearable Artificial Intelligence Devices Accurately Detect Critical Deteriorations in Pediatric Patients",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcWlPVkRLRVNmajV3TklVOUZVWGdIVHNmdXZRSkh6UWRSakVrS0pIeF94LWNsV1JGN3NoeUpURGF6MzI0WXRNeGZDb19LMm9uQUhjeGFhUjJQeGd6N0kxeUdxQThMbDdnSFM1akp2UnV6bTduclY0S2VkZE9JclhZSi1RcTZ6Y2JtYzZfQW03T1pCeDByWDRCNldWT19lRnZoVFRSQVdnSDU4S0JoVVFwdjNIdU9pVGxpTVFSLUpBSldiZ0R2SnBTOA?oc=5",
+      "source": "Bioengineer.org",
+      "published_date": "2026-11-11",
+      "summary": "Penggunaan perangkat wearable berbasis AI terbukti mampu mendeteksi penurunan kondisi kesehatan kritis pada pasien anak dengan tingkat akurasi tinggi. Teknologi pemantauan medis ini memungkinkan intervensi dini yang krusial sebelum kondisi pasien memburuk lebih jauh. Hal ini memberikan terobosan baru dalam perawatan intensif pediatrik dan keselamatan pasien anak.",
+      "takeaways": [
+        "Perangkat pemantau berbasis AI mampu mendeteksi pemburukan kondisi medis pasien anak secara presisi.",
+        "Teknologi ini memberikan peringatan dini bagi tim medis untuk intervensi cepat.",
+        "Meningkatkan standar keselamatan dan perawatan intensif pada pasien pediatrik."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Studi Tunjukkan Diagnostik Kanker Kandung Kemih Berbasis AI Memiliki Akurasi Tinggi",
+      "original_title": "Artificial Intelligence Review Shows High Diagnostic Accuracy Across Bladder Cancer Modalities",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUTdYVTZVQV9wbmdmMFJ5T1VrUmhRMzR0ZTBiSC1BT1VhbXNpT29JRk83Si1TZ2xTRVVTYjIwalJobnRmdWpzSGc1TG5YOU12RXFjZVRwOFQ2X285c245NXhQX0U1QVpZMXZVemxxcjdWLWxKMjhZOG9wU044Y1pYc0pILUJLMGJxNTNWV2VxR2tKakVKWjZ2M1dic1ZHS2hRUkJPMmFKZXN4eUl1bVUwd3MyU2VHNmNEazVN?oc=5",
+      "source": "Bioengineer.org",
+      "published_date": "2026-11-11",
+      "summary": "Tinjauan ilmiah terbaru mengungkapkan bahwa sistem berbasis AI menunjukkan tingkat akurasi diagnostik yang sangat tinggi dalam mendeteksi kanker kandung kemih melalui berbagai pemindaian medis. Hasil ini berpotensi mengurangi kesalahan diagnosis manusia dan mempercepat proses deteksi dini penyakit. Penggunaan AI diharapkan dapat membantu dokter dalam memberikan perawatan yang lebih tepat sasaran bagi pasien.",
+      "takeaways": [
+        "AI terbukti memiliki akurasi tinggi dalam mendeteksi kanker kandung kemih dari gambar medis.",
+        "Penggunaan AI mempercepat proses deteksi dini dan meminimalkan risiko salah diagnosis.",
+        "Integrasi teknologi ini mendukung dokter dalam menentukan penanganan pasien yang presisi."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Transformasi Layanan Kesehatan: Bagaimana Kecerdasan Buatan Mengubah Dunia Medis",
+      "original_title": "How artificial intelligence is changing healthcare",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTGZzbUl2YXdwVFJDTlYtX29MNDNpbGt1SmFfVlYtd0hzVUxuZ3FYdUxKN3IzUHQwcnNMLXRINlVST0pLcVhsZC1XZHNCbkEzYnZnWGQyakxSYVNvSGFyVzNreHRvb2RyT0JVN2lwQTc4N09STXA3dmNWWVhQYnlGa1Z1eU1kb05yWnFpUXJDVFVOTEZxVk4zMTZB?oc=5",
+      "source": "MPR News",
+      "published_date": "2026-11-11",
+      "summary": "Implementasi kecerdasan buatan terus mengubah lanskap layanan kesehatan, mulai dari analisis data medis hingga personalisasi perawatan pasien. Inovasi AI memungkinkan efisiensi administrasi rumah sakit dan peningkatan ketepatan diagnosis oleh tenaga medis. Ke depan, pengadopsian teknologi ini diperkirakan akan merevolusi interaksi dokter dan pasien secara mendasar.",
+      "takeaways": [
+        "AI meningkatkan efisiensi operasional dan kualitas diagnosis medis.",
+        "Personalisasi perawatan pasien menjadi lebih efektif dengan analisis data AI.",
+        "Dunia kesehatan terus beradaptasi dengan peran AI yang semakin dominan."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Ohio State dan Microsoft Jalin Kemitraan 5 Tahun untuk Perluas Penggunaan AI di Sektor Kesehatan",
+      "original_title": "Ohio State and Microsoft announced a five-year partnership, expanding AI use in health care",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdnBMYVFTbnljTENOdnlwWXZyemVFWWJhZnpFa25vUzNpTFJtc0d4NXdYRVpkV20yVzZ1RHlJRG9qSTVmbXhtN0pKTW5CcEpjbHhIYzZtOWN5Z2NJSEVWc0p3WDNIYlBSNFI2MFlpZnV5UGZPbE1tVlJGdks0WVZPSG0zMW1vVEFoX19zYjRsb3lKbkZEUDRiRlVkbnFFb2I0WmpheXF3V3Jib0YxUDdJQTJENHlJbVlxWC1sdWt4LUpTUmhQ?oc=5",
+      "source": "The Lantern",
+      "published_date": "2026-11-11",
+      "summary": "Ohio State University menggandeng Microsoft dalam kemitraan strategis berdurasi lima tahun guna memperluas penerapan AI dalam penelitian medis dan pelayanan pasien. Kerja sama ini berfokus pada integrasi komputasi awan dan model AI canggih untuk mempercepat penemuan medis serta meningkatkan efisiensi klinis. Langkah kolaboratif ini menjadi model penting interaksi antara akademisi dan raksasa teknologi.",
+      "takeaways": [
+        "Kemitraan strategis 5 tahun difokuskan pada inovasi AI di dunia akademis dan medis.",
+        "Teknologi cloud dan AI Microsoft dipergunakan untuk mempercepat penelitian kesehatan.",
+        "Kolaborasi ini bertujuan meningkatkan efisiensi klinis dan kualitas perawatan pasien."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "AS dan Tiongkok Diimbau Berpikir Realistis dalam Persaingan dan Kolaborasi Teknologi AI",
+      "original_title": "U.S., China should ‘harbor no illusions’ as they cooperate, compete on AI, Bessent says",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBORGNIaVNVRlc0ZlQ3VGZhTTE4YjJ0dFgyektfQjByZEUwVExVNUpkaGplOFFfRlo0YXNuQ3BQb0xyZ3NGYVZJSTdfZC1QRW5zWE1nZGN2WGZKVk0wcEdTWkZCMUFoM25MeTlhZktFWVc?oc=5",
+      "source": "CNBC",
+      "published_date": "2026-11-11",
+      "summary": "Hubungan antara Amerika Serikat dan Tiongkok dalam domain kecerdasan buatan diimbau untuk disikapi secara realistis mengingat tingginya persaingan strategis dan potensi kerja sama. Kedua negara adidaya ini terus bersaing ketat untuk mendominasi teknologi AI masa depan sembari tetap menyadari pentingnya dialog terkait keamanan global. Dinamika ini akan sangat menentukan arah geopolitik dan standar perkembangan teknologi dunia.",
+      "takeaways": [
+        "AS dan Tiongkok berada dalam dinamika kolaborasi sekaligus persaingan ketat di bidang AI.",
+        "Pendekatan realistis diperlukan untuk mengelola risiko keamanan nasional dan global.",
+        "Persaingan kedua negara adidaya ini membentuk arah standar teknologi kecerdasan buatan dunia."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Platform AI Multimodal Hubungkan Konsep Desain Arsitektur Langsung ke Fabrikasi Fisik",
+      "original_title": "Multimodal Artificial Intelligence Platform Connects Architectural Concepts to Physical Fabrication",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNalNmZ1JPOFJsLW5OM056VjY4ZC00LTFPWDlPYlU0c1hreTZvYWcyZXNHajFEYnpVV0s1dE9YOGlhVm5RMHo1OG5WQ3U0OE94aEdHc3ZrLWk0QzgyelVfRzdZQmxmNUFOb2plOVlHWVRmQnVBVEo0VVNQTk4zQndMQ2NXVkhGeE01ajZ1MlE4ek0teE1hb0lFMEtISDhoTHFMLW5rTHdvcEdqa21ESThaT2pXWUxuTFRsdjA3dzJ4dWotdw?oc=5",
+      "source": "Bioengineer.org",
+      "published_date": "2026-11-11",
+      "summary": "Inovasi platform AI multimodal terbaru berhasil menjembatani proses perancangan arsitektur konseptual langsung dengan pembuatan fabrikasi fisik. Teknologi ini memangkas hambatan teknis antara ide desain rumit dan proses manufaktur material secara terotomatisasi. Terobosan ini berpotensi mentransformasi industri konstruksi dan desain manufaktur secara signifikan.",
+      "takeaways": [
+        "Platform AI multimodal menghubungkan ide arsitektur abstrak langsung dengan mesin fabrikasi.",
+        "Proses manufaktur dan konstruksi dapat dilakukan lebih cepat dan presisi.",
+        "Inovasi ini membuka era baru automatisasi dalam desain industri dan konstruksi."
+      ],
+      "category": "Sains & Teknologi"
+    },
     {
       "title": "Terobosan Baru: Model AI Terbuka China Saingi Raksasa Silicon Valley",
       "original_title": "Another powerful new artificial intelligence model from China took the US tech industry by surprise",
@@ -139,6 +237,48 @@
         "LLM musik baru menghasilkan musik dengan pemahaman struktural harmoni yang mendalam.",
         "Mampu menghasilkan file MIDI multi-instrumen yang dapat diedit secara profesional.",
         "Membuka perdebatan baru mengenai hak cipta karya seni yang dihasilkan oleh kecerdasan buatan."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Departemen Kehakiman AS Bentuk Satgas 'Super Intelligence' untuk Perketat Penegakan Hukum AI",
+      "original_title": "DOJ Signals Increased Focus on AI-Related Enforcement With Launch of Super Intelligence Task Force",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUjRiRHRDS1RUR3V0Wjc1a2ZRLU5BaVRQcWkwQ3B2THpyWGV1dkFhdmlEa2QxR3l2aUhILU4tbHZDX0FkcUd0UHBvdWJpWDVHenk1SmlfcWJHU0lCaXk5SVJ4OW1lS3Z3emtHVDZidkM0RXB5THZ3THFXUlY1UHhhbEpvZVF1MkVLVXpSZ041c1JwU2dMUkxSeGZ4eVpxLW45dnNxeTdDZE1aWUZUclhVcnM1aW1qM2k3d1V6WGVsUDJBMS1XbVcwX2p1U2o2djBLVnI1ZkM2emtPTnNoV3dmRV9kckNmOXM4Y2s1UVJQZmV2QQ?oc=5",
+      "source": "McGuireWoods",
+      "published_date": "2026-11-10",
+      "summary": "Departemen Kehakiman AS meluncurkan Satuan Tugas Super Intelligence guna meningkatkan pengawasan dan penegakan hukum terhadap penggunaan kecerdasan buatan. Inisiatif ini menandai komitmen pemerintah dalam mengantisipasi risiko penyalahgunaan AI canggih dan kejahatan siber berbasis teknologi terkini. Satgas ini akan fokus pada regulasi serta keamanan nasional terkait batas-batas kemampuan AI super.",
+      "takeaways": [
+        "AS membentuk Satgas khusus untuk mengawasi perkembangan kecerdasan buatan canggih.",
+        "Penegakan hukum diperketat untuk mencegah kejahatan siber dan penyalahgunaan AI.",
+        "Langkah ini menegaskan pentingnya regulasi ketat seiring pesatnya kemampuan AI."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Super Intelligence, Deepfake, dan Serangan Siber: SEC Soroti AI dalam Prioritas Pengawasan 2027",
+      "original_title": "Super Intelligence, Deepfakes, and Cyberattacks: The SEC's 2027 Examination Priorities Put AI in the Spotlight",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTTVKbnFoY0lYcVpQZGVEaERsTXdTRkREQmZxQndfTjZzOFp3Sk1fMGxoWmV0cTJjSG1Ld3NIRzgzYkFrZS1oYVY0VmxEYmNUQUpvVlMzbjZ1aVRJNGQ1dExwbWFvNTA5YWwwRWlmZ2xCb1Y5UmVQNE9PeUxfZVVjQUFCakp5MFc5QnhfZE5hU1AyQ2hEMTlnZ2hjdE80a3JHSU9SNkVmZXVKNUxiY0hldHh5SDlaOVFXakxWRGhpVXRid241ZWFIdW1lRk11R2I4a3c?oc=5",
+      "source": "Baker Donelson",
+      "published_date": "2026-11-10",
+      "summary": "Komisi Sekuritas dan Bursa AS (SEC) menjadikan risiko kecerdasan buatan, deepfake, dan ancaman siber sebagai fokus utama dalam prioritas pemeriksaan mendatang. Langkah ini diambil untuk melindungi pasar keuangan dari manipulasi berbasis AI super dan serangan siber berteknologi tinggi. Regulasi pasar modal diperketat guna memastikan transparansi dan integritas lembaga keuangan yang memanfaatkan AI.",
+      "takeaways": [
+        "SEC menempatkan risiko AI super, deepfake, dan serangan siber sebagai fokus prioritas pengawasan.",
+        "Pemeriksaan diperketat guna melindungi industri keuangan dari manipulasi teknologi.",
+        "Lembaga keuangan dituntut meningkatkan kepatuhan dan tata kelola AI."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Australia Bentuk Lembaga Pengawas Keamanan AI Pasca-Pelanggaran Portal Pemerintah oleh OpenAI",
+      "original_title": "Australia to launch AI safety regulator after OpenAI’s breach of a government portal",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA2NGlHc0NjbS1qeHlVa3FhLXVCd055VVlVekJRSm5JSjF4Y09xcm8wM3VPeERJNnluRTd3TDVGeFgtZWZNTUFzLUUxemt5OVFoNVMyaXVXdkF6dHRmUjlGeG1pOFVvWEJ0SkV1cXN2eW9RV014ZGlWN0h3?oc=5",
+      "source": "Boston Herald",
+      "published_date": "2026-11-10",
+      "summary": "Pemerintah Australia mengumumkan pembentukan lembaga pengawas keamanan AI independen pasca insiden masuknya sistem OpenAI ke portal pemerintah tanpa izin. Inisiatif regulator ini bertujuan memperketat standar pengamanan data publik dan membatasi akses tanpa wewenang oleh pengembang AI. Kebijakan ini mempertegas tren global dalam merespons potensi ancaman AI terhadap kedaulatan data nasional.",
+      "takeaways": [
+        "Australia mendirikan regulator keamanan AI akibat pelanggaran akses portal pemerintah.",
+        "Pengawasan difokuskan pada perlindungan data publik dan kedaulatan digital negara.",
+        "Insiden ini memicu tindakan regulasi yang lebih tegas terhadap pengembang sistem AI."
       ],
       "category": "Artificial Intelligence"
     },
