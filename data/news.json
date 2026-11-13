@@ -1,7 +1,91 @@
 {
-  "last_updated": "2026-11-12T06:25:31.970499+00:00",
-  "total_articles": 100,
+  "last_updated": "2026-11-13T05:45:49.550090+00:00",
+  "total_articles": 110,
   "articles": [
+    {
+      "title": "AI Multimodal Terbukti Akurat Deteksi Alzheimer, Namun Masih Kesulitan Menentukan Stadium Penyakit",
+      "original_title": "Multimodal Artificial Intelligence Accurately Detects Alzheimer Disease but Stumbles on Staging",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY3B6dlJUbFhHTFUtZkpUSHBNTDlTN2VteHY0dk9GSEtvbm9oRGIxOUZYb0dnQ003RDN6b0haVUhkZFZNUTAwaXN3MEVSS183X1c1NmNVYUFWSE11XzNmM3pRQTNBek9XMlZ6LTZkaXk1dHZ5aHM1TlozRWo2YWx4QkV3aUQtYWdNSXdqQm5pNGhDUklGRnZERW1iVGFxOTFBUzdEeGpvbXNKeVg4NjVKZzI1YlpnRG5pc2E4Sw?oc=5",
+      "source": "Bioengineer.org",
+      "published_date": "2026-11-13",
+      "summary": "Penelitian terbaru menunjukkan bahwa sistem kecerdasan buatan multimodal mampu mendeteksi penyakit Alzheimer dengan tingkat akurasi yang tinggi dari berbagai bentuk data medis. Meskipun demikian, model AI ini masih mengalmi kendala dalam menentukan tingkatan atau stadium penyakit secara spesifik. Penemuan ini menandai langkah penting menuju pemanfaatan AI dalam diagnosis dini penyakit neurodegeneratif.",
+      "takeaways": [
+        "AI multimodal berhasil meningkatkan presisi deteksi dini penyakit Alzheimer.",
+        "Kemampuan AI dalam menentukan klasifikasi stadium Alzheimer masih memerlukan penyempurnaan.",
+        "Integrasi AI dalam diagnostik medis berpotensi mempercepat penanganan pasien sebelum gejala memburuk."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Potensi Kecerdasan Buatan dalam Mendeteksi Kanker Lebih Awal dan Meningkatkan Peluang Kesembuhan",
+      "original_title": "Could AI help detect cancer earlier? A Cincinnati doctor explains its role",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOSS1Fak0wT3AxYUZaX0d4UE1fdUV2UDZSQWJxV3A5X2ZpY1l5TDhnNVMxWFpoWFBhOTVJZFNIdnFnYUdUdnVCVXFNNDN0ZEdMSHNobnZUajlNOW1fZHNuQnJnb0wxVGpEME02LXpqRGNjaG1IVE04c0doOUxxWU9pNjUyZ29zY0NVdDIxNEdOcXFVYVNtUkZNbno1UGlYLWNfT1MyLThPbExwT1hIaElnREM0dU9DRmNFRGNxVm1LUmFXYi1BUzBqQzlRZnJ4cVlqR1dmSW1ONHJqZkhSdkxLaWhzTnNWVnU4SXRKVEJuVWtuQ0psS3JqMmdPTjFTUEJXMk5mWk1zY3A4NzQ2QkVWbkM4TlRRUQ?oc=5",
+      "source": "WKRC",
+      "published_date": "2026-11-13",
+      "summary": "Pakar medis dari Cincinnati memaparkan bagaimana algoritma AI dapat membantu dokter mengenali tanda-tanda awal kanker pada pemindaian medis yang kerap tak kasatmata. Deteksi dini melalui bantuan AI memungkinkan intervensi medis dilakukan jauh lebih cepat sebelum sel kanker menyebar. Pemanfaatan ini berpotensi meningkatkan angka harapan hidup pasien secara signifikan.",
+      "takeaways": [
+        "AI membantu mendeteksi kelainan atau indikasi sel kanker pada tahap paling awal.",
+        "Alat pemindaian berbasis AI menjadi asisten kredibel bagi radiolog dalam analisis citra medis.",
+        "Deteksi dini yang akurat membuka peluang pengobatan yang jauh lebih efektif."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Satuan Tugas AI Pemerintah AS Bahas Strategi Menghadapi Ancaman Serangan Siber Berbasis AI",
+      "original_title": "Trump's AI task force met Thursday, discussed AI-powered cyberattacks",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSTMxZ0ZpeTBfbVZEb3dFbFRpM0xYcU9ta3ZRVnRzc040LUlmWU9IN05La0xrSnBKYzlVVUF3amZuaTJHZGZYa05ObFpJcERkajJiajhVV2RBVzJDVzc0Uzk4NVVfeGhWOG5SSnUtQlRTV1M3MnNON29WZzZZYVlnbGVCVE1LTkpUcm8zOHlmOTdaWGo0dGZJT2Eyb2NqNlB2VWk1bmRCcXdIS3JjRDQ0aTRn?oc=5",
+      "source": "Reuters",
+      "published_date": "2026-11-13",
+      "summary": "Satuan tugas kecerdasan buatan pemerintah Amerika Serikat menggelar pertemuan khusus guna memetakan potensi kejahatan siber yang ditenagai oleh kecerdasan buatan. Pertemuan tersebut menyoroti urgensi perlindungan infrastruktur krusial nasional dari peretasan otomatis yang kian canggih. Langkah ini mencerminkan fokus keamanan nasional dalam merespons evolusi ancaman teknologi.",
+      "takeaways": [
+        "Serangan siber berbasis AI menjadi perhatian utama dalam agenda keamanan nasional AS.",
+        "Pertahanan kelembagaan perlu ditingkatkan seiring makin kompleksnya peretasan otomatis.",
+        "Regulasi dan pertahanan siber terus disesuaikan dengan perkembangan teknologi AI terkini."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Studi Baru Ungkap Riset Model AI Berpotensi Merusak Sistem Verifikasi Fakta Kelembagaan",
+      "original_title": "Study Models How Artificial Intelligence Triggers Irreversible Breakdown in Institutional Fact Checking",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUkJCVlRRRGYyX3lndVRIZ2M2Nk52STJuOVh1TUVHUXNrbWpmTWh2ZUxqMHFEVmRNSTlnSHg2Mk1pZjg4bW1ROVRhV1ZDR29xTkhNU1Yzc2J2UG1PZ1ZrZkhYUm0yWG1tOHZEVVlLSGFtR3lCcXZjd2NHZE8zVlpYUm5PMndyOTl0VjNmRnl2UklFM1hUUkd3ZVlucGRuVUowWkMxd2tOMUV6RE1Gc1dVU0ducFpxSElWekg2bGJhMm9KTGZJRndJ?oc=5",
+      "source": "Bioengineer.org",
+      "published_date": "2026-11-13",
+      "summary": "Sebuah penelitian memodelkan dampak banjir informasi berbasis AI terhadap mekanisme verifikasi fakta yang dijalankan lembaga resmi. Hasil studi menunjukkan bahwa tingkat disinformasi otomatis yang sangat tinggi dapat memicu kelumpuhan permanen pada sistem penanganan fakta tradisional. Peneliti mengimbau perlunya pembaruan standar validasi informasi di era AI generatif.",
+      "takeaways": [
+        "Produksi konten AI berskala besar berisiko melampaui kapasitas verifikasi fakta manusia.",
+        "Kegagalan penanganan informasi salah dapat merusak kepercayaan terhadap lembaga publik.",
+        "Diperlukan infrastruktur verifikasi berbasis AI yang sepadan untuk menyaring konten secara otomatis."
+      ],
+      "category": "Sains & Teknologi"
+    },
+    {
+      "title": "Eksplorasi Peran Kecerdasan Buatan dalam Mendukung Layanan Kesehatan Mental",
+      "original_title": "Can Artificial Intelligence help with mental health issues?",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSTl5Z3pOVW5BbmxyR1M1T1NEdDBtYkx6NHJ3MzdnclFrSDlVNEJrR2ZhV29SYWZfM3VsaEJaeno4Nmt2cHRCRXl1bU9ySGwyUEZtZ3VxcEVCRWpKSzM4c3IzdjZlZ2lXR3h2dUNNdmNMa0hsbk9jdEp2a2ZIOElvOUY1OE1FT1U2OWh0eXZpUjVyb3lsRGs3OWtkX1NtWU1KRURPN2E3aDduWW5wRWZ2Q0x1U2tFdmk1eGUxMzJ1N2FPQQ?oc=5",
+      "source": "Yahoo Health",
+      "published_date": "2026-11-13",
+      "summary": "Penggunaan chatbot dan terapi berbasis AI mulai diuji sebagai alat bantu untuk mengatasi masalah kesehatan mental dan kecemasan. Meskipun menjanjikan akses bantuan awal yang mudah dan terjangkau, para ahli menekankan pentingnya batasan etis dan pengawasan psikiater profesional. AI diharapkan menjadi pelengkap terapi, bukan pengganti interaksi manusia.",
+      "takeaways": [
+        "Aplikasi AI membuka akses awal pertolongan psikologis secara lebih mudah dan cepat.",
+        "Keterbatasan pemahaman emosional membuat AI tidak bisa sepenuhnya menggantikan peran terapis manusia.",
+        "Standar etika dan privasi data pasien menjadi syarat utama dalam penggunaan AI kesehatan mental."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Penerapan Sistem Pembelajaran Berbasis AI pada Sekolah Swasta Modern di Chicago",
+      "original_title": "New private school in downtown Chicago using artificial intelligence to teach students",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQTdkRE5BN1A5STlrTUR2SURJZmliUlJKS3ExOUtITnlxckZoS0o5Wmd0cVkzR3JXU3pXUTl1RFZyb2RRQWZZMktfUVpVVjRnaEhBaUJTMXFBYUd2d2d1ZEwyTWRnWUtCaFZZU1E2WGMwUEV2aGFVU09qbmwtMHE4bjhTZ3NVdFIyVEE?oc=5",
+      "source": "CBS News",
+      "published_date": "2026-11-13",
+      "summary": "Sebuah sekolah swasta baru di pusat kota Chicago secara aktif mengintegrasikan teknologi kecerdasan buatan ke dalam kurikulum pengajaran harian. Metode ini memungkinkan pembelajaran terpersonalisasi yang disesuaikan dengan kecepatan dan gaya belajar masing-masing siswa. Inisiatif ini menjadi model eksperimen baru bagi masa depan dunia pendidikan berbasis teknologi.",
+      "takeaways": [
+        "AI digunakan untuk menyesuaikan materi kurikulum sesuai dengan kemampuan individual siswa.",
+        "Model sekolah berbasis AI membuka peluang cara pengajaran yang lebih adaptif dan interaktif.",
+        "Peran guru bergeser menjadi fasilitator dan pembimbing dalam lingkungan belajar yang terdigitalisasi."
+      ],
+      "category": "Artificial Intelligence"
+    },
     {
       "title": "Terobosan Baru: Model AI Terbuka China Saingi Raksasa Silicon Valley",
       "original_title": "Another powerful new artificial intelligence model from China took the US tech industry by surprise",
@@ -139,6 +223,62 @@
         "LLM musik baru menghasilkan musik dengan pemahaman struktural harmoni yang mendalam.",
         "Mampu menghasilkan file MIDI multi-instrumen yang dapat diedit secara profesional.",
         "Membuka perdebatan baru mengenai hak cipta karya seni yang dihasilkan oleh kecerdasan buatan."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Natera Manfaatkan AI Agen berbasis Amazon Bedrock untuk Optimalisasi Operasional Laboratorium Genomik",
+      "original_title": "How Natera designed an agentic AI system for lab ops with Amazon Bedrock AgentCore",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPU2NPd1Y0dUdsTUM2a2FrMkMtZm9UemlacVFZczBjXzFtdGM0bnlyUUgzbVJnS19yQU94Y1M3WmYtbUt3SlVPV1c2b1c4ejFxVDViX1gwREo3Wk1TdFlFZW9JcVVGbWpqY1h3T25Famd2YkFiUDRxblBTMWlXdkx2OG9XQnMweFdfS2ttU3J0TTVDTHR4T01QMjAySkNqdjhyamtxWUY2T29pWk1WdHlheHpwN3JxMm56MWtJa2QzZms0SnlnSWV0Ng?oc=5",
+      "source": "Amazon Web Services (AWS)",
+      "published_date": "2026-11-12",
+      "summary": "Perusahaan bioteknologi dan tes genomik Natera mengintegrasikan sistem agen AI berbasis Amazon Bedrock untuk mengotomatisasi alur kerja laboratorium. Langkah ini secara signifikan meningkatkan efisiensi pemrosesan sampel genetik dan akurasi analisis laboratorium. Inovasi ini menunjukkan sinergi kuat antara teknologi cloud AI modern dengan kemajuan bioteknologi kesehatan.",
+      "takeaways": [
+        "Sistem agen AI membantu mengotomatisasi pemrosesan analisis genomik yang kompleks.",
+        "Penggunaan Amazon Bedrock mempercepat alur kerja dan operasional laboratorium tes genetik.",
+        "Kolaborasi bioteknologi dan AI mendongkrak efisiensi pengujian medis berskala besar."
+      ],
+      "category": "Genom & Biotek"
+    },
+    {
+      "title": "Koalisi Lembaga Nirlaba Gugat Raksasa Teknologi Guna Hentikan Perlombaan Senjata AI",
+      "original_title": "Nonprofits sue Anthropic, Google, and other tech giants to freeze the AI arms race",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZTFGbzdtVzREUTBscG9FbC1HSHU2N3pRcDg2TFR3RzRORW9oRWQwTHZrSnBENGRmcno3Nkt4M2lYOElvT2pnNDV5UFRCU3QyMGpkVnRLVXhVRGFWV2cydEI2WlRLaWs5Nmg4eUZ3T2RHbXBFT3ViX3ZmaW9MZ3B6OFZ0QmlJS3g5cFF3Q3cxVERlRExkbDBxRVowdmR1V0pZ?oc=5",
+      "source": "Politico",
+      "published_date": "2026-11-12",
+      "summary": "Sejumlah organisasi non-pemerintah mengajukan gugatan hukum terhadap pengembang AI terkemuka seperti Anthropic dan Google untuk membekukan pengembangan AI garis depan. Penggugat menilai laju pengembangan AI tanpa kendali berisiko menimbulkan bahaya eksistensial dan hilangnya kontrol atas teknologi maju. Gugatan ini memperjelas ketegangan antara inovasi teknologi dan regulasi keselamatan publik.",
+      "takeaways": [
+        "Lembaga nirlaba menuntut penghentian sementara pengembangan model AI tingkat lanjut.",
+        "Kekhawatiran berfokus pada ketidakmampuan kontrol dan potensi bahaya AI bagi masyarakat.",
+        "Tekanan hukum terhadap perusahaan teknologi besar untuk transparansi etika makin meningkat."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Krisis Kepemimpinan Nvidia: CEO Jensen Huang Mengundurkan Diri dan Memicu Ketidakpastian Industri AI",
+      "original_title": "Jensen Huang, a global salesman for artificial intelligence, resigns from Nvidia after affair",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYW1femlfRjNlV3dYVzZjYklVMmkzZ3U5S1h4c25tV2k2LWQ0a3ROODFLR2M3MW9idHBGMThpVEkxSEs0YVRxX2VRSURaTXFxYVpjQ0E4VjQzLU9KZzNycDVuelVGbjhNRklmVXZQOXBsRlpQbWVKN2FsVFZDZFpORW9vWUZ6eWlUWlB3ZlIyYWN4andWamtsUlY4N0pJVXM1TTBfSUZoOHdwb0RtYVRxUVRwUTNCT3VrN3FmcnBaTQ?oc=5",
+      "source": "Courthouse News",
+      "published_date": "2026-11-12",
+      "summary": "Jensen Huang resmi mengundurkan diri dari jabatannya sebagai CEO Nvidia pascamunculnya krisis personal yang memicu sorotan publik. Mundurnya sosok kunci di balik revolusi komputasi AI ini menempatkan dominasi perangkat keras AI Nvidia dalam situasi penuh ketidakpastian. Industri global kini mencermati dampak dinamika internal ini terhadap pasokan cip AI dunia.",
+      "takeaways": [
+        "Pengunduran diri Jensen Huang mengguncang struktur kepemimpinan utama produsen cip AI terbesar dunia.",
+        "Ketergantungan industri AI global pada ekosistem Nvidia kini berada dalam pengamatan ketat.",
+        "Perubahan jajaran eksekutif berpotensi memengaruhi laju inovasi perangkat keras AI."
+      ],
+      "category": "Sains & Teknologi"
+    },
+    {
+      "title": "United Airlines Blokir Akses Agen AI untuk Pemesanan Tiket Penerbangan",
+      "original_title": "United Airlines blocks AI agents from booking flights",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNkVsZUJhUHZoMTlPa05zbzFaSHBObFhuSTJ3QUx5QU15NEVCanBwanpmeHUybDNJWVpQRDVWUEt1T2JvejU2bXhMOWFkNTdLR1FLMTBPS3VqUU1TTUg1VjltMFQ1TF9ZTkFxclB0RTJEZEFvSGlKMEFqRXdCLTFYNG4zLWkzdjZTdXRJUGlMZTRWU042U212YzRUNGQtR2s?oc=5",
+      "source": "The Washington Post",
+      "published_date": "2026-11-12",
+      "summary": "United Airlines mengambil tindakan tegas dengan melarang dan memblokir bot atau agen kecerdasan buatan melakukan reservasi tiket secara otomatis di sistem mereka. Maskapai beralasan langkah ini diperlukan demi melindungi beban server serta mencegah praktik manipulasi harga dan transaksi sporadis. Kebijakan ini menegaskan batas baru antara otomatisasi AI dan aturan komersial perusahaan.",
+      "takeaways": [
+        "United Airlines membatasi transaksi otomatis yang dilakukan oleh agen AI mandiri.",
+        "Langkah ini bertujuan menjaga keandalan sistem pemesanan serta keamanan transaksi pelanggan.",
+        "Interaksi antara agen AI otonom dan penyedia layanan komersial memicu regulasi baru dari korporasi."
       ],
       "category": "Artificial Intelligence"
     },
