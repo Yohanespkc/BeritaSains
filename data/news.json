@@ -1,7 +1,63 @@
 {
-  "last_updated": "2026-11-13T05:45:49.550090+00:00",
-  "total_articles": 110,
+  "last_updated": "2026-11-14T05:36:12.794082+00:00",
+  "total_articles": 120,
   "articles": [
+    {
+      "title": "Bagaimana Kecerdasan Buatan Meningkatkan Praktik Patologi Tradisional dalam Diagnosa Medis",
+      "original_title": "Inside the algorithms: How artificial intelligence is enhancing traditional pathology practice",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVnpLYVpDRmlCWUpiTEJsN1Bya3lQTUVDNjRDZTgzRGJ3UEFndGxtSGswcjVRVHViSWhyaVpuM244aHFkMWgtUWJWclBwd3BpYXBLTWZkZ2h0SjdCWFY0Rjl6amVJOExfOVBhaml4SkxFMHhGQzBPT1praEFPZjZaMUxvbUJ0eE1STEZ1cWN5ZERpMjR3X2I2SDRqUXdMaFlLaEFZMHo4YnI1Xy1tOWp3eWZaYl8yMTRfRnhrdJo3o3H8OVUlTXpMNzNIcU5R?oc=5",
+      "source": "Northwestern University",
+      "published_date": "2026-11-14",
+      "summary": "Penerapan algoritma kecerdasan buatan mulai mengubah lanskap patologi medis dengan membantu dokter menganalisis sampel jaringan secara lebih akurat. Penggunaan AI ini mengurangi risiko kesalahan diagnosis dan mempercepat analisis laboratorium klinis. Inovasi ini menjadi bukti nyata bagaimana AI dapat meningkatkan efisiensi dan kualitas layanan kesehatan.",
+      "takeaways": [
+        "AI membantu ahli patologi menganalisis citra medis dan sampel jaringan dengan ketelitian tinggi.",
+        "Proses diagnosis penyakit krusial seperti kanker dapat dilakukan lebih cepat.",
+        "Kolaborasi antara tenaga medis dan kecerdasan buatan meningkatkan akurasi perawatan pasien."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Penerbangan AS Sempat Lumpuh Pasca Penerapan Sistem Lalu Lintas Udara Berbasis AI",
+      "original_title": "U.S. grounds flights days after Trump administration expands new AI air traffic system",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNN2dVa3NvVWwtdEJkMVJscWRQWlItWnQtTnVNVDVobHE2aU5fdzNwOWJpM3RrNUd6SFZMZm1wQ2doQVNINDVtXy1iQTRGYlZJVWR6MkMyR1BxeXFZOTdvYXdFX2dWUHVqdXVDNmhNLTQ0bzI1Q3ZwUmRjU1BsSnpRRFJLbUdUVEJTQml5eExobGhCd2djeE1OVmVLb3kxYkM3VkVLZkptQWlEZkpjVVBGektyVlFLT3paOXc?oc=5",
+      "source": "Scientific American",
+      "published_date": "2026-11-14",
+      "summary": "Gangguan penerbangan skala besar terjadi di Amerika Serikat hanya beberapa hari setelah sistem kontrol lalu lintas udara berbasis AI mulai diperluas. Insiden ini memicu investigasi intensif mengenai keamanan serta keandalan otomatisasi AI dalam infrastruktur kritis. Peristiwa tersebut menegaskan tantangan besar dalam mengintegrasikan AI ke dalam sistem transportasi publik yang kompleks.",
+      "takeaways": [
+        "Penghentian penerbangan terjadi di tengah introduksi teknologi AI baru oleh otoritas penerbangan.",
+        "Pentingnya pengujian ketat sebelum mengimplementasikan AI pada sistem keselamatan publik yang vital.",
+        "Memicu perdebatan mengenai keandalan teknologi otomatis dibandingkan sistem navigasi konvensional."
+      ],
+      "category": "Sains & Teknologi"
+    },
+    {
+      "title": "Skandal Kerip AI Nvidia Memperpanas Rivalitas Teknologi Antara AS dan Tiongkok",
+      "original_title": "The Nvidia scandal is heightening America’s AI rivalry with China ahead of Trump’s visit",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONVljNTFyVTBob3FTSTFEWjNjeldvelllSkphSjI0clRGSEl4WjhuYXhVdElzU01GdS05My1YeFhkNW9fd1c4MzBWVERWaUN5OVpHbmpOeVhjaXFEOWhGZTY2TThOYVU2dEg5NjhjQVllMWpFYlNjVHJxcDh2STlIU2hGYVpSUHNpcjllUkdUYWhJaGRGYjVoR2xxUER5NlR1QklqY2ljNnlnYVBIX3hacllzU3dhRnB4TmZMSm5n?oc=5",
+      "source": "WTOP News",
+      "published_date": "2026-11-14",
+      "summary": "Dugaan pelanggaran pembatasan ekspor kerip AI Nvidia ke Tiongkok memicu ketegangan geopolitik baru antara kedua negara adidaya. Kontroversi ini terjadi di saat pengawasan terhadap pasokan perangkat keras kecerdasan buatan semakin diperketat oleh pemerintah AS. Kasus ini menyoroti pentingnya posisi GPU canggih sebagai aset strategis dalam dominasi teknologi dunia.",
+      "takeaways": [
+        "Pasokan perangkat keras AI seperti kerip Nvidia menjadi pusat perebutan pengaruh AS-Tiongkok.",
+        "AS makin memperketat regulasi ekspor perangkat AI guna menjaga keunggulan komputasi strategis.",
+        "Isu keamanan pasokan rantai teknologi AI berpotensi memengaruhi hubungan diplomatik global."
+      ],
+      "category": "Sains & Teknologi"
+    },
+    {
+      "title": "Integrasi AI dan Sains Saraf Mulai Mentransformasi Pendidikan Anak Modern",
+      "original_title": "Editorial Outlines How Artificial Intelligence and Neuroscience Transform Modern Child Education",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMHphMFRYZEl0Y19oU1gyMU01UEVQZGdWejdpT0JOd3ZqNzBiVFFMU3EteFRPVGVqMnZKTE5xWE9ZS0JvVTBDZEctekF3dTg0RTE5dm9XLVZYMFJPX3VnTWpUSkJrOU9MQU1KUl9jZkNmejVYZGN6OHZKRGIyblkyYW4wcG9LemVvVHVFZFNVYm4yNUZiS3VSX2lETzlYSUxIS0ZlbGNLRnRnaWdXUW1EY0RHYnB5YkJIb3p6OU53?oc=5",
+      "source": "Bioengineer.org",
+      "published_date": "2026-11-14",
+      "summary": "Sebuah artikel editorial mengulas bagaimana penggabungan antara penelitian kecerdasan buatan dan sains saraf dapat merevolusi metode pembelajaran anak-anak. Pendekatan adaptif berbasis data memungkinkan materi pelajaran disesuaikan dengan perkembangan otak dan gaya belajar unik setiap anak. Kombinasi interdisipliner ini berpotensi menciptakan pengalaman belajar yang jauh lebih efektif.",
+      "takeaways": [
+        "Pemanfaatan data sains saraf dan AI memungkinkan pembelajaran kustom yang disesuaikan untuk siswa.",
+        "Membuat proses pendidikan anak lebih interaktif dan sesuai dengan tahap perkembangan kognitif.",
+        "Menyoroti pentingnya kolaborasi riset otak dan kecerdasan buatan dalam dunia pendidikan modern."
+      ],
+      "category": "Artificial Intelligence"
+    },
     {
       "title": "AI Multimodal Terbukti Akurat Deteksi Alzheimer, Namun Masih Kesulitan Menentukan Stadium Penyakit",
       "original_title": "Multimodal Artificial Intelligence Accurately Detects Alzheimer Disease but Stumbles on Staging",
@@ -83,6 +139,90 @@
         "AI digunakan untuk menyesuaikan materi kurikulum sesuai dengan kemampuan individual siswa.",
         "Model sekolah berbasis AI membuka peluang cara pengajaran yang lebih adaptif dan interaktif.",
         "Peran guru bergeser menjadi fasilitator dan pembimbing dalam lingkungan belajar yang terdigitalisasi."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Prediksi Struktur Biomolekul Menggunakan OpenFold3 di Amazon SageMaker JumpStart",
+      "original_title": "OpenFold3 on Amazon SageMaker JumpStart: Predict biomolecular structures",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOV0xqcmRQQmpwVlV1RHN6ZWt2dUhuampfb2dYeG5aN1BpTjFfRm5rQnZNWVAzY2FSU3M4VmdhT0ctU1JrcDVvOUZoMEJFMzJPdG54TzZ0a3dqQXZ0eUo2LUhKUFpTMm5feUdWSEpnZ3didWRWM1lyRTRIaXZrXzVyTjZzUi1MRENYc2VRa3ZMRWVvRk5iRmo0NVBaWHhJTHBkZTdsd21fb1VpY0RFTTFDZV9jVWpocV9CNUE?oc=5",
+      "source": "Amazon Web Services (AWS)",
+      "published_date": "2026-11-13",
+      "summary": "Platform Amazon SageMaker JumpStart kini menghadirkan OpenFold3 untuk mempermudah ilmuwan memprediksi struktur biomolekul secara akurat. Teknologi ini memanfaatkan kecerdasan buatan untuk mempercepat riset biologi molekuler dan pengembangan obat baru. Langkah ini memperluas aksesibilitas alat komputasi genomik canggih bagi para peneliti di seluruh dunia.",
+      "takeaways": [
+        "OpenFold3 kini dapat diakses secara mudah melalui cloud Amazon SageMaker JumpStart.",
+        "Memungkinkan prediksi struktur biomolekul yang lebih cepat dan presisi untuk mempercepat penemuan obat.",
+        "Mendorong integrasi antara AI dan bioteknologi dalam riset sains modern."
+      ],
+      "category": "Genom & Biotek"
+    },
+    {
+      "title": "Survei Federal Reserve: Risiko AI Menjadi Ancaman Terbesar bagi Sistem Keuangan",
+      "original_title": "AI risks are the biggest threat to the financial system, Fed survey finds",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOd1luSGcydUl6NE15cEcydlNhSnRuNjNjVHdMQldrQjRYcXpLZ3FfbnNrWndndDNTaUowRWJ6NDg0dUdaN084LW00YU4tNEhPTXh6Ymx3WVFpZk5MQTgwVFpMX1o4cFdXT2lCQi1xSzlncG9mUkpDa0xTUF9BY2E3cXVnS2fSAYoBQVVfeXFMTmZFcVNQMElxVkdHNTFNMVBOYTg0SGVKNm5ISHM5N3pGUUxKSE5Za2ZuMmZNb3RnY0FpVWxNbWtIdXFIdm0wOWVIa3FXWVJJaVhhTHBzOVpJbzVnY2VGZk04WE5aRHVBdjdkRlVpSm1VQXo1ckRPRTV4aDNjNGJNeGlhSXZ4ZEhIa1dR?oc=5",
+      "source": "CNBC",
+      "published_date": "2026-11-13",
+      "summary": "Hasil survei terbaru dari Federal Reserve menunjukkan bahwa potensi risiko akibat penerapan AI kini berada di urutan teratas kekhawatiran para pelaku pasar keuangan. Kecepatan serta kekompleksan algoritma perdagangan otomatis dinilai dapat memicu instabilitas pasar jika tidak diregulasi dengan ketat. Hal ini mendorong imbauan agar lembaga keuangan memperkuat pengawasan risiko berbasis AI.",
+      "takeaways": [
+        "Risiko terkait AI menjadi perhatian utama para pakar dan pengambil keputusan di sektor keuangan.",
+        "Algoritma tak terprediksi dan ancaman siber berbasis AI dipandang dapat mengganggu stabilitas pasar global.",
+        "Regulator didorong untuk menyusun kerangka pengawasan AI yang lebih ketat di sektor perbankan."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Pentagon Mengubah Nama Divisi AI Utama Menjadi 'Super Intelligence Office'",
+      "original_title": "Pentagon rebrands principal AI shop as ‘Super Intelligence Office’",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNT05UWGJTSFduUXhDT3l3QkdWNVBzcFBOb3p3blUzVFcwR3NQdFNGRUI4MV91cl9maVZTcmlfSW13VUd1X3k1REY3NE1jeFVlOC0wWkxLQXVHRVdTaW5JZER1VkVDQ2NfaEl5dkdGbWFDOHRhOHRPejJuOWVSa24xRFdCOE00V3VEbFBkZ0gxT29IZnVkdU83anc0QkozeldzU3FR?oc=5",
+      "source": "Breaking Defense",
+      "published_date": "2026-11-13",
+      "summary": "Departemen Pertahanan AS resmi mengubah nama kantor kecerdasan buatan utamanya menjadi Super Intelligence Office sebagai bentuk penyesuaian strategi pertahanan nasional. Langkah ini menandai fokus baru militer dalam mengembangkan sistem otomatisasi cerdas tingkat tinggi untuk menghadapi persaingan geopolitik. Strategi baru ini memicu berbagai tanggapan mengenai implikasi etis dari pengembangan AI militer super cepat.",
+      "takeaways": [
+        "Rebranding mencerminkan pergeseran fokus militer AS menuju teknologi AI generasi lanjut.",
+        "Menggambarkan persaingan ketat dalam pengembangan kapabilitas intelijen berbasis kecerdasan buatan.",
+        "Meningkatkan perhatian publik terhadap etika penggunaan AI super cerdas dalam sektor pertahanan."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Sistem AI Anthropic Dituduh Melanggar Hak Paten Jaringan Saraf Tiruan",
+      "original_title": "PATENT NEWS: Anthropic’s artificial intelligence systems accused of infringing neural network patents",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQa09ZQllGRFA4eTctdzhDMFk4VmkxeGhZcTNpcWQ5SXhSVU83akhfT3lTMDZoMG00U3NTNHl4amhsTjBTYjhmbi1hZGtVZF8xSTFqZ29aZE02WEZvcXpzbW9Zb2s0azROS25sZHpCUlNGbFQ5WHhBRlpja3ZwcktkREZmMDNFbGVDcnlvdHdkeTNFRVV6N21rc3hlQTJUSUk1WFFiM1FidlRfT2RpWVByR2ZYN2lUVU1EUXB1R0JGQkdWaWRzQXFhaERnaTljZDN3QUN0V05WOWtnbkl2ZElqYTAtcVE5TU5NaGItcEctQ0x0SnhBUnBuU2tUdUw?oc=5",
+      "source": "VitalLaw.com",
+      "published_date": "2026-11-13",
+      "summary": "Perusahaan pionir AI Anthropic menghadapi gugatan hukum terkait dugaan pelanggaran hak paten teknologi jaringan saraf pada model AI milik mereka. Kasus ini menjadi bagian dari gelombang perselisihan hukum terkait hak kekayaan intelektual dalam pengembangan AI generatif. Hasil dari gugatan ini dapat memberikan preseden penting bagi masa depan pengembangan arsitektur pembelajaran mesin.",
+      "takeaways": [
+        "Gugatan paten terhadap Anthropic menyoroti ketidakpastian hukum atas arsitektur dasar AI.",
+        "Pengembang kecerdasan buatan kini menghadapi pengawasan ketat terkait hak kekayaan intelektual.",
+        "Keputusan hukum kasus ini berpotensi mengubah cara perusahaan AI melatih model algoritma mereka."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "FedRAMP Rilis Aturan Keamanan Siber Baru untuk Mengimbangi Pesatnya Perkembangan AI",
+      "original_title": "FedRAMP pushes new cyber vulnerability rules to keep pace with AI",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOajBKaEZ1SXltYXc2M2lWbjYyTDdxNWhHZFowZWRzZ2szYVhFc05IaEcwWHNHRGdzT215NHVYYVZaNVA2cXI0T0ZnVlY2OFhSTGdpQzkxSzhWMm9fSDVfMGVvaWNqM19uY1VGa2UtWFB0M2tlXzktOUp1d1FhS09jaUdNcVpTc1dGZ05XREtsMFBKMWVtLS1xZ1hHZjR0RWVhVDlkWmc0VVdTSTIyYnNrRjh2eXpSS0RlZTh3?oc=5",
+      "source": "Federal News Network",
+      "published_date": "2026-11-13",
+      "summary": "FedRAMP memperbarui standar kerentanan siber untuk memastikan sistem komputasi awan pemerintah siap mengantisipasi ancaman keamanan berbasis AI. Regulasi baru ini mewajibkan penyedia layanan cloud memperketat proteksi data serta deteksi peretasan otomatis. Langkah ini diambil guna merespons meningkatnya kecanggihan serangan siber memanfaatkan alat kecerdasan buatan.",
+      "takeaways": [
+        "Standar FedRAMP diperbarui khusus untuk menghadapi ancaman siber generasi baru berbasis AI.",
+        "Penyedia jasa cloud wajib meningkatkan respons cepat terhadap potensi kerentanan sistem.",
+        "Menunjukkan komitmen pemerintah dalam menjaga keamanan data nasional di era otomatisasi."
+      ],
+      "category": "Sains & Teknologi"
+    },
+    {
+      "title": "Studi Menunjukkan Wawancara Kerja Berbasis AI Menghasilkan Keputusan Rekrutmen Lebih Baik",
+      "original_title": "AI Job Interviews Lead to Better Outcomes",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaGtfSl9Uem1Rd3pQby1ON0pYWjlvZ1ZsQzNaU1VLOGR2bmE5SGdUY2N5WnhxRnRObzZkWHg3MkI1RE55RlRjLU9pTmdmT1B5WWoxZ0RMSUtOUnExelhidEJYLWFsemN0VE00R3hPNDNwT2dRNGFraTUtWWVBYkhsWWRYd2JLTEFzUlI5cXN1bzdHQQ?oc=5",
+      "source": "The University of Chicago Booth School of Business",
+      "published_date": "2026-11-13",
+      "summary": "Riset terbaru menunjukkan bahwa penggunaan platform AI dalam wawancara kerja dapat mengurangi bias manusia dan menghasilkan seleksi kandidat yang lebih objektif. Algoritma evaluasi mampu menilai keterampilan kandidat secara akurat tanpa terpengaruh prasangka personal. Temuan ini mendorong makin banyaknya perusahaan global mengadopsi AI dalam proses seleksi tenaga kerja.",
+      "takeaways": [
+        "Wawancara berbasis AI membantu meminimalkan bias subjektif dalam proses rekrutmen karyawan.",
+        "Meningkatkan kecocokan kualifikasi kandidat dengan kebutuhan nyata posisi pekerjaan.",
+        "Proses otomatisasi wawancara menghemat waktu serta biaya rekrutmen bagi perusahaan."
       ],
       "category": "Artificial Intelligence"
     },
