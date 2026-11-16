@@ -1,7 +1,105 @@
 {
-  "last_updated": "2026-11-15T05:34:00.555256+00:00",
-  "total_articles": 130,
+  "last_updated": "2026-11-16T05:33:29.192402+00:00",
+  "total_articles": 140,
   "articles": [
+    {
+      "title": "Apple Gelar Studi 200 Ribu Orang Uji Penggunaan AI Kesehatan",
+      "original_title": "HLTH26: Apple launches 200K-person study to examine how consumers use health AI",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQS2g1VE5ncFdqMWNXbnZRUGVOejhFT21maHpyQ2hxRkxzajhWaS1NRDM5bFU2LVlEMkJKTURxcVh2SzBLdGJmdW1nY25SNmpBNFpiY3JNVF9zT3NnbnpDd2pjbERrM3M1enVvelBxd1cwWGtKdk1NbHhwZWZOOG5ERU1vOTBLdmhSSjEwTkFaVllKRzFjcmJuWW5CTzRfY3ZqdF9ZXy1hcmdIMExoR1o4XzcxZ2wtZFE?oc=5",
+      "source": "Fierce Healthcare",
+      "published_date": "2026-11-16",
+      "summary": "Apple meluncurkan studi berskala besar yang melibatkan 200.000 partisipan untuk meneliti bagaimana konsumen berinteraksi dengan fitur AI kesehatan. Penelitian ini bertujuan mengevaluasi efektivitas, akurasi, dan dampak fitur medis berbasis AI pada pengguna sehari-hari. Hasil studi diharapkan dapat membentuk standar baru penerapan teknologi medis konsumen.",
+      "takeaways": [
+        "Melibatkan 200.000 partisipan untuk menguji kebiasaan penggunaan kecerdasan buatan medis.",
+        "Fokus pada dampak langsung AI terhadap pemantauan kesehatan mandiri pengguna.",
+        "Memberikan data krusial untuk regulasi dan pengembangan teknologi kesehatan masa depan."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Tantang Rival AS, Alibaba Luncurkan Model AI Unggulan Terbaru",
+      "original_title": "Alibaba Unveils New Flagship AI Model in Riposte to US Rivals",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxON1VKTHI4cWNWNG10TkNPUDNKb0tLQXlxMmJ1aHE2d0twMW5Gb3NfREZMZmRhcnlMeFpHWVBfU0xoYnJ2TW1KTXRLbWxHOW5hWVZITUlRUW1OTlcxVENtM2t2aXRQZV9VR0tnVkVJU0podW1wLWRiVUJXLWQ0UWtGYTBkTGthd1o5YzQyOGJyR3lWSUtaWlRXblZZUVVIUnFfSkYxcEh4ckFaM3FqVi02amp3?oc=5",
+      "source": "Bloomberg.com",
+      "published_date": "2026-11-16",
+      "summary": "Alibaba merilis model artificial intelligence flagship terbarunya untuk memperkuat posisinya dalam persaingan global melawan raksasa teknologi AS. Model ini membawa peningkatan signifikan pada pemrosesan bahasa alami dan penalaran kompleks. Langkah ini mempertegas persaingan sengit dalam pengembangan teknologi AI lintas negara.",
+      "takeaways": [
+        "Alibaba meluncurkan model AI andalan baru dengan kemampuan penalaran tinggi.",
+        "Menjadi jawaban strategis terhadap dominasi perusahaan AI asal Amerika Serikat.",
+        "Memanaskan persaingan global dalam inovasi kecerdasan buatan generasi baru."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Pemerintah AS Tetapkan Nvidia Sebagai 'Pahlawan Nasional' AI",
+      "original_title": "Exclusive | Trump Administration to Name Nvidia Among AI ‘National Champions’",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbVZuRkZvWWp2cTVZRkh3Tm96YThHTGFtSmk4TjhOMWZqT0xsSXZkbEFQRzRZcWFaMHlzNGYxZHBzTF9YYUZJa0ktNFNua1ZiLTVvNDRNZGViZlFxMVVsQlZXM09faWZOSDZkNDRiaTJjYXFfMUgxN3p1UWZkZXVuOEQxUFJRSHI4TG9yRU1kT0Rlb2ZoUGQtQUNndkdnajdTZmc?oc=5",
+      "source": "WSJ",
+      "published_date": "2026-11-16",
+      "summary": "Pemerintah AS bersiap menetapkan Nvidia dan beberapa raksasa teknologi lain sebagai produsen kunci dalam inisiatif 'National Champions' AI. Langkah ini dirancang untuk mengamankan dominasi domestik dalam rantai pasok cip dan infrastruktur komputasi pintar. Keputusan ini memperlihatkan betapa strategisnya peran hardware AI dalam keamanan nasional.",
+      "takeaways": [
+        "Nvidia akan masuk dalam daftar perusahaan utama pendorong ekosistem AI nasional AS.",
+        "Bertujuan mengamankan kepemimpinan teknologi komputasi dan pasokan cip domestik.",
+        "Menggambarkan penyatuan antara kebijakan pemerintah dan industri teknologi tinggi."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Integrasi AI dan Robotika Percepat Riset Sains Material Baru",
+      "original_title": "Integrating AI and Robotics for Persistent Materials Science Research Systems",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOTWkySzBZVVJYMU1iakpROTdfQ1R0LVJvQm1Tdk9GcTBsNkpYR090QXhEVEZQT21sTGpTSEdUT1lISGZ4VHRuMEVpQ2NiNV9uejQ3S2xR?oc=5",
+      "source": "AZoM",
+      "published_date": "2026-11-16",
+      "summary": "Penggabungan kecerdasan buatan dan sistem robotika mandiri berhasil merancang laboratorium riset sains material yang dapat beroperasi tanpa henti. Sistem terintegrasi ini mampu merencanaan, mensintesis, dan menguji formulasi material baru secara otomatis. Kehadirannya diprediksi memangkas waktu penemuan material masa depan hingga hitungan minggu.",
+      "takeaways": [
+        "Penggabungan robotika dan kecerdasan buatan menciptakan sistem riset mandiri.",
+        "Mengotomatiskan eksperimen dan pengujian material baru secara berkelanjutan.",
+        "Mempercepat waktu penemuan material mutakhir untuk berbagai industri."
+      ],
+      "category": "Sains & Teknologi"
+    },
+    {
+      "title": "AS dan Sekutu Sepakati Perlindungan Teknologi dan Infrastruktur AI Utama",
+      "original_title": "US, Partners Agree to Safeguard Key AI Tech, Infrastructure",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQODVDUzg0MmdlYUVXck5WZHJDVm9BS2ZzYkJwOTFtZ3ZVWTNMRmFkOVJSTWFUVzJaTG1JdlFGLWpMM29wQjYzRXViaFp1RVZsWVhRX1k2dXZOWkJET2I0MjB1eW9DYk9WZ3pEUUhtdXEtWGV5S29vU2tSMFR1VkFfdzkxT0MwN0oxZ0hBb3Z2RjRuUlBnS2NlakR4M3JaOEpXMTBzeVFyUV9JZUlO?oc=5",
+      "source": "Bloomberg.com",
+      "published_date": "2026-11-16",
+      "summary": "Amerika Serikat bersama negara-negara mitra menandatangani kesepakatan internasional untuk melindungi infrastruktur fisik dan rantai pasok teknologi AI sensitif. Kerja sama ini bertujuan menanggulangi ancaman siber dan monopoli komputasi oleh pihak luar. Perjanjian ini menegaskan pentingnya keamanan siber lintas batas di era kecerdasan buatan.",
+      "takeaways": [
+        "Kesepakatan multilateral untuk memperketat keamanan rantai pasok AI.",
+        "Perlindungan difokuskan pada pusat data, infrastruktur komputasi, dan kekayaan intelektual.",
+        "Menguatkan kolaborasi keamanan teknologi di antara negara-negara sekutu."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Anthropic Bersiap Masuk Pasar Komersial dengan Taruhan Nilai Miliaran Dolar",
+      "original_title": "Anthropic heads to market with billions riding on AI's promise",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9qUUxGOFUzY2I1c3lpSnlxTGlmWFZxcHpCNUlFZGpjSnk2TDNOUE9DZy1CY2NjVzhKSk9BdHVUdVdUaFkwZWV3ajVrM3hDOXkwc3JFRGRuTkM?oc=5",
+      "source": "TRT World",
+      "published_date": "2026-11-16",
+      "summary": "Perusahaan riset dan pengembangan AI Anthropic bersiap mengambil langkah komersial besar di pasar global dengan nilai investasi mencapai miliaran dolar. Langkah ini menunjukkan tingginya ekspektasi investor terhadap potensi komersialitas AI generasi mendatang. Pertumbuhan agresif Anthropic akan menjadi tolak ukur baru bagi industri AI skala besar.",
+      "takeaways": [
+        "Anthropic melangkah ke pasar komersial dengan nilai komitmen komputasi miliaran dolar.",
+        "Menunjukkan kepercayaan investor yang tetap tinggi pada prospek finansial AI.",
+        "Memperketat persaingan komersial antara Anthropic, OpenAI, dan Google."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "APA Rilis Panduan Baru Menyikapi Melonjaknya Penggunaan AI di Tempat Kerja",
+      "original_title": "APA offers new guidance as artificial intelligence use at work expands",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeU9FSWVZeWdiVnZKT3BFRm05czdhUEJlRkYwTUFhMFdFQ1phSUhTZVNyYlhkVi02M0ZaY2lfeUh1VEkyTjF1NVl0bkRjdEhBLWI2V2xVakd3N0NJdXJkUEpvbFNsNVN1aWNSSUtib0lJMEFvNzQxT2JBajZFWDNxZVFyT192S295bG14d3N3?oc=5",
+      "source": "American Psychological Association (APA)",
+      "published_date": "2026-11-16",
+      "summary": "American Psychological Association (APA) menerbitkan panduan komprehensif bagi perusahaan untuk mengelola dampak psikologis dan produktivitas dari adopsi AI di tempat kerja. Panduan ini menyoroti perlunya menjaga kesejahteraan mental karyawan di tengah kelelahan teknologi dan kecemasan otomatisasi. Inisiatif ini memberikan arahan penerapan AI yang berpusat pada manusia.",
+      "takeaways": [
+        "Pedoman resmi untuk menjaga kesehatan mental pekerja di tengah adopsi pesat AI.",
+        "Menyoroti tantangan psikologis seperti kecemasan otomatisasi dan beban kerja digital.",
+        "Mendorong penerapan AI di tempat kerja yang mengutamakan kesejahteraan manusia."
+      ],
+      "category": "Artificial Intelligence"
+    },
     {
       "title": "Peraih Nilai Tertinggi Ujian Perpajakan Korea Selatan Mengaku Menyotek Menggunakan AI",
       "original_title": "Top scorer on South Korean tax exam confesses to cheating with AI",
@@ -41,6 +139,48 @@
         "Model AI open-weight menawarkan fleksibilitas tetapi berisiko dimanfaatkan untuk ancaman siber.",
         "Perusahaan Tiongkok mencari keseimbangan antara pemenuhan standar keamanan dan kecepatan inovasi.",
         "Kebijakan mengenai aksesibilitas bobot model AI akan menentukan arah persaingan teknologi global."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Pipa Multi-Omik dan AI Tingkatkan Pengembangan Kapas Tahan Iklim",
+      "original_title": "Integrated Multi-Omics and Artificial Intelligence Pipeline Accelerates Climate-Resilient Cotton Breeding",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZ2FjZkk3QWx3RVlDTG9ydDdxMEsySU8tS0NwQk9Ya0tmdnZONXA3SG04cHNjVVd0MnZucEV3dkR6WGd5RmtyTG9YWVlUcHVZS2xKUHVNQlJpWGxqWG1iNExHTFZwcHUwOG12VHVwd1hkU2l3eVNWX09WWFZrSU5CSXJmNV9tbmc0WUI4d3RMMlVGLVgyMnpTYjFDakR5MHM3YkRVRkwtWVU0NFliLWpyYnZJTFJobWNDM1NuUEU0a1hQdVAwV29RRkFB?oc=5",
+      "source": "Bioengineer.org",
+      "published_date": "2026-11-15",
+      "summary": "Integrasi analisis data multi-omik dan kecerdasan buatan berhasil mempercepat proses pemuliaan tanaman kapas yang tahan terhadap perubahan iklim. Pendekatan ini memungkinkan peneliti mengidentifikasi sifat-sifat genetik unggul dengan lebih cepat dan akurat. Langkah ini krusial untuk menjaga ketahanan pangan dan industri agrikultur di tengah krisis iklim global.",
+      "takeaways": [
+        "Menggabungkan kecerdasan buatan dan pemetaan genetik multi-omik.",
+        "Mempercepat seleksi tanaman kapas yang lebih tahan terhadap ancaman perubahan iklim.",
+        "Menjadi terobosan penting dalam bioteknologi pertanian masa depan."
+      ],
+      "category": "Genom & Biotek"
+    },
+    {
+      "title": "AI Analisis Biopsi untuk Prediksi Risiko Kambuhnya Kanker Nasofaring",
+      "original_title": "Artificial Intelligence Analyzes Biopsy Slides to Forecast Nasopharyngeal Carcinoma Recurrence Risk",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOTNhZnBHQ0ZkczBwRXBYSXp3YXY5MHc5VFZ5UEdXQjd4THN5dTZHSzVGdkJJNVg1cXZEd3B4bFMxQTNsel9YSnBSLUludFZiZjFhMUFYeFlBdU5iS0VFWlNoMndhdUVWNjdMSEJON3lOQU5SZmFVR2FTWU5YRWh5ZEJvVnhKNDhMOU9hWmlLOHU5bmpNQmVsbmNvNmRGb0J4RlJndVFRVlJxN0NpTXhVYXlodWFoaEg0WlpUSnlraXNWdw?oc=5",
+      "source": "Bioengineer.org",
+      "published_date": "2026-11-15",
+      "summary": "Peneliti mengembangkan algoritma AI yang mampu menganalisis preparat biopsi guna memprediksi potensi kembalinya kanker nasofaring pada pasien. Metode digital ini menawarkan tingkat akurasi yang lebih tinggi dibandingkan penilaian mikroskopis konvensional. Inovasi ini dapat membantu dokter menentukan strategi pengobatan yang lebih personal dan presisi.",
+      "takeaways": [
+        "Algoritma AI dilatih mengevaluasi preparat biopsi kanker nasofaring.",
+        "Mampu memperkirakan risiko rekurensi kanker dengan presisi yang lebih baik.",
+        "Mendorong komputasi patologi ke arah perawatan kanker yang dipersonalisasi."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "AI Buktikan Akurasi Diagnosis Tinggi pada Pencitraan Medis Onkologi",
+      "original_title": "Artificial Intelligence Demonstrates High Diagnostic Accuracy for Oncology Imaging Applications",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWVBTODZjVFRBNllpQUVRSU4yeGNod1JlSVBmYTZWU2dMTEdKOFJ6dXZJWUFjTUt3QXozTzlhNkwwNGlpRm1KTE4xWURsdkJUTWhKQ0JTdVZkbl9yTzNBbnVSRjRkVjk1NHJ4bkVyR2ZjY0lURWlTOU9XZmFVbUNxbFh6NDZnM3ZTNGsyLTZQRmdBb2lvSjFuekdLTFpOMFlzaUdQaTU3ZVNQUXVCQVFVYlUxbUw3ZkdHQzJldA?oc=5",
+      "source": "Bioengineer.org",
+      "published_date": "2026-11-15",
+      "summary": "Penelitian baru mengonfirmasi bahwa model artificial intelligence mampu mencapai tingkat akurasi diagnostik yang sangat tinggi dalam pemindaian pencitraan medis onkologi. AI dapat mendeteksi kelainan jaringan dan tumor kecil yang sering kali sulit diidentifikasi mata telanjang. Penemuan ini berpotensi meningkatkan taraf hidup pasien melalui intervensi pengobatan dini.",
+      "takeaways": [
+        "Akurasi AI dalam menganalisis pencitraan pemindaian tumor menunjukkan hasil sangat presisi.",
+        "Membantu radiolog mengidentifikasi tanda-tanda awal kanker secara lebih efisien.",
+        "Meningkatkan peluang keberhasilan penanganan kanker melalui deteksi dini."
       ],
       "category": "Artificial Intelligence"
     },
