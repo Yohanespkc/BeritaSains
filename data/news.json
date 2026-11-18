@@ -1,7 +1,91 @@
 {
-  "last_updated": "2026-11-17T07:10:02.564221+00:00",
-  "total_articles": 140,
+  "last_updated": "2026-11-18T06:35:50.598199+00:00",
+  "total_articles": 150,
   "articles": [
+    {
+      "title": "AI Retina Tunjukkan Akurasi Diagnosis Tinggi Meski Menghadapi Kendala Implementasi Klinis",
+      "original_title": "Retinal Artificial Intelligence Demonstrates High Diagnostic Accuracy but Faces Clinical Implementation Barriers",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPc3B5ZHhLV3FWMExqdmpDb25mN1FsV2NmSG9Sb0VpOWptcFUxRmNRSHViV0pzRVRKMkxiakhSOTNRMEZmVnJJNnRSdk1YOVdTb2dFVEVSWFhZR1htYWg2Y1g5Y20wWXFYRjJCUEt3Rldadi1sRXNRSlNTSE11MVhuZDdyUVdNSnJpT2Q3Sm9lUktHQ1RuM250U1Z5SzdjeGhIZWVvNGppY2NuTVZmMEZPbHhfbjU2Vjd4ZEFiNlRIOEMyMHNmc05PVUpwOS1tU0dJaW5F?oc=5",
+      "source": "Bioengineer.org",
+      "published_date": "2026-11-18",
+      "summary": "Sistem AI pemindaian retina terbukti mampu mendeteksi berbagai penyakit mata dengan tingkat akurasi tinggi setara dokter spesialis. Namun, adopsinya di fasilitas kesehatan masih terhambat integrasi sistem, regulasi, dan alur kerja klinis. Peneliti menekankan perlunya jembatan antara validasi teknologi dan penerapan medis nyata.",
+      "takeaways": [
+        "AI diagnostik retina memiliki presisi tinggi dalam mengenali tanda awal penyakit mata.",
+        "Hambatan klinis mencakup alur kerja rumah sakit, privasi data, dan adaptasi dokter.",
+        "Implementasi sukses membutuhkan kolaborasi erat antara pengembang AI dan tenaga medis."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Peneliti Hawaii Kembangkan Alat AI untuk Prediksi Penyebaran Kumbang Invasif",
+      "original_title": "UH researchers developing AI tool to predict invasive beetle spread",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR005WHg2bHh1NmRuMVk0bmFuMENscWhJeTJNSE1id3ZYa255OUZHMGdZckpJMFB2VmhEOXFKR0loMUxHOE5Fa0lmaHdQT3ZSelhMbmVuMFRWMm4yVTNiWGkxU1k2VlF4VFYyTWFaeEpMancxYUFxbm42X3NGMEc2Uk1KdXJhX0pYMlVKdVhObHBwWkpsaGx5LU9meHpraHlNajBHbEFKZEZaZ9IBvgFBVV95cUxOVUdfNmlVbFZUZ05PbzRqeTFaTTB2aGhSWWNqMndqWV9xNmFTQVU5aFZWR0dYVXFHckZvTHNwWVRsZDBtR1l4Y0JnTDJOS0NaUks5b1N3VHpEZ3JOdlFlMWpPa0MxOWFYZmZtWFRfTGoyQjF4d2tOeVBNeVY5dXJmTkpNLWo5NnJlWUlhTWtZNXJkNmtnaXo5cE5yajNCZUpERk92LW9XT2NBSi1VbTNWUFVPdDVOTHVqcEM1ZXRn?oc=5",
+      "source": "Hawaii News Now",
+      "published_date": "2026-11-18",
+      "summary": "Tim peneliti dari University of Hawaii memanfaatkan algoritma kecerdasan buatan untuk memetakan dan memprediksi pergerakan spesies kumbang invasif. Alat ini membantu pihak berwenang mengambil langkah mitigasi sebelum hama merusak ekosistem dan pertanian lokal. Inovasi ini menjadi contoh nyata penggunaan AI untuk perlindungan lingkungan.",
+      "takeaways": [
+        "AI pemodelan spasial mampu memprediksi arah migrasi dan populasi hama tanaman.",
+        "Teknologi ini membantu menekan potensi kerusakan ekonomi di sektor pertanian.",
+        "Penggunaan AI ekologi menjadi pendekatan baru dalam menjaga keanekaragaman hayati."
+      ],
+      "category": "Sains & Teknologi"
+    },
+    {
+      "title": "Kamus Cambridge Pilih 'Human' Sebagai Word of the Year di Tengah Kekhawatiran Dominasi AI",
+      "original_title": "Cambridge Dictionary chooses 'human' as word of the year in response to AI fears - ABC News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSS1xMFVmSE5yVnk1UWVmSUhZZnNBVVdERjNKRVhhU2I0NlpIRkhrVDJfMmg1dndoNjZHb1d5NXlJX2ZMR09MWnpDYW9nNHAxRHlINFMxcVhnQXV2aU03ZzdoVFB3MFJYRFhjSjdpZHFQWW9tVHFkLXRTbWN1OW5hUDZ1NjVnbWRVN0xQSzFkd0ZibzdBeFUzZFBXN1dLQ1FIdEVjb2RPdDRhVlnSAbABQVVfeXFMTVBrMWJROWV1TkY5UnBDWkIyQ1lzelRsZ3VnejFWcl83Qm5UcnAtdWNoc09VQjZyVjY4NWNkS2hGeXNSU25JT2FSdEktWlN5bU85elpSMGgwQU85eXJMQ1_GYThTUUp3UUZRR1dzd2ViNlJGOVZWMjJYVWtmSjNKWGo1OWNlSkZUZ29nc1NXY2tueXNxNTRDV2JPNTBYLTl6ZjVEVXl1U0tpUk5reHlFRzU?oc=5",
+      "source": "ABC News",
+      "published_date": "2026-11-18",
+      "summary": "Kamus Cambridge menetapkan kata 'human' (manusia) sebagai Kata Tahun Ini di tengah pesatnya perkembangan dan ketakutan masyarakat akan dominasi AI. Keputusan ini mencerminkan dorongan global untuk mempertegas kembali peran, kearifan, dan nilai-nilai unik manusia. Pilihan tersebut menggarisbawahi refleksi budaya manusia di era kecerdasan buatan.",
+      "takeaways": [
+        "Pilihan kata 'human' merefleksikan kecemasan sosial terhadap pengambilalihan peran oleh AI.",
+        "Masyarakat global semakin menghargai kualitas manusiawi seperti empati dan kreativitas asli.",
+        "Penetapan ini menunjukkan dampak kultural AI yang melampaui sektor teknologi semata."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Seberapa Penting Peran Nvidia dan Jensen Huang Bagi Perekonomian AS?",
+      "original_title": "How important are Nvidia and Jensen Huang to the US economy?",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50Q0hCQWtPOXlJaUtKb3FiNG1MYjZLNUdkTjg3SDRzTnRyNzZNdGZmWXNHMEp3MlZmS2VVWWdDSnVHTGlpV1ZYYnhNTWN6V2tCYlRjZV9ydThjczA?oc=5",
+      "source": "BBC",
+      "published_date": "2026-11-18",
+      "summary": "Nvidia dan CEO Jensen Huang kini menjadi tulang punggung infrastruktur AI global yang memengaruhi performa pasar saham dan pertumbuhan ekonomi AS. Dominasi chip pemrosesan AI mereka menjadikan perusahaan ini salah satu yang paling bernilai di dunia. Laporan ini mengulas ketergantungan pasar finansial dan sektor teknologi pada rantai pasok Nvidia.",
+      "takeaways": [
+        "Nvidia memegang kendali utama dalam penyediaan infrastruktur pemrosesan data AI.",
+        "Kinerja keuangan Nvidia berimplikasi langsung pada indeks saham utama pasar Amerika.",
+        "Ketergantungan ekonomi pada satu produsen chip memicu diskusi mengenai stabilitas rantai pasok."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "AI Memungkinkan Analisis Sekilas Wajah untuk Analisis Cephalometric Presisi Tinggi",
+      "original_title": "Artificial Intelligence Enables Accurate Cephalometric Analysis From Lateral Facial Photographs",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNjZwOU9PUVI3YlhRQTFWTnkyX3NoRzFObXh1clAweEVCRld1N1BlZDBaclBKR3FUQlh6bkZKNjJVM2xPYlBsenJ5YUYzb1BUWmMtcWFzSmR6ZkVIUEdLdldrZzNtOUp1Q29PeEt1WUs4RWc2a3FQYVVocWVpRmJ2T0hqUjExbkttTmdRWG9xNGsyWTFPQ0w1RE9qVmNNLXZ4eUx3WHJWeWczODBxRzNkZjRNcjlnQ21CUy1QUQ?oc=5",
+      "source": "Bioengineer.org",
+      "published_date": "2026-11-18",
+      "summary": "Riset terbaru menunjukkan algoritma AI mampu melakukan analisis cephalometric akurat hanya dari foto lateral wajah tanpa perlu radiografi sinar-X berulang. Inovasi ini mengurangi paparan radiasi pada pasien ortodonti sekaligus mempercepat perencanaan perawatan gigi. Teknologi ini berpotensi mempermudah akses diagnosis ortodonti yang terjangkau.",
+      "takeaways": [
+        "AI mampu memprediksi struktur tulang tengkorak dari foto permukaan wajah secara akurat.",
+        "Teknologi ini meminimalkan kebutuhan paparan radiasi sinar-X pada pasien.",
+        "Metode baru ini mempercepat alur kerja pemetaan ortodonti dan analisis medis."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Wakil Ketua Komite Intelijen Senat AS Sebut AI Berkontribusi pada Gangguan Jaringan Telekomunikasi",
+      "original_title": "Senate Intel Vice Chair Warner says AI contributing to network outages",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaGZVeTRTV2FxUlg3U0Z5UXEyaTVtbkVPLTVmQ2M5ODRNU0hoc0lJc2dtMkRWMXY2RXFNRGx2NkZFdnZlSGxxa0RiTS1TLW5iM0hxekk3Z0FFTW0yYW53ODU1aS1MaTZaWnRxSHh0WGVpSDNQZnpRLW1kOERTaEx3MnpJNGROOTB3ZXEwV242U0dxQdIBlwFBVV95cUxPMjRMYXZyMVViWXVSd2ZqNzJKTHZIRlBfNHVzc3Npam9wc2RpdjA4Tkh1QTV0eE4teVo1N2tzeFV5RXpNRUxwNnhkQ0swemRhbDhFWFkzSEFmS2l2aUFBZHphUV9ySlJTQ3kxajlBRFBleVFLdkVmZFlCWF_5Wlpod1l4dVFJQ2k3ZUhBZGJ5WVA4ZndGRDB3?oc=5",
+      "source": "The Hill",
+      "published_date": "2026-11-18",
+      "summary": "Senator Mark Warner mengungkapkan bahwa beban kerja pemrosesan data AI yang masif menjadi salah satu pemicu meningkatnya gangguan jaringan telekomunikasi. Lonjakan konsumsi energi dan lalu lintas data memicu tekanan belum pernah terjadi sebelumnya pada infrastruktur digital. Pihak berwenang mendesak adanya penguatan keamanan dan ketahanan jaringan nasional.",
+      "takeaways": [
+        "Permintaan komputasi AI yang melonjak membebani kapasitas jaringan telekomunikasi.",
+        "Senator AS menyerukan evaluasi ketat atas keandalan infrastruktur digital nasional.",
+        "Tantangan energi dan kapasitas bandwidth menjadi isu krusial dalam ekspansi AI."
+      ],
+      "category": "Artificial Intelligence"
+    },
     {
       "title": "Terobosan Baru: Model AI Terbuka China Saingi Raksasa Silicon Valley",
       "original_title": "Another powerful new artificial intelligence model from China took the US tech industry by surprise",
@@ -141,6 +225,62 @@
         "Membuka perdebatan baru mengenai hak cipta karya seni yang dihasilkan oleh kecerdasan buatan."
       ],
       "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Pasca Vaksin Flu, Pengembangan Terapi RNA Berbasis AI Siap Melaju Pesat",
+      "original_title": "Post flu vaccine, the AI-aided field of RNA therapeutics is set to be supercharged",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYzdNc1p0dEdSTmN6QjlvTG1jblNIdGJKOS0yRHd1MHNDRXd2clo1aGFTUkJYUHl4SjVzZUVlQmpUODhEdGF3dHAzOVZSRUlzTFRzeFNzamtoY2lXTV_NZTBSaUgxVlZaS3d0SmVUU0JlSkl2QTdBaVI0VzBVNTE5RkVHNDNCWktRcjYzN1kwT0xWUQ?oc=5",
+      "source": "Stanford Medicine",
+      "published_date": "2026-11-17",
+      "summary": "Keberhasilan pengembangan vaksin RNA membuka jalan baru bagi pengobatan mutakhir berbasis molekul RNA. Integrasi kecerdasan buatan (AI) mempercepat penemuan serta desain terapi molekuler untuk berbagai penyakit kompleks. Perkembangan ini dinilai akan mengubah lanskap pengobatan presisi di masa depan.",
+      "takeaways": [
+        "Teknologi RNA therapeutics mendapatkan momentum besar setelah kesuksesan vaksin mRNA.",
+        "Kecerdasan buatan mempercepat desain molekul RNA dan prediksi efektivitas pengobatan.",
+        "Inovasi ini berpotensi menghadirkan terapi generatif untuk penyakit yang sebelumnya sulit disembuhkan."
+      ],
+      "category": "Genom & Biotek"
+    },
+    {
+      "title": "Dokter Gunakan AI Notetaker: Menggabungkan Kecerdasan Manusia dan Efisiensi Teknologi Medis",
+      "original_title": "I’m a human doctor with human intelligence. But I sure do like my AI notetaker",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcDkwY2pkUnhfTFhVWldVcEVIbUh0bEV1T3VUdzhucjlCaXpIVXZRc2NfU01xUXlLbVJZZmhXMElRQWpuSFFLb1_MRkZBdmlGN3NNNmdyX3hXRXJYeFBaX1pVUTF5ZG1sRUMwMk9jQ0xhZUVyUVlpMzBSVFlWal_mcThESkhxaHM?oc=5",
+      "source": "NPR",
+      "published_date": "2026-11-17",
+      "summary": "Seorang dokter membagikan pengalamannya menggunakan asisten AI untuk pencatatan rekam medis otomatis selama konsultasi pasien. Penggunaan AI mengurangi beban administrasi klinis sehingga dokter dapat lebih fokus berinteraksi secara tatap muka dengan pasien. Praktik ini menunjukkan bagaimana AI dapat melengkapi, bukan menggantikan, keahlian manusia.",
+      "takeaways": [
+        "AI pencatat otomatis mengurangi beban administratif yang memicu burnout pada tenaga medis.",
+        "Dokter dapat mengalokasikan lebih banyak waktu untuk empati dan perawatan langsung pasien.",
+        "Integrasi AI yang tepat mampu meningkatkan efisiensi dan kualitas layanan kesehatan."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "FDA Mulai Menggunakan Istilah 'Super Intelligence' untuk Menggambarkan Perkembangan AI Medis",
+      "original_title": "FDA to refer to AI as ‘super intelligence’ going forward",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeU1UYzh0Y1NIdGxsTUo0b0xSTGI3RE1Ick5VeUYybWNSZlpfaVQ0MnV4YmlTQ1REdHRSOFNLMUd3RUhrTzRLTWhiOEJrLS0yQlEwdHl4cmljOTdqenpmWGJXdEFaQmlTU213S0NPaGNUR3lfVXVwX1RJdlRZdXVEU0hrSExDYVUyUFJNd0dKQnh4bjA?oc=5",
+      "source": "RAPS",
+      "published_date": "2026-11-17",
+      "summary": "Badan Pengawas Obat dan Makanan AS (FDA) mengumumkan adopsi istilah 'super intelligence' untuk mengklasifikasikan sistem kecerdasan buatan tingkat lanjut dalam perangkat medis. Perubahan terminologi ini mencerminkan peningkatan kemampuan AI yang melampaui analisis konvensional. Langkah ini juga menandai penyesuaian kerangka pengawasan regulasi kesehatan masa depan.",
+      "takeaways": [
+        "FDA memperbarui istilah regulasi guna mencerminkan lonjakan kemampuan sistem AI canggih.",
+        "Penggunaan terminologi baru ini memengaruhi standar pengujian dan persetujuan perangkat medis.",
+        "Regulator berupaya mengimbangi pesatnya batas-batas evolusi teknologi kecerdasan buatan."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Columbia Jadi Pusat Inisiatif 'Super Intelligence' NHLBI untuk Penelitian Kesehatan Jantung dan Paru",
+      "original_title": "Columbia Is Central Hub for NHLBI Super Intelligence Initiative",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSXR4YURHLVNjTUwxbEdBZHJMUThyOVFmSTFQTW55ZERWYnVzNEcxcS01X1hWTE92RDU2ZWZRNFluNmkzdm92aVF0aGptZnF3QlN6TmVrRGVTTFo3RnVhbUxlOGk4XzBxYTdUMDA5MmoxLWRmTHJRZW5fY2dLbTE1X0tPcWZURnk0RUM0Q01uVlRpSDNVU1Zz?oc=5",
+      "source": "Columbia University Irving Medical Center",
+      "published_date": "2026-11-17",
+      "summary": "Columbia University terpilih sebagai hub utama inisiatif kecerdasan super NHLBI untuk mempercepat penemuan biomedis. Proyek ini memadukan data genomik skala besar, analitik AI canggih, dan penelitian penyakit kardiovaskular serta paru. Kolaborasi ini diharapkan melahirkan terobosan terapi presisi berbasis analisis biologis mendalam.",
+      "takeaways": [
+        "Columbia memimpin konsorsium riset yang mengombinasikan AI super intelijen dan genomik.",
+        "Inisiatif ini berfokus pada percepatan penemuan obat penyakit kardiovaskular dan paru.",
+        "Integrasi data multi-omik dan AI memperkuat pengembangan kedokteran presisi."
+      ],
+      "category": "Genom & Biotek"
     },
     {
       "title": "Apple Gelar Studi 200 Ribu Orang Uji Penggunaan AI Kesehatan",
