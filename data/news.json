@@ -1,7 +1,105 @@
 {
-  "last_updated": "2026-11-19T06:36:38.233891+00:00",
-  "total_articles": 150,
+  "last_updated": "2026-11-20T06:24:29.448021+00:00",
+  "total_articles": 160,
   "articles": [
+    {
+      "title": "Kombinasi Nanoteknologi dan Kecerdasan Buatan Tingkatkan Efektivitas Imunoterapi Kanker Otak Mematikan",
+      "original_title": "Nanotechnology and Artificial Intelligence Advance Immunotherapy Against Deadly Brain Cancers",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUHZuYjNJcnQyaU9ZcTZUb2hLakliU3BjaHJVZmJNUFJXM2g0UWluTGJweTkwMlJKc29FOERmUzlUN2NMS2dZZkFoelR3aUVTRkRQbmVxWVBxay1pZ1_GWUpGLWY2N0RMT0Y4Sl_Bb2l0dVBXZ1docm9ZMHRjaFNxZWpnVkV4Z3FDbGJFUEVfTnFtVnZjcV_oZnJlYlAtZ2JXZUd1SU1KRnFIbmVvNVoxQ2I3TGZKU3VnR0E?oc=5",
+      "source": "Bioengineer.org",
+      "published_date": "2026-11-20",
+      "summary": "Para peneliti menggabungkan kecanggihan nanoteknologi dengan kecerdasan buatan untuk memperkuat pengobatan imunoterapi pada pasien kanker otak glioblastoma. Inovasi ini memungkinkan pengiriman obat secara lebih presisi ke sel target sekaligus mengoptimalkan respons sistem kekebalan tubuh. Langkah ini menjadi terobosan penting dalam meningkatkan angka harapan hidup pasien kanker otak yang mematikan.",
+      "takeaways": [
+        "Penggabungan nanoteknologi dan AI meningkatkan presisi pengiriman obat ke jaringan otak.",
+        "Imunoterapi menjadi lebih efektif dalam mengenali dan memusnahkan sel kanker ganas.",
+        "Inovasi ini memberikan harapan baru bagi pengobatan kanker otak glioblastoma yang selama ini sulit disembuhkan."
+      ],
+      "category": "Genom & Biotek"
+    },
+    {
+      "title": "Kerangka Kerja Multi-Omik Urin Berbasis AI Diajukan untuk Manajemen Kanker Kandung Kemih",
+      "original_title": "Urinary Multi-Omics and Artificial Intelligence Framework Proposed for Bladder Cancer Management",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPS3FiTjJQbFdhVVRiRWczX3ZZYlZ4cUhFU2VFTkxnaE1JMFl0cWNUT0HRVG5mNWNFV2w2eWFnYWNaVzVzMUI4YjVGZXRsdE1uTmphU1JvS1dxbHRxZG5CQ3ZKdFk4enpUMTEzX09zY2RpMldoaXI1RDRHQ04xV3paanEwZkpvRVdINWNQSDlhTU1IOXdrcDNFei1WLXo2VURFM1A5d0pDSVhPdVkxckU1N2txMHAwcUo0eFFXUDFn?oc=5",
+      "source": "Bioengineer.org",
+      "published_date": "2026-11-20",
+      "summary": "Sebuah pendekatan baru yang menggabungkan analisis multi-omik urin dan kecerdasan buatan diusulkan untuk diagnosis dan pemantauan kanker kandung kemih. Sistem ini mengintegrasikan data genomik, metabolomik, dan proteomik guna memberikan deteksi dini yang non-invasif bagi pasien. Metode cerdas ini diharapkan dapat menggantikan prosedur invasif yang berulang serta meningkatkan akurasi perawatan klinis.",
+      "takeaways": [
+        "Integrasi data multi-omik dan AI memungkinkan deteksi kanker kandung kemih secara non-invasif melalui sampel urin.",
+        "Sistem analisis kecerdasan buatan mampu mengenali biomarker spesifik secara presisi dan cepat.",
+        "Pendekatan ini meminimalkan kebutuhan prosedur medis invasif serta mempermudah pemantauan pasien secara berkala."
+      ],
+      "category": "Genom & Biotek"
+    },
+    {
+      "title": "Rencana IPO Anthropic Menandai Fase Baru Pertumbuhan Startup AI dan Tantangan Tata Kelolanya",
+      "original_title": "Anthropic's IPO caps an explosive growth period for the AI startup, filled with contradictions",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNT3g1T21sY2ZCbC1EanB2dWx2ZWpfRGw0SFpGa1R6LVNSTGpCd1B2QVdvMGxoVnhFcnRNUjRrMjJnVkQ3d3FJN3ZlUWVBLWZ5dnVmazU0S1ZPcFRYdTVyLW1WQ3Z6aG94al9sbF9Gb25vSVlMUDd5c2hIdzl5d0g5S1pKYUFjUHFaRWFGb3ZhNGoydGFnelh6WVB2NENHdmVsakprTmhhZWQ3T21wb3Q2aG1waGhTem4zV3RaYXJJUkphQ1BzWG5IUnRIX1hvR0NUZHFIdkpSNA?oc=5",
+      "source": "The Washington Post",
+      "published_date": "2026-11-20",
+      "summary": "Perusahaan AI Anthropic bersiap melakukan penawaran umum perdana (IPO) setelah mencatatkan pertumbuhan nilai kapitalisasi yang luar biasa. Namun, langkah menuju pasar saham publik ini menguji komitmen awal perusahaan untuk mengembangkan AI secara aman dan bertanggung jawab di tengah dorongan profitabilitas pasar. Momen penting ini akan menunjukkan bagaimana komitmen keselamatan AI berinteraksi dengan tekanan komersial.",
+      "takeaways": [
+        "Anthropic mencapai nilai valuasi raksasa menjelang langkah IPO yang diantisipasi pasar global.",
+        "Perusahaan menghadapi tantangan dalam menyelaraskan idealisme keselamatan AI dengan tuntutan keuntungan investor.",
+        "Proses IPO ini menjadi tolok ukur bagi transparansi dan tata kelola perusahaan startup AI komersial."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "California Usulkan Regulasi 'Tombol Pembunuh' AI dan Pengawasan Keselamatan Ketat",
+      "original_title": "California Proposes AI 'Kill Switch' and Mandatory Safety Oversight",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOEJ3cUVSY1E2dkFCak5MWUR3YVRpeXl4cXp1VWlwanFWb0tLY0o3NVhGZWl4dkVLelkwNkpaUGhuanZwZS1TQ3FrVUZmbl9sVnl1X0ZzSVFOTU9wcWNLYWhrS1VuRk9yckFrbGlieF_PZXNFZUd1LWdoSTFNOV94Qm4wd3FoZllLU19jSk1TeGhORGdsT0E?oc=5",
+      "source": "Law Commentary",
+      "published_date": "2026-11-20",
+      "summary": "Pemerintah negara bagian California mengajukan rancangan undang-undang baru yang mewajibkan pengembang AI besar memiliki mekanisme penghentian darurat atau 'kill switch'. Aturan ini juga menuntut uji keselamatan mandiri dan pengawasan ketat terhadap model AI berskala besar guna mencegah risiko bencana digital. Regulasi ini diperkirakan akan menjadi standar nasional bagi pengembangan AI yang aman di Amerika Serikat.",
+      "takeaways": [
+        "Rancangan undang-undang California mewajibkan adanya tombol pembunuh darurat pada sistem AI canggih.",
+        "Pengembang AI skala besar diwajibkan melakukan evaluasi keselamatan secara ketat dan transparan.",
+        "Aturan ini dapat membentuk standar baru tata kelola regulasi AI global."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Memahami Proses Etching Plasma Industri Semikonduktor Menggunakan AI Terjelaskan (XAI)",
+      "original_title": "Plasma etching demystified with explainable artificial intelligence",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdVhEZU02Rjh0U0YzcjJGbThVeWxTY0N4UW94ZTNNa2lkWGNpblJ1b3pyeWFsbWQ4YlRtaFpFMy1sSHcxakdkaU95OHFuOXp6MVR2RDVySW9CM2ZRU1l6X3luNDJmb2lFd1RISmpVZW5ZTUVLQnZTSnZham5VMk10eXUxSWJ3QXNNRE9ZV0hfd1VQZ253RFplREFXTTNSZw?oc=5",
+      "source": "AIP.ORG",
+      "published_date": "2026-11-20",
+      "summary": "Para peneliti berhasil memanfaatkan Explainable Artificial Intelligence (XAI) untuk memetakan dan mengoptimalkan proses etching plasma yang rumit dalam pembuatan cip semikonduktor. AI tidak hanya memprediksi hasil proses, tetapi juga memberikan penjelasan fisis yang dapat dipahami oleh insinyur. Terobosan ini membantu efisiensi produksi mikroelektronika dan mempercepat pengembangan chip generasi masa depan.",
+      "takeaways": [
+        "Penerapan XAI memberikan transparansi pada kalkulasi rumit fisika plasma dalam pembuatan mikrochip.",
+        "Teknologi ini mempercepat kontrol kualitas dan mengurangi tingkat kegagalan pabrikasi semikonduktor.",
+        "Solusi ini membuktikan efektivitas AI dalam memecahkan tantangan manufaktur tingkat lanjut."
+      ],
+      "category": "Sains & Teknologi"
+    },
+    {
+      "title": "Intel dan Microsoft Berkolaborasi Membangun Sistem Keamanan Terpadu untuk AI PC",
+      "original_title": "Intel and Microsoft: Building security for the AI PC, together",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZUJMV0RXUk9LazZkLVBray1vMFZsSVNNM0xhSXczX1BwT2h2bE43aEJRZzBDTV_BWTBlMlE5WkRueEt5RkV2aXZiY1ZYS1JLNFZUcGl5T21HZHB3WXhLaDhtOWVCMVNPWTFKQWhWQjcxTTdwUG9VUWdJcy02NDVZWUp1VGdVUUxOSlc5YUEyQUNfV3JjTS1yNzhNSGM0Smw2TjZNU2xrMVhWa0U?oc=5",
+      "source": "Intel",
+      "published_date": "2026-11-20",
+      "summary": "Intel dan Microsoft mengumumkan kemitraan strategis untuk merancang arsitektur keamanan tingkat keras dan lunak khusus bagi perangkat AI PC. Kolaborasi ini bertujuan melindung pemrosesan kecerdasan buatan lokal dari ancaman siber yang kian kompleks. Perangkat generasi baru ini dirancang agar mampu menjalankan beban kerja AI secara efisien tanpa mengorbankan privasi data pengguna.",
+      "takeaways": [
+        "Intel dan Microsoft mengintegrasikan perlindungan berbasis perangkat keras dan perangkat lunak pada perangkat AI PC.",
+        "Arsitektur baru ini melindungi pemrosesan data AI lokal langsung pada chip NPU.",
+        "Langkah ini menetapkan tolok ukur keamanan standar baru bagi ekosistem komputer pribadi berteknologi AI."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Ketergantungan Kompleks pada AI Mendorong Komplikasi Gangguan Layanan Teknologi Massal",
+      "original_title": "The ‘new norm’: How AI is driving mass tech outages",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92bndjYXU1Y1FBLVdoV0dwUUZlcFA1OXFpWE50ZTk5MTRvdlpkNnkzSnM0SV_tNWZzUThXUVhJbnhJMFo3d0syZzI5eVZsZkZKYUtNWnV5OU5YQTNpd1U5NTdYOFlEQVE3d2MxWTJlZnBtUmtUeDR3T2lMWEMzeDg?oc=5",
+      "source": "Politico",
+      "published_date": "2026-11-20",
+      "summary": "Laporan terbaru menyoroti bagaimana integrasi AI yang begitu cepat ke dalam infrastruktur kritis menciptakan titik kegagalan baru yang memicu gangguan sistem secara luas. Otomatisasi berlebihan tanpa pengawasan manusia yang memadai kerap memperparah eskalasi eror pada pusat data global. Para ahli mengimbau pentingnya membangun ketahanan sistem dan mitigasi risiko mendalam pada arsitektur AI.",
+      "takeaways": [
+        "Penggunaan AI yang masif dalam infrastruktur cloud meningkatkan risiko gangguan sistem secara meluas.",
+        "Kesalahan kecil pada algoritma AI berpotensi memicu rantai pemadaman infrastruktur digital.",
+        "Diperlukan standar mitigasi dan pengawasan manusia yang lebih ketat dalam pengoperasian sistem AI kritis."
+      ],
+      "category": "Artificial Intelligence"
+    },
     {
       "title": "Terobosan Baru: Model AI Terbuka China Saingi Raksasa Silicon Valley",
       "original_title": "Another powerful new artificial intelligence model from China took the US tech industry by surprise",
@@ -139,6 +237,48 @@
         "LLM musik baru menghasilkan musik dengan pemahaman struktural harmoni yang mendalam.",
         "Mampu menghasilkan file MIDI multi-instrumen yang dapat diedit secara profesional.",
         "Membuka perdebatan baru mengenai hak cipta karya seni yang dihasilkan oleh kecerdasan buatan."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Pemerintah New York Memulai Pembangunan Pusat Superkomputer Empire AI untuk Kepentingan Publik",
+      "original_title": "Governor Hochul Breaks Ground on Permanent Empire AI Supercomputing Center, Marking Major Milestone in New York’s National Leadership in Using Artificial Intelligence for the Public Good",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWVdqNHRVcGw2amM1QVZ4SkxNZzNtdTBmb0JZdkNMYXZTRlZia0tJdDVTWHVoNnJBUWFlcUtjQXQ4NGZYMEZKNEkyUi02eWcwN214QTdtOWdRVkxUS0lobmY3SklZUUthR05TWnJUcGZXampFbjU0b0NqTGVxazJsS0phSjB1d0R0QjdDd0ppQW5hck82WTNCdEt1LVZxc0ZacFhONnE1V1pvRS1TM3JZRkY2dDZMV2RTNkE?oc=5",
+      "source": "Governor Kathy Hochul (.gov)",
+      "published_date": "2026-11-19",
+      "summary": "Gubernur New York memulai peletakan batu pertama untuk pembangunan fasilitas permanen Pusat Superkomputer Empire AI. Fasilitas ini dirancang untuk memfasilitasi penelitian AI terdepan yang berfokus pada masalah-masalah sosial dan kepentingan publik. Langkah ini mengukuhkan posisi New York sebagai pusat inovasi teknologi dan kepemimpinan AI nasional.",
+      "takeaways": [
+        "Pusat superkomputer Empire AI dibangun khusus untuk mendukung riset kecerdasan buatan demi kepentingan publik.",
+        "Fasilitas ini menyediakan infrastruktur komputasi skala besar bagi universitas dan lembaga riset nirlaba.",
+        "Inisiatif ini menempatkan New York di barisan depan kepemimpinan etis dan inovasi AI di tingkat nasional."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Anggota Kongres AS Bikin Kaukus AI Lintas Partai untuk Awasi Perkembangan Teknologi",
+      "original_title": "Rep. George Whitesides leads new bipartisan House artificial intelligence caucus",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUlpSOS1TRUhGMU9URjNMejRMRHRSUjdmWDhHWU9pcjVtZnk0OTRYZ25IdldISjlNczdiZUNjZE9BaXpUZkRxRXEzc2dudVdHWkh4V1ktSTFNXzQzV3NveldZSS00ek00bkxlZW5oMlpWRm1XNWt1OTVLNkpLdmFkN19VamJkOGZOWk9uZVVGOF84M3Bwd1FMcmN1QTBXM2VFaUplWkhwN1A0MW9XV1VUZEF6dWZneGxG?oc=5",
+      "source": "Los Angeles Daily News",
+      "published_date": "2026-11-19",
+      "summary": "Anggota DPR AS memprakarsai pembentukan kaukus kecerdasan buatan bipartisan baru guna merumuskan kebijakan nasional terkait AI. Kaukus ini berfokus pada keseimbangan antara pendorongan inovasi teknologi dan perlindungan risiko keamanan serta ketenagakerjaan. Langkah ini menunjukkan meningkatnya kepedulian pembuat kebijakan terhadap dampak transformatif AI pada masyarakat.",
+      "takeaways": [
+        "Kaukus bipartisan didirikan untuk merancang regulasi dan kebijakan legislatif terkait AI di AS.",
+        "Fokus utama mencakup keamanan nasional, dampaknya terhadap tenaga kerja, dan perlindungan privasi.",
+        "Pendekatan lintas partai ini bertujuan memastikan regulasi inovasi AI dapat berjalan secara seimbang."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Kota San Francisco Gunakan AI Senilai $55 Juta untuk Pengawasan Jalur Transit dan Pelanggaran Parkir",
+      "original_title": "SFMTA approves $55 million contract with Hayden AI to use artificial intelligence to help ID parking, transit lane violations",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQM084U21SbTNOMDgtTk1LWTZDbFM5TTlpTU92aDBLNFhVUmFfVXVvQTlKSWVpOW51S1VDYW5zeU5yX25TTjVyZURCQnE0OEpKRU1OUFIybk5rOWFVT1djY25oWkh5a1liSjNlMEZ1QlNVRTV4ZkJGZUVPa3pYWUY3eUJWTXlwOU82bWlBVUpLV2ViaTViZ0lqY0xjOHAzMzhnblRmRV_IRUQ1bTA4cWhuazlQcXJsZDVVNjlEZVBhLVBoejBNVWtESnJPU1dROVRja1FBcU01SmpxdlNRc2t6Znln0gHnAUFVX3lxTE90U01DeU80MGVJc1pIeF_0MG1DYlhXVEJHNHFMUkdDcmhSRl9ySDdXWDJxUXdqY1dEWHhSck9pSWlMbHhuRTZZY1VYSmpHVGJqQndRTUthb0xPVm9Bbkp1allBRTdxSjJ0U1ppeGMtQTFNYTRSSWFnNEREeGo3NHR0ME1aTTdpYV_6Y215TGVCdUVKd3c3X0tIcl_0cWVKYUxKOVlOcTRlWTJhUUpyaWJOSWZJaHAyb1Y3a05oR2lidkJWckNZbURiN2dFZTlaVmZhVWtwMEpreGxEaTNhZHR3N2VsVE9SWQ?oc=5",
+      "source": "ABC7 Bay Area",
+      "published_date": "2026-11-19",
+      "summary": "Otoritas Transportasi San Francisco (SFMTA) menyetujui kontrak senilai $55 juta untuk menerapkan kamera berbasis AI pada armada bus kota. Sistem AI ini bertugas mengidentifikasi pelanggaran kendaraan yang memblokir jalur bus dan tempat parkir terlarang secara otomatis. Penerapan teknologi ini diharapkan meningkatkan efisiensi angkutan umum serta kesadaran berlalu lintas.",
+      "takeaways": [
+        "San Francisco menginvestasikan $55 juta untuk teknologi pemantauan lalu lintas otomatis berbasis AI.",
+        "Kamera cerdas dipasang di bus untuk mendeteksi mobil yang menghalangi jalur transit secara real-time.",
+        "Inisiatif ini dirancang guna mempercepat laju angkutan umum dan mengurai kemacetan kota."
       ],
       "category": "Artificial Intelligence"
     },
