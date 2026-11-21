@@ -1,7 +1,77 @@
 {
-  "last_updated": "2026-11-20T06:24:29.448021+00:00",
-  "total_articles": 160,
+  "last_updated": "2026-11-21T06:15:08.682592+00:00",
+  "total_articles": 163,
   "articles": [
+    {
+      "title": "Manfaatkan kecerdasan buatan, matematikawan klaim berhasil pecahkan salah satu misteri besar matematika",
+      "original_title": "Using AI, mathematician claims to have solved one of math’s great mysteries",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWnR2Ny1uWG1YVUdRQmI2QlEyUkFoalhFZFp3Rng1ZWVlRVR4SHVzaHFnRnZuNWFfRmM5YkpVNFJCSmNHWFk2WDJia1lfOG1mYVY5MHZjY2F1d05XMlhHRUVlVklvc2RiWUR4aURGLWh4MGJMZWFsOW1Obm0taDVHek54Tk1GckZpYl80QXRncVNIbmxLdHlWUkZqMGJfSktFQ0hFV1VJWVQzZDZjbHN6Z3I0LS1aVGNJTElMZ2QzWHo2QQ?oc=5",
+      "source": "The Washington Post",
+      "published_date": "2026-11-21",
+      "summary": "Seorang matematikawan memanfaatkan teknologi AI untuk menyelesaikan masalah matematika rumit yang telah lama tidak terpecahkan. Keberhasilan ini menunjukkan potensi besar kecerdasan buatan sebagai mitra kolaborasi dalam riset sains teoritis. Pencapaian tersebut menandai era baru di mana AI tidak hanya memproses data, tetapi juga membantu menemukan pembuktian ilmiah dasar.",
+      "takeaways": [
+        "Kecerdasan buatan terbukti mampu membantu memecahkan masalah matematika teoritis tingkat tinggi.",
+        "Penggunaan AI mendefinisikan ulang peran teknologi sebagai alat bantu utama bagi para peneliti sains fundamental.",
+        "Temuan ini membuka jalan bagi eksplorasi masalah rumit lainnya di bidang matematika dan fisika."
+      ],
+      "category": "Sains & Teknologi"
+    },
+    {
+      "title": "Sistem AI sejajari kemampuan pakar dalam radiografi tuberkulosis dan diagnosis genomik",
+      "original_title": "Artificial Intelligence Matches Expert Performance in Tuberculosis Radiography and Genomic Diagnostics",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWkpsOTU3MWl1QkFpQXhyQTVpZjdTa0VqamRDU0tvZUhCcU9JbEhKN1JaREtyYVQ5bXlnVkZFZWlhWElVY0pmcEFvckVmU1BxOXJTY184cEo0NzJ0Ni1UaTNZMnYzY2NRNGdlV3JzU3kxbVJnWGZWQzV5Y0xDcW9SY0xpQk5rYkE3WFBfOHZMTXZOMFhXNjh0MlR3eFVVTk8xVHz3UEtleVhnd0IxUXZoUzNmdVRvSzhrbTdTMmszNjBiOVFpS0E?oc=5",
+      "source": "Bioengineer.org",
+      "published_date": "2026-11-21",
+      "summary": "Studi terbaru menunjukkan bahwa sistem kecerdasan buatan mampu menyamai akurasi pakar medis dalam menganalisis radiografi tuberkulosis dan data diagnostik genomik. Integrasi AI ini memungkinkan deteksi dini dan analisis genetik penyakit menular secara lebih cepat serta presisi. Terobosan ini sangat krusial untuk memperluas akses pemindaian berkualitas tinggi di wilayah dengan keterbatasan tenaga medis.",
+      "takeaways": [
+        "Performa AI setara dengan spesialis medis dalam mendiagnosis tuberkulosis melalui citra radiografi dan data genomik.",
+        "Teknologi ini mempercepat analisis pola pemetaan genomik untuk mendeteksi varian penyakit secara presisi.",
+        "Penerapannya berpotensi menekan angka ketimpangan fasilitas kesehatan di berbagai daerah terpencil."
+      ],
+      "category": "Genom & Biotek"
+    },
+    {
+      "title": "Persaingan kecerdasan buatan AS dan Tiongkok memasuki babak baru yang semakin ketat",
+      "original_title": "Al Jazeera explains: The US-China AI race is entering a new phase",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaVFZdUxjYzl0bnYzVFFqQWludTZucUh3d2JFWk1BRE5OR05kaldIbmpScFVvUDF3MUlfRkJfbXBLM0czTVVTYVdNbUdEa0gtQ0pMVUhUNzRQcXlfa2xpdE1Ca3ZBb2lOUFBtUFNyT0lvTmRrcnhFM0xLUF9FUmhlRHdFWUdKdlRFT3BZcVFaNVl4bFJ3YVl1UXlrbU1DUmVlMC1XQ2luY1g0NWhldFVwRktuZ3VCTmvSAbwBQVVfeXFMUGJTZm50S3FWWktrSVpIV1MtazZ0OV9NYTRNSm0ycjdRSGxFNXItUm5McHI2bFRwVVFNS3hEX1RhaURpREtZbHJ0ZUQ1LTkxazlZVklyTEJkZjcwVC1uaEJwMXJfUEhybmhYcGd2aHJVejhIa1l6NWdqemVma09JeVc1UzFJdjItdjBMT2gzWTZSUkpRWU1LNmQ2MmswaEJCMHV6WEFiOXdmczU5Q2t1QjY1S0NuUmJ0c09UVVY?oc=5",
+      "source": "Al Jazeera",
+      "published_date": "2026-11-21",
+      "summary": "Kompetisi penguasaan teknologi AI antara Amerika Serikat dan Tiongkok kini bergerak ke fase baru yang berfokus pada infrastruktur keras dan keunggulan algoritma dasar. Kedua negara memperketat kontrol ekspor mikroprosesor serta memperbesar investasi riset nasional. Dinamika geopolitik ini memicu polarisasi standar teknologi di tingkat global.",
+      "takeaways": [
+        "Persaingan AI AS-Tiongkok bergeser dari kompetisi aplikasi ke infrastruktur dan perangkat keras canggih.",
+        "Kebijakan kontrol ekspor chip dan pembatasan investasi mempertegas blokade teknologi.",
+        "Perkembangan ini berpotensi membagi ekosistem AI dunia menjadi dua standar terpisah."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Menembus spektrum kasat mata: AI tingkatkan efektivitas kamuflase multispektral",
+      "original_title": "Hiding beyond the visible: How artificial intelligence is enhancing multispectral camouflage",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZF9LMkJwcDBHNlhOZkU3TUQxdkk0S2lmR05Fc2xINGFBSEpzdHZfVXkyWHJvSmFCZ3M1Q3JiSzIyUFhRMkxhNEotdHVCNU1SSmRaUVJHSkZybnFzc2ZUcjJLUDlUdGFFXzd5MklqYmd0X19YWVR1TGFqUVU5NFA3T0h3NDBSZFpfVmhiQ1ZncG5QSlJSVHZlRkFxLWRoSnhORlkyQXVIQnd0bXdSWEYyNHpjRG4zVjJ4bWVpbTd3?oc=5",
+      "source": "AIP.ORG",
+      "published_date": "2026-11-21",
+      "summary": "Riset terbaru memanfaatkan integrasi algoritma AI untuk merancang material kamuflase multispektral canggih. Material ini mampu menyamarkan objek dari sensor inframerah, optik, hingga radar secara dinamis sesuai lingkungan. Terobosan material canggih ini berpotensi besar meretas standar baru dalam sains material dan pertahanan.",
+      "takeaways": [
+        "Algoritma kecerdasan buatan mempercepat desain material kamuflase berstruktur nano.",
+        "Teknologi ini mampu mengecoh berbagai jangkauan sensor spektrum secara bersamaan.",
+        "Inovasi ini menandai kemajuan signifikan dalam sains material fungsional cerdas."
+      ],
+      "category": "Sains & Teknologi"
+    },
+    {
+      "title": "Senator AS usulkan pembentukan komite khusus pengawasan dan regulasi cepat AI",
+      "original_title": "Senator proposes select committee on AI as Democrats hope to move quickly to regulate it",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVUxEbDByUzRBdDVDVUpaQ1dzSm40eFJJQmlPUVVfVzdMRWtCRjE4Z0c4SEhMUUZqWWwtbGtvc1RSQmMwaDVsYVFfTWI5cmJ4NldNbFpyb0QzMjE1VUVVbkV4YWxMeEYyaDk1Mk1JbV82RGFQUHF3OG53QkJvOF9yUTk4NHNqZzdCeDRvUk1nUEhLXzdTSlhZZU9TZ0FkVFNFRUVPamxDUUN3MmtZRE5wbjdQTGhrR3dKZWRYWll1X19RZTk5Ym1HUTkxSm9IX2lVZWE2dUU3SUJ3ZWFWVmpJ?oc=5",
+      "source": "The Washington Post",
+      "published_date": "2026-11-21",
+      "summary": "Anggota senat AS mengajukan pembentukan komite khusus guna mempercepat perumusan kerangka hukum dan pengawasan kecerdasan buatan. Langkah politis ini diambil sebagai respons atas akselerasi dampak AI pada sektor keamanan nasional, ekonomi, dan privasi publik. Pembentukan komite diharapkan membuahkan regulasi AI yang lebih terstruktur dan responsif.",
+      "takeaways": [
+        "Pengusulan komite khusus bertujuan memusatkan serta mempercepat proses legislasi AI.",
+        "Fokus regulasi mencakup mitigasi risiko privasi, dampak tenaga kerja, dan keamanan nasional.",
+        "Langkah ini menunjukkan dorongan kuat legislatif untuk membatasi ruang gerak AI tanpa pengawasan."
+      ],
+      "category": "Artificial Intelligence"
+    },
     {
       "title": "Kombinasi Nanoteknologi dan Kecerdasan Buatan Tingkatkan Efektivitas Imunoterapi Kanker Otak Mematikan",
       "original_title": "Nanotechnology and Artificial Intelligence Advance Immunotherapy Against Deadly Brain Cancers",
@@ -97,6 +167,76 @@
         "Penggunaan AI yang masif dalam infrastruktur cloud meningkatkan risiko gangguan sistem secara meluas.",
         "Kesalahan kecil pada algoritma AI berpotensi memicu rantai pemadaman infrastruktur digital.",
         "Diperlukan standar mitigasi dan pengawasan manusia yang lebih ketat dalam pengoperasian sistem AI kritis."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Teknik optik berbasis AI ungkap jejak sidik jari tersembunyi dari sel biologis",
+      "original_title": "New AI-powered optical technique reveals hidden fingerprints of biological cells",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQ05TbXdZbUZvNzNKdWJaalhwT1hCdm5icEVPRnV0RnQxNWY1bnFPbEdpVHE4T0pZMFJLTi1mLW44U3o3cnowQzNGS2RaVkwzamVnakUtc2RsdGwzNVlRSG5uRkpncXZ5d1hQbnRlczZCVGhleGJqbjNmNGdQdkl1ZU9LSDlveFBzUFoxX1BRY3hQNDgzT25VT3hXN0ttVndUTm11WkxOTV85TThVOWd3QXk4THdOdmNRWEd4UEJOYmR0bkxaOUE?oc=5",
+      "source": "Berkeley Engineering",
+      "published_date": "2026-11-20",
+      "summary": "Para peneliti menguji teknik optik bertenaga kecerdasan buatan yang mampu mengidentifikasi karakteristik halus dan struktur biologis sel yang sebelumnya tak terlihat. Inovasi ini mempermudah pemetaan profil seluler tanpa merusak sampel biologis. Penemuan ini diharapkan dapat mempercepat analisis penyakit dan pengembangan terapi molekuler presisi.",
+      "takeaways": [
+        "AI meningkatkan resolusi dan sensitivitas pencitraan optik pada analisis sel tunggal.",
+        "Memungkinkan deteksi dini perubahan biokimia seluler tanpa perlakuan invasif.",
+        "Membuka potensi besar bagi riset bioteknologi dan terapi medis personal."
+      ],
+      "category": "Genom & Biotek"
+    },
+    {
+      "title": "Tim peneliti Harvard raih hibah 12 juta dolar AS untuk integrasikan AI dan komputer kuantum",
+      "original_title": "Harvard-led team receives $12 million in federal funds to advance quantum computing with AI",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZ3Z5VVlfcTZiU2JTWjhOUWNMX2RnWEM5Z2Y3QzZkaUdjVmc0UlNoWFA4bG55Tk5aQllkU2MyOHoxWU4xRVFZMzNPT3UzTUxwX3RUd2JSejNrdGdxdnJpWllBQkczTjlrVFZpY0tldUw2NnNPVjFndHFYRkRVXzg3RS1fODE1U1Y3S3ZYRnZQc2RvNzM0cXk0Q2JHaDR4UjdqQ1FhLXJVRXJHS2tzTjc2enowWTdTRWpnYnFBck1Ta3E0NjdmZHZUYU5RQUM3US13cnJJNw?oc=5",
+      "source": "Harvard Gazette",
+      "published_date": "2026-11-20",
+      "summary": "Tim riset yang dipimpin Universitas Harvard memperoleh pendanaan federal sebesar 12 juta dolar AS untuk menggabungkan kecerdasan buatan dengan komputasi kuantum. Pendanaan ini ditujukan untuk memecahkan hambatan teknis dalam koreksi kesalahan kuantum dan pemrosesan data kompleks. Sinergi kedua teknologi garis depan ini diperkirakan akan mempercepat revolusi komputasi masa depan.",
+      "takeaways": [
+        "Hibah 12 juta dolar AS dialokasikan untuk membiayai integrasi komputasi kuantum dan AI.",
+        "AI akan digunakan untuk meningkatkan efisiensi dan mitigasi eror pada sistem kuantum.",
+        "Proyek ini berpotensi mengakselerasi penemuan bahan baru dan simulasi molekuler rumit."
+      ],
+      "category": "Sains & Teknologi"
+    },
+    {
+      "title": "Pasar saham AS anjlok tajam seiring meredupnya tren lonjakan investasi AI",
+      "original_title": "U.S. Stocks Extend Plunge as AI Boom Turns to Bust",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOY1h6VEhXUGRDcE9hX25QQllJOF9uSmhUNERBSVdBNjRkU0gyaGRySGN0MXVXZERzUmhmdXJIUms2cFJJU2ZvdkVjUlB0RjRxSTQ4RFBiYTV0T0MyUFB5cWw0RWtuZzZrQXFwLUJqb3VsZGhacHR0NF9wTVMwc0tYUW1obFhUNHNVX0JEQnFKX2pRc1RWRGsxVw?oc=5",
+      "source": "WSJ",
+      "published_date": "2026-11-20",
+      "summary": "Bursa saham Amerika Serikat mengalami penurunan drastis di tengah kekhawatiran investor akan melambatnya profitabilitas industri AI. Koreksi pasar ini dipicu oleh evaluasi ulang terhadap tingkat pengembalian investasi (ROI) dari belanja besar-besaran teknologi kecerdasan buatan. Penurunan ini mencerminkan sikap hati-hati pasar terhadap euforia kecerdasan buatan.",
+      "takeaways": [
+        "Saham-saham sektor teknologi utama tertekan akibat kekhawatiran atas kelebihan valuasi AI.",
+        "Investor menuntut bukti nyata dari pendapatan operasional yang dihasilkan oleh implementasi AI.",
+        "Koreksi ini mendorong perusahaan teknologi memperketat efisiensi biaya operasional."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "AI untuk kesehatan: Publikasi PAHO ulas peluang dan risiko 'Reinforcement Learning' di dunia medis",
+      "original_title": "Artificial Intelligence for Health: New PAHO Publication Examines the Opportunities and Risks of Reinforcement Learning",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbUY5el9qNmZQa1hEV3hYcFdwQmdUcUNLVkpGMHd2QXlFTVRQUVJRS28tM0JxbVAzTHR2b2E1elUwRkh0UlZXbEZIVFoxMmpXZF9nX2VGS0dOOXFOMTg1TURLMHpwSmwxVkRhY3pDUDZUcE5ydXZqbk1lNEZybVVPWVdNZnBmcVBMVE9FbzVCbHFkdFN0N2Y1eXhoeWVCTDBGaXNxTnhnUG5jbXhnTmkzUy1oNjJZWGl0THc?oc=5",
+      "source": "Pan American Health Organization (PAHO)",
+      "published_date": "2026-11-20",
+      "summary": "Organisasi Kesehatan Pan Amerika (PAHO) merilis laporan komprehensif mengenai penerapan pembelajaran penguat (reinforcement learning) dalam sistem pelayanan kesehatan. Laporan tersebut memetakan potensi AI dalam optimalisasi dosis obat dan manajemen perawatan pasien sekaligus menggarisbawahi risiko etika data. Dokumen ini menjadi acuan penting bagi pembuat kebijakan kesehatan di tingkat internasional.",
+      "takeaways": [
+        "Reinforcement learning menjanjikan optimalisasi keputusan klinis dan respons medis yang lebih adaptif.",
+        "PAHO menekankan perlunya standar etika ketat guna mencegah bias dan risiko keamanan data pasien.",
+        "Pedoman ini membantu negara anggota merumuskan regulasi pengawasan AI di sektor kesehatan."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Trump rencanakan sanksi bagi perusahaan teknologi AS yang bangun pusat data AI di luar negeri",
+      "original_title": "Trump says he plans to penalize US tech companies that build AI data centers in other countries",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPY2RUaU1Ec3pkRTdvdjgtbS14eXdpaTdTa1Y5TlI1Tmg2OG9fODh5aHhnOWFlU0pwbWVoQUZaNkUwSnFxS0JVOXRIVXFBd3FfY1RROHVfdHN0UHY2dEFsWk5mOENDRUs4V3RyME9qUkRrZVNxV2tMaUhYUEYxMTAyc3F2YzZ1SHV6ZzJoMm8weWVsZjFReWZneHFkS1Q5VnQ2akJ6aWE4Snh1dXcycnh1bGdJSmZOR3lvY19ydk1n?oc=5",
+      "source": "ABC7 Bay Area",
+      "published_date": "2026-11-20",
+      "summary": "Donald Trump mengumumkan rencana mengenakan penalti bagi perusahaan teknologi Amerika Serikat yang menempatkan pusat data AI mereka di luar negeri. Kebijakan ini bertujuan menjaga infrastruktur kritis dan daya komputasi AI tetap berada dalam kendali domestik AS. Ancaman sanksi tersebut berpotensi mengganggu strategi ekspansi global para raksasa teknologi.",
+      "takeaways": [
+        "Rencana penalti ditujukan untuk mendesak perusahaan teknologi menanamkan investasi fasilitas komputasi di dalam negeri.",
+        "Langkah ini didasari alasan keamanan kedaulatan data dan perlindungan infrastruktur vital.",
+        "Kebijakan ini berisiko meningkatkan biaya operasional dan memperlambat skalabilitas global perusahaan teknologi."
       ],
       "category": "Artificial Intelligence"
     },
@@ -2143,104 +2283,6 @@
         "Teknologi ini menjadi alat krusial bagi pemerintah dalam menghadapi dampak perubahan iklim ekstrem."
       ],
       "category": "Sains & Teknologi"
-    },
-    {
-      "title": "Eksklusif: AI Temukan Celah Keamanan yang Mengancam 70% Situs Web di Seluruh Dunia",
-      "original_title": "Exclusive | AI Just Found a Bug That Puts up to 70% of the World’s Websites at Risk",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN2FJWTlyQXFoRWh5ZnlfTnVOeDlDb0J3ejVCOWhNc0xXSXFLS2lGUlZ5cVI1NGFuWHpvQ1ZiTnkwV2luSHRpYjNuR1NWSlVnTmxuTzFwYWJ3NUVPeWYxVDNNZkdVX2xGZVJja0Z2LUY3STh4X1dnMXJfTjVad3FIbDFUM3dqc1hBcDBBN0JHazhuWVR6NE41ZnZTaFp2QVZhWEpDa1pIZHZaSlZHbjBKU0FMUWRSRklK?oc=5",
-      "source": "WSJ",
-      "published_date": "2026-10-21",
-      "summary": "Penggunaan kecerdasan buatan dalam memindai sistem keamanan berhasil mengidentifikasi kerentanan kritis yang berdampak pada mayoritas situs web global. Temuan ini menyoroti peran ganda AI dalam memperkuat keamanan siber sekaligus mendeteksi risiko sebelum dieksploitasi oleh pihak yang tidak bertanggung jawab. Penemuan ini menjadi panggilan penting bagi pengembang web untuk segera melakukan pembaruan keamanan.",
-      "takeaways": [
-        "AI berhasil menemukan celah keamanan kritis yang mempengaruhi hingga 70% situs web global.",
-        "Penggunaan AI mempercepat proses deteksi kerentanan siber dibanding metode konvensional.",
-        "Pembaruan sistem keamanan menjadi hal mendesak untuk mencegah potensi eksploitasi."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Model AI Terbaru Terbukti Tingkatkan Efisiensi Skrining Penyakit Jantung Melalui EKG",
-      "original_title": "An artificial intelligence model demonstrates the potential for improving the efficiency of structural heart disease screening using electrocardiograms",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxONTZHa09jSmZnb2hfTlNDWDZfX0RZbDRteWs5NDlBQjJjanZjaUpIS3Zkc1RkdHBuLXNaRnU1MV9zalp6cDk5TGRxaGFHQmswdjZWMkhaVFFzbmdwZURYX1l6alpKT1BoMnBUQ2NlbGthejFZY0YzUjhnRnotNHUtb3g1TXk1c1RjTkFOaVBYZDBjZTVSWmJnQwtuWWJCd0tSMl9PcWlHVDlrTF9RQzFQWXpPUGJleFBfR085VzVrZV9sSDBUdjl6aUdXV3phY3pZY3FpR19SU2xIT0x2ZlpzWVNiTnJ3ZnRWVUxqRXk1OTlIWUpZQld4Mnd3WUxXZ0NzZml0d1RTVl9Bb1Q0eTRzQXR3?oc=5",
-      "source": "2 Minute Medicine",
-      "published_date": "2026-10-21",
-      "summary": "Sebuah studi menunjukkan bahwa model AI mampu menganalisis hasil elektrokardiogram (EKG) untuk mendeteksi penyakit jantung struktural secara lebih cepat dan akurat. Teknologi ini membuka peluang besar untuk skrining medis massal yang lebih terjangkau dan efisien. Dampaknya, intervensi dini dapat dilakukan sebelum kondisi kesehatan pasien memburuk.",
-      "takeaways": [
-        "AI dapat mengidentifikasi tanda-tanda penyakit jantung struktural langsung dari EKG.",
-        "Meningkatkan kecepatan dan akurasi skrining medis secara signifikan.",
-        "Memungkinkan penanganan medis lebih dini bagi pasien berisiko tinggi."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Peran Kecerdasan Buatan dalam Membantu Dokter dan Pasien Melawan Kanker Payudara",
-      "original_title": "How artificial intelligence is helping doctors and patients fight breast cancer",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWkNteXlvZ2J3WXB6YVA1OW1uenN6ajhrNzl0VUlZb2hsUDdJLW1NLW9Sbk1RRG93ZnJxVHlSelFXQnVfRFFzTjdsMC0tV0JzaEVDcjg4SkpoQmZ3RDhqamZzeFdQWjJrQzRZbk1wWGRpbWtMZXBSWjBTaGVHemxfSnlOLTFMeE9LeUNHMHZ4cXNaMTRnOUxHNlhwSkUycjM1QTE4eHY3UXU4Ylp6ak1oWVEySS16aDFPNzRvOFpobHM?oc=5",
-      "source": "CBS News",
-      "published_date": "2026-10-21",
-      "summary": "Kecerdasan buatan kini dimanfaatkan secara luas untuk menginterpretasikan mamografi dan membantu mendeteksi kanker payudara pada stadium awal. Teknologi ini memberi dokter alat bantu diagnosa yang lebih presisi serta membantu menyusun rencana perawatan kustom bagi pasien. Integrasi AI dalam bidang onkologi ini terbukti meningkatkan tingkat kelangsungan hidup pasien.",
-      "takeaways": [
-        "AI meningkatkan akurasi deteksi dini kanker payudara melalui analisis mamografi.",
-        "Membantu dokter merancang terapi pengobatan yang lebih personal bagi pasien.",
-        "Mengurangi risiko kesalahan diagnosis pada pemeriksaan medis rutin."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Pengembangan Obat Berbasis AI: Tantangan Keandalan, Risiko Hukum, dan Kepatuhan FDA",
-      "original_title": "AI-Generated Evidence in Drug Discovery: Reliability, Legal Risk & FDA Compliance",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPXzNkV2c5dk43d1d5alhkOW9BbkJyY2h1VHNEd283dVJZdEc5dGhqbkpjNU1jUHpjXzZDRk5PTndtUmtUZ0hIVWxuRmlLMzN5OGczVlB4b1dWZDloMkV2eWc5ZEJVRkRvNkZ3MXYyOC1QMFRqTWJzTUZkVUl6cHJ1VVVyMk9TZ0xDOGs5eGRMWFVCWFZHUF9TLWJfMnhSbGNrSVVyWWJicGtNT3BvQmRJYlFGT1pkTVJuQWlITUg5MHRKMlRtREprc2xBTEZ2Wno3NU5yQlhYZGNrd3I3bzFlY2NhQWZtazhrWW1nbktxTlNDakE?oc=5",
-      "source": "Crowell & Moring LLP",
-      "published_date": "2026-10-21",
-      "summary": "Pemanfaatan AI dalam penemuan obat baru mengalami kemajuan pesat, namun juga memicu tantangan baru terkait validitas data dan kepatuhan regulasi FDA. Perusahaan bioteknologi harus menavigasi risiko hukum dan memastikan bahwa bukti sintesis berbasis AI memenuhi standar keamanan medis yang ketat. Keseimbangan antara inovasi cepat dan kepatuhan regulasi menjadi kunci sukses komersialisasi obat masa depan.",
-      "takeaways": [
-        "Pemanfaatan AI mempercepat penemuan obat namun menghadapi pengawasan ketat regulasi FDA.",
-        "Perusahaan bioteknologi wajib memastikan validitas data AI untuk menghindari risiko hukum.",
-        "Kepatuhan terhadap standar medis menjadi syarat mutlak dalam persetujuan obat berbasis AI."
-      ],
-      "category": "Genom & Biotek"
-    },
-    {
-      "title": "Dorong Efisiensi, GM Targetkan Pengembangan Mobil Hanya dalam 2 Tahun Manfaatkan AI",
-      "original_title": "GM aims to develop vehicles in as little as two years with AI, software push",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5zZHBsWGlxdmVTbHJRV2VPTktvTnlJNm1hRmZXbDBScmRENVV2UVhjcFZLWVRhZm1Bb3BWa0ZoWTNqeC1MVU9YTmpKbTRkOHJjX01vOUJTdHI2R2JUSkszMld1UVJ1Y19TNE4xWW5CVUk5ZG5IRjdvSkVsUdIBgAFBVV95cUxOVnZYd0dsUTk5azZ0Y1dDdzRsai0wT0dPdXpSNEVVdU5OZnBwQUt0cnYxZjRRaWoyOFlCeG1UeHlVSlFuSjhkSEpaYVFNSU5kSG00dmo1NGw5LUtRN0tYRURLTkZyb1FYRWV4RFVmX0dtWS1Fb0RvUEc5Y0NfN2NOWg?oc=5",
-      "source": "CNBC",
-      "published_date": "2026-10-21",
-      "summary": "General Motors mendesain ulang proses manufakturnya dengan mengintegrasikan AI dan perangkat lunak canggih untuk memangkas siklus pengembangan kendaraan hingga menjadi dua tahun. Langkah ini bertujuan mempercepat inovasi kendaraan listrik dan otonom di tengah persaingan otomotif global yang sengit. Penerapan AI dalam simulasi rekayasa menjadi faktor kunci di balik efisiensi waktu ini.",
-      "takeaways": [
-        "GM memanfaatkan AI untuk memangkas waktu pengembangan kendaraan dari bertahun-tahun menjadi dua tahun.",
-        "Simulasi AI membantu mempercepat pengujian teknis dan desain otomotif.",
-        "Transformasi ini memperkuat daya saing GM dalam industri kendaraan listrik dan cerdas."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Kerangka Kerja Kecerdasan Agen Adaptif Menggunakan Strands Agents dari AWS",
-      "original_title": "Adaptive agentic intelligence framework using Strands Agents",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSU4ydXowNTExLWRQTnZHNzh0dnprVUlKampMaWRkdWtxSl8xcjdsZVpaM3VPR3ZENEhyZE0zQVZvcGtYQVRrLXpKRW5OMml4VUU3UGVmQ0ZFMFRWd3Q0YW5UN1RqOTFpTUpYTFRQYll6b1RvdkxDdnEzVEt4NWJZZ0FCdmVQay1nMW5FMGZKMTV4dFB2WVpOQ19VMlJKVUxaQU0xal82cjVQOEE?oc=5",
-      "source": "Amazon Web Services (AWS)",
-      "published_date": "2026-10-21",
-      "summary": "AWS memperkenalkan kerangka kerja agen pintar adaptif menggunakan Strands Agents untuk mengotomatisasi alur kerja kompleks dalam skala besar. Sistem ini memungkinkan agen AI bekerja secara mandiri, beradaptasi dengan lingkungan dinamis, serta mengambil keputusan berbasis data yang efisien. Kerangka kerja ini diprediksi akan merevolusi otomatisasi sistem enterprise.",
-      "takeaways": [
-        "AWS meluncurkan kerangka kerja agen cerdas untuk otomatisasi sistem enterprise.",
-        "Agen AI mampu beradaptasi dan mengambil keputusan secara mandiri dalam alur kerja kompleks.",
-        "Meningkatkan efisiensi operasional dan fleksibilitas infrastruktur cloud."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Bulan Keamanan Siber: Mengurai Tantangan AI, Deepfake, dan Kepercayaan Digital",
-      "original_title": "Cybersecurity Month: AI, Deepfakes, and Digital Trust",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUl9KUEVLUkdWQ2dNYVU5bTFObkZjY3J1MGI2d2pBNGFrM0d3OHJqdEpqbVZCc1htalBVdGxwR1R0bXprNkJDNkJpUHRYRnB0ajBLczAwVV9UTEk3YmYwRURjU19SYXdVbUJ3Zm9UNlZ2R2VwRDkxNUtoX0czYjd5U2oyZHFrWTgtQWNHZ1M3MGw1YnRBUnRyLS03MTctcW5fUzlOUlJRQmdNdw?oc=5",
-      "source": "The University of Maryland, Baltimore",
-      "published_date": "2026-10-21",
-      "summary": "Dalam rangka Bulan Keamanan Siber, para ahli menekankan pentingnya membangun kepercayaan digital di tengah maraknya ancaman rekayasa deepfake berbasis AI. Pemanfaatan AI untuk disinformasi dan penipuan identitas menuntut adanya solusi verifikasi dan edukasi publik yang lebih masif. Perlindungan infrastruktur informasi menjadi prioritas utama demi menjaga keutuhan komunikasi digital.",
-      "takeaways": [
-        "Teknologi deepfake berbasis AI menjadi ancaman utama terhadap kepercayaan publik secara digital.",
-        "Diperlukan sistem verifikasi identitas yang lebih canggih untuk menangkal penipuan AI.",
-        "Edukasi keamanan siber sangat vital bagi masyarakat di era manipulasi media berbasis AI."
-      ],
-      "category": "Artificial Intelligence"
     }
   ]
 }
