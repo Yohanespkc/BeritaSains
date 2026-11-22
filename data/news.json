@@ -1,7 +1,35 @@
 {
-  "last_updated": "2026-11-21T06:15:08.682592+00:00",
-  "total_articles": 163,
+  "last_updated": "2026-11-22T05:48:13.439157+00:00",
+  "total_articles": 164,
   "articles": [
+    {
+      "title": "Layanan Kesehatan Costa Rica Gunakan AI untuk Deteksi Kanker Payudara pada Ribuan Pasien",
+      "original_title": "CCSS to Use Artificial Intelligence on Mammograms for 2,400 Women to Detect Potential Cancer Cases",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMmRWLWsxM2h2dDNkWlRpMkpQN1M3eERPWjMtNV9nX0pLdmNLREhzcTZmeUJ0dmxpZXFmWHlkOGFGbGt4dXdHVUlkZk1DMmxZa3FfeklKRTZldlJnQ3VSaFZzYnY3OWJEX29QakxOWjZudW1tXzBISV9LbS1rMUZiYVVCMzJ1eWtjOGZzdTJkSkFMaXlwZi1VV2Z4d3oyQjZ0T0swVmxzUUJWWWM0X1lzRGxweUxkS2pXUlY0M0RSWHlZZTdZbXc?oc=5",
+      "source": "The Costa Rica News",
+      "published_date": "2026-11-22",
+      "summary": "Lembaga jaminan sosial Costa Rica (CCSS) menerapkan kecerdasan buatan untuk menguraikan analisis mamogram pada 2.400 wanita guna mendeteksi potensi kanker secara dini. Proyek ini bertujuan mempercepat diagnosis serta memperbesar peluang kesembuhan pasien melalui penanganan awal.",
+      "takeaways": [
+        "Penggunaan AI pada skrining mamogram meningkatkan kecepatan dan akurasi diagnosis kanker.",
+        "Teknologi ini membantu menekan beban kerja tenaga medis di fasilitas kesehatan publik.",
+        "Program ini menjadi percontohan penerapan bioteknologi digital di negara-negara berkembang."
+      ],
+      "category": "Genom & Biotek"
+    },
+    {
+      "title": "Intelijen Tiongkok Incar Teknologi Chip AI AS Bertahun-tahun Sebelum Skandal Terungkap",
+      "original_title": "China’s Spies Set Sights on A.I. Chips Years Before Nvidia Scandal",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVkJNbHp2RjF0Y0hlVmh1aGRIQ2llajUxMFE2NXBhRHg4dDBtcHBhd2lrMzFpTDBhRnZPYTRMMWNVczNJdmtUM0wxUFFucEs3dlh3ZldjVmhDRFE3eXlqcXJKWnAzQzNmZGtHWVlrQzBrdVJjMHN6Q0ZSbmthdjk0Z3YySGRiOWtBVGtmaXY0cXRDdw?oc=5",
+      "source": "The New York Times",
+      "published_date": "2026-11-22",
+      "summary": "Operasi intelijen Tiongkok dilaporkan telah memfokuskan sasaran pada teknologi semikonduktor AI canggih milik AS jauh sebelum perdebatan regulasi ekspor chip memuncak. Fakta ini menegaskan bahwa penguasaan perangkat keras AI menjadi prioritas utama dalam persaingan geopolitik global.",
+      "takeaways": [
+        "Perangkat keras semikonduktor merupakan aspek paling krusial dalam perebutan dominasi kecerdasan buatan.",
+        "Spionase teknologi terhadap riset AI berlangsung secara terencana dan masif.",
+        "Pemerintah AS diprediksi akan semakin memperketat kontrol ekspor dan keamanan industri mikrochip."
+      ],
+      "category": "Sains & Teknologi"
+    },
     {
       "title": "Manfaatkan kecerdasan buatan, matematikawan klaim berhasil pecahkan salah satu misteri besar matematika",
       "original_title": "Using AI, mathematician claims to have solved one of math’s great mysteries",
@@ -69,6 +97,118 @@
         "Pengusulan komite khusus bertujuan memusatkan serta mempercepat proses legislasi AI.",
         "Fokus regulasi mencakup mitigasi risiko privasi, dampak tenaga kerja, dan keamanan nasional.",
         "Langkah ini menunjukkan dorongan kuat legislatif untuk membatasi ruang gerak AI tanpa pengawasan."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Peneliti Temukan Cara Kerja Kecerdasan Buatan Ternyata Berbeda dari Otak Manusia",
+      "original_title": "AI may not work like the human brain after all, scientists discover",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0yaS1OaGZZX0NqZndfaW1HQ01LQmZxU0lIaUhmTVdEdFZPSVpJUlVudjBFVFR2eFdmY3F6U2FTbThfbU9lOE5kUmowYUJuOUl5d1c3TEM3dWxsUG9WQUFVZVB6dkFSTDk4eWFOTHhPWQ?oc=5",
+      "source": "ScienceDaily",
+      "published_date": "2026-11-21",
+      "summary": "Para ilmuwan menemukan bahwa model kecerdasan buatan (AI) tidak memproses informasi dengan cara yang sama seperti otak manusia, bertentangan dengan asumsi mendasar selama ini. Temuan ini memberikan wawasan baru mengenai keterbatasan arsitektur AI saat ini sekaligus membuka peluang merancang sistem komputasi yang lebih efisien.",
+      "takeaways": [
+        "Mekanisme pemrosesan data AI berbeda secara signifikan dari cara kerja jaringan neuron otak manusia.",
+        "Asumsi bahwa model deep learning sepenuhnya meniru biologi otak perlu dievaluasi ulang.",
+        "Riset ini membuka jalan bagi pengembangan arsitektur AI generasi baru yang lebih adaptif."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Matematikawan Anthropic Klaim Berhasil Memecahkan Hipotesis Riemann Menggunakan AI Claude",
+      "original_title": "Anthropic Mathematician Claims to Solve Riemann Hypothesis With Help From Claude",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMU96R3pxbVo0NDIzSUl5Szd6T0VkZzRUY1F3RE9NUnRPWU1tbnBRZkVPOWNDclpHX3hUTXo1QndXdENHb2Q1cFU2WnVwLWp0eG00dDFWcTBNR042Y3NFdUdtZGY4ODZUSnRTMFZGUnNFNFYyRGdvaHJCdVNra2k0T2NTeDZnbTdHcE83WQ?oc=5",
+      "source": "The New York Times",
+      "published_date": "2026-11-21",
+      "summary": "Seorang matematikawan di Anthropic mengklaim telah menemukan solusi untuk Hipotesis Riemann, salah satu masalah matematika tersulit di dunia, dengan bantuan asisten AI Claude. Pencapaian ini menjadi pembuktian potensial mengenai kemampuan AI dalam melipatgandakan kecepatan penemuan sains murni.",
+      "takeaways": [
+        "AI mulai menunjukkan kapabilitas nyata dalam membantu menyelesaikan problem matematika tingkat lanjut.",
+        "Model bahasa besar seperti Claude berpotensi menjadi mitra riset teoretis yang sangat efektif.",
+        "Klaim ini masih memerlukan penelaahan sejawat (peer-review) secara menyeluruh dari komunitas matematika global."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Penerapan AI Medis Bertransformasi dari Analisis Gambar hingga Prosedur Ruang Operasi",
+      "original_title": "FLORetina-ICOOR 2026: AI moves from the image to the trial, the clinic, and the operating room",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdHhwYVhLMU9oRF81c1FMdGt2OXpmVkl3YUIwWFFIQXJmRURJNzktejllYlFZTVhkZGpITW1wNmV6YnM1VHA2V0xUNDI2WTJWZHNRQTRIY3h6T244dFFROFpjdlBzdEZqTV9KSmxtakpyM2NERFFRd0hmRTktT2x3aTJQR1J2ajluUGh0LUhfemRwVTZyaEFZZWlQOTM1WWItWVktNnpZeGhMT09JRTJvVEMxVGY3SU1Jb29taEJLUTVQOGZuV3RQck9lMA?oc=5",
+      "source": "Ophthalmology Times",
+      "published_date": "2026-11-21",
+      "summary": "Penggunaan kecerdasan buatan dalam dunia medis kini bertransisi dari sekadar pemrosesan citra medis menuju integrasi langsung di ruang klinis dan navigasi bedah. Perkembangan ini menjanjikan peningkatan presisi dan efisiensi dalam penanganan operasi medis yang kompleks.",
+      "takeaways": [
+        "AI medis bertransisi dari alat pendukung diagnostik visual menjadi pemandu keputusan waktu nyata di ruang operasi.",
+        "Integrasi AI dalam uji klinis mempercepat validasi metode pengobatan baru.",
+        "Adopsi ini berpotensi meningkatkan tingkat keberhasilan prosedur bedah mata secara signifikan."
+      ],
+      "category": "Genom & Biotek"
+    },
+    {
+      "title": "Peretas Diduga Memanfaatkan Agen AI untuk Eksploitasi Celah Keamanan Perangkat Lunak Medis",
+      "original_title": "Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS0RzYnRJVzA5MjhlSWJfODFMNDRMdDl3Zk81UkxlbklPbE8tQ2xMYWdzSElBdlF6eTJaeWRSdm9aa3JkYU5xbUZIUjUtc3VxZzlYUXhCOWplcHBDb1AzcEMzWXd1eTdndHdIVWlrUnVSMExWQnZaakd4Y3JYRkFZeE9POGNKTE5tRlhwTTJnWUs4QVBjM1l6OFpaYmVqNVZWa0ZIUU5R?oc=5",
+      "source": "SecurityWeek",
+      "published_date": "2026-11-21",
+      "summary": "Laporan dari Amazon mengungkapkan bahwa kelompok peretas memanfaatkan agen AI otonom untuk mengeksploitasi celah keamanan zero-day pada perangkat lunak medis. Kasus ini menjadi bukti nyata meningkatnya ancaman kejahatan siber yang digerakkan oleh sistem otomatis cerdas.",
+      "takeaways": [
+        "Penggunaan agen AI oleh peretas meningkatkan kecepatan dan skala serangan siber secara signifikan.",
+        "Infrastruktur kesehatan menjadi target yang sangat rentan terhadap otomatisasi eksploitasi keamanan.",
+        "Diperlukan sistem pertahanan siber berbasis AI untuk menangkal serangan otonom berkecepatan tinggi."
+      ],
+      "category": "Sains & Teknologi"
+    },
+    {
+      "title": "PBB Perpanjang Diskusi Senjata AI Otonom Tanpa Komitmen Tegas Pembatasan",
+      "original_title": "Nations agree to extend U.N. talks on AI killer robots, but no firm commitment to rein them in",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNTgzSXI1LThReTVkUUZOc2JBQjZHSl9yT05QSUlfRnZLWEJqNlFZczg4ZWlZMVV5NTFRZ19zOHVzdHMzOThvVTJXNjlJb1JWSVlTcVlQalcxb2xiQlNfcUE5YTRoUm5GZXJBVjlwYUhCZjFIRmlmUm9idnhDWXJMR25RSnltV2pWZkZyUkxWLXg3WDhTakRuajd3SGxaa0xhem04eWxLVWFSVzdDeXh3UHItY0JBQlc3bHdtSzZ3?oc=5",
+      "source": "Los Angeles Times",
+      "published_date": "2026-11-21",
+      "summary": "Negara-negara anggota PBB sepakat untuk memperpanjang pembahasan regulasi robot pembunuh berbasis AI, namun belum mencapai kesepakatan yang mengikat secara hukum untuk membatasi pengembangannya. Keputusan ini memicu keprihatinan dari kelompok kemanusiaan terkait risiko perlombaan senjata militer otonom.",
+      "takeaways": [
+        "Diplomasi internasional masih lambat dalam menghasilkan regulasi senjata berbasis AI otonom.",
+        "Terdapat celah hukum internasional dalam mengontrol penggunaan AI untuk kepentingan militer.",
+        "Desakan moral terus menguat agar ada batas etika yang menjamin kendali manusia atas keputusan mematikan."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Berkat Kemajuan Bioteknologi, Kanker Tak Lagi Jadi Ketakutan Utama Masyarakat",
+      "original_title": "Cancer is no longer America’s biggest fear",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY3NuUVhJQ3Vyd2xZNFgxUm5hYmVLTVdkRHpmRUlsalhPZFZZZUdORkNIUElSRk1TVkhmV2lnRUJtVDItaTMxZk5CWjR3RmVIVGF4ek53NDhBOWR2RjlPOTFFWlNicFNPOWtoOHlOYkZrejdmeTNlWFp2NTJLU21USGJpb01yV2pz0gGIAUFVX3lxTE1jc25RWElDdXJ3bFk0WDFSbmFiZUtNV2REemZFSWxqWE9kVlllR05GQ0hQSVJGTVNWSGZXaWdFQm1UMi1pMzFmTkJaNHdGZUhUYXh6Tnc0OEE5ZHZGOU85MUVaU2JwU085a2g4eU5iRmt6N2Z5M2VYWnY1MktTbVRIYmlvTXJXanM?oc=5",
+      "source": "The Hill",
+      "published_date": "2026-11-21",
+      "summary": "Survei terbaru menunjukkan adanya pergeseran pandangan publik terhadap kanker seiring pesatnya perkembangan deteksi dini, pengeditan gen, dan terapi personalisasi. Kemajuan riset bioteknologi berhasil meningkatkan angka harapan hidup dan mengurangi stigma ketakutan terhadap penyakit ini.",
+      "takeaways": [
+        "Inovasi imunoterapi dan teknologi genomik berhasil meningkatkan efektivitas pengobatan kanker.",
+        "Pandangan publik kini bergeser dari rasa putus asa menjadi lebih optimistis terhadap dunia medis.",
+        "Fokus ketakutan kesehatan publik mulai beralih ke penyakit degeneratif dan kesehatan mental."
+      ],
+      "category": "Genom & Biotek"
+    },
+    {
+      "title": "Gangguan Sistem Saat Ini Baru Permulaan, AI Diprediksi Picu Disrupsi Teknologi Lebih Besar",
+      "original_title": "Tech Outages Are Only the Beginning. A.I. Will Bring More Disruptions.",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQM0M2dXVZWU9jNzEySnF2YXRxeE1lSWEyTzdISXBGc2dqdEFjZWJmaGUyVmVwbktreFZ2eHB5VmNEWVdLZzVCMDJONHpVNDB2eHNmWFJlLTdDNzFqdEJBU0VhRGt6anhxaHltazE0UG5IcWNyYlFQR3ZjWm9CYXRLMzhkZGFZUQ?oc=5",
+      "source": "The New York Times",
+      "published_date": "2026-11-21",
+      "summary": "Meningkatnya ketergantungan global pada sistem AI yang rumit diprediksi akan memicu disrupsi infrastruktur yang lebih meluas dibanding pemadaman teknologi konvensional. Para ahli mengimbau pentingnya penguatan keandalan dan sistem cadangan sebelum AI mengontrol lebih banyak sektor vital.",
+      "takeaways": [
+        "Adopsi AI yang cepat menciptakan titik kegagalan baru (single point of failure) pada infrastruktur digital.",
+        "Disrupsi berantai pada AI dapat mengganggu sektor finansial, energi, dan jaringan komunikasi kritis.",
+        "Perlu adanya standar ketahanan infrastruktur dan redundansi data sebelum adopsi AI diterapkan penuh."
+      ],
+      "category": "Sains & Teknologi"
+    },
+    {
+      "title": "Fenomena Trauma Psikologis Akibat 'Putus Cinta' dari Pendamping AI",
+      "original_title": "‘I was shaking, crying, having trouble breathing’: the uncharted trauma of breaking up with AI companions",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMHBvcGRNRkJZTDBhSGlMRi1BeXN2Um1nOXVjSjdSR1BSZDY2RnN6SE9McEprQmpyVnUyZldBTlFBd3B3eS0yNEd6Zy16djJRN1ZaODktU0pZaHFsV2hWbWlMTmVncF9pYTVZajA5S3dpWlA2VUFkdVh5eWpjbkRIMnJWeXluaEJkYTY1dDdoWXBndjVSbDNhYlBQSVY5RHNQdVVzTVdpNmZMZXNyUC1GZm1rQmhjdHR4NnNncG5tOENwUDR5c3h3Sw?oc=5",
+      "source": "The Guardian",
+      "published_date": "2026-11-21",
+      "summary": "Keterikatan emosional pengguna terhadap chatbot pendamping berbasis AI memicu dampak psikologis nyata saat interaksi tersebut dihentikan atau diubah oleh sistem. Masalah ini membuka diskusi baru mengenai dampak kesehatan mental dari integrasi emosional buatan yang terlalu dalam.",
+      "takeaways": [
+        "Hubungan parasosial dengan AI pendamping dapat menimbulkan ikatan emosional dan ketergantungan yang kuat.",
+        "Perubahan algoritma atau penghentian layanan chatbot AI berpotensi memicu masalah kesehatan mental.",
+        "Diperlukan pedoman etika baru bagi pengembang dalam merancang AI yang mensimulasikan kepribadian manusia."
       ],
       "category": "Artificial Intelligence"
     },
@@ -2157,132 +2297,6 @@
         "Perusahaan diimbau menerapkan strategi mitigasi untuk menjaga kesejahteraan tenaga kerja."
       ],
       "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Perintah FASCSA Wajibkan Penghapusan dan Larangan Penggunaan DeepSeek AI",
-      "original_title": "FASCSA Orders Require Exclusion and Removal of DeepSeek AI",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOS2JSLWRySTRlazdTeWJINjlIUWRTRXM4X0d6UFgzYy1vcmNxQWJyRjUxUVlQRGxvY2dFS1JHandNdDVPWDdTSUdXMFh6Q0FpS2FnYjd1bko0T3ZyQmJRcWgxak9MRVBhU09BUU1tZFlQNFB6N19XNHhPbUJrVThCUkRGTTRJOV9DNFpDVGhFWjVNOWpKTEpMQkFDMTB3UlY3WERsVFdHMW83cXQz?oc=5",
-      "source": "Crowell & Moring LLP",
-      "published_date": "2026-10-22",
-      "summary": "Perintah keamanan nasional AS di bawah skema FASCSA mewajibkan penghapusan platform DeepSeek AI dari rantai pasokan dan sistem lembaga federal. Kebijakan ini diambil guna mengantisipasi potensi risiko keamanan siber dan perlindungan data nasional. Keputusan ini mempertegas ketegangan geopolitik dan regulasi ketat dalam adopsi kecerdasan buatan asing.",
-      "takeaways": [
-        "Pemerintah mengeluarkan Perintah FASCSA untuk melarang penggunaan DeepSeek AI.",
-        "Langkah ini bertujuan untuk melindungi keamanan data dan infrastruktur siber vital.",
-        "Regulasi ketat kini makin membayangi adopsi teknologi AI lintas negara."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Dampak AI pada Fungsi Kognitif Manusia: Tinjauan Ketergantungan dan Alih Tugas Otak",
-      "original_title": "Cognitive Task Substitution, Cognitive Offloading, and Behavioral Dependency on Artificial Intelligence-Assisted Technologies: A Scoping Review",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNVndGOWlsZnJTSXZsNkllUUpIQ08yaFBRSmdyV2tGazU2X0Rvc3VMZDVKa1BfOUdTaVVNUmVKSlptU21nSTZERm03dktvUTlrQl8ydFhKSV9qSXlGaTh1ams5eXA3ampzOUJ1MFJaeENFeFFNZ3Y4UjVQQzFVNXU5emRmeTlCZ3lrX0tYbTVWcU9hSDY4Q09MMHZ3TkhNUHB0VTEwM3l5TkNmV2gtM1RWZDZHQ0xYQ2ZJVDR6Z1JVSDVieWRsZ0FTcTBUYTNoSGU3eEpCamRhZm1ycURmVnE0OHhSRjZrZExVdTVOVlY1SDNQZjJvYWhSaUVHSGZCY3BwZW5NWkFEcXU5b0U?oc=5",
-      "source": "The Cureus Journal of Medical Science",
-      "published_date": "2026-10-22",
-      "summary": "Sebuah tinjauan ilmiah menyoroti fenomena alih tugas kognitif dan ketergantungan perilaku masyarakat terhadap teknologi berbasis AI. Meskipun AI meningkatkan produktivitas, pemanfaatan berlebihan berisiko menurunkan kemampuan berpikir kritis dan daya ingat mandiri manusia. Penelitian ini menyarankan penggunaan AI secara bijak agar tidak mengikis keterampilan mental dasar.",
-      "takeaways": [
-        "Penggunaan AI yang berlebihan memicu alih tugas kognitif dan penurunan fungsi ingatan mandiri.",
-        "Perlu keseimbangan antara efisiensi AI dan pemeliharaan keterampilan berpikir kritis manusia.",
-        "Tinjauan medis ini menjadi peringatan penting bagi adopsi AI di kehidupan sehari-hari."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Penerbit Kanada Batalkan Kontrak Penulis Akibat Gunakan AI dalam Pembuatan Novel",
-      "original_title": "Canadian publisher drops author, says he used AI to write novel",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVjJIQkJwUFhmWG1lV3R4dU40a0FEOVlrWHY3cEM5N042UGZlNHRlaFNVYjd4SE9QRlZLOEozVzdDSHVLS2ZBdTB6N2dnLUJzZi1wbWhYMjgyNmtsTEhiOThXbG0zT0dsSTZPbjlOdUJZaF9ZX2xEdUhfTHoydW5ORDdBeS1FdHJsYU1ERS1naHJsT041V0tmTzBfUFlJQmhMaDA5dk14bGNDNGFOYmZILTAwaDZwdUJwdnlVcEdhLUFQbDFHal9KMWs0TkRSSlBZYVNlbg?oc=5",
-      "source": "South China Morning Post",
-      "published_date": "2026-10-22",
-      "summary": "Sebuah penerbit di Kanada secara resmi memutuskan hubungan kerja sama dengan seorang penulis setelah terbukti menggunakan AI untuk menyusun karyanya. Kasus ini memicu perdebatan sengit mengenai integritas karya seni, hak cipta, dan batasan kepenulisan di era kecerdasan buatan. Langkah tegas penerbit ini menetapkan standar baru dalam perlindungan orisinalitas literatur.",
-      "takeaways": [
-        "Penerbit mengambil tindakan tegas membatalkan kontrak akibat keterlibatan AI tanpa izin.",
-        "Mempertegas batas etika dan orisinalitas dalam industri kreatif dan kesusastraan.",
-        "Isu hak cipta dan autentisitas karya makin krusial seiring pesatnya perkembangan AI generatif."
-      ],
-      "category": "Sains & Teknologi"
-    },
-    {
-      "title": "Presiden Donald Trump Umumkan Pembentukan Satgas AI 'Super Intelligence Force'",
-      "original_title": "President Donald Trump announces creation of 'Super Intelligence Force' AI task force",
-      "url": "https://news.google.com/rss/articles/CBMipgtBVV_5cUxNdXlNSjhqb1EwdVRlV0RPQUJ0ekRUazRkcld3VkFQZ2JfcG5ucnMwaDRsV0dNNUV5LWVWUDRuRndOQzNzakRIUW1rY0VHTmtJVTI0VVZtenpibjFMNnpUV3U3b0pDUnc1UWJqSEFlaFNfWjV6cElKeFRCei1pMjhNYnJhWWxWaVl3SVJGSHNTa3djZWNxV2M1a0JJdVdLeVhUcG85OFVxN0ZlaUNsZWowZ0ZSQWx5di1jcDBXa1ZrdEoyQkdZLWJNNFBoN2Z2YVl0Z3dlZ3drVndCeUNYZWxVcFFnY3FWRGRpcjlrWTJ5NWQ4NmJiWmRFdkF3a0N3U2dqMjlmcDQ2YnFsYVdqR25QTG9ZbHlYSmJ3Z1JJS1ZXUlNXajJnVGNMWnRoeEwwaGd2c29iX3FUN0lEN2lrMHlmbGdicGN5QVB1SEFabXZqejU2NEtEQUZlQ1lmNTlfaU1PMFhCcDNEOVQ3d1VubUpodmVxLUdjNGl2NENkTENiaHMwbVkyNEdFdng3X2w5TGt1eldUamhSQVRmTDNKczdQRWVYODgxajlhcndCcU1JUi0yNHZVUk5TRk1ERThDTHlvZ3NCcms2QnRqSFFnaV9vWHhCd1VYZ1AySlBzZTAxSURDRW42Q3otWTlKeHNmVEZYQ3h3OEtrRVgxVHVJQWc2NWUxemVNYnFqOHAzcmJwcTliVHN3ZU5nMjQxVGJVUDlLVVJmUFFVdDdPRUVzN1hLRkFLeEtKMWV5TGFoeXBNMlRtc2lTQXVsdi0tRjB6d18xWkJxWjM0UEhkZTdWVEtlLVlkV2lDRDJuSW41QTJxSnVuWU0yVURXaVp6aVFHczJUTWNnekJRakRsUmtSdG5yT3JtNXU4eWFsY1dpVlZSQV9JeWtPYWZhdEEzQTA2ZDN1OGM0cl9oOWgtV2JkYXlsenZmY1ZhNXh5LTZMR1VZeVVUY3BKdnhBNHFKMTFCYnpSX2JVbElXTDdZRTVUVmQtcXgydDUwWkJUbUd4cW91LThIYVpLQ3pSRkY3ZHlyc2dHUTh6X09LX0Jxd2ptOVl0YUtmNXdWZnlSck5ENU5lbm1OR01vWWdNUkpueG1CMUQzMkdqSzVhcHpnVEFmQWFCOHd5LTk1NmhJUHBER1lfWndKMGFZY2JpYkZBd01ydW90aHFobkIzRHhrTnBraHhsNVJpbkJ2ZW9vbEtuWTBwdmZQYngteXI4WVNJZ1JwYi1vektTOUFLSGhlTUlibU9sdzU2bGJ6Y2F3c2tGXy03a2YyejBTV0FjQmdnbEFLZFBvWmlreHVQUmUzakdzREFkeDhIZjZKNUtyR2RRM1BBcnhDeFJFWExHY212amZKUGduMTN0TWtRdDdtYjN4SjBvSjlCMDhxVkxNcDlsd1I2WWRuSnBwS2s3WkExNHFLaHl3RTQ3bnpjeG5BbUU5b3dkREZmQWFyT2xITHl1T0ZNUEdPWVVYTkJJMVpwOTQwMmVvczM3NXROVUxoaVVGbjRmNHNobmc2ancwenN3UnliMnZDRFVjVEJNclRzbEFicjd3cUtraXJYcXV4ei1XSUM4em1Camo5bHJKVmp3MXRxZzJjMUo2RlZvRVF2T0llMzVVNWFITWNDNEQ2OVV2a2Qzc0VzclZTNjBjTWRkdWNRRFRSMEhWUGtIY1ppSkNQVFBfSDlIS2JCbjJaRVpVZnpodTRoUExqZEJRUklkbXNCQW1rVkE0dzFCel9uNGM3ck9kYjEwZ3hvbFNKWnZvTy0zRUdCb2pCcERxTTRqQVVuSWRKbWxqOHBHejRZQ29tMjAwaGZvUDRDT3VuSGtsSXNXdDJnWEl1T05zbkhJcndjZ2paZWh6bGY1dTg3S1BSLUhFSXRDQjVCMXBTYjNYS0c1UnBRUDhtenZvQWQ2Y2FXZ09zdjIwb2c?oc=5",
-      "source": "ABC30 Fresno",
-      "published_date": "2026-10-22",
-      "summary": "Presiden Donald Trump secara resmi mengumumkan pembentukan satuan tugas kecerdasan buatan baru yang diberi nama 'Super Intelligence Force'. Inisiatif ini bertujuan untuk mempercepat pengembangan AI di tingkat nasional serta menjaga keunggulan strategis AS di bidang teknologi canggih. Langkah ini diprediksi akan mengubah lanskap kebijakan dan regulasi teknologi di Amerika Serikat.",
-      "takeaways": [
-        "Pemerintah AS membentuk tim khusus 'Super Intelligence Force' untuk mempercepat riset dan implementasi AI.",
-        "Langkah ini bertujuan menjaga dominasi dan keamanan nasional AS dalam kompetisi AI global.",
-        "Kebijakan ini diperkirakan mendorong investasi masif pada infrastruktur dan teknologi AI tingkat lanjut."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Etsy Larang Penjualan Resep dan Pola Buatan AI di Platform Pasar Online",
-      "original_title": "Etsy bans AI-generated recipes and patterns from its online marketplace",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTTdYYVdqODdCNU5BbmVvekNKRGdZanduWXpncXVDZHdORm5HRGZCU1lSZ25jbk5jT1lkVFpjay1uRk5nWDR6SC1qYjItRGxIYlFyckg3eDVMcEZPdC1UUjVJODRVRDl3MGpLWEVnRDllUG1FLThjcXpCMnBfRnplb0dpcE85ZU82SER6MEZqc1hmQnROdlVrQWpWcEphZGlWS3d6bHY2c9IBrAFBVV95cUxPQ0gydG9zSThVYWlzWHlhUDF2ZFFrVF9nMEpnTHl4dVZtNHJDNEZTZWxrbWRXdzRhRjN0a0R6NTV6blE3WTV6YWZuUEhCalNjUnRiOUJWYkNjelNBZkpBVFVrblpFMlZWSjhPS29RaVVLaUdLVFZFcDFfbFJmUXBsSXNhWWhKZy1KV25FS25VTU1ZQXh1T3gyRTZaa3lfeUMxLUVxdWs2YkZ0c28x?oc=5",
-      "source": "CNBC",
-      "published_date": "2026-10-22",
-      "summary": "Etsy resmi melarang konten yang dihasilkan sepenuhnya oleh AI, seperti resep masakan dan pola kerajinan tangan, dijual di platformnya. Kebijakan ini diambil untuk menjaga keaslian produk dan melindungi kreativitas serta hak cipta para pengrajin manusia. Keputusan Etsy menyoroti dinamika persaingan antara karya asli manusia dan konten sintetis buatan AI di industri kreatif.",
-      "takeaways": [
-        "Etsy melarang konten digital berbasis AI untuk memprioritaskan karya autentik kreasi manusia.",
-        "Langkah ini merespons keluhan pembeli terkait penurunan kualitas produk akibat otomatisasi generatif.",
-        "Menjadi preseden penting dalam perlindungan hak cipta bagi kreator independen di era kecerdasan buatan."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Jaksa Agung New Mexico Peringatkan Industri AI Pasca Putusan Hukum $25 Miliar Terhadap Meta",
-      "original_title": "‘Just the beginning’: New Mexico AG warns AI industry after $25B Meta ruling",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOb3VTZHhhbHJIbTZuRHlZd1IwQVlra19BTGpjVXZaQ2lacDE3cVExRE5iNy1xRlVmS0lyY0FFS19HaEdRdy1LQ0VqU1ZzRURUUlNRQzQ5TlZqeHg2THNpN1JoNE9Ld3duY3ZOTDBnQ0QwZ3Z3QU9PdTBia1M4OEpaQkFra3hoSFhfSC1WUWNYNXhVOWJaRnoyR0otSzAwbWRxdHl4bi1Idl9aM2ZhQmV2NThBTUlOdmlvUnpFUFRZVQ?oc=5",
-      "source": "Politico",
-      "published_date": "2026-10-22",
-      "summary": "Jaksa Agung New Mexico memberikan peringatan keras kepada raksasa teknologi berikutan keputusan hukum bernilai $25 miliar terkait penggunaan data dan keselamatan anak pada platform Meta. Peringatan ini merupakan sinyal tegas agar industri AI mematuhi standar perlindungan data pengguna. Tindakan penegakan hukum ini diperkirakan memicu pengawasan lebih ketat terhadap pengembangan model AI generatif.",
-      "takeaways": [
-        "Putusan hukum $25 miliar terhadap Meta menjadi peringatan besar bagi seluruh industri AI.",
-        "Pemerintah meningkatkan pengawasan legal terhadap praktik pengumpulan data dan keamanan anak.",
-        "Regulasi yang lebih ketat diperkirakan akan memengaruhi strategi pengembangan kecerdasan buatan komersial."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Transformasi AI dalam Pelayanan Pasien: Tantangan dan Perubahan Peran Tenaga Medis",
-      "original_title": "As AI transforms patient experience, clinicians see changes too",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaXZfang5ZURUMnIyTmpaT0FWMFZlakVxVmJZMHVVREZQakxpNVkxcHhxOWFVV3hNX3dONXB3U0pLOUdtQldOcUNzN29kTFpJZ2M0am4wMHJoOTh0YnJQSW5rdGx4UXI1QllRTXROTTVwcE1USFctMDJRT1ZEcEF3cXBuNk03NjdqamlOaFNfbktvcFZhek9NZlY2STJJNkU?oc=5",
-      "source": "Healthcare IT News",
-      "published_date": "2026-10-22",
-      "summary": "Penerapan AI dalam layanan kesehatan tidak hanya mengubah cara pasien berinteraksi dengan sistem medis, tetapi juga mengubah alur kerja para dokter dan klinisi. Otomatisasi tugas administratif membantu mengurangi beban kerja, namun juga menuntut penyesuaian peran tenaga kesehatan dalam mengambil keputusan medis. Para ahli mendorong integrasi AI yang tetap mengedepankan empati dan pengawasan manusia.",
-      "takeaways": [
-        "AI mempercepat proses administrasi medis dan meningkatkan pengalaman perawatan bagi pasien.",
-        "Dokter dan klinisi harus beradaptasi dengan alat diagnostik berbasis AI tanpa mengurangi kualitas perawatan langsung.",
-        "Keseimbangan antara otomatisasi AI dan keputusan klinis manusia menjadi kunci efektivitas medis."
-      ],
-      "category": "Genom & Biotek"
-    },
-    {
-      "title": "Amazon Hadirkan Layanan Peluncuran AI Ramah Komputasi Medis Berstandar HIPAA",
-      "original_title": "Deploy AI in a HIPAA-eligible environment with Amazon Quick",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWVFkZUNsS2NwUUFTTkRHWHE2eDJaR3diUzhTZVdURUYzeVJyMFdVRjhPOVJ0cVFxM01hMkY4SUh2andkeVhOT09vZElTeDNOb3BGQkF3Q1hCQUdVZUdEbkpoZXdqMzF1X1RXdDV6UUkxWUJLaDNiOHpRMnlhRnZQMnBOVDR3aU9OMlpPRy1Kd1BMSlBocjBMRUFGeHhtSV9QbUt4M0F0RnpCZw?oc=5",
-      "source": "Amazon Web Services (AWS)",
-      "published_date": "2026-10-22",
-      "summary": "Amazon Web Services memperkenalkan solusi penempatan AI pada lingkungan cloud yang memenuhi standar HIPAA untuk industri kesehatan. Layanan ini memungkinkan rumah sakit dan perusahaan bioteknologi mengolah data pasien secara aman tanpa melanggar privasi. Langkah ini diprediksi akan mempercepat adopsi AI di sektor kesehatan dan riset genomik.",
-      "takeaways": [
-        "AWS menyediakan lingkungan infrastruktur AI yang aman dan mematuhi regulasi ketat HIPAA.",
-        "Mempermudah rumah sakit dan institusi medis mengimplementasikan model AI untuk data pasien.",
-        "Mendorong keamanan data yang lebih baik dalam pemrosesan aplikasi kesehatan dan bioteknologi."
-      ],
-      "category": "Genom & Biotek"
-    },
-    {
-      "title": "Dapatkah AI Menyelamatkan Nyawa Manusia Sebelum Bencana Banjir Berikutnya?",
-      "original_title": "Can AI Save Lives Before the Next Flood?",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdwNMpE1VY2p2aHBhTFM5TDIxMUlmc1R5bTBmVGlyVjBuYk9mQ2RBeUlvVFBDVTUxYlZkYktUSkIxRHQ3TW5yWHZ2elpWQmo5cHZIa3V2bmdpZU5sX3BYX09ub1RoMjhua084Rm9LR2V2bzhDYnRCN1psQm14aExNbWdRVGI1MnM?oc=5",
-      "source": "Global Policy Journal",
-      "published_date": "2026-10-22",
-      "summary": "Artikel ini membahas potensi penerapan pemodelan prediktif berbasis AI untuk sistem peringatan dini banjir di daerah rawan bencana. Dengan menganalisis citra satelit dan data iklim secara real-time, AI dapat memprediksi risiko luapan air jauh sebelum terjadi. Penerapan teknologi ini dapat meminimalkan kerugian jiwa dan kerusakan infrastruktur di wilayah rentan.",
-      "takeaways": [
-        "AI dimanfaatkan untuk mendeteksi dan memprediksi risiko bencana banjir secara lebih cepat dan akurat.",
-        "Analisis data iklim real-time membantu mempercepat proses evakuasi dan mitigasi darurat.",
-        "Teknologi ini menjadi alat krusial bagi pemerintah dalam menghadapi dampak perubahan iklim ekstrem."
-      ],
-      "category": "Sains & Teknologi"
     }
   ]
 }
