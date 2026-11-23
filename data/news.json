@@ -1,7 +1,119 @@
 {
-  "last_updated": "2026-11-22T05:48:13.439157+00:00",
-  "total_articles": 164,
+  "last_updated": "2026-11-23T06:34:12.348381+00:00",
+  "total_articles": 170,
   "articles": [
+    {
+      "title": "Kecerdasan Buatan dan Hipotesis Riemann: Ketika AI Menemukan Pembuktian Matematika yang Tak Terbaca Manusia",
+      "original_title": "‘The sacred object in mathematics’: the Riemann hypothesis, AI and a proof no human can read",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeG1FWWJmQVB2SFNUTjVrZ0NkN3BpY09qZzZFM0NrZ2N3akNEMjJ2VE1ITDRVZFRKaFhEV3dlNm9rcnFxcVRaNWtOdGdHbVBsd0l4YkYzUm9vMEdDYkhjdHpmalNzN2t5Tjh1ZzhybWRnMkZkamdyVVNZbE4wcWZoa1Z6LTMtXzVlcTdvOXJKd3M5U202SGd2ajMzUVJPMmR2YkdJSFVDTTRkT1_Ud2hrTWNSVnVvdFI5dU5QM2pGTm0?oc=5",
+      "source": "The Conversation",
+      "published_date": "2026-11-23",
+      "summary": "Penggunaan kecerdasan buatan dalam memecahkan masalah matematika tersulit dunia, Hipotesis Riemann, memicu perdebatan baru mengenai batas pemahaman manusia. AI mampu menghasilkan pembuktian kompleks yang terlampau rumit untuk diverifikasi atau dipahami secara langsung oleh matematikawan manusia. Fenomena ini menandai era baru dalam sejarah riset sains fundamental dan epistemologi.",
+      "takeaways": [
+        "AI berhasil menembus batas baru dalam menyelesaikan problem matematika tingkat tinggi.",
+        "Kompleksitas pembuktian yang dihasilkan AI melampaui kapasitas analisis visual dan kognitif manusia.",
+        "Menimbulkan pertanyaan filosofis tentang bagaimana sains memverifikasi kebenaran buatan mesin."
+      ],
+      "category": "Sains & Teknologi"
+    },
+    {
+      "title": "Bagaimana Kecerdasan Buatan Mempersulit Upaya Menangkal Serangan Siber",
+      "original_title": "How Artificial Intelligence Is Making It Harder To Stop Cyberattacks",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOb0pTZXpTNGdMSWdXcExGejc0TVZhTm53ZHpSZFpJSTlFNTdhVGE4TWpMVUdBcHFWQzZzY2FLSDAyWkVDTjdNaFkzY3QyUXc1bjRJdXppc2NOTWVxU1dDbklOZHhaWThxbFpUbC1hY2ZJNGdXZ01JR1RycXpKYnU4RnlMV1NMZXZPRnNIQTZfZHBhenZtWDZ2X1RSeWlGWi1WMlh4d3RmZFdMN21PZmU2ZV9xSUdWWkEzbjZwYU8zXzIzUU01NjVYaTRETQ?oc=5",
+      "source": "Forbes",
+      "published_date": "2026-11-23",
+      "summary": "Kemajuan AI tidak hanya dimanfaatkan oleh peretas untuk mengotomatiskan serangan siber berkecepatan tinggi, tetapi juga membuat strategi pertahanan konvensional menjadi tidak memadai. Penyerang kini dapat memanipulasi kode dan mengenali celah keamanan secara instan. Kondisi ini memaksa tim keamanan siber bertransformasi total dan mengadopsi AI adaptif secara masif.",
+      "takeaways": [
+        "Peretas menggunakan AI untuk mengotomatiskan identifikasi celah dan eksekusi serangan.",
+        "Metode pertahanan siber konvensional makin tertinggal dibanding kecepatan dan kompleksitas ancaman AI.",
+        "Organisasi dituntut mengadopsi sistem pertahanan berbasis AI yang responsif secara real-time."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Analisis Hukum Ungkap Kerangka Tanggung Jawab Hukum Saat Ini Tak Mampu Mengatur AGI",
+      "original_title": "Existing Liability Frameworks Cannot Govern Artificial General Intelligence, Legal Analysis Finds",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZUhsVHZzbWJFVm1faU5hbXM1RlNVa25sZi1wek0tY1VVRmxBaGdKSUtFWFdhZW5kTjhGTmRpbnBtaFl4NlRYa2laMFoyeTRIZGhFVVY3d0FvSkxuYzdocWZmRVBfUHJYdFJtMnhRNHZsbEVhbEUtTFZPNDdXMV9ZSjVpMl92TUFfa1BvdW9pN21vRjJWa0MtV0xIbGRyMG9FVXl2QlNvV01SRXVmdm1SeXJrX2lBNTFpdzQtcU53?oc=5",
+      "source": "Bioengineer.org",
+      "published_date": "2026-11-23",
+      "summary": "Studi hukum terbaru menunjukkan bahwa undang-undang dan aturan liabilitas yang ada saat ini tidak memadai untuk mengendalikan Artificial General Intelligence (AGI). Sistem AGI yang memiliki otonomi dan kapasitas pengambilan keputusan secara mandiri menciptakan kekosongan hukum terkait siapa yang bertanggung jawab jika terjadi kerugian fatal. Laporan ini mendorong penyusunan doktrin hukum baru yang spesifik untuk kecerdasan tingkat lanjut.",
+      "takeaways": [
+        "Hukum perdata dan pidana yang ada gagal menetapkan subjek penanggung jawab atas tindakan AGI otonom.",
+        "Otonomi tinggi pada AGI menghapus batasan sebab-akibat hukum yang biasa berlaku pada teknologi biasa.",
+        "Pentingnya perumusan undang-undang liabilitas baru di tingkat internasional sebelum AGI diterapkan luas."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Dibalik Kecemasan AI di Tiongkok: Kekhawatiran Terjadinya Skakmat Nuklir",
+      "original_title": "Behind China’s A.I. Anxieties, Fear of a Nuclear Checkmate",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5UdVJiSjVhbXM4RHZ6RlNPelVObTdHMWk3VmwtX1NvR19YRkZsdlh3NUNvNnF4SHlNYlBQeFJtT0p1dE9uU0xLRzc5NFBUS2ZiUDVYckZaQ25rejY2NmhTSlB2ZWgyenpiLU5OeXJDajhpVXprU2hCVzZn?oc=5",
+      "source": "The New York Times",
+      "published_date": "2026-11-23",
+      "summary": "Analisis geopolitik terbaru mengungkapkan bahwa kecemasan utama Tiongkok dalam persaingan AI terkait erat dengan strategi pertahanan militer dan intelijen nuklir. Perkembangan kecerdasan buatan dinilai dapat membatalkan prinsip jaminan saling hancur (MAD) dan mengubah peta stabilitas global. Realitas ini memicu perlombaan teknologi yang makin intensif antara negara-negara adidaya.",
+      "takeaways": [
+        "AI berpotensi mengganggu keseimbangan pencegahan nuklir geopolitik antarnegara adidaya.",
+        "Integrasi AI dalam sistem komando militer menimbulkan potensi miskalkulasi strategis berisiko tinggi.",
+        "Persaingan AI kini dipandang bukan hanya soal ekonomi, melainkan juga keberlangsungan kedaulatan negara."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Diskusi Kasus dan Konsultasi Virtual Berbasis AI Tingkatkan Pengetahuan Mahasiswa Kedokteran",
+      "original_title": "AI Case Discussion and Virtual Consultations Boost Medical Students’ Knowledge",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ2U2Sm5QLVR4OURtSUN6bGcybkdsNVUtcUVMcy16UldoR1lzTjdZTlpIRjVGNjVtSE0ycXFFYjZITVZSQmJSVTZVeE5OYVBjVGQtWlg0cXRaOTBOQlhsS0p4UW1uOEs0MDZiVEZQdjR0TF_nQ01SNnVIU0lZbEZ2M1lLRTRjRDAyU2VBai1ULWtYcDVzenoxUVFlaEp3MkU1ZHV5Ng?oc=5",
+      "source": "Bioengineer.org",
+      "published_date": "2026-11-23",
+      "summary": "Penggunaan modul simulasi berbasis AI dan konsultasi pasien virtual terbukti efektif meningkatkan kompetensi diagnosis mahasiswa kedokteran. Platform AI ini memungkinkan calon dokter melakukan pemecahan kasus medis yang kompleks secara aman dan mendapatkan umpan balik langsung. Penemuan ini menjadi acuan penting dalam modernisasi kurikulum pendidikan kesehatan global.",
+      "takeaways": [
+        "Simulasi pasien AI mempercepat pemahaman klinis dan kemampuan pemecahan masalah mahasiswa.",
+        "Umpan balik instan dari platform AI membantu mengidentifikasi celah analisis diagnosis sejak dini.",
+        "Integrasi AI meminimalkan risiko kesalahan tindakan klinis saat mahasiswa terjun langsung ke lapangan."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Kerangka Kerja Baru Tata Kelola AI untuk Organisasi dan Perusahaan",
+      "original_title": "A New Framework for AI Governance by Organizations",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOR1NFV0Ntczk5N2t4LTB6SXFGb1BrWEZURTh2MDN2QWM5SlRxZGplVU84eHBZdFRMdWJCb183Tkd2WVZSSk0tUFlycjNPR2tiZEFNaWQ5MHlRLTh1bjBBNW54TVZVOF95dHRzZmlVbDJIZVhBaHJuaFRaY3daeWdkQXptT1NZN2xyclZMalJHQldJd2FpdmFNZmZBYkZic3FVRGc?oc=5",
+      "source": "The Regulatory Review",
+      "published_date": "2026-11-23",
+      "summary": "Sebuah pedoman tata kelola AI dirilis untuk membantu organisasi mengelola risiko etika, transparansi, dan efisiensi operasional sistem kecerdasan buatan. Kerangka ini memberikan panduan praktis bagi pimpinan industri dalam mematuhi regulasi yang terus berkembang sekaligus menjaga inovasi. Kehadiran panduan ini krusial untuk mencegah penyalahgunaan data dan bias algoritma.",
+      "takeaways": [
+        "Menyediakan panduan praktis pengelolaan risiko etis dan transparansi sistem AI di korporasi.",
+        "Membuat penyesuaian operasional agar tetap patuh pada undang-undang AI global yang semakin ketat.",
+        "Mendorong standar etika pengembangan kecerdasan buatan tanpa mengorbankan laju inovasi."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Penyalahgunaan Deepfake AI: Video Instruktur Mengemudi Di-kloning Tanpa Izin",
+      "original_title": "'My driving instructor videos were replicated by an AI deepfake account'",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53aUlObGZqc3NMdEE0YWhub1BpdUd3bmtwODRRVmdDbmlxR2ZqN2FuN1RNSTdVN19LVktMSVBBNjExVUkyeEdoSGI3WlBWRTBHekd3bDdWakdmbGc?oc=5",
+      "source": "BBC",
+      "published_date": "2026-11-23",
+      "summary": "Kisah maraknya penggunaan akun AI deepfake yang menduplikasi wajah dan suara instruktur mengemudi secara ilegal menyoroti ancaman privasi individu. Pelaku menggunakan identitas kloningan tersebut untuk menghasilkan keuntungan konten tanpa persetujuan pemilik sah. Kasus ini menegaskan perlunya tindakan hukum yang lebih tegas dalam melindungi hak cipta digital dan identitas pribadi.",
+      "takeaways": [
+        "Teknologi deepfake semakin mudah diakses dan digunakan untuk pencurian identitas secara komersial.",
+        "Kekurangan alat verifikasi autentisitas konten membuat rekayasa video makin sulit dideteksi publik.",
+        "Pentingnya perlindungan hukum identitas digital untuk mencegah kerugian finansial dan reputasi."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Studi Ungkap Bagaimana Lowongan Kerja Kini Memadukan Keterampilan AI dan Keahlian Tradisional",
+      "original_title": "Study Uncovers How Job Postings Pair Artificial Intelligence With Traditional Skills",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTjVURzllRXgxcDhEU0tKcmVvQjhkQ1F5SzZiYXgzRUFwSmlsLW14cmtpWTJEZnBERkxzZ041RnRfX3RxT2ZfWjMya2ZGVEFqVWdaRTU2TVJTcTNMODdpNXlDenVkTURaNnZTcnptUlRNTF_Xc3k0aHR2aUozaF_yc2N4d3U1QWQtb2ZUTk1wNmRIZWx1X1RTTWF5cGN2UlZSeTI3UjZWbG1mLWZSc0E?oc=5",
+      "source": "Bioengineer.org",
+      "published_date": "2026-11-23",
+      "summary": "Riset pasar tenaga kerja terbaru menunjukkan tren pergeseran kualifikasi pekerjaan yang kini mewajibkan penguasaan AI di samping keahlian dasar tradisional. Perusahaan mengutamakan kandidat yang mampu mengombinasikan kreativitas dan kepemimpinan dengan alat bantu kecerdasan buatan. Fenomena ini menuntut adaptasi kurikulum pendidikan formal agar lulusannya tetap relevan.",
+      "takeaways": [
+        "Pasar kerja modern menuntut kombinasi keahlian teknis AI dan kemampuan interpersonal (soft skills).",
+        "Penguasaan kecerdasan buatan menjadi faktor kunci peningkatan efisiensi di berbagai bidang industri.",
+        "Lembaga pendidikan perlu merestrukturisasi kurikulum untuk menyelaraskan dengan tuntutan pasar kerja baru."
+      ],
+      "category": "Artificial Intelligence"
+    },
     {
       "title": "Layanan Kesehatan Costa Rica Gunakan AI untuk Deteksi Kanker Payudara pada Ribuan Pasien",
       "original_title": "CCSS to Use Artificial Intelligence on Mammograms for 2,400 Women to Detect Potential Cancer Cases",
@@ -27,6 +139,34 @@
         "Perangkat keras semikonduktor merupakan aspek paling krusial dalam perebutan dominasi kecerdasan buatan.",
         "Spionase teknologi terhadap riset AI berlangsung secara terencana dan masif.",
         "Pemerintah AS diprediksi akan semakin memperketat kontrol ekspor dan keamanan industri mikrochip."
+      ],
+      "category": "Sains & Teknologi"
+    },
+    {
+      "title": "Ilmuwan OpenAI Usulkan Pembatasan AI Industri Berdasarkan Metrik Kecerdasan Model",
+      "original_title": "OpenAI scientist proposes industry AI limits tied to model intelligence metric",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPa0ZQb0xtalJ5djRmZmkwQnhmdDBlMEtncDUtUEJsUFBtWmptbkdVQ3c5QjY2TzhKN0NFT2ZzYnZmenQxY1lrUWFFYjZsdS1KazdRUkJINEJRemQ1alh6TGtnNW1nRE92bTF3RW9FMTIyODB3UmpBaW5oSzFDWDFVT3FXdjZDVzQ0TVNVd29nQzZvY3ByWVpBLUlhRVg0bFZiRHUxVjhqclptLUMycDJlYVBsQXQ4a28tRnFnbQ?oc=5",
+      "source": "Reuters",
+      "published_date": "2026-11-22",
+      "summary": "Seorang ilmuwan dari OpenAI mengusulkan kerangka kerja baru untuk membatasi pengembangan AI berdasarkan tingkat kecerdasan model. Langkah ini bertujuan menjaga keamanan nasional dan mencegah potensi bahaya sebelum kecerdasan buatan mencapai tingkatan yang tidak terkendali. Usulan tersebut menjadi bahan diskusi penting bagi regulasi standar keamanan kecerdasan buatan global.",
+      "takeaways": [
+        "Mengusulkan metrik kuantitatif kecerdasan model sebagai ambang batas regulasi AI.",
+        "Bertujuan mengantisipasi risiko keamanan sebelum model AI bertambah terlalu canggih.",
+        "Menjadi masukan strategis bagi pengembang AI industri dan pembuat kebijakan."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Peran AI dalam Mendeteksi Celah Komputer: Apakah Justru Memicu Gangguan Sistem Teknologi?",
+      "original_title": "As AI detects flaws in computer systems, is it causing more tech outages and disruptions?",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT3V6c1ZoWkw5RzJuZEFSdHJkby1RMnVtc29rMjZxcDRxV0Q1YVRLX0VZY1lLN1hJclpneEp5NlA1amZuWUNQVkVEWUo0cmtfU3g0LVNkSV_FYT3NQlEycU5LdWFRVXpSbnlEd1JTTGlZbnBOdDNhSDlHTFZhcUdxSFRpakZpYWRjY1M0RGc1X1hiR1ZtZldHN1NYOEtLSTNpVkphbF_fdmFYa1RUU3V1ak5sWm0wZ1_XT0tES0EzOWw?oc=5",
+      "source": "PBS",
+      "published_date": "2026-11-22",
+      "summary": "Penggunaan AI untuk pemindaian otomasi celah keamanan komputer ternyata membawa dampak samping tak terduga berupa maraknya pemadaman dan kendala sistem. Tindakan perbaikan otomatis dan deteksi agresif yang dipicu AI kerap berbenturan dengan infrastruktur komputer lama. Hal ini memicu pertanyaan kritis mengenai keandalan integrasi otomasinya dalam skala besar.",
+      "takeaways": [
+        "Deteksi celah dan perbaikan otomatis oleh AI dapat memicu kegagalan beruntun pada sistem komputer pendukung.",
+        "Infrastruktur teknologi lama kerap tidak siap merespons perubahan cepat yang dilakukan oleh agen AI.",
+        "Dibutuhkan keseimbangan antara efisiensi pemindaian AI dan pengawasan teknis oleh pengembang manusia."
       ],
       "category": "Sains & Teknologi"
     },
@@ -2239,62 +2379,6 @@
         "Meta-analisis ilmiah membuktikan efektivitas platform AI dalam mengasah performa praktis mahasiswa keperawatan.",
         "Simulasi berbasis AI memberikan ruang latihan klinis yang aman tanpa risiko terhadap pasien nyata.",
         "Riset ini mendorong percepatan adopsi teknologi simulasi cerdas pada instansi pendidikan kesehatan."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Microsoft Luncurkan Kerangka Kerja AI Baru untuk Tingkatkan Akurasi Prediksi Cuaca Jangka Menengah",
-      "original_title": "New AI framework bridges a critical gap in mid-range weather forecasts",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVENVYkFuNV9XZWh5dTRjZG5EaXM3WktvMGg5dEItdkNaRjhFUmhvSXhtWVdsWGJ2VXhVbTlha0dsWkRwbGxjWUhoOFdDakR5Z094X0tnVEU0bHNYcVpuRnJxa3phaWZvVDdpZzRORk9vTUt2ZjF2eDdWLWI0b3lqNEZNUHBINXg1WFBPeHMzcTBYbkQ2LWFjZGE1Sk4xRG1zUGJQb1ZUVUhORnpYclJvMlMycjNJTHgwRHc?oc=5",
-      "source": "Microsoft",
-      "published_date": "2026-10-23",
-      "summary": "Microsoft memperkenalkan kerangka kerja berbasis kecerdasan buatan yang mampu mengatasi celah pemodelan utama dalam prakiraan cuaca jangka menengah. Teknologi ini memadukan pemrosesan data historis yang kaya dengan simulasi atmosfer modern untuk memprediksi perubahan iklim secara lebih akurat. Inovasi ini sangat penting untuk mitigasi bencana alam dan perencanaan sektor pertanian serta energi.",
-      "takeaways": [
-        "Kerangka AI baru dari Microsoft meningkatkan keandalan prediksi cuaca jangka menengah.",
-        "Integrasi AI membantu memperhitungkan kompleksitas dinamika atmosfer yang sebelumnya sulit dimodelkan secara konvensional.",
-        "Inovasi ini mendukung efisiensi mitigasi bencana dan respons cepat terhadap pemanasan global."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Cal Poly Resmikan Superkomputer 'AI Factory' senilai $3 Juta demi Mendorong Inovasi Mahasiswa",
-      "original_title": "Cal Poly Unveils $3 Million ‘AI Factory’ Supercomputer to Help Drive Student Innovation",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNekU2V3FlanFNZVVRTk5aaXNnV1dQaGZVSXJDWnJ6QTBSSjktRWRQVHBta0k4R1cyazNSWGJOUFJFYUY4Q1BiNUVxcnhWTHJENFQwT24wVkJYUERnU2JNVDdOWHZoS05lOExsTUVkdmdOWUF0QUxDWXJCdk1fb25kUjJiUXBtWW5laG9Sb2c1QXpnTXhJU25MMXVSSmxYQkRkUzRkX3hVdlZvbkY1WkZwZElfbkoya0drcHpqSFc3WWUtZnNDMU1B?oc=5",
-      "source": "News Channel 3-12",
-      "published_date": "2026-10-23",
-      "summary": "California Polytechnic State University meluncurkan fasilitas superkomputer 'AI Factory' senilai 3 juta dolar AS untuk mendukung riset dan inovasi akademis. Superkomputer ini memberikan akses komputasi tingkat tinggi bagi mahasiswa dan peneliti untuk melatih model AI skala besar. Inisiatif ini diharapkan dapat melahirkan talenta baru yang siap bersaing di industri teknologi masa depan.",
-      "takeaways": [
-        "Cal Poly menghadirkan infrastruktur superkomputer bernilai miliaran rupiah untuk penelitian AI.",
-        "Fasilitas ini memberikan pengalaman praktis bagi mahasiswa dalam melatih model AI berkinerja tinggi.",
-        "Meningkatkan kolaborasi antara dunia akademis dan industri dalam pengembangan teknologi canggih."
-      ],
-      "category": "Sains & Teknologi"
-    },
-    {
-      "title": "Institut AI Georgia Tech Raih Pendanaan $38,4 Juta untuk Dorong Riset Kecerdasan Buatan",
-      "original_title": "Georgia Tech’s NSF AI Institutes Enter New Era With $38.4 Million in Renewed Support | Newswise",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZVVZNnZPdEw4aFdZVnJmT0ZUWVh4R0RQejR4dnhFSHlsSlpfVWltOHhhb2RSOVdTMW9oQVZtRk1ONUowSTk5clNwNm5uMmtlUUF3aXhKdjBSZUljV0d2UzJPdUVBcG9LbDN0Tzl4SVdKMTdMOWdhRWU2a1BxNUViS1ViN0J1VFBrb1JneUJEOV9LcTFCOGxZbzM3cm01My1Yc1BjVGlINjZiVTV2U25SQVE?oc=5",
-      "source": "Newswise",
-      "published_date": "2026-10-23",
-      "summary": "Institut AI Yayasan Sains Nasional (NSF) di Georgia Tech menerima perpanjangan dana riset sebesar $38,4 juta untuk memperluas penelitian AI. Fokus utama riset mencakup pemodelan AI mutakhir, optimalisasi rantai pasok, dan pembuatan keputusan otomatis. Pendanaan ini memperkuat posisi Georgia Tech sebagai pusat penelitian dan inovasi AI global.",
-      "takeaways": [
-        "Georgia Tech memperoleh dukungan dana $38,4 juta dari NSF untuk pengembangan Institut AI.",
-        "Fokus penelitian diarahkan pada solusi AI nyata untuk mengatasi masalah optimasi dan sistem kompleks.",
-        "Langkah ini mendorong kemajuan riset fundamental AI dan pendidikan talenta masa depan."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Laporan Ungkap AI Tingkatkan Efisiensi Kerja Sekaligus Memicu Beban Kesehatan Mental Pekerja",
-      "original_title": "AI boosts efficiency but fuels workplace mental health strain, report finds",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMFE5WXB4Sk41ZEE2NklfWXhlSlp5VzdWbGo0RHRGaFZGUzVtNndBWFR5Q2JwWnN6VDVwcXVHTFdoejZCZGp4RDZkVXFGT3VUNGI5cEIybFE4eEQ1TUM1SVpsYXBRNVZLQ1lUOTcweFVjVnJCaUJKeXRKZ0pxOEpkVkhtZF85QloyQThYME1vMlZFcF9sNEFORmNrOExhLTdFOHlmYmNCcU0?oc=5",
-      "source": "KSNV",
-      "published_date": "2026-10-23",
-      "summary": "Riset terbaru menunjukkan bahwa meskipun AI mampu meningkatkan efisiensi operasional tempat kerja, teknologi ini juga memicu stres dan tekanan mental bagi para karyawan. Ekspektasi produktivitas yang semakin tinggi dan kekhawatiran akan penggantian tenaga kerja menjadi faktor utama peningkatan beban mental. Laporan tersebut mengimbau perusahaan untuk memperhatikan kesejahteraan mental pekerja seiring penerapan AI.",
-      "takeaways": [
-        "Penggunaan AI di tempat kerja meningkatkan efisiensi namun menambah tekanan psikologis pada karyawan.",
-        "Tuntutan produktivitas yang terus melonjak berisiko memicu kecemasan dan kelelahan kerja (burnout).",
-        "Perusahaan diimbau menerapkan strategi mitigasi untuk menjaga kesejahteraan tenaga kerja."
       ],
       "category": "Artificial Intelligence"
     }
