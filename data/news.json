@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-11-24T09:02:01.662378+00:00",
-  "total_articles": 170,
+  "last_updated": "2026-11-25T07:40:27.354886+00:00",
+  "total_articles": 165,
   "articles": [
     {
       "title": "Terobosan Baru: Model AI Terbuka China Saingi Raksasa Silicon Valley",
       "original_title": "Another powerful new artificial intelligence model from China took the US tech industry by surprise",
       "url": "https://example.com/ai-china-model",
       "source": "LinkedIn News",
-      "published_date": "2026-11-24",
+      "published_date": "2026-11-25",
       "summary": "Startup AI asal China meluncurkan model open-source baru yang mengejutkan industri teknologi AS karena kemampuannya yang sangat kompetitif. Model ini menantang dominasi perusahaan besar Silicon Valley dengan performa tinggi yang dapat diakses secara gratis oleh pengembang.",
       "takeaways": [
         "Model open-source baru dari China menunjukkan kemajuan pesat dalam penelitian AI.",
@@ -21,7 +21,7 @@
       "original_title": "First CRISPR Gene Therapy for Rare Genetic Disorder Approved by FDA",
       "url": "https://example.com/crispr-approval",
       "source": "Nature Biotechnology",
-      "published_date": "2026-11-24",
+      "published_date": "2026-11-25",
       "summary": "FDA secara resmi menyetujui terapi pengeditan gen berbasis CRISPR untuk mengobati kelainan genetik langka yang merusak sel saraf. Keputusan bersejarah ini membuka jalan bagi penyembuhan penyakit genetik kronis lainnya yang sebelumnya tidak dapat disembuhkan.",
       "takeaways": [
         "FDA memberikan persetujuan untuk terapi berbasis CRISPR pertama yang menyasar penyakit sel saraf.",
@@ -35,7 +35,7 @@
       "original_title": "Scientists Create Hybrid Brain Network Using Silicon Chips and Neurons",
       "url": "https://example.com/hybrid-brain",
       "source": "Science Daily",
-      "published_date": "2026-11-24",
+      "published_date": "2026-11-25",
       "summary": "Tim peneliti gabungan berhasil menghubungkan sel saraf biologis hidup dengan chip silikon komputer menggunakan antarmuka bio-elektronik baru. Teknologi ini berpotensi digunakan untuk memulihkan fungsi sensorik pasien lumpuh serta mempercepat komputasi neuromorfik.",
       "takeaways": [
         "Integrasi sel saraf hidup dengan silikon membuka jalan bagi komputer biologis.",
@@ -49,7 +49,7 @@
       "original_title": "Google Launches Upgraded Gemini Pro with Larger Context Window",
       "url": "https://example.com/gemini-pro-update",
       "source": "TechCrunch",
-      "published_date": "2026-11-24",
+      "published_date": "2026-11-25",
       "summary": "Google resmi merilis pembaruan untuk model Gemini Pro yang kini mendukung pemrosesan dokumen panjang hingga jutaan token secara bersamaan. Pembaruan ini secara dramatis meningkatkan akurasi dalam menganalisis kode pemrograman kompleks dan laporan keuangan panjang.",
       "takeaways": [
         "Context window Gemini Pro diperluas untuk mendukung analisis data skala besar.",
@@ -63,7 +63,7 @@
       "original_title": "Full Genome Sequencing Unlocks Secrets of Ancient Rice Evolution",
       "url": "https://example.com/rice-genome",
       "source": "Genomics Journal",
-      "published_date": "2026-11-24",
+      "published_date": "2026-11-25",
       "summary": "Para peneliti genetika berhasil memetakan sekuens genom lengkap dari sampel padi purba berusia 3.000 tahun yang ditemukan di situs arkeologi. Data genetik ini mengungkap bagaimana nenek moyang kita melakukan seleksi tanaman terhadap kekeringan dan hama.",
       "takeaways": [
         "Pemetaan genom padi purba memberikan wawasan tentang adaptasi iklim masa lalu.",
@@ -77,7 +77,7 @@
       "original_title": "Future Supercomputing: Large-scale Quantum Computing Experiment Succeeds",
       "url": "https://example.com/quantum-success",
       "source": "MIT Technology Review",
-      "published_date": "2026-11-24",
+      "published_date": "2026-11-25",
       "summary": "Fisikawan berhasil menjalankan algoritma koreksi kesalahan kuantum yang stabil pada sistem 100-qubit untuk pertama kalinya. Hasil ini menunjukkan bahwa komputer kuantum komersial yang bebas dari error tingkat tinggi kini semakin dekat menjadi kenyataan.",
       "takeaways": [
         "Algoritma koreksi kesalahan kuantum berhasil menstabilkan sistem qubit dari gangguan luar.",
@@ -91,7 +91,7 @@
       "original_title": "AI Detects Early-Stage Lung Cancer Using Standard Chest X-rays",
       "url": "https://example.com/ai-lung-cancer",
       "source": "The Lancet Digital Health",
-      "published_date": "2026-11-24",
+      "published_date": "2026-11-25",
       "summary": "Sebuah sistem kecerdasan buatan baru yang dilatih pada jutaan radiografi dada mampu mendeteksi tanda-tanda awal kanker paru dengan akurasi 94%. Sistem ini dapat mendeteksi nodul kecil yang sering terlewatkan oleh radiolog manusia pada pemeriksaan rutin.",
       "takeaways": [
         "Sistem AI melampaui rata-rata akurasi deteksi radiolog manusia dalam skrining awal.",
@@ -105,7 +105,7 @@
       "original_title": "Ancient DNA Technology Reveals Migration Patterns of First Americans",
       "url": "https://example.com/ancient-dna-america",
       "source": "Science Magazine",
-      "published_date": "2026-11-24",
+      "published_date": "2026-11-25",
       "summary": "Studi terhadap sisa-sisa DNA kuno berusia 12.000 tahun menunjukkan bahwa pemukim pertama Amerika bermigrasi dalam beberapa gelombang yang berbeda secara genetik. Analisis ini meluruskan teori migrasi tunggal yang selama ini diyakini oleh para arkeolog.",
       "takeaways": [
         "Analisis genom kuno membuktikan adanya rute migrasi maritim di samping jembatan darat Beringia.",
@@ -119,7 +119,7 @@
       "original_title": "New Sodium-ion Battery Offers Cheap Alternative for Green Energy Storage",
       "url": "https://example.com/sodium-battery",
       "source": "Bloomberg Green",
-      "published_date": "2026-11-24",
+      "published_date": "2026-11-25",
       "summary": "Para peneliti berhasil mengembangkan baterai sodium-ion (garam) berkapasitas tinggi dengan siklus hidup yang menyamai baterai lithium-ion. Karena sodium sangat melimpah dan murah, teknologi ini dapat mempercepat transisi ke penyimpanan energi surya dan angin skala besar.",
       "takeaways": [
         "Baterai berbasis garam menawarkan biaya produksi 40% lebih murah dibanding lithium.",
@@ -133,7 +133,7 @@
       "original_title": "Advancement in Automatic Music Generation Using Pitch-Specific LLMs",
       "url": "https://example.com/music-llm",
       "source": "Wired",
-      "published_date": "2026-11-24",
+      "published_date": "2026-11-25",
       "summary": "Model bahasa besar (LLM) terbaru yang dikonfigurasi khusus untuk memahami teori musik dapat menghasilkan aransemen orkestra lengkap secara instan berdasarkan deskripsi teks. Model ini memahami harmoni dan transisi instrumen secara organik layaknya komposer profesional.",
       "takeaways": [
         "LLM musik baru menghasilkan musik dengan pemahaman struktural harmoni yang mendalam.",
@@ -2311,76 +2311,6 @@
         "Upaya ini menandai pergeseran dari pendekatan teknis murni menuju pendekatan humaniora dalam keamanan AI."
       ],
       "category": "Sains & Teknologi"
-    },
-    {
-      "title": "Microsoft Bangun Ulang Ekosistem Merek demi Agen AI yang Bekerja Mandiri untuk Pengguna",
-      "original_title": "Satya Nadella Says Microsoft Is Rebuilding Around AI Agents as Trump Pushes ‘Super Intelligence’ — From 11,000 Models to Agents That Work on Your Behalf",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSktxVGNHWWl6RDMxRDBsSnlqMXljdXd0UFV0LWpLNVA1SGtGbG1fbGpycVN2c0pqN013WmxqM3JvWE9aU0tYckJmUEVOaDNiNmNsUlpsSkRhZno2NkJHZjNhM2JHdUh1UmxVRjBIMkFqV0lqS2R2endBaUxVRWZnQzAwb3RnZnAwLW53Qm04aTVsZGJXXzJsSlNIdmtCVjh2dWtjYm9n?oc=5",
-      "source": "Yahoo Finance",
-      "published_date": "2026-10-25",
-      "summary": "CEO Microsoft Satya Nadella mengumumkan pergeseran strategi besar-besaran dengan merestrukturisasi infrastruktur perusahaan berfokus pada Agen AI otonom. Dibandingkan hanya menyediakan ribuan model statis, fokus masa depan adalah AI yang dapat mengeksekusi tugas kompleks secara mandiri atas nama pengguna. Langkah ini sejalan dengan percepatan persaingan menuju pencapaian kapabilitas kecerdasan buatan super.",
-      "takeaways": [
-        "Microsoft mengalihkan fokus dari model AI generatif biasa ke sistem Agen AI yang dapat beraksi secara otonom.",
-        "Agen AI dirancang untuk mengeksekusi alur kerja rumit dan mengambil keputusan atas perintah pengguna.",
-        "Perubahan strategi ini menandai babak baru dalam otomatisasi pekerjaan dan peningkatan produktivitas digital."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Jurang Persepsi AI di Tempat Kerja: Direksi Puas, Karyawan Merasa Tertekan",
-      "original_title": "C.E.O.s Say the A.I. Rollout Is Going Well. Employees Feel Differently.",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWWdVcmp6Vm8xaTlHbXhmRUp2bnU1Q2hlMUY1eG05ekVJSWFPRjRZWGcyODNDeUV4dW5IUndhM2NtWlJDSE1QSmhlekNNVUotb2NHRjBwRTc4dkR0Y3RNeUIwWlZNUk1hOTc2dEJYTEVUUlVhSXFmeUx1RlZWNjJ0ZmhINTRHcXZac0NtOUd2RE9oTUU1Rk9TLWJmSlpFTWxfaVlSdUhkZ2p3ZVB3LXhWSVZSS004ZkNzRlFWUzVjVQ?oc=5",
-      "source": "The New York Times",
-      "published_date": "2026-10-25",
-      "summary": "Sebuah laporan mengungkapkan kontras tajam antara pandangan para eksekutif dan pekerja lapangan terkait adopsi kecerdasan buatan di perusahaan. Sementara para CEO menilai penerapan AI berjalan sangat sukses dan meningkatkan efisiensi, para karyawan justru merasa beban kerja meningkat tanpa pelatihan yang memadai. Ketimpangan persepsi ini mengancam ketahanan budaya kerja dan efektivitas efisiensi perusahaan.",
-      "takeaways": [
-        "Terdapat jurang komunikasi dan persepsi yang signifikan antara manajemen puncak dan karyawan terkait dampak AI.",
-        "Karyawan mengeluhkan kurangnya pelatihan memadai di tengah ekspektasi produktivitas yang makin tinggi.",
-        "Keberhasilan integrasi AI membutuhkan investasi pada sumber daya manusia, bukan hanya pengadaan alat."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Jaga Keamanan Data, OpenAI Latih AI dalam Sistem Terisolasi Tanpa Akses Internet",
-      "original_title": "OpenAI Training AI in Systems Shut Off From Web Access",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZUpDV0tUemtrRklOVENMNjBQVjQ5YXFrXzY5Z2pZYWVrYkFKbVJGMFJHWVE4TjBDUXp5Z2F0T2JRWTRPYlozbHdMaTM1NUZKUGdPcU1jYWhxalgxem9sT2xTbWpydVFYYWZBdEJnZkw2OEwwXzluMWVzVVlvM19nUVRSbmZpeXQ2aDFPOFVFS0c5NDUyQWo4ZGhtRXVlMHBBZjNmaVVEcUZnaFQtaHlrU1hR?oc=5",
-      "source": "PYMNTS.com",
-      "published_date": "2026-10-25",
-      "summary": "OpenAI mulai menerapkan metode pelatihan model kecerdasan buatan dalam lingkungan tertutup yang terputus sepenuhnya dari jaringan internet publik. Pendekatan ketat ini diambil untuk mencegah potensi kebocoran data sensitif serta menghindari peretasan dari pihak luar selama proses pembuatan model mutakhir. Langkah ini menetapkan standar baru dalam protokol keselamatan pengembangan AI skala besar.",
-      "takeaways": [
-        "OpenAI menggunakan sistem pelatihan terisolasi (air-gapped) tanpa koneksi internet untuk model terbarunya.",
-        "Langkah ini dirancang untuk meminimalkan risiko pencurian kekayaan intelektual dan serangan siber eksternal.",
-        "Protokol keselamatan fisik dan digital kini menjadi prioritas utama pengembang AI terdepan."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Demi Bangun AI Beretika, Perusahaan Teknologi Mulai Libatkan Nilai-Nilai Agama",
-      "original_title": "To make AI morally good, tech companies are turning to religion. But some say it isn't that simple",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObXBhUVVyVGdmdjJJVDc0ZHR2QVlwSV9CZWpaSS1PWWpSN2VXZThCTW1VdXVoNGJTQWFpbVZOZjg5WjczQ083cFhEMmNRZ0YxWXNDel9QWnJQVlJVeFRJenF6OTZBVEtoRjA4dVpCMzJoYXNIT0pGZ1VGUklVWVRvTmJ4R3lRNFpXTlFtV0RkUGRfX0J3SmxGbkJ0WVpVZTdaTk5GMVc4QmpGT1pH?oc=5",
-      "source": "AP News",
-      "published_date": "2026-10-25",
-      "summary": "Perusahaan-perusahaan teknologi mulai berdiskusi dengan tokoh agama dan ahli etika spiritual untuk menyuntikkan norma moral ke dalam algoritma AI. Pendekatan ini bertujuan agar AI memiliki pertimbangan etis yang lebih bijak saat mengambil keputusan yang berdampak pada masyarakat. Namun, para kritikus mengingatkan bahwa keberagaman dogma lintas agama dapat memunculkan bias baru jika tidak dikelola dengan hati-hati.",
-      "takeaways": [
-        "Pengembang teknologi memanfaatkan prinsip-prinsip moral agama untuk membimbing keputusan etis AI.",
-        "Inisiatif ini berupaya menciptakan kecerdasan buatan yang lebih humanis dan sensitif terhadap kebudayaan.",
-        "Tantangan utama terletak pada penyesuaian interpretasi nilai moral yang sangat bervariasi antar keyakinan."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Studi Pembelajaran Berbasis AI Buktikan Peningkatan Keterampilan Praktis Mahasiswa Keperawatan",
-      "original_title": "Artificial Intelligence-Supported Learning and Its Effect on Knowledge Acquisition and Practical Performance Among Nursing Students: A Systematic Review and Meta-Analysis",
-      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPWGRxTmZ2akZrZXB6TjhyQWdLeHoyTUdnV2ZHSFdVVnkydHVEYS1Ndkk4TWxBN3FobElBX1dDTFc4alZmVjcyd1pVTVZ6RzhQVE1vel9iVmM2VENDNk12dzR1WEVWUVROdHNwLVJzRWN1ZEJFRlRHa0VLQ0pzS2I3enNDQmRKSFdNc3BaZUo2TXlDT0F6dmpSWmM0dUg4WHBmRDVyQ1VFQ28wd1lWY2JLZkhmdmZsQkhJeTVqRUFKMnNzTVZkeHpSVE1qalNxZHpJeDF4djJ2d25lbFJiZFVwRWsxb3NwRWRPbU9nTTBJbnlUdWM4QWtrVmZUZHZRbFVWTi1sTTVMQnJkbEhuSWNfZ1FaTjE5Z2p6MzBfY2xubHVmZ0QwMHZkemt2aVFqZWVuekE?oc=5",
-      "source": "Cureus",
-      "published_date": "2026-10-25",
-      "summary": "Sebuah tinjauan sistematis dan meta-analisis mengonfirmasi bahwa penggunaan teknologi pembelajaran berbasis AI secara signifikan meningkatkan penguasaan teori dan keterampilan praktis mahasiswa keperawatan. Simulasi interaktif AI membantu mahasiswa melatih tindakan medis kompleks dalam lingkungan aman sebelum berinteraksi langsung dengan pasien. Temuan ini memperkuat urgensi modernisasi kurikulum pendidikan medis.",
-      "takeaways": [
-        "Meta-analisis ilmiah membuktikan efektivitas platform AI dalam mengasah performa praktis mahasiswa keperawatan.",
-        "Simulasi berbasis AI memberikan ruang latihan klinis yang aman tanpa risiko terhadap pasien nyata.",
-        "Riset ini mendorong percepatan adopsi teknologi simulasi cerdas pada instansi pendidikan kesehatan."
-      ],
-      "category": "Artificial Intelligence"
     }
   ]
 }
