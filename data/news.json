@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-11-25T07:40:27.354886+00:00",
-  "total_articles": 165,
+  "last_updated": "2026-11-26T07:30:00.433459+00:00",
+  "total_articles": 153,
   "articles": [
     {
       "title": "Terobosan Baru: Model AI Terbuka China Saingi Raksasa Silicon Valley",
       "original_title": "Another powerful new artificial intelligence model from China took the US tech industry by surprise",
       "url": "https://example.com/ai-china-model",
       "source": "LinkedIn News",
-      "published_date": "2026-11-25",
+      "published_date": "2026-11-26",
       "summary": "Startup AI asal China meluncurkan model open-source baru yang mengejutkan industri teknologi AS karena kemampuannya yang sangat kompetitif. Model ini menantang dominasi perusahaan besar Silicon Valley dengan performa tinggi yang dapat diakses secara gratis oleh pengembang.",
       "takeaways": [
         "Model open-source baru dari China menunjukkan kemajuan pesat dalam penelitian AI.",
@@ -21,7 +21,7 @@
       "original_title": "First CRISPR Gene Therapy for Rare Genetic Disorder Approved by FDA",
       "url": "https://example.com/crispr-approval",
       "source": "Nature Biotechnology",
-      "published_date": "2026-11-25",
+      "published_date": "2026-11-26",
       "summary": "FDA secara resmi menyetujui terapi pengeditan gen berbasis CRISPR untuk mengobati kelainan genetik langka yang merusak sel saraf. Keputusan bersejarah ini membuka jalan bagi penyembuhan penyakit genetik kronis lainnya yang sebelumnya tidak dapat disembuhkan.",
       "takeaways": [
         "FDA memberikan persetujuan untuk terapi berbasis CRISPR pertama yang menyasar penyakit sel saraf.",
@@ -35,7 +35,7 @@
       "original_title": "Scientists Create Hybrid Brain Network Using Silicon Chips and Neurons",
       "url": "https://example.com/hybrid-brain",
       "source": "Science Daily",
-      "published_date": "2026-11-25",
+      "published_date": "2026-11-26",
       "summary": "Tim peneliti gabungan berhasil menghubungkan sel saraf biologis hidup dengan chip silikon komputer menggunakan antarmuka bio-elektronik baru. Teknologi ini berpotensi digunakan untuk memulihkan fungsi sensorik pasien lumpuh serta mempercepat komputasi neuromorfik.",
       "takeaways": [
         "Integrasi sel saraf hidup dengan silikon membuka jalan bagi komputer biologis.",
@@ -49,7 +49,7 @@
       "original_title": "Google Launches Upgraded Gemini Pro with Larger Context Window",
       "url": "https://example.com/gemini-pro-update",
       "source": "TechCrunch",
-      "published_date": "2026-11-25",
+      "published_date": "2026-11-26",
       "summary": "Google resmi merilis pembaruan untuk model Gemini Pro yang kini mendukung pemrosesan dokumen panjang hingga jutaan token secara bersamaan. Pembaruan ini secara dramatis meningkatkan akurasi dalam menganalisis kode pemrograman kompleks dan laporan keuangan panjang.",
       "takeaways": [
         "Context window Gemini Pro diperluas untuk mendukung analisis data skala besar.",
@@ -63,7 +63,7 @@
       "original_title": "Full Genome Sequencing Unlocks Secrets of Ancient Rice Evolution",
       "url": "https://example.com/rice-genome",
       "source": "Genomics Journal",
-      "published_date": "2026-11-25",
+      "published_date": "2026-11-26",
       "summary": "Para peneliti genetika berhasil memetakan sekuens genom lengkap dari sampel padi purba berusia 3.000 tahun yang ditemukan di situs arkeologi. Data genetik ini mengungkap bagaimana nenek moyang kita melakukan seleksi tanaman terhadap kekeringan dan hama.",
       "takeaways": [
         "Pemetaan genom padi purba memberikan wawasan tentang adaptasi iklim masa lalu.",
@@ -77,7 +77,7 @@
       "original_title": "Future Supercomputing: Large-scale Quantum Computing Experiment Succeeds",
       "url": "https://example.com/quantum-success",
       "source": "MIT Technology Review",
-      "published_date": "2026-11-25",
+      "published_date": "2026-11-26",
       "summary": "Fisikawan berhasil menjalankan algoritma koreksi kesalahan kuantum yang stabil pada sistem 100-qubit untuk pertama kalinya. Hasil ini menunjukkan bahwa komputer kuantum komersial yang bebas dari error tingkat tinggi kini semakin dekat menjadi kenyataan.",
       "takeaways": [
         "Algoritma koreksi kesalahan kuantum berhasil menstabilkan sistem qubit dari gangguan luar.",
@@ -91,7 +91,7 @@
       "original_title": "AI Detects Early-Stage Lung Cancer Using Standard Chest X-rays",
       "url": "https://example.com/ai-lung-cancer",
       "source": "The Lancet Digital Health",
-      "published_date": "2026-11-25",
+      "published_date": "2026-11-26",
       "summary": "Sebuah sistem kecerdasan buatan baru yang dilatih pada jutaan radiografi dada mampu mendeteksi tanda-tanda awal kanker paru dengan akurasi 94%. Sistem ini dapat mendeteksi nodul kecil yang sering terlewatkan oleh radiolog manusia pada pemeriksaan rutin.",
       "takeaways": [
         "Sistem AI melampaui rata-rata akurasi deteksi radiolog manusia dalam skrining awal.",
@@ -105,7 +105,7 @@
       "original_title": "Ancient DNA Technology Reveals Migration Patterns of First Americans",
       "url": "https://example.com/ancient-dna-america",
       "source": "Science Magazine",
-      "published_date": "2026-11-25",
+      "published_date": "2026-11-26",
       "summary": "Studi terhadap sisa-sisa DNA kuno berusia 12.000 tahun menunjukkan bahwa pemukim pertama Amerika bermigrasi dalam beberapa gelombang yang berbeda secara genetik. Analisis ini meluruskan teori migrasi tunggal yang selama ini diyakini oleh para arkeolog.",
       "takeaways": [
         "Analisis genom kuno membuktikan adanya rute migrasi maritim di samping jembatan darat Beringia.",
@@ -119,7 +119,7 @@
       "original_title": "New Sodium-ion Battery Offers Cheap Alternative for Green Energy Storage",
       "url": "https://example.com/sodium-battery",
       "source": "Bloomberg Green",
-      "published_date": "2026-11-25",
+      "published_date": "2026-11-26",
       "summary": "Para peneliti berhasil mengembangkan baterai sodium-ion (garam) berkapasitas tinggi dengan siklus hidup yang menyamai baterai lithium-ion. Karena sodium sangat melimpah dan murah, teknologi ini dapat mempercepat transisi ke penyimpanan energi surya dan angin skala besar.",
       "takeaways": [
         "Baterai berbasis garam menawarkan biaya produksi 40% lebih murah dibanding lithium.",
@@ -133,7 +133,7 @@
       "original_title": "Advancement in Automatic Music Generation Using Pitch-Specific LLMs",
       "url": "https://example.com/music-llm",
       "source": "Wired",
-      "published_date": "2026-11-25",
+      "published_date": "2026-11-26",
       "summary": "Model bahasa besar (LLM) terbaru yang dikonfigurasi khusus untuk memahami teori musik dapat menghasilkan aransemen orkestra lengkap secara instan berdasarkan deskripsi teks. Model ini memahami harmoni dan transisi instrumen secara organik layaknya komposer profesional.",
       "takeaways": [
         "LLM musik baru menghasilkan musik dengan pemahaman struktural harmoni yang mendalam.",
@@ -2143,174 +2143,6 @@
         "Sektor teknologi dituntut menerapkan etika kerja yang adil di sepanjang rantai pasokannya."
       ],
       "category": "Artificial Intelligence"
-    },
-    {
-      "title": "SpaceX Amankan Pinjaman Rp630 Triliun demi Borong Chip AI, Tegaskan Ambisi Besar Elon Musk",
-      "original_title": "SpaceX closes $40 billion debt deal for AI chips, Elon Musk says",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVTJ4MWVBeEtEdjR1T3U3TDJvZnFSd1UtTVJ5RFljSG90MUs3OW0xRUFTZ2p3T3FjRGZINFUzY1Qwa2MyZWZ3cmlYbkQwd09xTzF1cEdZSFkzTHdpNGhaNno5bW13RXdmaldaSlpBYTN4djJnTUF0YXRsX0ZaX0FQYXlfQnBWSzU4bWJweC1CcjNPNGVKNV9MMHhqTdIBoAFBVV95cUxNOExaVU8tRkNSSVpLS19wVmxBMzl3a2tvYVJfQy1PTzBoTUlGc21yQ2pHNWpnSWxxN1IzN0RiSHZROFBqNFlTR2dfeS11T1BWMUxKMktpMHVlbFRmTjVGdmxqbFBBeUJHelM0eU8tSWQyRDhEVGc3cmdnbGxlSDVDbE1hc3BqNUlNUktNUUR5SGNNT3poc1k4QUxOczJNNm5j?oc=5",
-      "source": "CNBC",
-      "published_date": "2026-10-26",
-      "summary": "SpaceX dilaporkan telah menyelesaikan kesepakatan utang senilai $40 miliar yang dialokasikan khusus untuk pembiayaan infrastruktur chip kecerdasan buatan. Langkah bernilai fantastis ini menunjukkan ekspansi agresif Elon Musk dalam mengintegrasikan komputasi AI tingkat tinggi ke dalam ekosistem teknologinya. Hal ini berpotensi mempercepat otomatisasi sistem luar angkasa dan proyek satelit Starlink.",
-      "takeaways": [
-        "SpaceX meraih kesepakatan pembiayaan fantastis sebesar $40 miliar untuk pengadaan chip AI.",
-        "Investasi skala masif ini akan memperkuat kapabilitas komputasi dan pemrosesan data perusahaan secara signifikan.",
-        "Langkah ini mempertegas persaingan sengit antar raksasa teknologi dalam mengamankan pasokan perangkat keras AI."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Persaingan Blok AI AS vs China: Negara-Negara Dunia Terjebak di Antara Dua Raksasa",
-      "original_title": "As the US and China form AI blocs, countries are increasingly torn between them",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUm9pTWdQaGEzaFRYSlMtdWxiMk9NZ3F0Qy1oUE54Vkh3RVF6WEN6WUVnLVQ4a2dZbkd4aGx1ZTVkLXIyejUyQ1loUlAyRUZ4Y01PM2xzWEZXZU1XMFR6a2NwM3VqLXdYR2ZzV2pXMml3bEwyOFdyYUZBeEI2RXdhbnQzalpjTVFndjBXdDYwbWFBT1NkbE55ZHRXelBhNjdTU2U1ZVZoUU00UTNGZDRoTmFLeHFFclVheE9RYmd2elRSNHN6dGkxQUF3QTY0eGtxTkNKVNIB2gFBVV95cUxOaXhjaU10UTdsMjBhdGhXMjc5Z1JiRk1pS0l2UHNpX3AzU0xxY2JmWERFdERyUm11YkNlWmZHRVU0R3BLYjRwMG1UcjlnQzhPdTM4SXJWTWJYVjJHQ1p5TjdJREI4OUlGcm1IdDZpSVZYMWZDakRhOFBSV0ptU1V2bHJJVm1ibUxBRHV4STllRlRxT2VSMFNWTGtONks5U0d4R2tlWGZzXzhacW5hbmxON3RkM2dGTzJ2VGNPUFFuSXU1aVB3Uk9LQU5yazR3dEtZNlVQSGpRWFpSUQ?oc=5",
-      "source": "FourStatesHomepage.com",
-      "published_date": "2026-10-26",
-      "summary": "Lanskap teknologi global kini kian terbelah menjadi dua blok AI utama yang dipimpin oleh Amerika Serikat dan China. Kondisi geopolitik ini memaksa banyak negara terjebak dalam dilema untuk memilih standar, infrastruktur, dan regulasi AI yang saling berlawanan. Polarisasi ini dikhawatirkan memicu fragmentasi internet serta memperlambat kolaborasi riset sains internasional.",
-      "takeaways": [
-        "AS dan China terus memperkuat ekosistem serta aliansi AI masing-masing secara terpisah.",
-        "Negara-negara berkembang menghadapi tekanan politik dan ekonomi dalam menentukan mitra teknologi AI.",
-        "Persaingan blok ini berisiko memecah standar teknologi global dan memperlambat inovasi yang inklusif."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Senjata atau Pelindung? Debat Panas Pengembangan AI Open-Weight Asal China",
-      "original_title": "Weapon or armour? The contentious debate over China’s open-weight AI",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNExKTlJVTVJnVHhfQUdtZzhXWWxJQThQMmJhLW9vXzk4R2szSnBIaUdZdUhpRzE5Tk02MmprQmQyT3BSd09zdVVGX0RLLUlVTGhGMW1FbmRPUGp2bDNBUWJWczh6dHBGVnV4U2VDV242Y1Y1c0N1Z21RRG14RWFiMXJ6M2hIRmhuMm83QWR6dkExb2dQZXNVYXp5M3NaeGpxQy1TRFVXNVNydWhBQ1FxYXdrdHRPVkXSAbcBQVVfeXFMUG85SVp5MGNCOXhxWERXeUU1VkMwdmFjcmtwb3JKZWxENGY4NXFBLW14V2xVZkdIbDR6TVJIN3hiSE9rT0g5azhVZVhheTVqbG5rZGZJT0JVnk1xeVpleUVUSzJUYlBXTnJfY0p2cmdzSzgyeWN4cTlyWmYtVkgzbUpaT1FfeWpjbHN1RGxwOGNtZzlucTRVVUUxYWFSZXlNU3kxMl91aXFidFRiVjI5ZlBDQzFBbkdZ?oc=5",
-      "source": "South China Morning Post",
-      "published_date": "2026-10-26",
-      "summary": "Keputusan peneliti dan perusahaan AI China untuk mempublikasikan model AI open-weight memicu perdebatan sengit di tingkat global. Di satu sisi, transparansi bobot model mendukung demokratisasi riset, namun di sisi lain menimbulkan kecemasan atas potensi penyalahgunaan keamanan. Para pakar kini memperdebatkan apakah akses terbuka ini berfungsi sebagai perisai pertahanan atau justru senjata kejahatan siber.",
-      "takeaways": [
-        "Model AI open-weight dari China memicu dilema antara keterbukaan riset dan risiko keamanan.",
-        "Pendukung mengklaim akses terbuka membantu identifikasi celah keamanan dengan lebih cepat.",
-        "Kritikus khawatir model terbuka mempermudah aktor jahat menyebarkan disinformasi atau serangan siber."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Laporan Apollo Sebut Investasi AI Belum Berikan Imbal Hasil Nyata di Luar Sektor Teknologi",
-      "original_title": "Apollo Says AI Has Shown ‘Zero’ Payoff Outside Tech",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQV9LZC10MURRcHdvRTRzRTNyUGhnR2tYZ3ZaOEl4Vk9NN3lzMVFOLWx1eDdSZmxLQi1hajdPSHBuV3JMUk5uUUdzRjhjS0wxMC1adDVpSlEzQ0QtaVF4bjY4WmtTY25BVW51QjFhcDE1Ykd6Q0FSUFJ5ZmdhVV9yY1c3MXF0NmNTX0x0SVAxZWhkdkZwSXN0Z2VicWZlMHNSWXdLYU1uaXVwVzQ?oc=5",
-      "source": "PYMNTS.com",
-      "published_date": "2026-10-26",
-      "summary": "Perusahaan investasi Apollo mengungkapkan bahwa adopsi AI sejauh ini belum memberikan peningkatan produktivitas yang signifikan bagi industri di luar sektor teknologi. Meskipun modal besar telah digelontorkan, bisnis konvensional masih kesulitan mengonversi alat AI menjadi keuntungan finansial langsung. Analisis ini menjadi peringatan bagi investor agar lebih realistis terhadap periode pengembalian modal AI.",
-      "takeaways": [
-        "Dampak finansial dari pengadopsian AI dinilai belum terasa nyata pada industri di luar sektor teknologi.",
-        "Banyak perusahaan non-teknologi mengalami kendala dalam mengintegrasikan AI ke dalam alur kerja harian.",
-        "Investor diimbau untuk lebih kritis mengevaluasi klaim efisiensi yang ditawarkan oleh pengembang AI."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Robot AI Senilai Rp1,4 Miliar Diuji Coba di Taman NYC demi Pelajari Perilaku Manusia",
-      "original_title": "$89K AI robot unleashed in NYC park to learn human behavior -- and eventually become a babysitter",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQXlVdlEzQWEwTHJuVVZVaXl3YmJaa2stdHBUMmM3RUo2VWNUOXRRN2ZlR1ZlZ0p2RnlfV1VlbDhrYmJ3ZWNxQTV1M3k5QXNjUzdCTFZldTRTZmhRWWQ1b04zVzhVcDNvblhtRmoyTi1USU53a1BSYjJ1MnExdmdMbFZ6ZVR3d2NmYjhDMXNIaTA4RDl4S083QTJuVzJLZw?oc=5",
-      "source": "New York Post",
-      "published_date": "2026-10-26",
-      "summary": "Sebuah robot canggih berbasis AI seharga $89.000 dilepaskan di taman kota New York untuk mengamati serta mempelajari interaksi manusia secara langsung. Pengembangnya merancang robot ini agar memiliki pemahaman sosial dan kepekaan empati sehingga kelak dapat menjalankan peran pengasuh anak. Uji coba ruang publik ini memicu antusiasme sekaligus diskusi hangat terkait privasi warga.",
-      "takeaways": [
-        "Robot humanoid AI seharga $89.000 menjalani pengujian lapangan langsung di area publik New York.",
-        "Pengumpulan data interaksi sosial bertujuan mengasah kecerdasan emosional robot untuk peran domestik.",
-        "Eksperimen ini membuka diskursus baru mengenai etika dan privasi pengawasan robotik di tempat umum."
-      ],
-      "category": "Sains & Teknologi"
-    },
-    {
-      "title": "Microsoft Tawarkan 'Buyout' Bagi 60.000 Karyawan Demi Geser Fokus dan Anggaran ke AI",
-      "original_title": "Microsoft Offers Buyouts to 60,000 Employees as It Spends on A.I.",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVGVaVGpaNnhKVm1GV0UwbUdnQmRtQmFFVmNDQlRMWkRzNWlfYXJvZUp4aGtGS1FYVll5YWtMS2Zad3pyOFBFUTZLOTNDNGxuRmt5ME1lUExyWXFlUDhsTGVKSlZLRXNmOVBTOXVUdkk5MlhwOGtpVldrVW5xV3E5VEstYVdSS1k?oc=5",
-      "source": "The New York Times",
-      "published_date": "2026-10-26",
-      "summary": "Microsoft menawarkan paket pesangon sukarela (buyout) kepada sekitar 60.000 karyawannya di seluruh dunia seiring dengan peningkatan investasi besar-besaran di bidang AI. Langkah ini mencerminkan efisiensi internal dan reorientasi struktur tenaga kerja perusahaan dalam menghadapi era kecerdasan buatan.",
-      "takeaways": [
-        "Microsoft memangkas biaya operasional dengan menawarkan buyout ke puluhan ribu pekerja.",
-        "Anggaran perusahaan dialihkan secara masif untuk pengembangan infrastruktur dan teknologi AI.",
-        "Pergeseran ini menandai perubahan besar dalam alokasi sumber daya manusia di industri teknologi global."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Inovasi Deteksi Dini Kanker Payudara Berbasis AI Mengubah Lanskap Medis",
-      "original_title": "Detected: How artificial intelligence is changing breast cancer detection",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTnVHemcxR2pkTWNMaDZ3WjFTc0RwYnN5WjJDbWVBcDRVX1dMX0F5RUZfY1lKV2F3SjBYS29fLUdyZGdoVkZDMHFNX2IwT0NhamRSRzJRdHpkNUx2ZDhySjJaRm4wcFVJdjVNaVhsLUZjNTRDWDd3MmdqTHY3enJlNTIzbFpZUzlvN09kRHdBTUZOYlJ3ajAyY1VHTk52QWF6aFAzZzh0b3FOdmVZbWVDcXNJeEtUZmlmQ3NYQVVn?oc=5",
-      "source": "Upper Michigan's Source",
-      "published_date": "2026-10-26",
-      "summary": "Teknologi kecerdasan buatan kini secara aktif digunakan untuk meningkatkan akurasi dan kecepatan pemindaian mammogram dalam deteksi kanker payudara. Penggunaan AI terbukti membantu radiolog menemukan nodul abnormal lebih awal sebelum berstatus kritis.",
-      "takeaways": [
-        "Sistem AI membantu mengurangi angka kesalahan diagnostik negatif palsu pada mammogram.",
-        "Integrasi kecerdasan buatan mempercepat proses penanganan dan intervensi medis bagi pasien.",
-        "Aplikasi bioteknologi medis ini menunjukkan dampak langsung AI terhadap peningkatan harapan hidup manusia."
-      ],
-      "category": "Genom & Biotek"
-    },
-    {
-      "title": "Singularitas AI: Bagaimana Kecerdasan Buatan Dapat Mengubah Ekonomi Global",
-      "original_title": "The AI Singularity: How Artificial Intelligence Could Transform the Economy",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObmNPSXlmSDdYX3NsSVlGajlWT09qZ1BVYmFPRzVEQ0hDbUY2UHNuU1RiLXhQZmtVbWV1cm1NUTI0eU1EbW9mRkp0Qzd6eEZXUkpWM3IzUlBQS1ZTNjZ3SFhMWks5NHZYQWJrU0FCUWlnRW5YLVdUVXlFRm83dkw4ME1lTGNSelZYU25YeE9tdG03QnlJZVBoaEZEalJOd0paU2JHam9HZ09vdkJTSlNINkZmNA?oc=5",
-      "source": "The Acquirer's Multiple",
-      "published_date": "2026-10-26",
-      "summary": "Konsep singularitas AI diperkirakan akan menciptakan pergeseran paradigma ekonomi yang mendasar, mempengaruhi produktivitas, struktur pasar kerja, dan pertumbuhan PDB global. Analisis ini menyoroti bagaimana otomatisasi tingkat lanjut meredefinisi penciptaan nilai ekonomi.",
-      "takeaways": [
-        "Singularitas AI berpotensi memicu peningkatan produktivitas yang eksponensial di berbagai industri.",
-        "Perubahan lanskap ekonomi memerlukan adaptasi cepat dalam kebijakan publik dan strategi pasar kerja.",
-        "Penciptaan modal masa depan akan sangat bergantung pada efisiensi sistem otonom."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "DPR Pennsylvania Sahkan RUU Kewajiban Transparansi Penggunaan AI dalam Layanan Kesehatan",
-      "original_title": "Pennsylvania House passes bill requiring AI disclosure in healthcare",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNldOMU1fVnBUR2h1NENOUUtDUHFtQnVHaVRub0cwX3pxZnpUd0N5ZGI1ZkZROGJtUi1vNGNEUUdoRUt3WlJWZkNodHdqckw5c0ZiTmRyME1jYzdxZnFpNEFsdk1zSEluUkxjaWFsYlRaUlZRTE5JUmVNTjkyU0FCSk9sSTBhRzkzelhmUFZxQ0p0OWQ2OGZIc0N1MVdGdFJZM1dINFBvd1lMSWpCbnQtZzJ0OFRmRUlzT3hmWU5HRGpTU3RW?oc=5",
-      "source": "Radiology Business",
-      "published_date": "2026-10-26",
-      "summary": "Dewan Perwakilan Rakyat Pennsylvania menyetujui undang-undang baru yang mewajibkan penyedia layanan kesehatan untuk memberikan keterbukaan informasi jika keputusan medis menggunakan bantuan AI. Langkah ini bertujuan menjaga hak dan keselamatan pasien.",
-      "takeaways": [
-        "Penyedia medis wajib memberitahukan pasien ketika instrumen AI digunakan dalam diagnosis atau tindakan medis.",
-        "Regulasi ini bertujuan meningkatkan keterbukaan dan kepercayaan terhadap teknologi medis berbasis kecerdasan buatan.",
-        "Langkah ini menjadi rujukan awal bagi negara bagian lain dalam merumuskan tata kelola AI di sektor kesehatan."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Perusahaan-Perusahaan AI Bersiap Debut di Wall Street melalui IPO Bernilai Fantastis",
-      "original_title": "AI companies are barreling toward huge Wall Street debuts. A look at the biggest players",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYWp3QlpSdWJKYVpsVXlJdldxblNaeC1wcEp3b1VxOWYzOHF2UmRLT3ZUMWlqUmVqN1E1bjkxQkNLT2JpcURMc1ZQRlRnWWFKSWxBSXl6M3JiUmMtWWJ0SVBqZ0wyU0M4cHEtN3JRcWpXUTNIWWxSN1VOMm9Hbzd1Z1ViNkJrQzJDeGNHTEV6cFg0dUR5MXVxdzVzY09DVnpfcS1aZ0JsTGVSdFoxUGxRSjhFLUc?oc=5",
-      "source": "AP News",
-      "published_date": "2026-10-26",
-      "summary": "Sejumlah startup AI terbesar di dunia kini memicu gelombang IPO di Wall Street dengan nilai valuasi yang sangat tinggi. Fenomena ini mencerminkan antusiasme pasar modal yang masif terhadap prospek pertumbuhan teknologi kecerdasan buatan.",
-      "takeaways": [
-        "Gelombang IPO AI diperkirakan akan mendominasi transaksi pasar modal dalam beberapa kuartal mendatang.",
-        "Valuasi raksasa menunjukkan ekspektasi investor yang tinggi terhadap komersialisasi produk kecerdasan buatan.",
-        "Tantangan transparansi dan monetisasi menjadi perhatian utama bagi calon perusahaan terbuka ini."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Departemen Pertahanan AS Rilis Panduan Pengadaan Sistem AI Bebas Bias",
-      "original_title": "DoD issues guidance for procuring ‘unbiased’ AI systems",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPa2NGQmpXc2dCX1BMOGJ6UnBrcXBtUXdHdmpyODhzVDN2OFNhVVk4TXVXd0c4anZSdzY1TWF0eUREdEJRdHJPM1Ntbnc4STc1UTdBVkUxemp0TTh0ODFpOGFVNEQtaVRoam5MbUZLdmtEb3B0RzhiYTN1c1l3dkpYU0VhLVpVMllwOEZUY1MyVktvbGk0MHdGQmlMeF94MEFBV2FmN3hJNnU?oc=5",
-      "source": "Federal News Network",
-      "published_date": "2026-10-26",
-      "summary": "Departemen Pertahanan Amerika Serikat merilis panduan resmi terkait pengadaan teknologi kecerdasan buatan yang meminimalkan risiko bias dan kesalahan objektif. Panduan ini dirancang untuk memastikan sistem militer otonom bekerja secara adil dan teruji.",
-      "takeaways": [
-        "DoD memperketat standar pengujian bias pada teknologi AI yang dibeli dari kontraktor pertahanan.",
-        "Standar baru ini menekankan pentingnya kejujuran data dan transparansi algoritma militer.",
-        "Inisiatif ini menyoroti fokus keamanan nasional terhadap etika serta keandalan sistem berbasis AI."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Satu Langkah Unik: Perusahaan Teknologi Gandeng Nilai Keagamaan untuk Etika AI",
-      "original_title": "To make AI morally good, tech companies are turning to religion. But some experts say it isn't that simple",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZTF2S0hIQW9TVWhyX3F4UHg0NUdvLTNjbU1zNnVQUW1vWnFzbnRMQTJuNjFISmNUWTZBX1I2R2kycVhwNDF2TXhaZkxSV1R2V0xYbGduRHN0MXRSeGlsN0Q2Mko3b3NlRThtNXNGUXppZ3VHZDY3bGVqTnZqODFxQk1QQWdWdmdTdnJNYWpHa0tRSnpmTDBKT0huMFVvZ0dOQmFRanZtS1hWTThDeldfV256dnpnV2ZTYkhjQjIya0hfWlJyQWZ4enZRMklMeENjblZuTkJn?oc=5",
-      "source": "PBS",
-      "published_date": "2026-10-26",
-      "summary": "Sejumlah pengembang kecerdasan buatan mulai menggali prinsip keagamaan dan etika moral klasik untuk melatih AI agar bertindak secara bijak dan bermoral. Namun, para pakar mengingatkan tantangan penerapannya yang subjektif dan kompleks dalam konteks global.",
-      "takeaways": [
-        "Prinsip etika keagamaan diuji sebagai acuan dalam mendesain kerangka moral AI.",
-        "Para ahli memperingatkan potensi kebingungan nilai akibat perbedaan doktrin moral antarbudaya.",
-        "Upaya ini menandai pergeseran dari pendekatan teknis murni menuju pendekatan humaniora dalam keamanan AI."
-      ],
-      "category": "Sains & Teknologi"
     }
   ]
 }
