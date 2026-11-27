@@ -1,7 +1,105 @@
 {
-  "last_updated": "2026-11-26T07:30:00.433459+00:00",
-  "total_articles": 153,
+  "last_updated": "2026-11-27T07:27:59.084161+00:00",
+  "total_articles": 154,
   "articles": [
+    {
+      "title": "Nasib Paten Obat Saat Perusahaan Bioteknologi Berbasis AI Mengalami Kegagalan",
+      "original_title": "What Happens to Drug Patents When AI Biotech Companies Fail?",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSVZ2YnJQRS0yeHkwaV9US08tNDZYX01DLUhfOWs5WDBOeVVhVkExOEFqcWRjdXZpMTcxVzMwRk9WOFpBWVZWV3VONWNqd0RwYWRzMGstNXdsOFZ5Z1pJbDV3c0swNXV2R1FqaExUcm1sLXNFejE3MlZqc3lvVS05MkpNY3JWQV83cDZGUC10OXd2ckpTOVVCX1hUYw?oc=5",
+      "source": "The Scientist",
+      "published_date": "2026-11-27",
+      "summary": "Artikel ini membahas kepemilikan dan nasib kekayaan intelektual atau paten obat ketika perusahaan bioteknologi yang mengandalkan AI mengalami kebangkrutan. Ketidakpastian hukum ini berdampak signifikan pada keberlanjutan riset obat-obatan yang ditemukan oleh algoritma kecerdasan buatan. Hal ini memicu diskusi mendalam mengenai pengelolaan aset biologis berbasis kecerdasan buatan di industri farmasi modern.",
+      "takeaways": [
+        "Kegagalan bisnis perusahaan biotek berbasis AI menimbulkan ketidakpastian hak paten obat hasil komputasi.",
+        "Diperlukan regulasi dan kejelasan hukum mengenai pengalihan kepemilikan kekayaan intelektual berbasis AI.",
+        "Keberlanjutan riset obat dapat terhambat jika lisensi dan paten tertahan dalam proses kepailitan."
+      ],
+      "category": "Genom & Biotek"
+    },
+    {
+      "title": "Pemanfaatan Kecerdasan Buatan dan Fitur Gambar untuk Mendeteksi Subtipe Kanker Paru-Paru",
+      "original_title": "Integrating engineered image features with artificial intelligence to distinguish non-small cell lung cancer histological subtypes",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5aRDBSWjBKZ3ZoOU10WUhRMzI3dkdSeGhtREd2VkdxaFUtaUpiUF96WUV4R1JQTTBIeFBpSWM0dHROM2FtdWdRM1UzRi1PVzBlYkhBR2FUTEhqbTRlOVR3UGhLdUxkU2tjakRV?oc=5",
+      "source": "Baishideng Publishing Group",
+      "published_date": "2026-11-27",
+      "summary": "Penelitian terbaru mengintegrasikan teknik pemrosesan citra medis lanjutan dengan kecerdasan buatan untuk mengklasifikasikan subtipe histologis kanker paru non-sel kecil. Pendekatan berbasis bioteknologi komputasional ini mampu meningkatkan akurasi diagnosis medis secara signifikan dibanding metode konvensional. Inovasi ini membuka jalan bagi penanganan medis yang lebih presisi dan kustomisasi terapi bagi pasien kanker.",
+      "takeaways": [
+        "Penggabungan analisis citra dan AI meningkatkan presisi pembedaan subtipe kanker paru-paru.",
+        "Diagnosis otomatis membantu dokter menentukan metode pengobatan medis yang lebih cepat dan tepat.",
+        "Perkembangan ini memperkuat peran bioteknologi komputasional dalam dunia onkologi modern."
+      ],
+      "category": "Genom & Biotek"
+    },
+    {
+      "title": "Alur Kerja AI yang Dapat Dijelaskan Tingkatkan Akurasi Penilaian Histopatologi Cedera Paru",
+      "original_title": "Explainable Artificial Intelligence Workflow Boosts Accuracy in Lung Injury Histopathology Scoring",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbktNTnA1TzM1dlFhTEVjaWlGbjNhTllFVXkwTDM2T1lKX2xIQ1FYMzRwNWctT1Y4OUJuRkhrdlFId1FRbWZhbXJxSFVLd2s0OTBZYVpCdkVIdmoxSUVSSE5kZ1pyblZ3VTdvRVYyazRaWFNmV0w4eVpWRlgzQmV4NEJqTjBrcXJxQ3pGSWJxY0tNbGd2ZHlmeU95Tm1zMzBmNVp2dGZvM0tNQXVkRFJDZTBEWkFXcFNOM3Q2bnUwRkQ?oc=5",
+      "source": "Bioengineer.org",
+      "published_date": "2026-11-27",
+      "summary": "Penerapan Explainable AI (XAI) dalam penilaian histopatologi cedera paru berhasil meningkatkan akurasi analisis jaringan biologis. Sistem ini tidak hanya memberikan hasil prediktif tetapi juga transparansi logika di balik penilaian klinis tersebut. Inovasi ini mempermudah kolaborasi antara ahli patologi dan sistem kecerdasan buatan dalam riset biomedis.",
+      "takeaways": [
+        "Explainable AI memberikan transparansi pada interpretasi gambar jaringan histopatologi.",
+        "Akurasi penilaian cedera paru meningkat signifikan dan mengurangi risiko kesalahan diagnosis manusia.",
+        "Model AI yang dapat dijelaskan mempermudah adopsi teknologi oleh para tenaga medis profesional."
+      ],
+      "category": "Genom & Biotek"
+    },
+    {
+      "title": "FCC Izinkan SpaceX Meluncurkan 1 Juta Satelit untuk Pusat Data AI di Luar Angkasa",
+      "original_title": "FCC authorizes SpaceX to deploy 1 million satellites for AI data centers in space",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVXpPcVRac25ubWQ5S1ppNmxmbl9JUFozSHRDSE40X1c0OFF2VXhyV3BhX1Zac2h1V1BYc2VzYWVfal9PdEhQYUE5Mi04UGMxWVNDUkxtUmVCcm94bG9Xd1pndzJjV0RLV0d2V2poejl5R2RmbThxVVU0UFFSYU9kR2NydXNaRHBLaWNqaGZmdC1neFZ0YzdMbGVnd1R0MEZZSkkzMk5KSdIBuwFBVV95cUxPN21ZU1NQN2VKQWI0emVBS0d1SVJLUUVrUmVDZ0R3ZWs0bTNSWktkMTNKdmJMRHNESHpXbW1FZjgxNW82Z0loOTM2OUVRLTQzWF95bHc0cTdWMDl2QkdVM3FZTEJTNV91T1lFS0pVOHZFcVFURFdYSW92bmctN3BPNWtkaDJ6UkhQMGZnS3Rxa0NfT2FRNlRIc29LTHNkMjVpTWc3b3I3Rzh2R2tOMmVrVGdJa01Yei10RnNR?oc=5",
+      "source": "WBTV",
+      "published_date": "2026-11-27",
+      "summary": "Komisi Komunikasi Federal AS (FCC) memberikan izin kepada SpaceX untuk menempatkan hingga 1 juta satelit yang berfungsi sebagai pusat data berbasis AI di orbit bumi. Langkah ambisius ini bertujuan mengatasi keterbatasan energi dan lahan di bumi untuk pemrosesan data komputasi intensif. Ini menandai era baru dalam infrastruktur komputasi kecerdasan buatan berbasis antariksa.",
+      "takeaways": [
+        "SpaceX mendapat lampu hijau untuk membangun infrastruktur pusat data AI di luar angkasa.",
+        "Inisiatif ini dirancang untuk mengurangi beban konsumsi energi pemrosesan AI di bumi.",
+        "Langkah ini mengubah lanskap komputasi global dan teknologi satelit komunikasi."
+      ],
+      "category": "Sains & Teknologi"
+    },
+    {
+      "title": "Raksasa Perangkat Lunak SAP Pertimbangkan PHK 10.000 Pekerja Demi Dorong Efisiensi AI",
+      "original_title": "German software major SAP weighs cutting at least 10,000 jobs in AI push: Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9lTGV4dzdlZWk5ZWE2am5QZkwxS3VDNW9ROHVRZ3hXQnd0VXlPR3FTRlg5R2RILVRhbE9iZWt6OTluU1Z3ZEpMa2xabXktU3UzN3FMZWpIVnVwd1FwVWMzSmZWYVFlOENLbzNJbWphMW5PLXJJ?oc=5",
+      "source": "CNBC",
+      "published_date": "2026-11-27",
+      "summary": "Perusahaan perangkat lunak asal Jerman, SAP, berencana mengeliminasi setidaknya 10.000 posisi kerja sebagai bagian dari restrukturisasi besar-besaran untuk fokus pada otomatisasi berbasis kecerdasan buatan. Perubahan ini dilakukan untuk mengalokasikan modal yang lebih besar bagi pengembangan solusi AI enterprise. Fenomena ini mencerminkan tren transformasi tenaga kerja di industri teknologi global akibat adopsi AI.",
+      "takeaways": [
+        "SAP melakukan restrukturisasi organisasi untuk memprioritaskan integrasi produk berbasis AI.",
+        "Sekitar 10.000 pekerjaan terancam terkena imbal balik dari efisiensi dan alokasi modal AI.",
+        "Transformasi tenaga kerja menjadi konsekuensi langsung dari adopsi AI di korporasi besar."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Harvard Meluncurkan Inisiatif Khusus untuk Memandu Penggunaan AI dalam Pembelajaran",
+      "original_title": "Harvard Graduate School of Education Launches Initiative To Guide AI Use in Learning",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOY1NETHR2NWYzOXVxVzUzTTZPYzlHd3Y1SXEwWHVJUURDSWVSQmtSd1JiX1RaRm1Rb0xuY3JoSnlqR19HRUcxSVVhUXQtSWpDNHVPNHJhZlBxUHFHcFhya21uazE1ZTNYQThVVVZkZzRHdTA5X0tCa3dSSzVXeUt4Z3pJZDFoRTF6REE?oc=5",
+      "source": "The Harvard Crimson",
+      "published_date": "2026-11-27",
+      "summary": "Harvard Graduate School of Education meresmikan program inisiatif baru yang ditujukan untuk memberikan panduan etis dan metodologis penggunaan AI di dunia pendidikan. Inisiatif ini dirancang agar para pendidik mampu memanfaatkan kecerdasan buatan tanpa mengorbankan integritas akademik dan perkembangan berpikir kritis siswa. Pedoman ini diharapkan menjadi acuan global bagi institusi pendidikan lainnya.",
+      "takeaways": [
+        "Harvard menerbitkan panduan strategis penerapan AI di lingkungan pendidikan.",
+        "Fokus utama adalah menjaga mutu pembelajaran, etika, dan kemampuan berpikir kritis siswa.",
+        "Program ini menjadi rujukan integrasi AI secara bertanggung jawab bagi institusi pendidikan."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Peran Kecerdasan Buatan dalam Mengorganisasi dan Mengelola Pengetahuan Global",
+      "original_title": "AI and the Promise of Organized Knowledge",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBBX0hZdUdDVlFRWnBka3BncVZfM29NNkhEN0JrMTVoOXFnZXRQTVdBY1NVMl8za051cmdRRnJocDJ1dW9NRkRVcGNBUjA1c0pzUFY0NS1FMkhCMGZ2VzFnUE9iQWlwbW92a3psMU9fLXhMQWFjaWo4MDRBQkFBQQ?oc=5",
+      "source": "Issues in Science and Technology",
+      "published_date": "2026-11-27",
+      "summary": "Artikel ini mengulas potensi AI dalam merevolusi cara manusia menstrukturkan dan mengelola data serta pengetahuan ilmiah yang melimpah. Dengan kemampuan ekstraksi informasi yang pesat, AI mampu menghubungkan berbagai disiplin ilmu untuk mempercepat penemuan teknologi baru. Namun, tantangan validitas data dan kedaulatan informasi tetap menjadi isu kritis.",
+      "takeaways": [
+        "AI mengubah cara akses dan pengorganisasian literatur serta data ilmiah berukuran besar.",
+        "Sintesis informasi lintas disiplin ilmu menjadi lebih cepat berkat kemampuan komputasi cerdas.",
+        "Memastikan akurasi dan mencegah penyebaran disinformasi menjadi tantangan utama pengelolaan pengetahuan berbasis AI."
+      ],
+      "category": "Artificial Intelligence"
+    },
     {
       "title": "Terobosan Baru: Model AI Terbuka China Saingi Raksasa Silicon Valley",
       "original_title": "Another powerful new artificial intelligence model from China took the US tech industry by surprise",
@@ -141,6 +239,48 @@
         "Membuka perdebatan baru mengenai hak cipta karya seni yang dihasilkan oleh kecerdasan buatan."
       ],
       "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Mantan Pejabat Pentagon Caroline Zier Pimpin Pembatasan Penggunaan AI Militer di OpenAI",
+      "original_title": "Pentagon Hand Caroline Zier Now Leads OpenAI's Limits on Military Artificial Intelligence",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaHNyTTBaZE5ydGtvODFGS0Jra2F2Rl9lSUlnZVAzTWJfZndkWklTTFJ3UlQ5ckk4dnhyUzBUd3d4Q3JoWDI5M2M5dEs3VzdwLWk4cnBmVjBGby1WVnVoYmpsTnozaXJyWEVjRGEtcFRMSUVKRG1vUWpmNVh0RWNMR2M5RHZJNzd6VnU3TVV6V3oxMV9FZDVZOTNkbUNzSmtENWlPdXJERXpndEM3M1JaUlozNlF4b05faC0xSg?oc=5",
+      "source": "Broadband Breakfast",
+      "published_date": "2026-11-26",
+      "summary": "OpenAI menunjuk Caroline Zier, veteran Departemen Pertahanan AS (Pentagon), untuk memimpin kebijakan serta batasan etis penggunaan kecerdasan buatan dalam aplikasi militer. Keputusan ini diambil di tengah meningkatnya kekhawatiran global mengenai pengerahan teknologi AI dalam pertahanan pertahanan dan senjata otonom. Langkah ini menunjukkan fokus OpenAI pada tata kelola AI yang aman dan bertanggung jawab.",
+      "takeaways": [
+        "OpenAI memperketat pengawasan etis terkait penerapan teknologi AI untuk kebutuhan militer.",
+        "Pengalaman pakar Pentagon dimanfaatkan untuk menetapkan batas aman penggunaan AI pertahanan.",
+        "Isu keamanan pertahanan dan etika AI menjadi perhatian utama pengembang model AI terkemuka."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Kecerdasan Buatan dan Hak Asasi Manusia: Menjaga Martabat Manusia di Era AI",
+      "original_title": "Artificial Intelligence and Human Rights: Protecting Human Dignity in the Age of AI",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQkNaQVc5dl80NUF0OE9TU0lIZ3ZGU19ZdGN6UHNTMW9mXy1PVVVKMzV5anZ3bTg3TDcyNE9qajRTOWxUaVl1TDZGazI2VGhFM2dZSkNJWHdhN3JKaE5DS1BVME02MDJlbmIwT0VqT1ZDVk5RaTg4M3U2TEFkTWlmeTVXTjQtVFpycWtXeUpxVUtXcG9nSHVFVTM4S1JsZUJUQmFTbDJaSFBQWGM?oc=5",
+      "source": "UNESCO",
+      "published_date": "2026-11-26",
+      "summary": "UNESCO merilis panduan komprehensif mengenai pentingnya melindungi hak asasi manusia dan martabat individu di tengah maraknya penggunaan AI. Laporan tersebut menekankan penanganan risiko privasi, diskriminasi algoritma, serta pentingnya pengawasan manusia terhadap keputusan berbasis AI. Hal ini menjadi panggilan global bagi negara-negara anggota untuk membentuk regulasi yang berpusat pada manusia.",
+      "takeaways": [
+        "UNESCO mengimbau perlunya standar HAM universal dalam pengembangan kecerdasan buatan.",
+        "Bahaya bias algoritma dan pelanggaran privasi menjadi fokus penanganan etika AI.",
+        "Negara-negara didorong menyusun regulasi AI yang prioritas utamanya melindungi martabat manusia."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Apakah Zona Percontohan AI Efektif Meningkatkan Kualitas Udara Perkotaan?",
+      "original_title": "Do artificial intelligence pilot zones improve air quality? Evidence from Chinese urban panel data",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9fcUZnRmZqUXdscFI2V21KbWpiaEZxd3o2WHFCei03XzdZVlBpY3ZXTTYtWV8zY01xX2trRXB0UHJ0NnlCU0NSY0tTMnNWT2VTVjRPZmdtTGY1RW9ONjVr?oc=5",
+      "source": "Nature",
+      "published_date": "2026-11-26",
+      "summary": "Studi empiris dari data perkotaan di Tiongkok mengevaluasi sejauh mana pembentukan zona percontohan AI berkontribusi pada penurunan polusi udara. Hasil penelitian menunjukkan bahwa penggunaan AI dalam manajemen energi dan industri membantu menekan emisi gas buang secara signifikan. Temuan ini membuktikan potensi AI sebagai instrumen penting dalam mitigasi perubahan iklim.",
+      "takeaways": [
+        "Pemanfaatan kecerdasan buatan di tata kota terbukti berkorelasi positif dengan perbaikan kualitas udara.",
+        "AI membantu optimalisasi konsumsi energi dan pemantauan polusi secara real-time.",
+        "Teknologi cerdas menjadi strategi kuncinya pengembangan kota hijau dan berkelanjutan."
+      ],
+      "category": "Sains & Teknologi"
     },
     {
       "title": "Kecerdasan Buatan dan Hipotesis Riemann: Ketika AI Menemukan Pembuktian Matematika yang Tak Terbaca Manusia",
@@ -2015,132 +2155,6 @@
         "Resolusi SAFE menetapkan batasan hukum pada penggunaan AI dan kamera pemantau di area publik.",
         "Perlindungan hak privasi masyarakat menjadi prioritas utama regulasi pemerintah lokal.",
         "Inisiatif aturan AI di tingkat daerah semakin berkembang seiring maraknya teknologi pemantauan."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Pendaftaran IPO Anthropic Berisi Peringatan Unik Mengenai Risiko AI yang Tak Terkendali",
-      "original_title": "The risk that AI wakes up and other warnings in Anthropic’s unusual IPO filing",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVkhmVGUzeUdLR0pBUUEwV2IwM2lRdVlWRDRSMk5yR2kzR1NDeWlMOFJpSVlNZDhZTGROLXVILWFEaXJtREI5LWpPQTM0Sll4YVBCZkhOUWE4cXNRZUtORFdMVE5mREFnYTF3ZlEzZlI4b1dZdG50SXFXVENfLXhfMWhMT2FfX0VZRlpkRlB2VlR2d0NsNi13aF9oOWtjcFJOOVpWSExENXVKbWp6UlBSeUpKZFpfMW9X?oc=5",
-      "source": "The Washington Post",
-      "published_date": "2026-10-27",
-      "summary": "Dokumen pendaftaran IPO (S-1) dari startup AI Anthropic mencantumkan peringatan risiko yang tidak biasa bagi calon investor, termasuk potensi skenario AI otonom yang tak terkendali. Langkah transparansi ini menunjukkan keseriusan pengembang dalam menghadapi ancaman eksistensial teknologi yang mereka ciptakan.",
-      "takeaways": [
-        "Anthropic secara terbuka mengungkapkan risiko eksistensial terkait kesadaran atau 'terbangunnya' AI dalam dokumen resmi pasar modal.",
-        "Dokumen S-1 memberikan gambaran mendalam tentang potensi bahaya sistem kecerdasan buatan tingkat tinggi.",
-        "Transparansi ini menjadi tolok ukur baru bagi tata kelola perusahaan teknologi maju sebelum go public."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Dari Neurosains Membentuk AI: Bagaimana Arah Hubungan Kedua Bidang Ini Selanjutnya?",
-      "original_title": "Neuroscience gave AI its start. What happens now?",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYVhUcG16UWo1MW52c2dNMU1LOGY3NjFSRjNqNkhFalgzc24wcmI0S0VaRlhUTk5xdTcwY0w1ci1QUXlaMmNHZWVxNHVTUEtNUTJiSnRBZmdScHRXclFBdWtLVHdyajZJaXhGME5Sc1ZrRHVBUWRaZUVEazk4QjRGU0gwMlhFRlFLQ2dTbWVYVTJwajUzOFlIVjNEMWtlWjRoMHNENzhB?oc=5",
-      "source": "The Transmitter",
-      "published_date": "2026-10-27",
-      "summary": "Artikel ini mengulas bagaimana prinsip-prinsip otak manusia dan neurosains menjadi fondasi awal pengembangan kecerdasan buatan. Kini, hubungan tersebut menjadi dua arah di mana AI mulai membantu para ilmuwan memahami kompleksitas sistem saraf manusia.",
-      "takeaways": [
-        "Neurosains berperan kunci dalam menginspirasi arsitektur jaringan saraf tiruan awal.",
-        "Riset kini memanfaatkan AI untuk memodelkan proses biologis otak yang sebelumnya sulit dipahami.",
-        "Sinergi interdisipliner ini dapat mempercepat inovasi dalam pengobatan neurologis dan AI generasi berikutnya."
-      ],
-      "category": "Sains & Teknologi"
-    },
-    {
-      "title": "Pasar Toksikologi Prediktif Berbasis AI Tumbuh Pesat Didorong Permintaan Global",
-      "original_title": "The Outlook for the Artificial Intelligence (AI) in Predictive Toxicology Market Strengthens as Global Demand Increases",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSnF5WDFqS2NOdTQ2SHVVeG5xbWlNTVQtS201MHlXZWdnOEhRUzdYVmZKamFxMGJIQ295eWYxamtCQ0Y3VlczQlhRZTYwamhIMnplcDNkLUJHYWZ5akhaQzBPMlJteGczNVhidUpTMC1MWURjcExoZnBuS2FCbDlqY1NUQnpEOFlsRXNOdjBfNzdUbG1xalNuNXE3WDhIRGVabklLWVN0Zml0dkZneWFGdkxWWWFpZw?oc=5",
-      "source": "The National Law Review",
-      "published_date": "2026-10-27",
-      "summary": "Penggunaan AI dalam toksikologi prediktif berkembang pesat untuk mempercepat pengujian keamanan senyawa kimia dan obat tanpa selalu mengandalkan uji coba pada hewan. Pasar ini didorong oleh regulasi ketat dan kebutuhan uji klinis farmasi yang lebih efisien.",
-      "takeaways": [
-        "AI mempercepat identifikasi potensi racun pada sampel kimia dan calon obat bioteknologi.",
-        "Inovasi ini mengurangi ketergantungan pada pengujian hewan dan menekan biaya riset farmasi.",
-        "Pertumbuhan pasar mencerminkan adopsi komersial AI yang kuat di sektor kesehatan dan bioteknologi."
-      ],
-      "category": "Genom & Biotek"
-    },
-    {
-      "title": "Mampukah AI Memanusiakan Dunia Kedokteran? Dokter Tawarkan Konsep 'Blended Intelligence'",
-      "original_title": "Can AI humanize medicine? Doctors pitch ‘blended intelligence’",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTU1JeGZwc3ZEMkUydThZZkpPQUV3Z0gzM01oUUplVlJnVkZMRHhtTTRyWUZpbVVta0JodFdRaVJOb1BUUE9qd2p5VjFWeEs5RF8xZkpXS2piVWk5T0dCYlZGNkJndW9nbFJTOWMxRXpOWkh0NDZBVUxya1h3aklaQ1hQb2FBNm84TndqTHlkSFhrbHJZTDBobUg1OWJxMzY3blV6cw?oc=5",
-      "source": "Association of Health Care Journalists",
-      "published_date": "2026-10-27",
-      "summary": "Para tenaga medis mengusulkan konsep 'blended intelligence' yang menggabungkan empati manusia dengan kapasitas analisis komputasi AI. Pendekatan ini bertujuan memangkas beban administratif dokter agar mereka memiliki lebih banyak waktu berinteraksi langsung dengan pasien. Penggunaan AI yang terukur diharapkan mampu mengembalikan sisi humanis dalam pelayanan kesehatan modern.",
-      "takeaways": [
-        "Konsep 'blended intelligence' memadukan intuisi medis dokter dan analisis data cepat dari AI.",
-        "Otomasisasi tugas administratif memberi dokter lebih banyak waktu untuk perawatan pasien.",
-        "Integrasi AI secara tepat berpotensi mempererat hubungan terapeutik dokter dan pasien."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Anthropic Peringatkan Investor Mengenai Risiko Finansial akibat AI yang Tak Terkendali",
-      "original_title": "Anthropic says risks for investors include blowback from runaway AI",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVDdaZmRLWkdubTdrUEgzNlRvQVkxVTFoZ2lNRmpFbGVKWDgyZXd5NlN4bjEyX2tQXzMxTmZVd3UwV0FkTmtDYnEwb2l0ZWN2YmkxVkNacjJ2eHI5d25jYlZ4aThlcy1XLTVGdG1MUS05bVlpTklSN3QzTFNvaUhsZHlFbGh2NW5xdkhtQk1sbjhvMWdnRmpzUU1ab0loU1o5dmh4Nk9OTdIBrAFBVV95cUxNbkxvRVpRUy1nUENZVndrUG81bzBCZnBSZjZYQnlITHEyd0hkRzcyeDZ1WndzUjBVb0taN1dFYnF3UGc4T1BlU3pSczlwNzF0R0hmUk5iZmVnLXdveW1GQjZGd1h4RFJia2J1cm1TOVBqOUExVFFVaEpxRGVTOVpvMVpoVjBmcXdLdV9JdVhfa3J0ZGlGMm1feTk1YWlIbEd5NGJqNTdQdnprVklh?oc=5",
-      "source": "PBS",
-      "published_date": "2026-10-27",
-      "summary": "Perusahaan kecerdasan buatan terkemuka, Anthropic, memperingatkan para calon investor mengenai potensi dampak buruk jika sistem AI berkembang di luar kendali. Peringatan ini menyoroti risiko keselamatan AI yang dapat memicu reaksi balik dari publik dan pengetatan regulasi. Keterbukaan informasi ini menjadi standar baru dalam penilaian risiko investasi industri teknologi.",
-      "takeaways": [
-        "Anthropic mengidentifikasi bahaya sistem AI yang tak terkendali sebagai risiko bisnis utama.",
-        "Isu keselamatan AI dapat memicu pengetatan aturan yang berdampak pada imbal hasil investasi.",
-        "Transparansi risiko menjadi krusial dalam menjaga kepercayaan pasar terhadap industri AI."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Inovasi AI untuk Deteksi Dini Penurunan Kognitif Raih Penghargaan Internasional",
-      "original_title": "Before the storm: Doctoral student earns international recognition for AI research on cognitive decline",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNENBYjhQZlRuZE8xWGtCZUo5UlR1NmU3a0RlWjlwUzAtbDBZWThURG10TkllS3RTX0lzVXBuaDNtYXhmMmxNeWhrRU9ZMUh2VkY1aGU1QzA1ampYVzFCQS0yMzNOc0xzTHBDa3FhU0HSlpDVElXYkdfVHozbklfejEyczUxM2JSTHkwcmVnSExQVm01QmI3cHptTXRFYVQxQzVIN0luSXAwZHI0WktyMjB5SUVqR25WVUliOE81V0JHM3BpMXRsMDVtdUpoRVRZMUo1Q3RB?oc=5",
-      "source": "Marquette Today",
-      "published_date": "2026-10-27",
-      "summary": "Seorang mahasiswa doktoral meraih penghargaan internasional atas risetnya yang memanfataan kecerdasan buatan untuk mendeteksi tanda awal penurunan kognitif. Algoritma ini dirancang untuk mengenali pola halus gangguan saraf sebelum gejala klinis demensia atau Alzheimer muncul secara jelas. Riset ini memberikan harapan baru bagi efektivitas penanganan medis penyakit neurodegeneratif.",
-      "takeaways": [
-        "Model AI mampu mengidentifikasi penanda awal penurunan fungsi kognitif dengan tingkat akurasi tinggi.",
-        "Deteksi dini penyakit neurodegeneratif memungkinkan intervensi medis dilakukan lebih awal.",
-        "Penelitian akademis terus mendorong pemanfaatan AI untuk solusi kesehatan masa depan."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Donald Trump Usulkan Banning Istilah 'Artificial Intelligence' demi 'Super Intelligence'",
-      "original_title": "Trump Says He Will Ban Term ‘Artificial Intelligence’ In Latest Push For ‘Super Intelligence’",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNa3BBOFRzNmhiVi10YzJyUVAwWXdVUlRzOHg3bi0yZENqUWk0VzFxUFFMV2NFWUxtdEhyb1pNaTdLcU9RbWU0TDVBUXBHdnN5emZ4SzdVck8zUE5mbnNwbkdqV2VzTHY1cHdBWjlWUmppbDZyMWk0T3FLOUNKR0hwQmIyWlJ5ZlRFbUM4dFJrVGRnb1d4T2tqNUNXUjZUZzQ?oc=5",
-      "source": "Forbes",
-      "published_date": "2026-10-27",
-      "summary": "Donald Trump melontarkan wacana untuk melarang penggunaan istilah 'Artificial Intelligence' dan mengarahkannya pada narasi 'Super Intelligence'. Pernyataan ini memicu diskusi luas di industri teknologi terkait dampaknya terhadap branding serta fokus regulasi publik. Fenomena ini menunjukkan bagaimana retorika politik mulai membentuk wacana pengembangan teknologi kecerdasan buatan.",
-      "takeaways": [
-        "Wacana pergeseran terminologi AI menjadi perdebatan hangat di kalangan pakar teknologi.",
-        "Istilah 'Super Intelligence' dinilai berfokus pada tingkat kecerdasan buatan yang lebih superior.",
-        "Dinamika politik dan narasi publik semakin intens memengaruhi persepsi teknologi AI."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Pajak Kecerdasan Buatan: Wacana Kebijakan dan Dampaknya Terhadap Ekonomi Tenaga Kerja",
-      "original_title": "Taxing artificial intelligence: What’s on the table, and what’s at stake",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOG42dkNVcVlJRS1nbnV1Y214cVJUTDVhN1BaZGowUmNOUnd1dlFVeVdPbTZ0eXB0QTl1T09zbGN6WU1wa3ZBNXNwaUxsTWtCcUcxaXZnWkFaeG9CUEw2NHBibm1hMVlmYmdqTDJKMnF1NDRPS2lOV01hQjVqNG8waEJZaV9NZjZnRmdkZnMwUW1kOEswbUQ2MDFrVFo1Z3kxSWkyRFQ4RQ?oc=5",
-      "source": "Brookings",
-      "published_date": "2026-10-27",
-      "summary": "Studi terbaru dari Brookings menganalisis potensi penerapan pajak atas penggunaan teknologi AI guna menanggulangi dampak otomatisasi terhadap pasar kerja. Kebijakan perpajakan ini bertujuan menyeimbangkan pendapatan negara sekaligus mendanai program pelatihan ulang bagi pekerja yang tergeser. Analisis ini menyoroti rumitnya perancangan regulasi fiskal yang tidak menghambat laju inovasi.",
-      "takeaways": [
-        "Penerapan pajak AI diwacanakan untuk memitigasi disrupsi otomatisasi pada tenaga kerja.",
-        "Pemerintah dihadapkan pada tantangan menjaga keseimbangan antara regulasi dan pertumbuhan inovasi.",
-        "Pendapatan dari pajak teknologi dapat dialokasikan untuk pengembangan keterampilan kerja baru."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Scale AI Dilaporkan ke Lembaga Privasi atas Dugaan Pengawasan Pekerja Pelabel Data",
-      "original_title": "Privacy group files complaints against Scale AI over alleged worker surveillance",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQ0QzdElNcDhKWkJYRldiRUp4RmE4Z2t6aXdxZjNPM3Q1VEpMb1djS2QyVUdBRWozV0R3QXg1bUdkcDJkeXJsbV_oTmFaaHQtaHMwYzVLNFZaY0Rld3EtckUtSkxyYlZldVV4Unh0VzVkbzF5cHFPUy04aThFbEt2LXJtb1NmSUZZN1A2eHBXYXkyb1hWajliWVdPTTJWNnRaRV9DaHU1MXJpNFNXMjFfVG9SdmhwUFNyaFJqTEVzR0dwaG8?oc=5",
-      "source": "Reuters",
-      "published_date": "2026-10-27",
-      "summary": "Organisasi hak privasi mengajukan aduan resmi terhadap Scale AI atas dugaan praktik pengawasan ketat terhadap para pekerja pelabel data. Pelabelan data merupakan elemen kunci dalam pelatihan model kecerdasan buatan, namun aspek perlindungan pekerja kerap terabaikan. Kasus ini mendorong perlunya standar etika dan transparansi dalam rantai pasokan industri AI.",
-      "takeaways": [
-        "Isu privasi dan hak ketenagakerjaan menjadi sorotan utama dalam industri pelatihan data AI.",
-        "Pengawasan ketat terhadap pekerja pelabelan data memicu tuntutan regulasi perlindungan yang lebih kuat.",
-        "Sektor teknologi dituntut menerapkan etika kerja yang adil di sepanjang rantai pasokannya."
       ],
       "category": "Artificial Intelligence"
     }
