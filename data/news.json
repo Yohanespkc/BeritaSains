@@ -1,7 +1,77 @@
 {
-  "last_updated": "2026-11-27T07:27:59.084161+00:00",
-  "total_articles": 154,
+  "last_updated": "2026-11-28T06:57:41.066143+00:00",
+  "total_articles": 160,
   "articles": [
+    {
+      "title": "Pakar Peringatkan Laboratorium AI Menyimpan Rahasia Besar yang Berpotensi Memicu Kekacauan Global",
+      "original_title": "AI labs sitting on ‘bombshell’ revelations that could cause global chaos, experts warn",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdk5mQnJsSjlGQ1JxaHhFRWI2a0xYVTZQUEVQdWxpNWxFNUVRN1FFYXlhSkwxM2JDNzdQSXdwSTc1TlQzNE9IeV8zd1YzcVVhNXJVSUNTakFTRVNKdmI3M28yUFZmU3hTWXlZcG1SQU81dkdrWjNaRVA3ZEJPazVJQ19ZSlFsdzh2Q3J2LXNuZHNYZHFHWEQ4UFBnWlRzVTBnb2Zr?oc=5",
+      "source": "The Guardian",
+      "published_date": "2026-11-28",
+      "summary": "Para pakar kecerdasan buatan memperingatkan bahwa pengembang AI terkemuka saat ini menyembunyikan penemuan penting terkait kemampuan atau risiko sistem AI canggih. Informasi ini dinilai cukup berdampak besar hingga dapat mengganggu stabilitas politik dan ekonomi global jika dirilis tanpa pengawasan. Para ahli mendesak adanya transparansi dan regulasi yang lebih ketat sebelum teknologi tersebut dilepas ke publik.",
+      "takeaways": [
+        "Laboratorium AI diduga memegang penemuan kemampuan AI yang jauh lebih canggih daripada yang diketahui publik.",
+        "Kurangnya transparansi dari perusahaan AI dinilai berisiko memicu destabilisasi ekonomi dan keamanan global.",
+        "Tuntutan terhadap pengawasan independen dan regulasi ketat semakin mendesak untuk mencegah dampak buruk teknologi ini."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Mampukah AI Membobol Enkripsi? Terobosan Matematika Baru Mengancam Keamanan Siber",
+      "original_title": "Could AI break encryption? What mathematical breakthroughs mean for cybersecurity",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNHAxM3BibFJQcXdRTThreUROWVplVFpnQnVjRktrbHJROHZxLWs0a1JnejVVeW93RjVOb0dZX25JcXhVUWttUFNwQnVkenRQM3p6ZHN1ankwazRIWFI2SWdKZlNkQkRxSHJ5cEFsbXZMV28yZTZ5SmZVeWdWbHBpck5uM3BCbEVhQ0tUVWtVRnhTYm52ZmdJdXExOUF5dWtGUVg2NkUwaUZjTUFpd29XbF9IWVMxSlJZVFlLUmR6djJyN3hEMjI3NVZXYw?oc=5",
+      "source": "The Guardian",
+      "published_date": "2026-11-28",
+      "summary": "Pemanfaatan AI dalam memecahkan masalah matematika kompleks memicu kekhawatiran baru di industri keamanan siber, terutama terkait ketahanan sistem enkripsi modern. Kemampuan AI untuk menemukan pola sistematis dalam data teoretis dapat mempercepat peretasan enkripsi yang selama ini dianggap aman. Hal ini mendorong institusi global untuk mempercepat transisi menuju standar kriptografi pasca-kuantum dan berbasis AI.",
+      "takeaways": [
+        "Perkembangan pemodelan matematika berbasis AI mengancam metode enkripsi standar saat ini.",
+        "Potensi peretasan daya tinggi menuntut modernisasi infrastruktur siber di sektor perbankan dan pemerintahan.",
+        "Dunia keamanan siber harus beradaptasi cepat dengan mengembangkan pertahanan berbasis algoritma baru."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Uji Coba Masif Libatkan 700.000 Wanita Berpotensi Mengubah Standar Diagnosis Kanker Payudara",
+      "original_title": "Nearly 700,000 women to be involved in a trial that could change breast cancer diagnosis",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQlBvT0Uyb3E3VG5OcXpDRlg5UGRGd2hsNHdKLWN0dUVFR3hxNVNFMXpzajFsNS1rZXdva19NQjZVWUh2NmhwWnkyZmU5eWVQcWFCNS01MTNuSUhvWWRZMWc1YTgyNTVaRV9MWmxVdThjWFpRZGZxZjEwc0xIRkVFeXFvVW5iTXR4WWhLVGZ3OFJFc0x4c0NCSG5Eb24tWWJpQ1Bwc2p1NUNlTFRLXzRr0gGuAUFVX3lxTE16a1JlcFcxWXV2TDJieXUzNG94M2M1Sk54R2xRVU9sQ1o1NzFFT1VEMEIwemFYSk01MndtZjRpdmJDeXIyWTJQQXE5aHNHWFViUmxZYUl4dmZUSWJpeVNMb3YwVmM0d3UwckVBcktkWHg5eWs3RF82U0s2WUpiOUtURHRhX2FZTGRwdXM5MXZTbEktak9iWlVZeFc4X29wTXZXSTRUeXhwWm04cWhYQQ?oc=5",
+      "source": "Ukrainske Natsionalne Novyny (UNN)",
+      "published_date": "2026-11-28",
+      "summary": "Sebuah uji klinis medis skala besar yang melibatkan hampir 700.000 wanita diluncurkan untuk merevolusi pendekatan skrining dan diagnosis kanker payudara. Studi ini menggabungkan analisis genomik dan alur pemindaian baru untuk mendeteksi tumor secara dini dengan akurasi yang lebih tinggi. Keberhasilan uji coba ini diharapkan dapat menekan angka kematian serta menghadirkan perawatan medis yang lebih terpersonalisasi.",
+      "takeaways": [
+        "Uji klinis terbesar ini bertujuan meningkatkan ketepatan deteksi dini kanker payudara secara global.",
+        "Integrasi profil genomik memungkinkan penanganan medis disesuaikan dengan risiko spesifik tiap pasien.",
+        "Hasil penelitian berpotensi memperbarui protokol kesehatan masyarakat dalam diagnosis medis mendasar."
+      ],
+      "category": "Genom & Biotek"
+    },
+    {
+      "title": "Pengembang AI Asal Tiongkok, DeepSeek, Mengkhawatirkan Risiko Kehilangan Kontrol atas Sistem AI",
+      "original_title": "DeepSeek is China’s latest developer to worry about losing control of AI",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ3MyLUlMOU1UNWl5YUNQcjFtdlR3SkFHX2VrT2Q4Sko1MTVUZUtjMFhOQVk4RjNRS3U0NFZ4aDZBNjNPZFVjUW9SbEdzazl4SDR1Y0xHNllRdmdJVGlTdkl1LVFma1dzRmFJdVJFTzNsVHZmVWpxbzNKdlNZNDMyM3NQNWR5Z0pOb2xIeUpESnNSZFp0SW1zYUpPc2x0RnA1cG1DVURwYw?oc=5",
+      "source": "South China Morning Post",
+      "published_date": "2026-11-28",
+      "summary": "DeepSeek, salah satu pengembang laboratorium AI terkemuka di Tiongkok, menyuarakan keprihatinan serius mengenai potensi hilangnya kendali manusia atas model kecerdasan buatan serbaguna. Kekhawatiran ini mencerminkan pergeseran pandangan di industri AI Tiongkok yang kini mulai menyelaraskan fokus pada keselamatan AI bersama isu akselerasi teknologi. Langkah ini mendorong seruan kolaborasi lintas negara terkait standar keamanan AI.",
+      "takeaways": [
+        "Isu keselamatan dan kendali AI (alignment risk) kini menjadi perhatian utama para peneliti terdepan di Tiongkok.",
+        "Adanya kesadaran global bersama bahwa risiko otonomi AI yang tidak terkendali melampaui batas-batas negara.",
+        "Regulasi keselamatan AI diperkirakan akan semakin diperketat oleh otoritas di Asia."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Universitas Cornell Mendirikan Pusat Riset Robotika dan AI untuk Modernisasi Pertanian",
+      "original_title": "Cornell establishes center to bring robotics, artificial intelligence to New York agriculture",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxONmUzb0duWTJJeXdzaGlPdXU3LWRsSjcwRV80Rkx0SG1OeWQ4RnhqT2ZxbkFoWVdEd1U0U2p0ZHJoV1g5cThjcTl5bWxSMi1pbVVCa0ZQV0dVYXlXX0dodXFJQlg4UFdzZVpQVEVXQkpWaGJ3NFpQN3dnQS1XNWs4TFV0WHF3ZmtTMTJQU1BoTlg1VXJGaXQ3Q0R2U0N1ekVtenByU3V2UE4ydklKOHhNT1hRSlg4cEltanlrYXQta0djYVZfc1ZEaHRuY1lURFhKU2dIMWhmV1dtV1Y1NXVrNElGMlJWWnpSa2h5TlUzVGJxd2N5YzhFUmNZRGdPWWVfMGhvaDlPOU5vU243bEcxWjdPLXBNY2szNTI4?oc=5",
+      "source": "nny360.com",
+      "published_date": "2026-11-28",
+      "summary": "Universitas Cornell meresmikan pusat riset baru yang didedikasikan untuk mengintegrasikan teknologi robotika dan AI ke dalam sektor pertanian New York. Inisiatif ini bertujuan menanggulangi kelangkaan tenaga kerja, meningkatkan efisiensi panen, serta mengoptimalkan penggunaan sumber daya alam secara berkelanjutan. Langkah ini memperlihatkan bagaimana teknologi canggih diterapkan langsung pada industri pangan fisik.",
+      "takeaways": [
+        "Pusat riset baru berfokus pada otomasi tugas-tugas pertanian berat menggunakan AI dan robotika.",
+        "Penerapan teknologi otomatisasi diharapkan mampu menjaga ketahanan pangan dan efisiensi biaya operasional.",
+        "Menggabungkan kecerdasan buatan dengan agrikultur menjadi tren utama dalam memodernisasi sektor agronomi."
+      ],
+      "category": "Sains & Teknologi"
+    },
     {
       "title": "Nasib Paten Obat Saat Perusahaan Bioteknologi Berbasis AI Mengalami Kegagalan",
       "original_title": "What Happens to Drug Patents When AI Biotech Companies Fail?",
@@ -99,6 +169,76 @@
         "Memastikan akurasi dan mencegah penyebaran disinformasi menjadi tantangan utama pengelolaan pengetahuan berbasis AI."
       ],
       "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Dampak dan Risiko Saat Model Kecerdasan Buatan Mulai Mampu Memperbaiki Diri Sendiri",
+      "original_title": "What happens when AI models can improve themselves?",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUURuYlRLWElRQzFNZzF1dW56T09RTmFfSjVSdzhfOTI2X19MajlnaEplcm1nTnlOMjY1RnM0MDJhSU1rRzdYNzJELWU5R1FhcXdoV0tiUFJfZGFMSzZ1TWltMWptSWJjaUQycW1lZHhpdEhVMUlvVjJrUlRxc0xBQW1lYnNxQllrSTlSRGRNVjhWczM2eDFGTTkzOA?oc=5",
+      "source": "NPR",
+      "published_date": "2026-11-27",
+      "summary": "Kemampuan model AI untuk melatih dan memperbaiki kode serta algoritma mereka sendiri tanpa campur tangan manusia menandai babak baru dalam riset AI. Fenomena ini mempercepat laju kemajuan teknologi, tetapi juga meningkatkan kecemasan mengenai hilangnya kontrol manusia terhadap proses pembelajaran mesin. Peneliti meneliti bagaimana menjaga batas aman saat AI memasuki fase peningkatan mandiri.",
+      "takeaways": [
+        "AI kini mampu mendeteksi kelemahan dan mengoptimalkan kode pengembangannya secara mandiri.",
+        "Kemajuan berulang secara mandiri (self-improvement loop) berpotensi memicu lonjakan eksponensial dalam kecerdasan buatan.",
+        "Kebutuhan akan kontrol keselamatan (safety alignment) menjadi sangat krusial guna menghindari hasil yang tidak terprediksi."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "AI dan Hipotesis Riemann: Kemenangan Kecerdasan Buatan dan Ujian Bagi Demokrasi",
+      "original_title": "The Guardian view on AI and the Riemann hypothesis: a triumph of intelligence, a test of democracy | Editorial",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNck85T2V2MDhYbndMQnZoUE1qRHB4a0FnUmRfS3FhemZZMlJaZmtmb0hWVEhIaTZVX09TYlprdExOMGcyNFZlM2h5X1JQZXNuUHAtT1dDWGYwTjNRNkZLUm1tX082bjFLSThPYVF6ZW4xU085dWZOXzA2ZGRFUTlQekRtaDhzNEZmYldIM09oTjVuV1VfYlRmcm04T2FoTnlGMnIwMkQ0YmlaZnpTNDlfU2NnTnpjTHgwcG9YM3pCWFQzVW5SeXJEQjJYNzFnYWJlcC0tdElYb0lHUVlqMXk0NkVndTU?oc=5",
+      "source": "The Guardian",
+      "published_date": "2026-11-27",
+      "summary": "Keberhasilan AI dalam membantu memecahkan atau memberikan wawasan baru terhadap Hipotesis Riemann—salah satu teka-teki matematika terbesar—menandai pencapaian penting sains. Namun, kepemilikan dan akses terhadap teknologi AI berdaya tinggi ini menimbulkan tantangan demokrasi mengenai siapa yang mengontrol pengetahuan dasar. Tulisan editorial ini menyoroti pentingnya menjaga keterbukaan akses sains untuk publik.",
+      "takeaways": [
+        "AI membuktikan kemampuannya memecahkan masalah teoretis paling rumit dalam sejarah sains.",
+        "Dominasi korporasi atas infrastruktur AI memicu kecemasan akan komersialisasi riset matematika murni.",
+        "Pemerintah dan lembaga ilmiah dituntut memastikan hasil penemuan AI tetap menjadi domain publik."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Langkah Strategis Jensen Huang Diprediksi Menentukan Arah Persaingan AI Global",
+      "original_title": "What Jensen Huang does next could shape the global race for AI dominance",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTVVId25KSXJqbHR2LXZBTmhILXQzU1RYQnFfSjVaWDE5ODROSGFLN295dHRlNEJUeHNIaUlxSzktR2hzZzVWcGVKaE5Kb2tObGFXUzlJb25BY1M3MXpoTjJtWTUzZnZMSVNPa2NNNS15UzcxOWppNFVWZU00WWdudDA5aXMzLXdoRVBTMzUtaXZVcVV3amlRcm5BSUVMUUxJZ2xBdGZxR3diNWhnT2MyVC16b1J0bDl5Rmc?oc=5",
+      "source": "The Washington Post",
+      "published_date": "2026-11-27",
+      "summary": "Keputusan bisnis dan inovasi arsitektur chip berikutnya dari CEO Nvidia, Jensen Huang, berada di pusat perhatian geopolitik dan pasar teknologi dunia. Sebagai penyedia utama infrastruktur komputasi AI, langkah Nvidia akan menentukan negara dan korporasi mana yang memimpin kompetisi AI. Laporan ini mengulas implikasi pasokan semikonduktor terhadap persaingan teknologi antar-negara.",
+      "takeaways": [
+        "Ketersediaan unit pemrosesan grafis (GPU) canggih menjadi faktor penentu utama dalam balapan dominasi AI.",
+        "Kebijakan kepemimpinan Nvidia berpengaruh langsung terhadap rantai pasok teknologi global dan geopolitik.",
+        "Pengembangan perangkat keras masa depan akan menentukan efisiensi dan skala model AI generasi berikutnya."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Sekolah di Los Angeles Blokir Fitur AI Google dan Pertimbangkan Hentikan Penggunaan Produknya",
+      "original_title": "Los Angeles schools block Google’s AI features, consider dropping tech giant’s products",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPX28yVGlpUUl3UEpZMGJaTDRFbXBWR09uX1diWWotVXFuQ2JOTDlZRVVCUXRtN3FyUUNzczI2SG9sTXZXanlELUZfYU1YTHZ3enQ1NUoyUGU4NmwzNzJYV3l5ZjM0cHF0NHlhMDl2R3gwaWROaHREY3Zrd3BBd2hHd202WnFqWTJwSF9pSThfUk5wRV9TQkdBVC1zc09hbHh6M1BVVHJ5MUdmc2JzQmJ2YUJLaEkzSGJXNHc?oc=5",
+      "source": "AP News",
+      "published_date": "2026-11-27",
+      "summary": "Distrik sekolah Los Angeles (LAUSD) mengambil langkah tegas dengan memblokir fitur-fitur AI bawaan Google dari perangkat siswa karena kekhawatiran atas privasi data dan akurasi informasi. Pihak sekolah bahkan mengevaluasi pemutusan kerja sama dengan raksasa teknologi tersebut. Keputusan ini mencerminkan ketegangan yang makin meningkat antara penyedia teknologi AI dan kebijakan perlindungan anak di institusi pendidikan.",
+      "takeaways": [
+        "Kekhawatiran privasi dan dampak klinis/psikologis memicu penolakan adopsi AI generatif secara mentah-mentah di ruang kelas.",
+        "Institusi pendidikan menuntut kontrol penuh atas data murid dan jaminan akurasi dari penyedia teknologi.",
+        "Langkah LAUSD berpotensi menjadi preseden bagi distrik sekolah lain dalam mengevaluasi kemitraan teknologi raksasa."
+      ],
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "Kecerdasan Buatan Eksternal Pandu Drone Murah untuk Penyerbukan Kelapa Sawit",
+      "original_title": "Offboard Artificial Intelligence Guides Low Cost Drone for Oil Palm Pollination",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNUxDd3BjV05wQ3VERnFscjN4Q1lJQTY4MGVTZEFkSjdob1FxOUtybV9aWDN4VDhvWFNMcGQ4VlN3dG5UVFk1aC1MVHZrVGcxTDdBc20wZVpRWjl2Ym1WZEZJVHR2dnN2bGxXaWZnVzhGeDNoTjZ6aGVxc21OSTFySGM1OUpEUEhvNGxBQzdyR0tlTFZmdFBLR29STlR1UXc2YUs2UlBtNA?oc=5",
+      "source": "Bioengineer.org",
+      "published_date": "2026-11-27",
+      "summary": "Peneliti mengembangkan sistem pertukaran data AI eksternal (offboard AI) untuk mengarahkan armada drone berbiaya murah dalam proses penyerbukan tanaman kelapa sawit secara presisi. Dengan memindahkan komputasi AI yang berat ke server terpisah, drone dapat diproduksi lebih hemat biaya namun tetap memiliki kemampuan navigasi tinggi. Inovasi ini menawarkan solusi efisien bagi industri perkebunan skala besar.",
+      "takeaways": [
+        "Penggunaan pemrosesan AI offboard berhasil menekan biaya produksi perangkat keras drone secara signifikan.",
+        "Teknologi navigasi presisi membantu meningkatkan keberhasilan proses penyerbukan alami pada komoditas kelapa sawit.",
+        "Inovasi ini membuka peluang adopsi teknologi otomatisasi berbasis AI yang terjangkau bagi negara berkembang."
+      ],
+      "category": "Sains & Teknologi"
     },
     {
       "title": "Terobosan Baru: Model AI Terbuka China Saingi Raksasa Silicon Valley",
@@ -2099,62 +2239,6 @@
         "Penggunaan alat perekam AI di rumah sakit memicu perselisihan hukum terkait hak privasi dan persetujuan pasien.",
         "Kerahasiaan data medis menjadi isu krusial saat diolah oleh perangkat lunak AI pihak ketiga.",
         "Gugatan ini diperkirakan akan memperketat standar tata kelola privasi data dalam teknologi kesehatan."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Sampah Ilmiah AI: Menjaga Integritas Basis Data Genomik dari Ancaman AI Generatif",
-      "original_title": "Scientific slop: generative AI, research incentives, and the integrity of the genomic knowledge base",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00SHJmNlNQZ1dWQ0lEOXpwWEZLSkQ3aW0weV_UZ0o3VHdPcHpRQWFHZGZoaktLTTNMalhsVUktTm9sUFhJNy1mMDR1a3hra05pNFpfYWxva1U1MzRpSEpFS1otVHl3M1I2cWxBeU96MEk?oc=5",
-      "source": "Frontiers",
-      "published_date": "2026-10-28",
-      "summary": "Penggunaan AI generatif yang tidak terkontrol dalam penyusunan publikasi ilmiah berisiko mencemari basis data genomik dengan informasi berkualitas rendah. Pencemaran data tersebut berpotensi merusak integritas riset biologis dan medis jika insentif penelitian tidak disesuaikan. Laporan ini menekankan pentingnya mekanisme validasi yang lebih ketat demi menjaga keandalan pengetahuan genomik.",
-      "takeaways": [
-        "Penggunaan AI generatif tanpa kontrol dapat memicu maraknya publikasi ilmiah berkualitas rendah.",
-        "Pencemaran data genomik mengancam keandalan penelitian medis dan biologis masa depan.",
-        "Diperlukan reformasi insentif riset dan pengawasan ketat terhadap konten ilmiah berbasis AI."
-      ],
-      "category": "Genom & Biotek"
-    },
-    {
-      "title": "Kecerdasan Buatan dalam Bedah Saraf Klinis: Menyeimbangkan Inovasi dan Tanggung Jawab Medis",
-      "original_title": "Artificial Intelligence in Clinical Neurosurgery: Balancing Innovation with Responsibility",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5iVnhnd3BEVDFpN3h1QkljZGl0X2FEXzhVMnlGajZ3MXgydm5NUnNsUmM5NVZTTjBUN1lsNTByZWU3YzN4MGtfU0haUzdjWnh6cXNSNDVoOXZwTmZ1UTh5WU1LbjE?oc=5",
-      "source": "Stanford Medicine",
-      "published_date": "2026-10-28",
-      "summary": "Penerapan kecerdasan buatan dalam bedah saraf klinis menawarkan presisi tinggi, namun tetap memerlukan batasan etika dan keselamatan pasien yang ketat. Para ahli di Stanford Medicine menekankan pentingnya sinergi antara kepakaran ahli bedah dan rekomendasi algoritma. Panduan tata kelola ini penting agar inovasi teknologi tidak mengorbankan standar keselamatan medis.",
-      "takeaways": [
-        "AI membantu meningkatkan presisi dan efisiensi dalam tindakan bedah saraf klinis.",
-        "Keputusan medis akhir tetap berada di tangan ahli bedah demi keselamatan pasien.",
-        "Kerangka etis dan regulasi transparan sangat penting dalam adopsi AI di dunia kesehatan."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Harapan Baru Bagi Laboratorium AI Tiongkok di Tengah Dinamika Persaingan Global",
-      "original_title": "Breakingviews - COMMENTARY: Anthropic offers glimmer of hope for China AI labs",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRlYtVEVtWEVQbkRhMmk2RWluNUdpTHl3Wnp1MlhNV2ctQzVSTEdJbHJrQjNnRnBmc0czRWR4RjNLelhuOVhvcUpuRVNmcVd0Q2hFSkJNZnpKdEtDTzVvdzIwT0h6V3NvYzM1Vl_0dVd0cHd0T2paZEpxOGpnNmx4WDEwVm8zS3Fk_vYZebBPcLYhkVToMShWEoR1mex06Jjo?oc=5",
-      "source": "Reuters",
-      "published_date": "2026-10-28",
-      "summary": "Model pengembangan bisnis dan keselamatan AI dari pengembang Barat seperti Anthropic memberikan rujukan penting bagi laboratorium AI di Tiongkok. Meskipun menghadapi hambatan geopolitik dan pembatasan ekspor perangkat keras, Tiongkok terus mencari strategi inovasi yang lebih efisien. Analisis ini menggarisbawahi persaingan ketat sekaligus upaya adaptasi teknologi AI lintas negara.",
-      "takeaways": [
-        "Inovasi dari pengembang AI Barat memberikan referensi strategis bagi pasar Tiongkok.",
-        "Keterbatasan akses infrastruktur mendorong pengembang AI Tiongkok fokus pada efisiensi model.",
-        "Persaingan AI global semakin dipengaruhi oleh dinamika geopolitik dan regulasi ekspor."
-      ],
-      "category": "Artificial Intelligence"
-    },
-    {
-      "title": "Kota Pflugerville Sahkan Aturan SAFE untuk Membatasi Penggunaan AI dan Pengawasan Publik",
-      "original_title": "Pflugerville approves SAFE resolution to set rules for AI and surveillance technology",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPU0NicmFMaEphbnVXQWczc0MtSnY2Q0RQQUZCOS1xN1pMOWhmRTVqajV5T1M0OFpnM112cjZCQUNpTTRJUHJMU0hLR2g5c0k5eERBMFVDcHVGd3ZVLUZiTHZqSS0xSG9vUUh0RnZYMC1IR29kRW03Q3QyZlIwRWxqcVJDaFJhODNHRy03NFlhMGJLVGZUVU82bjJxM0R3MVk3cmpnc1pZWk85cDdRR3hGalh6R1pOZGRHUnc?oc=5",
-      "source": "KEYE",
-      "published_date": "2026-10-28",
-      "summary": "Pemerintah lokal Pflugerville mengesahkan resolusi SAFE untuk mengatur batasan penggunaan teknologi AI dan pengawasan massal di ruang publik. Kebijakan ini dibentuk untuk menjamin privasi serta hak-hak sipil warga dari potensi penyalahgunaan teknologi. Langkah daerah ini menjadi model penting dalam regulasi lokal terkait teknologi pengawasan berbasis kecerdasan buatan.",
-      "takeaways": [
-        "Resolusi SAFE menetapkan batasan hukum pada penggunaan AI dan kamera pemantau di area publik.",
-        "Perlindungan hak privasi masyarakat menjadi prioritas utama regulasi pemerintah lokal.",
-        "Inisiatif aturan AI di tingkat daerah semakin berkembang seiring maraknya teknologi pemantauan."
       ],
       "category": "Artificial Intelligence"
     }
